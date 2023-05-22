@@ -6,8 +6,8 @@ description: Adobe 실시간 스트리밍된 이벤트의 녹화본 컬렉션.
 type: Event
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/events.ko-KR
-hide: true
-source-git-commit: fa7aa346db744f390ec839472cd978caf983a976
+index: true
+source-git-commit: 01971230eeaa291ac8f9130ece58484e925d611a
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 83%
