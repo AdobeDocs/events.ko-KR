@@ -3,7 +3,7 @@ user-guide-title: Adobe Experience Manager GEMS 이벤트
 user-guide-description: Adobe Experience Manager 전문가가 제공하는 일련의 기술적인 분석인 AEM Gems에 대해 알아봅니다.
 breadcrumb-title: AEM GEM 이벤트
 feature-set: Experience Manager
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '636'
 ht-degree: 5%
@@ -120,7 +120,7 @@ ht-degree: 5%
    + [다국어 콘텐츠 프로세스 간소화](gems2013/aem-streamlining-multilingual-content-process.md)
    + [AEM 5.6 업그레이드 메커니즘](gems2013/aem-upgrade-mechanisms.md)
 
-<!---
+<!--
 + [Archive] {#archive}
     + [AEM 6 Oak: MongoMK and Queries](archive/aem-oak-mongomk-and-queries.md)
     + [Search forms made easy with the AEM querybuilder](archive/aem-search-forms-using-querybuilder.md)
@@ -213,4 +213,4 @@ ht-degree: 5%
     + [Adobe I/O Events - Analytics Triggers](archive/aem-analytics-triggers.md)
     + [Introducing the AEM Modernization Suite](archive/introducing-the-aem-modernization-suite.md)
     + [AEM Query and Index Troubleshooting](archive/aem-query-and-index-troubleshooting2.md)
---->
+-->

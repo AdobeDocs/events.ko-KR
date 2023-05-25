@@ -10,7 +10,7 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM 세션
-source-git-commit: f4953d9b0a3449d31e09877e11ef29524e3026fb
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 2%
@@ -23,7 +23,7 @@ ht-degree: 2%
 
 ## 이전 AEM GEM 이벤트!
 
-<!---  Remove the comment marks, and put the upcoming event in the below table
+<!--  Remove the comment marks, and put the upcoming event in the below table
 
 <table style="max-width: 1214px;">
 <tr>
@@ -42,7 +42,7 @@ ht-degree: 2%
 </tr>
 </table>
 
---->
+-->
 에 대한 최신 AEM GEM 웨비나 **신속한 개발 환경을 통해 Adobe Experience Manager Cloud Service 개발 가속화** 이(가)에 수행되었습니다. *2023년 2월 22일*.
 다음 **레코딩** 은(는) 여기에서 찾을 수 있습니다. [AEM 신속한 개발 환경 웨비나](gems2023/Rapid-Development-Environments.md)
 

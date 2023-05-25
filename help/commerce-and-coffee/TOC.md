@@ -2,7 +2,7 @@
 user-guide-title: 상거래 및 커피 이벤트
 breadcrumb-title: 상거래 및 커피 이벤트
 user-guide-description: Adobe Commerce과 커피는 전문가 및 동료들이 Adobe Commerce 사용 방법에 대한 생각과 아이디어를 공유한 영상 라이브러리다.
-source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 6%
@@ -24,7 +24,7 @@ ht-degree: 6%
    + [성수기 뭐라도 물어봐](2022/peak-season-ask-anything.md)
    + [개인화](2022/personalization.md)
 
-<!---+ Commerce Events {#commerce-events}
+<!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)
   + 2022 {#2022}
     + [Top Tips and Tricks for Adobe Campaign Standard](customer-journeys/2022/tips-and-tricks.md)
@@ -37,4 +37,4 @@ ht-degree: 6%
     + [Sensei and Analysis Workspace](data-and-insights/2022/sensei.md)
     + [Personalize and automate with Adobe Target](data-and-insights/2022/personalize.md)
     + [Analytics and Target applications for Mobile and Apps](data-and-insights/2022/mobile-and-apps.md)
-    + [Cross Device Analytics and Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md) --->
+    + [Cross Device Analytics and Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md) -->

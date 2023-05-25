@@ -1,7 +1,7 @@
 ---
 title: Workfront 온디맨드 이벤트
 description: Workfront 이벤트는 전문가와 동료가 Workfront을 사용하여 조직을 위해 수행되는 작업을 향상시키는 방법에 대한 생각과 아이디어를 공유한 비디오 라이브러리입니다.
-source-git-commit: 408a3ae9ada432dc515d49c1108ce1f732c3a1f2
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
       </a>
       <div>
          <a href="user-groups/workfront-system-maintenance.md"><strong>Workfront 시스템 유지 관리</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -35,7 +35,7 @@ ht-degree: 0%
       </a>
       <div>
          <a href="user-groups/reporting-and-dashboards.md"><strong>보고 및 대시보드</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -48,7 +48,7 @@ ht-degree: 0%
       </a>
       <div>
          <a href="user-groups/agile-in-marketing.md"><strong>마케팅 애자일</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>

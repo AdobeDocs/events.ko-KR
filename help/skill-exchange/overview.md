@@ -1,7 +1,7 @@
 ---
 title: 경험 작성자 The Skill Exchange
 description: Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트 시리즈로, Adobe Experience Cloud 솔루션에 대해 자세히 살펴보는 데 중점을 둡니다.
-source-git-commit: 284ccf5a5cebf2f813dbe2b8df98a8cb325526a3
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
       </a>
       <div>
          <a href="analytics/jun2021/getting-started.md"><strong>Adobe Analytics 시작</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -53,7 +53,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
       </a>
       <div>
          <a href="marketo/feb2022/data-maintenance.md"><strong>데이터 유지 관리</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -66,7 +66,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
       </a>
       <div>
          <a href="workfront/apr2022/ten-tips.md"><strong>당신의 Workfront을 와우 10 팁</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>

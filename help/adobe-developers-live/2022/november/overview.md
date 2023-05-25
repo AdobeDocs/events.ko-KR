@@ -2,7 +2,7 @@
 title: 2022년 11월 Adobe Developers Live
 description: Adobe Developers Live 이벤트의 일부로 제공되는 Adobe Experience Manager Sites에 대한 비디오 및 튜토리얼 모음입니다.
 sub-product: sites, content-services
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 2%
@@ -19,7 +19,7 @@ Adobe Developers Live: Headless는 다양한 배경과 하나의 목적을 가�
 
 에서 이벤트 후 스피커 및 세션과 계속 연결 [커뮤니티 컨텍스트 스레드](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-aem-headless-2022-complete-session-list/td-p/553511).
 
-<!--- 
+<!-- 
 ## Highlights
 
 <table>
@@ -66,7 +66,7 @@ Adobe Developers Live: Headless는 다양한 배경과 하나의 목적을 가�
    </td> 
   </tr>
 </table>
---->
+-->
 
 >[!TIP]
 >

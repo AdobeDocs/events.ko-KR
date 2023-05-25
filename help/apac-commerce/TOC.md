@@ -2,7 +2,7 @@
 user-guide-title: APAC Commerce 이벤트
 breadcrumb-title: APAC Commerce 이벤트
 user-guide-description: Adobe Commerce 이벤트는 전문가와 동료가 Adobe Commerce 사용 방법에 대한 생각과 아이디어를 공유한 비디오 라이브러리입니다.
-source-git-commit: 2880d89fc0a783887efb0982010ea52385c0fb3c
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 8%
@@ -24,7 +24,7 @@ ht-degree: 8%
    + [에서 2.4.4로 업그레이드](2022/upgrade.md)
 + [릴리스 로드맵 특징](release-highlights.md)
 
-<!---+ Commerce Events {#commerce-events}
+<!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)
   + 2022 {#2022}
     + [Top Tips and Tricks for Adobe Campaign Standard](customer-journeys/2022/tips-and-tricks.md)
@@ -37,4 +37,4 @@ ht-degree: 8%
     + [Sensei and Analysis Workspace](data-and-insights/2022/sensei.md)
     + [Personalize and automate with Adobe Target](data-and-insights/2022/personalize.md)
     + [Analytics and Target applications for Mobile and Apps](data-and-insights/2022/mobile-and-apps.md)
-    + [Cross Device Analytics and Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md) --->
+    + [Cross Device Analytics and Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md) -->
