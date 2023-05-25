@@ -4,10 +4,10 @@ description: AEM Developer Tools for Eclipse는 AEM 애플리케이션 개발을
 uuid: cb4bb28a-8370-4425-b082-3516b35f3125
 discoiquuid: dfefaa5f-0800-4d6c-99c0-430b2d960079
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 7%
+source-wordcount: '270'
+ht-degree: 10%
 
 ---
 
@@ -29,7 +29,7 @@ Stefan Egli, 개발자, Adobe
 
 ## 관련 링크 {#related-links}
 
-* [Eclipse용 AEM 개발자 도구 - 설명서](http://docs.adobe.com/docs/en/dev-tools/aem-eclipse.html)
+* [Eclipse용 AEM 개발자 도구 - 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/eclipse.html)
 * [AEM 개발자 도구 다운로드 사이트](http://eclipse.adobe.com/aem/dev-tools/)
 * [Sling IDE 도구](https://sling.apache.org/documentation/development/ide-tooling.html)
 * [토론 및 질문을 위한 포럼](http://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html)

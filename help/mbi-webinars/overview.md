@@ -1,7 +1,7 @@
 ---
 title: MBI 이벤트
 description: MBI를 최대한 활용하기 위해 다양한 주제와 모범 사례를 다루는 MBI 녹화 웨비나를 살펴보십시오.
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 30%
@@ -21,11 +21,11 @@ MBI 웨비나 시리즈는 MBI 고객을 위한 정기 이벤트입니다. 웨�
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/commerce-events/mbi/2021/getting-started.html">
+    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/getting-started.html">
       <img alt="MBI 시작하기" src="./assets/getting-started-mbi.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/commerce-events/mbi/2021/getting-started.html">
+      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/getting-started.html">
         <strong>MBI 시작하기</strong>
       </a>
     </div>
@@ -34,11 +34,11 @@ MBI 웨비나 시리즈는 MBI 고객을 위한 정기 이벤트입니다. 웨�
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/commerce-events/mbi/2022/manage-data-sets.html">
+    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/manage-data-sets.html">
       <img alt="MBI에서 데이터 세트 관리" src="./assets/managing-data-sets-mbi.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/commerce-events/mbi/2022/manage-data-sets.html">
+      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/manage-data-sets.html">
         <strong>MBI에서 데이터 세트 관리</strong>
       </a>
     </div>
@@ -47,11 +47,11 @@ MBI 웨비나 시리즈는 MBI 고객을 위한 정기 이벤트입니다. 웨�
     <p>
   </td>
    <td>
-    <a href="https://experienceleague.adobe.com/docs/commerce-events/mbi/2021/optimize-data-warehouse.html">
+    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/optimize-data-warehouse.html">
       <img alt="MBI Data Warehouse 최적화" src="./assets/optimize-data-warehouse.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/commerce-events/mbi/2021/optimize-data-warehouse.html">
+      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/optimize-data-warehouse.html">
         <strong>MBI Data Warehouse 최적화</strong>
       </a>
     </div>

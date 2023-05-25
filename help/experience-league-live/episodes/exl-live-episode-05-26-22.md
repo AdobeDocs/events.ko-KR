@@ -8,9 +8,9 @@ event-cta-url: null
 event-start-time: 2022-05-26 09:00-7
 event-guests: Doug Moore, Eric Matisoff, Rudi Shumpert, Jeff Chasin
 exl-id: b2ea730b-d4ad-4be0-b229-7063369cba7f
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '252'
 ht-degree: 9%
 
 ---
@@ -35,5 +35,5 @@ Adobe Experience Cloud의 데이터 수집에 대한 세 가지 라이브스트�
 * [무료 웹 SDK 프로비저닝](https://adobe.ly/websdkaccess){target="_blank"}
 * [웹 SDK의 자사 디바이스 ID에 대한 정보](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
 * [Adobe Experience Platform Debugger 개요 및 다운로드](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
-* [모바일 SDK 문서](https://aep-sdks.gitbook.io/docs/){target="_blank"}
+* [모바일 SDK 문서](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
 * [하이브리드 앱 수집 정보](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}

@@ -1,9 +1,9 @@
 ---
 title: 스킬 빌더 개요
 description: 기술 자료를 구축하고 Adobe Experience Cloud 투자를 극대화하기 위해 녹화된 웨비나 시리즈입니다.
-source-git-commit: 284ccf5a5cebf2f813dbe2b8df98a8cb325526a3
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '162'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ Skill Builder는 지식 기반을 구축하고 Adobe Experience Cloud에 대한 
     <p>
     <em>매력적인 웹 사이트, 모바일 앱 및 양식을 만들고 관리할 수 있습니다. 또한 유연한 AI 기반 상거래 솔루션을 통해 단일 플랫폼에서 멀티채널 상거래 경험을 구축하는 방법을 살펴볼 수 있습니다.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">세션 찾아보기</span>
     </a>
   </td>
@@ -36,7 +36,7 @@ Skill Builder는 지식 기반을 구축하고 Adobe Experience Cloud에 대한 
     <p>
     <em>모든 소스에서 데이터를 가져와 개인화된 크로스 채널 여정을 생성하여 실시간 고객 프로필을 개발합니다.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">세션 찾아보기</span>
     </a>
   </td>
@@ -48,7 +48,7 @@ Skill Builder는 지식 기반을 구축하고 Adobe Experience Cloud에 대한 
     <p>
     <em>전체 조직에서 온라인 및 오프라인 데이터 인사이트를 사용하여 모든 채널에서 실시간 개인화를 촉진합니다.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">세션 찾아보기</span>
     </a>
   </td>  

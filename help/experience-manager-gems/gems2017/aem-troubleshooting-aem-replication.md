@@ -6,9 +6,9 @@ content-type: troubleshooting
 topic-tags: troubleshoot
 discoiquuid: 563fbea0-fad3-45da-8d38-5ee736bd3588
 targetaudience: target-audience new;target-audience ongoing
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '132'
 ht-degree: 1%
 
 ---
@@ -38,5 +38,5 @@ ht-degree: 1%
 >
 >* [AEM 색인화 및 JCR 쿼리](aem-indexing-jcr-query.md)
 >* [AEM 복제 문제 해결](aem-troubleshooting-aem-replication.md)
->* [Adobe Experience Manager: AEM 6.x 유지 관리 작업](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html)
 
+<!-- >>* [Adobe Experience Manager: AEM 6.x Maintenance Tasks](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html) -->
