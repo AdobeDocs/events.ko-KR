@@ -2,9 +2,9 @@
 title: Adobe Experience League 이벤트
 description: Adobe의 Enterprise 제품 사용에 초점을 맞춘 이벤트 녹화본 컬렉션
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: ecbca1c217f26d718dc5fb69f063c8fbb0f5cdb2
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '747'
 ht-degree: 10%
 
 ---
@@ -158,7 +158,7 @@ ht-degree: 10%
       </a>
       <div>
          <a href="/help/learn-from-your-peers/overview.md"><strong>동료로부터 학습</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Marketo Adobe</em>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Experience Manager, Marketo Adobe</em>
       </div>
       <p>
         <br/>
