@@ -6,10 +6,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 07619d719d0dd1429202686ca359c9744bec77c4
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 51%
+source-wordcount: '165'
+ht-degree: 52%
 
 ---
 
@@ -23,16 +23,8 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-5-24-23.md">
-      <img alt="Experience League 라이브 5월 24일" src="assets/May24_exl_live_banner_web_1920_WebBanner.png">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-5-24-23.md">
-        <strong>Adobe Journey Optimizer을 통해 모바일 앱의 잠재력 극대화</strong>
-      </a>
-      <br/><em>산드라 하우스만, 체탄 프라사드, 피터 프란센과 함께</em>
-      <br/><em>2023년 5월 24일</em>
-    </div>
+  <td>
+    정보를 얻으려면 곧 돌아가십시오. 2023년 6월에 TWO SHOWS를 개최하고 있으며 곧 정보를 얻을 예정입니다.
   </td>
 </tr>
 </table>
