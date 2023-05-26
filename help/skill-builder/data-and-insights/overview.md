@@ -1,7 +1,7 @@
 ---
 title: 스킬 빌더 개요
 description: 전체 조직에서 온라인 및 오프라인 데이터 인사이트를 사용하여 모든 채널에서 실시간 개인화를 촉진합니다.
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+source-git-commit: c64a24e142a493f71a8712f0af72a50bca53921d
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 6%
@@ -17,11 +17,11 @@ ht-degree: 6%
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/personalize.html">
+    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
       <img alt="Adobe Target을 사용하여 개인화 및 자동화" src="assets/343821.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/personalize.html">
+      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
         <strong>Adobe Target을 사용하여 개인화 및 자동화</strong>
       </a>
     </div>
@@ -30,11 +30,11 @@ ht-degree: 6%
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/innovations.html">
+    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
       <img alt="2022년 혁신 및 추세" src="assets/343818.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/innovations.html">
+      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
         <strong>2022년 혁신 및 추세</strong>
       </a>
     </div>
@@ -43,11 +43,11 @@ ht-degree: 6%
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/mobile-and-apps.html">
+    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
       <img alt="모바일 및 앱용 분석 및 Target 애플리케이션" src="assets/343819.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/mobile-and-apps.html">
+      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
         <strong>모바일 및 앱용 분석 및 Target 애플리케이션</strong>
       </a>
     </div>
@@ -61,3 +61,4 @@ ht-degree: 6%
 >[!TIP]
 >
 >**기록된 모든 세션이 왼쪽의 탐색에 나열됩니다**.
+
