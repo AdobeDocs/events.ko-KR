@@ -10,7 +10,7 @@ role: Developer
 level: Intermediate
 kt: 10053
 thumbnail: 341311.jpeg
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+source-git-commit: d9ab4de0d6666713727f41bb385ad80e2de42cb2
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 2%
@@ -28,7 +28,10 @@ Java 및 Sling과 같은 기존의 Experience Manager 기술 없이도 Adobe App
 본 웨비나는 2022년 3월 23일에 진행되었으며 소프트웨어 개발 엔지니어 Duy Nguyen이 발표하였습니다
 
 >[!MORELIKETHIS]
-<!-- >>* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/) -->
+>
 >* [해당 컨텍스트 스레드](https://adobe.ly/3LkSWdm)
 >* 다음 위치에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/) 예정된 웨비나에 대한 알림을 받으려면.
 
+
+
+<!-- >>* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/) -->
