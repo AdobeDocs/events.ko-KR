@@ -1,7 +1,7 @@
 ---
 user-guide-title: 스킬 빌더
 user-guide-description: 랜딩 페이지에 표시되는 사용 안내서에 대한 설명입니다.
-source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
+source-git-commit: 37202c8171ae1638888b80c55b39c42ce580355f
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 51%
@@ -44,8 +44,6 @@ ht-degree: 51%
       + [B2B 및 B2C의 고객 여정 트렌드 및 혁신](customer-journeys/2022/keynote.md)
       + [함께 사용하여 더욱 효율적인 작업 수행 - Adobe Marketo Engage 및 Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
       + [Marketo Engage 및 Adobe Experience Cloud를 통한 B2B 경험](customer-journeys/2022/b2b-experiences.md)
-
-<!--    + [Adobe Campaign Classic V7 vs V8](customer-journeys/2022/classic-v7-vs-v8.md) -->
 + 데이터 및 통찰력 {#data-and-insights}
    + [개요](data-and-insights/overview.md)
    + 2022 {#2022}
@@ -54,3 +52,5 @@ ht-degree: 51%
       + [Adobe Target을 사용하여 개인화 및 자동화](data-and-insights/2022/personalize.md)
       + [모바일 및 앱용 분석 및 Target 애플리케이션](data-and-insights/2022/mobile-and-apps.md)
       + [Cross Device Analytics 및 Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md)
+
+<!--    + [Adobe Campaign Classic V7 vs V8](customer-journeys/2022/classic-v7-vs-v8.md) -->
