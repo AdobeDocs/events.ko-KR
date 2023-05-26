@@ -1,7 +1,8 @@
 ---
 title: Marketo 및 Mochas
 description: Marketo 온디맨드 이벤트는 전문가와 동료가 Adobe Marketo을 가장 잘 사용하는 방법에 대한 생각과 아이디어를 공유한 비디오 라이브러리입니다.
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 85f6f463-6c7c-40b5-8354-6b934758870a
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%

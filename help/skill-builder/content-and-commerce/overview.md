@@ -1,7 +1,8 @@
 ---
 title: 스킬 빌더 - 콘텐츠 및 상거래
 description: 기술 자료를 구축하고 Adobe 컨텐츠 및 상거래 솔루션에 대한 투자를 극대화하기 위해 녹화된 웨비나 시리즈
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 9345d894-5059-485f-93ba-ea47d251e8c7
+source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 46%
@@ -18,7 +19,7 @@ ht-degree: 46%
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
-      <img alt="Adobe Experience Manager를 통해 헤드리스 경험 제공" src="assets/343816.jpeg" />
+      <img alt="Adobe Experience Manager를 통해 헤드리스 경험 제공" src="https://video.tv.adobe.com/v/343816?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
@@ -31,7 +32,7 @@ ht-degree: 46%
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
-      <img alt="Adobe Experience Manager Assets에서 비즈니스에 적합한 메타데이터 활용" src="assets/343815.jpeg" />
+      <img alt="Adobe Experience Manager Assets에서 비즈니스에 적합한 메타데이터 활용" src="https://video.tv.adobe.com/v/343815?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
@@ -44,7 +45,7 @@ ht-degree: 46%
   </td>  
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">
-      <img alt="효율적인 기업 워크플로 관리 활용" src="assets/343817.jpeg" />
+      <img alt="효율적인 기업 워크플로 관리 활용" src="https://video.tv.adobe.com/v/343817?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">

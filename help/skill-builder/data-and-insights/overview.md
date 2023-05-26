@@ -1,7 +1,8 @@
 ---
 title: 스킬 빌더 개요
 description: 전체 조직에서 온라인 및 오프라인 데이터 인사이트를 사용하여 모든 채널에서 실시간 개인화를 촉진합니다.
-source-git-commit: c64a24e142a493f71a8712f0af72a50bca53921d
+exl-id: dbb8c5dc-596d-4f89-8a81-3ea201dd4b6b
+source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 6%
@@ -18,7 +19,7 @@ ht-degree: 6%
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
-      <img alt="Adobe Target을 사용하여 개인화 및 자동화" src="assets/343821.jpeg" />
+      <img alt="Adobe Target을 사용하여 개인화 및 자동화" src="https://video.tv.adobe.com/v/343821?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
@@ -31,7 +32,7 @@ ht-degree: 6%
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
-      <img alt="2022년 혁신 및 추세" src="assets/343818.jpeg" />
+      <img alt="2022년 혁신 및 추세" src="https://video.tv.adobe.com/v/343818?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
@@ -44,7 +45,7 @@ ht-degree: 6%
   </td>  
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
-      <img alt="모바일 및 앱용 분석 및 Target 애플리케이션" src="assets/343819.jpeg" />
+      <img alt="모바일 및 앱용 분석 및 Target 애플리케이션" src="https://video.tv.adobe.com/v/343819?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
@@ -61,4 +62,3 @@ ht-degree: 6%
 >[!TIP]
 >
 >**기록된 모든 세션이 왼쪽의 탐색에 나열됩니다**.
-

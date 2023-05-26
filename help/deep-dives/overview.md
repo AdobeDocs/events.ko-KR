@@ -1,7 +1,8 @@
 ---
 title: 깊이 들어가기
 description: 딥다이브는 전문가와 동료가 Adobe Marketo을 가장 잘 사용하는 방법에 대한 생각과 아이디어를 공유한 비디오 라이브러리입니다.
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 53a8cfae-5710-4104-ae0a-315df0b51303
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%

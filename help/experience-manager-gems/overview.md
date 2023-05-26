@@ -10,7 +10,8 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM 세션
-source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
+exl-id: 595f6977-935a-4859-9cfd-161d45847f85
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 2%
@@ -72,5 +73,3 @@ ht-degree: 2%
 * 연결: 구현부터 제품 사용 확장까지 지침 및 모범 사례를 위한 피어 및 Adobe 담당자와 네트워크
 * 빠른 답변: Adobe 솔루션의 성공적인 활성 사용을 지원하기 위한 광범위한 실제 사용 사례 답변 풀
 * 관념화 및 피드백: 고객 제품 아이디어를 수집하고 제품 팀에 가치 있는 VoC 피드백을 제공
-
-

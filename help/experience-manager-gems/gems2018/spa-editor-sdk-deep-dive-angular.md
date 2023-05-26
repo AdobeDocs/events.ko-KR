@@ -4,7 +4,8 @@ description: AEM 페이지 편집기를 사용하여 작성할 수 있는 단일
 uuid: 4ac2d85b-63f9-4d74-a8c0-7857be6b3d84
 discoiquuid: 3b050b88-e1c3-4a42-81ce-bd1b321a01e7
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 003c4eb7-814a-4ab3-bd31-0030366b5bcb
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 10%

@@ -1,7 +1,8 @@
 ---
 title: Workfront 온디맨드 이벤트
 description: Workfront 이벤트는 전문가와 동료가 Workfront을 사용하여 조직을 위해 수행되는 작업을 향상시키는 방법에 대한 생각과 아이디어를 공유한 비디오 라이브러리입니다.
-source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
+exl-id: 5b294be1-9ba6-4cd1-b74b-ea4e321dcaaf
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%

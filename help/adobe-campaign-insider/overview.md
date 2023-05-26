@@ -1,7 +1,8 @@
 ---
 title: Adobe Campaign Insider 시리즈
 description: Adobe Campaign 고객을 위한 팁과 트릭 및 영감을 제공하여 크로스 채널 마케팅 전략을 발전시키고, 팀 마케팅 실무자의 기술을 향상시키며, 조직이 보다 고급 크로스 채널 마케팅 전략을 실행하도록 지원합니다.
-source-git-commit: 284ccf5a5cebf2f813dbe2b8df98a8cb325526a3
+exl-id: 5ab4c6a7-a5ad-4ab5-94c4-7cdff1466c2a
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 36%

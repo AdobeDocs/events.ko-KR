@@ -1,7 +1,8 @@
 ---
 title: 고객 데이터 관리 음성
 description: 고객 데이터 관리 기술 및 마케팅 실무 리더이자 전문가의 대상입니다.  이 페이지는 동료의 의견을 듣고, 영감을 얻고, martech의 개발에 대해 배울 수 있는 원스톱 샵입니다.
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 44e1b706-d216-4ffe-8cbf-b352fc34de54
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 18%

@@ -1,7 +1,8 @@
 ---
 title: 스킬 빌더 - 고객 여정
 description: 모든 소스에서 데이터를 가져와 개인화된 크로스 채널 여정을 만들어 실시간 고객 프로필을 개발하는 데 도움이 되는 녹화된 웨비나 시리즈입니다.
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 0ea7bc07-8b82-4aba-abaa-78ac7f4c8ce2
+source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 24%
@@ -18,7 +19,7 @@ ht-degree: 24%
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-      <img alt="함께 사용하여 더욱 효율적인 작업 수행 - Adobe Marketo Engage 및 Real-Time CDP" src="assets/343824.jpeg" />
+      <img alt="함께 사용하여 더욱 효율적인 작업 수행 - Adobe Marketo Engage 및 Real-Time CDP" src="https://video.tv.adobe.com/v/343824?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
@@ -31,7 +32,7 @@ ht-degree: 24%
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-      <img alt="Adobe Campaign Classic에서 데이터 모델 개발 및 사용자 정의" src="assets/343829.jpeg" />
+      <img alt="Adobe Campaign Classic에서 데이터 모델 개발 및 사용자 정의" src="https://video.tv.adobe.com/v/343829?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
@@ -44,7 +45,7 @@ ht-degree: 24%
   </td>  
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html">
-      <img alt="Adobe Campaign Standard를 위한 주요 팁 및 요령" src="assets/343828.jpeg" />
+      <img alt="Adobe Campaign Standard를 위한 주요 팁 및 요령" src="https://video.tv.adobe.com/v/343828?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html">
