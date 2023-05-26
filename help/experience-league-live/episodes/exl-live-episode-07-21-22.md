@@ -3,13 +3,13 @@ title: 전문가에게 문의 - 데이터 스트림 및 데이터 준비
 description: Adobe Experience Cloud의 데이터 수집에 대한 이 세션에서는 데이터 수집을 위한 데이터 준비와 같은 기능을 포함하여 Adobe의 고급 데이터 수집 기능에 대해 자세히 살펴봅니다. 이 세션이 끝나면 디지털 경험에서 데이터를 수집할 수 있는 강력한 최신 기능을 자신 있게 사용할 수 있습니다.
 solution: Data Collection,Experience Platform
 kt: 10528
-thumbnail: 345342.jpeg
+thumbnail: https://video.tv.adobe.com/v/345342?format=jpeg
 event-cta-text: Watch the replay
 event-cta-url: https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en
 event-start-time: 2022-07-21 09:00-7
 event-guests: Rudi Shumpert, Jeff Chasin, Eric Matisoff
 exl-id: ab5121f7-3e92-48a7-8bcc-a4456a4eab6e
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%

@@ -3,13 +3,13 @@ title: 사무실 또는 이동 중인 분석
 description: 많은 시간과 관심이 필요한 경우 책상 뒤에 있든 외부에 있든 상관없이 모든 설정에서 비즈니스 통찰력을 만들고 액세스할 수 있어야 합니다.
 solution: Analytics
 kt: 11360
-thumbnail: 3410834.jpeg
+thumbnail: https://video.tv.adobe.com/v/3410834?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=0-eNrncuNDc
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-221118.html
 event-start-time: 2022-11-18 09:00-8
 event-guests: Eric Matisoff,Jennifer Werkmeister,Doug Moore
 exl-id: 0662d6d4-2445-4359-82bf-4ef5bab7c7a6
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%

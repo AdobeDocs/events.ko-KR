@@ -3,13 +3,13 @@ title: 웹 경험을 빠르게 하세요!
 description: 사이트 로드 시간 및 전반적인 성능은 고객 만족도와 전환 유도에 직접적인 영향을 미칩니다.
 solution: Experience Manager,Experience Manager Sites
 kt: 11840
-thumbnail: 3414150.jpg
+thumbnail: https://video.tv.adobe.com/v/3414150?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=uHeb_GvaBc0
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230216.html
 event-start-time: 2023-2-16 14:00-8
 event-guests: Mark Szulc,Cedric Huesler
 exl-id: 533ee6bb-d3ba-4c2b-8018-f265adbdc9b0
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%

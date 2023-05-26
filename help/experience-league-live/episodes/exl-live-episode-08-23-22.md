@@ -3,12 +3,12 @@ title: 전문가에게 문의 - Tags(Launch)의 유용한 확장 기능으로 We
 description: 구현을 새로운 Adobe Web SDK로 마이그레이션하시겠습니까?  Adobe 태그 라이브러리에서 데이터 수집을 한 단계 업그레이드하는 데 도움이 되는 자주 사용하는 확장 몇 가지를 살펴보겠습니다.
 solution: Data Collection,Experience Platform
 kt: 10528
-thumbnail: 346610.jpeg
+thumbnail: https://video.tv.adobe.com/v/346610?format=jpeg
 event-start-time: 2022-08-23 09:00-7
 event-cta-url: null
 event-guests: Rudi Shumpert,Jeff Chasin,Eric Matisoff
 exl-id: 5ef987f4-37f5-473f-b9f2-1598b7e655ba
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
 workflow-type: tm+mt
 source-wordcount: '678'
 ht-degree: 0%
