@@ -12,19 +12,19 @@ version: Cloud Service
 kt: 7164
 type: Event
 thumbnail: 331767.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: 11c79583-4260-4b83-95c3-615ac7b49f3f
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Experience Manager Screens as a Cloud Service
 
 Adobe Experience Manager Screens as a Cloud Service으로 다시 상상하기: CMS와 긴밀하게 연결되는 여정이 완전히 관리되고 확장 가능한 클라우드 서비스로 발전하는 것입니다.
 
-에서 대화 계속 **[Experience League 커뮤니티](http://adobe.ly/36Yd3v6)**.
+에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331767/?quality=12&learn=on&hidetitle=true)
 

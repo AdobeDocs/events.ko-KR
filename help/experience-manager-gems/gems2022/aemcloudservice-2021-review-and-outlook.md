@@ -10,7 +10,8 @@ role: User
 level: Intermediate
 kt: 10055
 thumbnail: 341444.jpeg
-source-git-commit: 5d20c88e799787b91a4f224efcdeb917ccdd259f
+exl-id: 6ccb55f7-bf15-4f88-8822-950ca9de5e15
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 2%
@@ -29,7 +30,7 @@ ht-degree: 2%
 
 >[!MORELIKETHIS]
 >
->* [해당 Adobe Experience Manager 사용자 그룹 이벤트 페이지](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-adobe-experience-manager-as-a-cloud-service-2021-review-and-2022-outlook/)
+>* [해당 Adobe Experience Manager 사용자 그룹 이벤트 페이지](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266)
 >* [해당 컨텍스트 스레드](https://adobe.ly/3rqbSOz)
 >* 다음 위치에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/) 예정된 웨비나에 대한 알림을 받으려면.
 

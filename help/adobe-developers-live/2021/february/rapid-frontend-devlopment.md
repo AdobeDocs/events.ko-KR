@@ -12,19 +12,19 @@ version: Cloud Service
 kt: 7177
 type: Event
 thumbnail: 331737.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: 9b221a85-5e8b-486c-9d47-17f939c9a59c
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
-
 # 신속한 프론트엔드 개발 - 향후 작업 과정
 
 사이트 템플릿을 사용하여 몇 번의 클릭으로 새로운 사이트를 만들고 CSS 및 JS와 같은 프론트엔드 에셋의 빠른 배포로 프론트엔드 개발의 재미를 다시 가져올 수 있습니다.
 
-에서 대화 계속 **[Experience League 커뮤니티](http://adobe.ly/36Yd3v6)**.
+에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331737/?quality=12&learn=on&hidetitle=true)
 

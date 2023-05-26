@@ -4,10 +4,11 @@ description: AEM Screens은 Adobe Experience Manager에 통합된 새로운 디�
 uuid: a6c42610-4a3d-4575-ac27-fc154d58c13d
 discoiquuid: c3001249-b443-420d-924c-b52e515026ef
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 1beeb807-c3b3-425c-8053-06cd2d359c35
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 5%
+source-wordcount: '263'
+ht-degree: 8%
 
 ---
 
@@ -34,5 +35,10 @@ AEM Screens은 Adobe Experience Manager에 통합된 새로운 디지털 사이�
 
 ## 관련 링크 {#related-links}
 
-* [스크린 배포](https://docs.adobe.com/docs/en/aem/6-2/deploy/screens.html)
-* [Screens 개념](https://docs.adobe.com/docs/en/aem/6-2/administer/screens.html)
+
+>[!WARNING]
+>
+>AEM 버전 6.4 및 이전 버전은 단종되어 더 이상 Adobe에서 판매하지 않습니다.  Adobe 최신 버전으로 업그레이드하는 것이 좋습니다. - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  보관된 버전의 설명서는 여기에서 액세스할 수 있습니다. [페이지](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>이 세션과 관련이 있으므로 을 참조하십시오. *스크린 배포* 및 *Screens 개념* AEM 6.2 설명서에서 참조하십시오.
+

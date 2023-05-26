@@ -11,7 +11,8 @@ version: Cloud Service
 kt: 7167
 type: Event
 thumbnail: 331768.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: 27e1a74d-f922-4a5c-bf8a-1c16a47d3e9e
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 Adobe Experience Manager Dev Console의 새로운 메커니즘을 통해 개발자와 타사 애플리케이션 모두에서 클라우드에 있는 Adobe Experience Manager 인스턴스에 인증을 허용하는 방법.
 
-에서 대화 계속 **[Experience League 커뮤니티](http://adobe.ly/36Yd3v6)**.
+에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331768/?quality=12&learn=on&hidetitle=true)
 

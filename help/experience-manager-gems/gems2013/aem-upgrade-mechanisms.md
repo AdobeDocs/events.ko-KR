@@ -4,7 +4,8 @@ description: CQ/AEM jar 파일을 새 파일로 교체하여 CQ 자체는 물론
 uuid: 76e69880-3d93-49bd-98fa-0e2f34afe5f2
 discoiquuid: 97d8dc55-0f38-4505-88af-27e08b173407
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 59101371-c17d-45cc-a184-6ce7ebb01fe2
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 1%
@@ -29,7 +30,7 @@ Bertrand Delacretaz, 수석 개발자, Adobe
 
 ## 관련 링크 {#related-links}
 
-[설명서](http://docs.adobe.com/docs/en/cq/current/deploying/upgrading.html)
+[설명서](https://docs.adobe.com/docs/en/cq/current/deploying/upgrading.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

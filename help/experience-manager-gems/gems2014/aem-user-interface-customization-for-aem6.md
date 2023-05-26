@@ -4,7 +4,8 @@ description: AEM 6.0 사용자 인터페이스를 확장하는 방법을 알아�
 uuid: 2937bc6f-9ae8-4acf-a965-a16ef6e56a16
 discoiquuid: b1c4e69a-bc0e-445c-8e3e-c03ead18e76e
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 0604122c-2296-4db4-a70d-e9d11280b6bd
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 1%
@@ -30,7 +31,7 @@ ht-degree: 1%
 
 ## 관련 링크 {#related-links}
 
-* [Touch UI 개념](http://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
-* [구조](http://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)
-* [콘솔 사용자 지정(터치에 적합한 UI)](http://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
-* [페이지 작성 사용자 지정(터치에 적합한 UI)](http://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)
+* [Touch UI 개념](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
+* [구조](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)
+* [콘솔 사용자 지정(터치에 적합한 UI)](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
+* [페이지 작성 사용자 지정(터치에 적합한 UI)](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)

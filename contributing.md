@@ -1,5 +1,5 @@
 ---
-source-git-commit: 504ae54ecf4ea2a687e1aa3c90cf0e74734d4a9a
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 100%
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ## 콘텐츠 작가 안내서 설명서
 
-[콘텐츠 작가 안내서](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ko-KR)를 참조하십시오.
+[콘텐츠 작가 안내서](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)를 참조하십시오.
 
 ## 질문이 있습니까?
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 
 본 프로젝트에 대한 모든 서드파티 기여는 서명된 콘텐츠 작가 라이선스 계약을
 동반해야 합니다. 이를 통해 Adobe는 귀하의 기여를 프로젝트의 일부로서
-재배포할 수 있는 권한을 얻게 됩니다. [CLA에 서명](http://opensource.adobe.com/cla.html)하십시오. Adobe CLA는
+재배포할 수 있는 권한을 얻게 됩니다. [CLA에 서명](https://opensource.adobe.com/cla.html)하십시오. Adobe CLA는
 한 번만 제출하면 되므로 이전에 제출한 적이 있다면 언제든지
 해당 제품을 이용할 수 있습니다.
 

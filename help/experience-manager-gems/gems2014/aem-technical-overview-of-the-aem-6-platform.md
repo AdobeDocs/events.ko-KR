@@ -4,7 +4,8 @@ description: 이 세션에서 Peter Klassen - 제품 관리자는 JCR 저장소�
 uuid: 53be1e40-6fe9-44b5-a015-ba7ad7801d7c
 discoiquuid: f4f6e2b0-7910-4d1d-a024-583ef17ffcda
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 674467f9-d05d-49ab-b457-975f413342fe
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 5%
@@ -29,6 +30,6 @@ Peter Klassen, 제품 관리자, Adobe
 
 ## 관련 링크 {#related-links}
 
-* [AEM 6.0 릴리스 정보](http://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
-* [AEM 6.0 관리](http://docs.adobe.com/docs/en/aem/6-0/manage.html)
-* [AEM 6.0으로의 업그레이드 계획](http://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)
+* [AEM 6.0 릴리스 정보](https://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
+* [AEM 6.0 관리](https://docs.adobe.com/docs/en/aem/6-0/manage.html)
+* [AEM 6.0으로의 업그레이드 계획](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)

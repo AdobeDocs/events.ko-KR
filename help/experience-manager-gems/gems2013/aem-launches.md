@@ -4,7 +4,8 @@ description: AEM Launches를 사용하여 동일한 사이트의 여러 버전�
 uuid: ebff46e5-e580-4a42-bb8a-55ea0fa13d9e
 discoiquuid: a18d345a-fbb4-4ace-b569-96fd95503a39
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: dca9a8d0-c956-42a7-93e6-12abaf47d041
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 2%
@@ -29,7 +30,7 @@ Gilles Knobloch, 리드 개발자, Adobe
 
 ## 관련 링크 {#related-links}
 
-[설명서](http://docs.adobe.com/docs/en/cq/current/wcm/launches.html)
+[설명서](https://docs.adobe.com/docs/en/cq/current/wcm/launches.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

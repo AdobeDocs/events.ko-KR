@@ -5,10 +5,11 @@ uuid: 823b2bda-411b-49af-9a75-ab5eb9562d57
 topic-tags: troubleshoot
 discoiquuid: 58c61b72-166b-4c7e-ab63-3edd68e3e925
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 19ded93d-2183-4a26-9dc6-8c25cdd4caeb
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 9%
+source-wordcount: '182'
+ht-degree: 10%
 
 ---
 
@@ -30,11 +31,12 @@ Timothe Maret, 수석 개발자, Adobe
 
 ## 리소스 {#resources}
 
-사용자 동기화
+>[!WARNING]
+>
+>AEM 버전 6.4 및 이전 버전은 단종되어 더 이상 Adobe에서 판매하지 않습니다.  Adobe 최신 버전으로 업그레이드하는 것이 좋습니다. - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  보관된 버전의 설명서는 여기에서 액세스할 수 있습니다. [페이지](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>이 세션과 관련이 있으므로 을 참조하십시오. *사용자 동기화* AEM 설명서에서 참조할 수 있습니다.
 
-* [AEM 6.3 설명서](https://docs.adobe.com/docs/en/aem/6-3/administer/security/security/sync.html)
-* [AEM 6.2 설명서](https://docs.adobe.com/docs/en/aem/6-2/administer/security/security/sync.html)
-* [AEM 6.1 설명서](https://docs.adobe.com/docs/en/aem/6-1/administer/security/security/sync.html)
 * [Apache Sling 컨텐츠 배포](https://sling.apache.org/documentation/bundles/content-distribution.html)
 * [개요로 돌아가기](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 

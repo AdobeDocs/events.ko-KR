@@ -4,10 +4,11 @@ description: 이 세션에서는 다국어 웹 사이트 관리를 위한 AEM 6.
 uuid: 19ef8f6e-90ab-4724-9cc3-febe30543f00
 discoiquuid: 6a78c294-abc1-4ebb-bd9d-f9abe214ad98
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: b68fee5a-1dac-4488-8725-ec6ef73db549
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 1%
+source-wordcount: '211'
+ht-degree: 6%
 
 ---
 
@@ -30,6 +31,8 @@ Mathias Siegel, Sr 제품 관리자, [!DNL AEM Sites], ADOBE
 
 ## 관련 링크 {#related-links}
 
-* [AEM Sites 번역 문서](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation.html)
-* [다국어 자산 관리](https://docs.adobe.com/docs/en/aem/6-3/author/assets/managing-assets-touch-ui/multilingual-assets.html)
-* [번역 모범 사례 설명서](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation/tc-bp.html)
+>[!WARNING]
+>
+>AEM 버전 6.4 및 이전 버전은 단종되어 더 이상 Adobe에서 판매하지 않습니다.  Adobe 최신 버전으로 업그레이드하는 것이 좋습니다. - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  보관된 버전의 설명서는 여기에서 액세스할 수 있습니다. [페이지](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>이 세션과 관련이 있으므로 을 참조하십시오. *AEM Sites 번역 문서*, *번역 모범 사례 설명서* 및 *다국어 자산 관리* AEM 6.3 설명서에서 참조할 수 있습니다.

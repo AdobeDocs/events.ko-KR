@@ -2,7 +2,8 @@
 title: 2021년 10월 Adobe Developers Live
 description: Adobe Developers Live 이벤트의 일부로 제공되는 Adobe Experience Manager Sites에 대한 비디오 및 튜토리얼 모음입니다.
 sub-product: sites, content-services
-source-git-commit: f4953d9b0a3449d31e09877e11ef29524e3026fb
+exl-id: 0ad75a56-d7d1-401c-9a3f-c45fc2c78036
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 17%
@@ -94,6 +95,6 @@ Adobe Experience Cloud, Document Cloud 및 Creative Cloud의 Adobe 제품 팀은
 
 ### App Builder
 
-* [App Builder 개요](http://adobe.ly/aem-appbuilder)
-* [App Builder 개발자 안내서](http://adobe.ly/appbuilder)
-* [App Builder 체험판 프로그램 등록](http://adobe.ly/appbuilder-trial)
+* [App Builder 개요](https://adobe.ly/aem-appbuilder)
+* [App Builder 개발자 안내서](https://adobe.ly/appbuilder)
+* [App Builder 체험판 프로그램 등록](https://adobe.ly/appbuilder-trial)

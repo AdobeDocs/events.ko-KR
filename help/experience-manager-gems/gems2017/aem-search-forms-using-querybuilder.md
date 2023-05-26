@@ -4,10 +4,11 @@ description: 이 세션에서는 JCR 스택의 다른 쿼리 언어와 비교하
 uuid: 867545ac-e175-4bd8-9d17-b5423f29031f
 discoiquuid: c7e8b80f-1eb3-4fa7-9d36-c76b493bd351
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: f0fd2a81-80c9-41df-844b-d94362c9f27a
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 2%
+source-wordcount: '237'
+ht-degree: 6%
 
 ---
 
@@ -33,10 +34,11 @@ ht-degree: 2%
 
 AEM 설명서
 
-* [Querybuilder API, AEM 6.3](https://docs.adobe.com/docs/en/aem/6-3/develop/search/querybuilder-api.html)
-* [Querybuilder API, AEM 6.2](https://docs.adobe.com/docs/ko/aem/6-2/develop/search/querybuilder-api.html)
-* [Querybuilder API, AEM 6.1](https://docs.adobe.com/docs/ko/aem/6-1/develop/search/querybuilder-api.html)
-* [Querybuilder API, AEM 6.0](https://docs.adobe.com/docs/ko/aem/6-0/develop/search/querybuilder-api.html)
+>[!WARNING]
+>
+>AEM 버전 6.4 및 이전 버전은 단종되어 더 이상 Adobe에서 판매하지 않습니다.  Adobe 최신 버전으로 업그레이드하는 것이 좋습니다. - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  보관된 버전의 설명서는 여기에서 액세스할 수 있습니다. [페이지](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>이 세션과 관련이 있으므로 을 참조하십시오. *Querybuilder API* AEM 설명서에서 참조할 수 있습니다.
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -5,10 +5,11 @@ uuid: 0af8b03b-18dc-4701-93c6-65acdc85b6a2
 topic-tags: Dynamictagmanagement
 discoiquuid: a91aeec3-337f-4cfd-850d-6ece0041e550
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 852e578e-0594-4482-9ee8-a4b30248f99a
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
@@ -30,7 +31,7 @@ Sandro Looser, 솔루션 설계자, Adobe
 
 ## 관련 링크 {#related-links}
 
-[Adobe Dynamic Tag Management과 통합](http://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
+[Adobe Dynamic Tag Management과 통합](https://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
 
 [DTM 도움말](https://experienceleague.adobe.com/docs/data-collection.html?lang=en)
 

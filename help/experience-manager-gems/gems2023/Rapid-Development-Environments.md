@@ -13,10 +13,11 @@ last-substantial-update: 2023-01-31T00:00:00Z
 kt: 11797
 thumbnail: kt-11797.jpeg
 event-start-time: 2023-2-22 08:30-8
-source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
+exl-id: 6749cb7d-9130-4855-8a6a-8818810339ae
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -41,6 +42,6 @@ RDE를 사용하면 개발자가 변경 사항을 신속하게 배포하고 검�
 
 >[!NOTE]
 >
->* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 다음을 방문하십시오. [컨텍스트 기반 스레드](http://bit.ly/3x1Cl8x)
+>* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 다음을 방문하십시오. [컨텍스트 기반 스레드](https://bit.ly/3x1Cl8x)
 >* 예정된 웨비나에 대한 알림을 받으려면 다음 위치에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
 
