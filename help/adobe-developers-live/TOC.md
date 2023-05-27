@@ -3,9 +3,9 @@ user-guide-title: Adobe Developers Live 이벤트
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Adobe Developer Live 콘텐츠 이벤트의 녹화본 컬렉션
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: c0ac31a014d3361c109278723baf5da013566ae2
 workflow-type: tm+mt
-source-wordcount: '619'
+source-wordcount: '664'
 ht-degree: 6%
 
 ---
@@ -14,6 +14,19 @@ ht-degree: 6%
 # Adobe Developers Live 이벤트 {#adobe-developers-live-recordings}
 
 + [개요](overview.md)
++ 2023 {#2023}
+   + 년 5월{#may2023}
+      + [Keynote 열기](2023/may/keynote.md)
+      + [API 투어](2023/may/new-apis.md)
+      + [이메일 및 Forms용 AEM 핵심 구성 요소에 대해 자세히 알아보기](2023/may/core-components.md)
+      + [에셋 선택기 포함](2023/may/asset-picker.md)
+      + [Microsoft 365/Google Workspace를 사용하여 편집](2023/may/microsoft-365.md)
+      + [신속한 배포](2023/may/workflows.md)
+      + [AEM 제품 리더와의 Fireside 채팅](2023/may/fireside.md)
+      + [JavaScript 블록](2023/may/javascript-blocks.md)
+      + [AEM Assets과 애플리케이션의 원활한 통합](2023/may/seamless-intergration.md)
+      + [GraphQL API 이해](2023/may/graphql.md)
+      + [유니버설 편집기](2023/may/universal-editor.md)
 + 2022 {#2022}
    + 2월 - 상거래 {#feb2022}
       + [개요](2022/february/overview.md)
