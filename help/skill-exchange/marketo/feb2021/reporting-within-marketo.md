@@ -1,22 +1,22 @@
 ---
-title: Marketo Engage 내 보고
-description: Marketo Engage 내의 높은 수준의 보고 기능을 이해하고 보고서 및 스마트 목록에 대해 자세히 알아봅니다.
+title: 다음 범위 내 보고 [!DNL Marketo Engage]
+description: 의 높은 수준의 보고 기능에 대한 이해 [!DNL Marketo Engage]및 Reports & Smart List에 대해 자세히 살펴봅니다.
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 9710
 thumbnail: 340309.jpeg
 exl-id: 49e6d249-c5fc-4674-b5b6-6aa4ad6f816b
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '86'
 ht-degree: 2%
 
 ---
 
-# Marketo Engage 내 보고
+# 다음 범위 내 보고 [!DNL Marketo Engage]
 
-이 세션에서는 다음을 포함하여 Marketo Engage에서 사용할 수 있는 모든 보고 도구를 검토합니다.
+이 세션은에서 사용할 수 있는 모든 보고 도구를 검토합니다. [!DNL Marketo Engage] 포함:
 
 * 보고서
 * 스마트 목록
@@ -29,6 +29,6 @@ ht-degree: 2%
 * 표준 보고서와 스마트 목록을 사용해야 하는 경우
 * 구독
 
-이 세션에서는 Marketo Engage 내의 높은 수준의 보고 기능에 대해 이해하고 보고서 및 스마트 목록에 대해 자세히 살펴봅니다.
+의 높은 수준의 보고 기능에 대한 이해와 함께 이 세션을 종료합니다. [!DNL Marketo Engage]및 Reports &amp; Smart List에 대해 자세히 살펴봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340309/?quality=12&learn=on)

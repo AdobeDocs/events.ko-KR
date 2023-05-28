@@ -7,9 +7,9 @@ level: Beginner
 kt: 9766
 thumbnail: 340597.jpeg
 exl-id: e39b9f63-d5b2-4211-8fa9-6aebbbf8bbf8
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 2%
 
 **주요 학습 사항**
 
-* 다이내믹 콘텐츠를 활용하여 Marketo Engage 프로그램 빌드 간소화 및 시간 절약
+* 효율성 향상 [!DNL Marketo Engage] 다이내믹 콘텐츠를 활용하여 프로그램을 빌드하고 시간을 절약합니다.
 * 데이터베이스를 세그먼트화하여 다이내믹 콘텐츠를 제공하는 방법에 대해 알아봅니다
 * 다이내믹 콘텐츠의 영향에 대해 보고하여 향후 마케팅 의사 결정 안내
 

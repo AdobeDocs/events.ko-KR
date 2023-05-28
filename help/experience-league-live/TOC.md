@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 02e78a5b7959dbcca9b73845266e3aa021bf7fd9
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '237'
 ht-degree: 9%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 9%
    + [Ep. 23: 몇 번의 클릭만으로 데이터 수집 및 이벤트 전달을 시작하고 실행할 수 있습니다.](episodes/exl-live-episode-4-25-23.md)
    + [Ep. 22: 웹 경험 가속화](episodes/exl-live-episode-2-16-23.md)
    + [Ep. 21: 데이터 수집 하이라이트 및 로드맵](episodes/exl-live-episode-1-26-23.md)
-   + [Ep. 20: 사무실 또는 이동 중인 Analytics](episodes/exl-live-episode-11-18-22.md)
+   + [Ep. 20: [!DNL Analytics] 사무실 또는 이동 중에](episodes/exl-live-episode-11-18-22.md)
    + [Ep. 19: 의사 결정 관리를 통해 적시에 적절한 오퍼 제공](episodes/exl-live-episode-10-25-22.md)
    + [Ep. 18: Adobe Journey Optimizer에서 캠페인 실행](episodes/exl-live-episode-09-22-22.md)
    + [Ep. 17: 실시간으로 보다 개인화된 고객 경험 제공](episodes/exl-live-episode-09-20-22.md)
@@ -44,5 +44,5 @@ ht-degree: 9%
    + [Ep. 4: 누가 클릭했는가? 그리고 무엇을 했는가?](episodes/exl-live-episode-04.md)
    + [Ep. 3: 연말연시 캠페인을 돋보이게 할 수 있는 전문가의 팁](episodes/exl-live-episode-03.md)
    + [Ep. 2: 보다 스마트한 향후 대상 세그먼트 구축하기](episodes/exl-live-episode-02.md)
-   + [Ep. 1: 내가 가장 좋아하는 세 가지 Adobe Analytics 구현 팁](episodes/exl-live-episode-01.md)
+   + [Ep. 1: 내가 가장 좋아하는 세 가지 Adobe [!DNL Analytics] 구현 팁](episodes/exl-live-episode-01.md)
 + [라이브 에셋 Experience League](exl-live-assets.md)

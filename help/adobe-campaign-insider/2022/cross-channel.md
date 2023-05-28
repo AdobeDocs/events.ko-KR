@@ -1,20 +1,20 @@
 ---
-title: Adobe Campaign Classic을 통해 크로스 채널 마케팅 강화
-description: Adobe Campaign Classic 고객을 위한 워크플로우, 자동화, 개인화 및 측정에 중점을 둔 심층 웨비나입니다.
+title: Adobe을 통해 크로스 채널 마케팅 강화 [!DNL Campaign Classic]
+description: 워크플로우, 자동화, 개인화 및 Adobe 측정에 중점을 둔 심층 웨비나 [!DNL Campaign Classic] 고객.
 version: Classic v7
 solution: Campaign
 kt: 10506
 thumbnail: 343524.jpeg
 exl-id: 1f4b6396-d855-429d-b80d-44a06c93bc67
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 39%
+source-wordcount: '38'
+ht-degree: 0%
 
 ---
 
-# Adobe Campaign Classic을 통해 크로스 채널 마케팅 강화
+# Adobe을 통해 크로스 채널 마케팅 강화 [!DNL Campaign Classic]
 
-Adobe Campaign Classic 고객을 위한 워크플로우, 자동화, 개인화 및 측정에 중점을 둔 심층 웨비나입니다.
+워크플로우, 자동화, 개인화 및 Adobe 측정에 중점을 둔 심층 웨비나 [!DNL Campaign Classic] 고객.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343524/?quality=12&learn=on)

@@ -1,17 +1,16 @@
 ---
-title: Adobe Campaign Insider 시리즈
-description: Adobe Campaign 고객을 위한 팁과 트릭 및 영감을 제공하여 크로스 채널 마케팅 전략을 발전시키고, 팀 마케팅 실무자의 기술을 향상시키며, 조직이 보다 고급 크로스 채널 마케팅 전략을 실행하도록 지원합니다.
-exl-id: 5ab4c6a7-a5ad-4ab5-94c4-7cdff1466c2a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+title: Adobe [!DNL Campaign] Insider 시리즈
+description: Adobe을 위한 팁 및 요령 및 영감 [!DNL Campaign] 크로스 채널 마케팅 전략을 발전시키고, 팀 마케팅 실무자의 기술을 향상시키고, 조직이 보다 고급 크로스 채널 마케팅 전략을 개시하도록 지원하는 고객.
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 36%
+source-wordcount: '110'
+ht-degree: 16%
 
 ---
 
-# Adobe Campaign Insider 시리즈
+# Adobe [!DNL Campaign] Insider 시리즈
 
-Adobe Campaign 고객을 위한 팁과 트릭 및 영감을 제공하여 크로스 채널 마케팅 전략을 발전시키고, 팀 마케팅 실무자의 기술을 향상시키며, 조직이 보다 고급 크로스 채널 마케팅 전략을 실행하도록 지원합니다.
+Adobe을 위한 팁 및 요령 및 영감 [!DNL Campaign] 크로스 채널 마케팅 전략을 발전시키고, 팀 마케팅 실무자의 기술을 향상시키고, 조직이 보다 고급 크로스 채널 마케팅 전략을 개시하도록 지원하는 고객.
 
 >[!TIP]
 >
@@ -23,19 +22,19 @@ Adobe Campaign 고객을 위한 팁과 트릭 및 영감을 제공하여 크로�
   <tr>
    <td>
       <a href="2022/cross-channel.md">
-      <img alt="Adobe Campaign Classic을 통해 크로스 채널 마케팅 강화" src="assets/cross-channel.png"/>
+      <img alt="Adobe을 통해 크로스 채널 마케팅 강화 [!DNL Campaign Classic]" src="assets/cross-channel.png"/>
       </a>
       <div>
-         <a href="./2022/cross-channel.md"><strong>Adobe Campaign Classic을 통해 크로스 채널 마케팅 강화</strong></a>
+         <a href="./2022/cross-channel.md"><strong>Adobe을 통해 크로스 채널 마케팅 강화 [!DNL Campaign Classic]</strong></a>
          <br/>
       </div>
    </td>
    <td>
       <a href="2022/integrations.md">
-      <img alt="마케팅 생태계와 Adobe Campaign 통합" src="assets/integrations.png"/>
+      <img alt="Adobe [!DNL Campaign] 마케팅 생태계와 통합" src="assets/integrations.png"/>
       </a>
       <div>
-         <a href="./2022/integrations.md"><strong>마케팅 생태계와 Adobe Campaign 통합</strong></a>
+         <a href="./2022/integrations.md"><strong>[!DNL Campaign]마케팅 생태계와 Adobe 통합</strong></a>
          <br/>
       </div>
    </td>

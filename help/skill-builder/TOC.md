@@ -1,10 +1,10 @@
 ---
 user-guide-title: 스킬 빌더
 user-guide-description: 랜딩 페이지에 표시되는 사용 안내서에 대한 설명입니다.
-source-git-commit: 37202c8171ae1638888b80c55b39c42ce580355f
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 51%
+ht-degree: 39%
 
 ---
 
@@ -40,10 +40,12 @@ ht-degree: 51%
    + [개요](customer-journeys/overview.md)
    + 2022 {#2022}
       + [Adobe Campaign Standard를 위한 주요 팁 및 요령](customer-journeys/2022/tips-and-tricks.md)
-      + [Adobe Campaign Classic에서 데이터 모델 개발 및 사용자 정의](customer-journeys/2022/data-models.md)
+      + [Adobe에서 데이터 모델 개발 및 사용자 지정 [!DNL Campaign Classic]](customer-journeys/2022/data-models.md)
       + [B2B 및 B2C의 고객 여정 트렌드 및 혁신](customer-journeys/2022/keynote.md)
-      + [함께 사용하여 더욱 효율적인 작업 수행 - Adobe Marketo Engage 및 Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
-      + [Marketo Engage 및 Adobe Experience Cloud를 통한 B2B 경험](customer-journeys/2022/b2b-experiences.md)
+      + [함께 사용하여 더욱 효율적인 Adobe [!DNL Marketo Engage] 및 Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
+      + [을 통한 B2B 경험 [!DNL Marketo Engage] 및 Adobe Experience Cloud](customer-journeys/2022/b2b-experiences.md)
+&lt;!---    +> 
+[Adobe Campaign Classic V7 및 V8](customer-journeys/2022/classic-v7-vs-v8.md) --->
 + 데이터 및 통찰력 {#data-and-insights}
    + [개요](data-and-insights/overview.md)
    + 2022 {#2022}

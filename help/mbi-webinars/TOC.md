@@ -2,7 +2,7 @@
 user-guide-title: MBI 이벤트
 breadcrumb-title: MBI 이벤트
 user-guide-description: MBI 이벤트는 전문가와 동료들이 Adobe Commerce에 대한 생각과 아이디어를 공유한 영상 라이브러리다.
-source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 37%
@@ -26,7 +26,7 @@ ht-degree: 37%
   + [Overview](commerce-events/overview.md)
   + 2022 {#2022}
     + [Top Tips and Tricks for Adobe Campaign Standard](customer-journeys/2022/tips-and-tricks.md)
-    + [Develop and customize data models in Adobe Campaign Classic](customer-journeys/2022/data-models.md)
+    + [Develop and customize data models in Adobe [!DNL Campaign Classic]](customer-journeys/2022/data-models.md)
 
 + Data and insights {#commerce-release-updates}
   + [Overview](commerce-release-updates/overview.md)

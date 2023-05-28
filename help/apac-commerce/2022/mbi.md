@@ -9,9 +9,9 @@ last-substantial-update: 2022-10-31T00:00:00Z
 kt: 11371
 thumbnail: 3410646.jpeg
 exl-id: 857c5b59-fc03-42ed-aed0-506c761cda37
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Daniel Rios(제품 관리 부문 수석 관리자)로부터 다음 주제에 대
 
 * 데이터를 가치로 변환
 * 강력한 데이터 기반 구축
-* MBI 및 Analytics 데이터 결합
+* MBI 및 결합 [!DNL Analytics] 데이터
 
 이러한 개념을 실제로 사용할 수 있는 플랫폼의 라이브 데모도 표시됩니다.
 

@@ -1,22 +1,22 @@
 ---
-title: Marketo Engage 내 보고
-description: 이 세션에서는 보고서 스마트 목록 분석기 MPI 이메일 인사이트를 포함하여 Marketo Engage에서 사용할 수 있는 모든 보고 도구를 검토합니다
+title: 다음 범위 내 보고 [!DNL Marketo Engage]
+description: 이 세션은에서 사용할 수 있는 모든 보고 도구를 검토합니다. [!DNL Marketo Engage] 보고서 스마트 목록 분석기 MPI 이메일 인사이트 포함
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 10325
 thumbnail: 342557.jpeg
 exl-id: fc869a40-a170-4eaa-a94a-cd5d206e2aaa
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '104'
 ht-degree: 1%
 
 ---
 
-# Marketo Engage 내 보고
+# 다음 범위 내 보고 [!DNL Marketo Engage]
 
-이 세션에서는 다음을 포함하여 Marketo Engage에서 사용할 수 있는 모든 보고 도구를 검토합니다.
+이 세션은에서 사용할 수 있는 모든 보고 도구를 검토합니다. [!DNL Marketo Engage] 포함:
 
 * 보고서
 * 스마트 목록
@@ -29,7 +29,7 @@ ht-degree: 1%
 * 표준 보고서와 스마트 목록을 사용해야 하는 경우
    * 구독
 
-이 세션에서는 Marketo Engage 내의 높은 수준의 보고 기능에 대해 이해하고 보고서 및 스마트 목록에 대해 자세히 살펴봅니다.
+의 높은 수준의 보고 기능에 대한 이해와 함께 이 세션을 종료합니다. [!DNL Marketo Engage]및 Reports &amp; Smart List에 대해 자세히 살펴봅니다.
 
 이 세션이 끝날 때 라이브 Q&amp;A를 통해 여러분의 질문에 답변해 드립니다.
 

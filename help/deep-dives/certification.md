@@ -1,6 +1,6 @@
 ---
-title: 자기 자신을 위한 투자 - Adobe Marketo Engage 인증
-description: 인증 프로세스와 인증 프로세스가 마케팅 활동에 어떤 도움을 줄 수 있는지 관심이 있으십니까? 아니면 여러분은 공부하고, 준비하고, 시험을 보는 과정에 관심이 있는가? Adobe Marketo Engage Champions에 참여하여 Marketo Certified Expert 또는 Architect가 되기 위한 여정에 대해 논의합니다.
+title: 자기 자신에게 투자 - Adobe [!DNL Marketo Engage] 인증
+description: 인증 프로세스와 인증 프로세스가 마케팅 활동에 어떤 도움을 줄 수 있는지 관심이 있으십니까? 아니면 여러분은 공부하고, 준비하고, 시험을 보는 과정에 관심이 있는가? 가입 Adobe [!DNL Marketo Engage] 챔피언은 Marketo 공인 전문가 또는 건축가가 되기 위한 여정에 대해 토론합니다!
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,16 +8,16 @@ last-substantial-update: 2023-03-16T00:00:00Z
 jira: KT-12941
 thumbnail: 3416760.jpeg
 exl-id: af0a6310-5fc9-4109-adab-edd16682ce6d
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-# 자기 자신을 위한 투자 - Adobe Marketo Engage 인증
+# 자기 자신에게 투자 - Adobe [!DNL Marketo Engage] 인증
 
-인증 프로세스와 인증 프로세스가 마케팅 활동에 어떤 도움을 줄 수 있는지 관심이 있으십니까? 아니면 여러분은 공부하고, 준비하고, 시험을 보는 과정에 관심이 있는가? Adobe Marketo Engage Champions에 참여하여 Marketo Certified Expert 또는 Architect가 되기 위한 여정에 대해 논의합니다.
+인증 프로세스와 인증 프로세스가 마케팅 활동에 어떤 도움을 줄 수 있는지 관심이 있으십니까? 아니면 여러분은 공부하고, 준비하고, 시험을 보는 과정에 관심이 있는가? 가입 Adobe [!DNL Marketo Engage] 챔피언은 Marketo 공인 전문가 또는 건축가가 되기 위한 여정에 대해 토론합니다!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416760/?quality=12&learn=on)
 

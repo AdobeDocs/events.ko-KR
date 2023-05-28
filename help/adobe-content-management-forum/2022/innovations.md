@@ -1,6 +1,6 @@
 ---
-title: Experience Manager as a Cloud Service 혁신
-description: AEM Gagan Mand 및 Shankari Panchapakesan에 참여하여 as a Cloud Service으로 특히 개발자 경험 측면에서 최신 혁신 기술에 대해 알아보십시오.
+title: Experience Manager as a Cloud Service] 혁신
+description: Gagan Mand 및 Shankari Panchapakesan과 함께 최신 혁신 기술에 대해 알아보십시오. [!DNL AEM as a Cloud Service], 특히 개발자 경험 측면에서 그렇습니다.
 solution: Experience Manager, Experience Manager as a Cloud Service
 topic: Upgrade, Development
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
@@ -8,15 +8,16 @@ level: Beginner
 kt: 10789
 thumbnail: 345379.png
 exl-id: fb45a679-ab98-46c5-bc5b-243bdd43ad6e
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: b4b744b9e92b39d14c0d0662e480b07001dea69a
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
-# Experience Manager as a Cloud Service 혁신
 
-AEM Gagan Mand 및 Shankari Panchapakesan에 참여하여 as a Cloud Service으로 특히 개발자 경험 측면에서 최신 혁신 기술에 대해 알아보십시오.
+# [!DNL Experience Manager as a Cloud Service] 혁신적인 기능
+
+Gagan Mand 및 Shankari Panchapakesan과 함께 최신 혁신 기술에 대해 알아보십시오. [!DNL AEM as a Cloud Service], 특히 개발자 경험 측면에서 그렇습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345379/?quality=12&learn=on)

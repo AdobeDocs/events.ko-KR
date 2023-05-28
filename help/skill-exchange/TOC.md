@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange의 녹화본 컬렉션
 event-series: The Skill Exchange
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: d2aab682b1ae08111655081bd39b29b8370ad816
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '361'
 ht-degree: 11%
 
 ---
@@ -80,18 +80,18 @@ ht-degree: 11%
       + [토큰을 사용한 확장성 및 효율성](marketo/feb2022/using-tokens.md)
       + [고객 참여를 위한 참여 프로그램 활용](marketo/feb2022/utilize-engagement-programs.md)
    + 2021년 8월 {#aug2021}
-      + [Marketo Engage 내에서 프로그램 만들기](marketo/aug2021/create-programs.md)
-      + [Marketo Engage 록스타즈](marketo/aug2021/engage-rockstars.md)
+      + [내에서 프로그램 만들기 [!DNL Marketo Engage]](marketo/aug2021/create-programs.md)
+      + [[!DNL Marketo Engage] 록스타스](marketo/aug2021/engage-rockstars.md)
       + [스마트 캠페인의 기능](marketo/aug2021/smart-campaign.md)
       + [프로그램 멤버 사용자 정의 필드](marketo/aug2021/program-member-custom-fields.md)
-      + [Marketo Engage 내 보고](marketo/aug2021/reporting.md)
+      + [다음 범위 내 보고 [!DNL Marketo Engage]](marketo/aug2021/reporting.md)
       + [Marketo 로드맵](marketo/aug2021/marketo-roadmap.md)
    + 2021년 2월 {#feb2021}
       + [사용자 정의 객체 및 속도에 대한 톱 로프](marketo/feb2021/custom-objects.md)
-      + [Adobe Marketo Engage Rockstar 세그먼트](marketo/feb2021/rockstar.md)
-      + [Adobe Marketo Engage 내에서 프로그램 만들기](marketo/feb2021/create-programs.md)
+      + [Adobe [!DNL Marketo Engage] Rockstar 세그먼트](marketo/feb2021/rockstar.md)
+      + [Adobe 내에서 프로그램 만들기 [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
       + [스마트 캠페인의 기능](marketo/feb2021/power-of-smart-campaign.md)
-      + [Marketo Engage 내 보고](marketo/feb2021/reporting-within-marketo.md)
+      + [다음 범위 내 보고 [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Forms을 위한 최고의 팁 및 요령](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + 2022년 4월 {#apr2022}

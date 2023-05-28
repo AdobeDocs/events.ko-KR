@@ -2,9 +2,9 @@
 title: Adobe 컨텐츠 관리 포럼
 description: Adobe 컨텐츠 관리 포럼의 세션 녹화본 컬렉션
 exl-id: 8c882248-0790-4a50-bf8f-55dce1f68b6b
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 0%
 * 콘텐츠 작성을 대중화하고, 옴니채널 제공을 용이하게 하고, 모든 경험을 카운트할 수 있도록 개인화 수준을 확장하는 경험 관리를 현대화하는 방법입니다.
 * 개인화에 맞게 확장되는 콘텐츠 공급망을 구축하는 방법
 * 새로운 사이트 생성을 위한 시장 출시 시간을 단축하고 기술 리소스에 대한 의존도를 줄이는 방법
-* Experience Manager을 위한 최신 혁신 기술은 클라우드 네이티브 서비스로 제공되며, 앞서가면서 끊임없이 변화하는 시장의 기대에 적응하는 방법입니다
-* GraphQL 및 콘텐츠 조각을 사용하여 Adobe Experience Manager as a Headless CMS로 보다 빠르게 사이트를 구축하는 방법
+* 을 위한 최신 혁신 기능 [!DNL Experience Manager] 클라우드 네이티브 서비스로 제공되며 지속적으로 변화하는 시장의 기대에 어떻게 적응하는지 알아보십시오.
+* Adobe을 사용하여 보다 빠르게 사이트를 구축하는 방법 [!DNL Experience Manager] as a Headless CMS, GraphQL 및 콘텐츠 조각 사용
 * Adobe Experience Manager Sites의 시장 출시 시간을 단축하는 개발자 우수 사례
 
 >[!TIP]
@@ -46,12 +46,12 @@ ht-degree: 0%
       <img alt="모든 에셋" src="assets/assets-for-all.png" >
       </a>
       <div>
-         <a href="2022/assets-for-all.md"><strong>Adobe App Builder를 사용하여 Adobe Experience Manager Headless 확장</strong></a>         
+         <a href="2022/assets-for-all.md"><strong>Adobe 확장 [!DNL Experience Manager] 헤드리스(Adobe 포함) [!DNL App Builder]</strong></a>         
          <br/><em>Purnima Rachoor Roy와 함께</em>
       </div>
       <p>
         <br/>
-          Assets Essentials이 부서 및 중견기업을 위한 새로운 디지털 자산 관리 시스템인 방법에 대해 알아봅니다.
+          방법에 대해 알아보기 [!DNL Assets Essentials] 새로운 항목 [!DNL Digital Asset Management] 부서 및 중견기업을 위한 시스템.
       </p>
    </td>
    <td>

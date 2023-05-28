@@ -1,21 +1,21 @@
 ---
 title: Marketo Engage Experience Makers Spotlight
-description: 두 명의 전문 고객과 Marketo Engage 사용자를 집중 조명하는 데 동참하십시오. 각 사용자는 최고의 Marketo Engage 팁과 요령을 공유합니다.
+description: 두 명의 전문 고객을 집중 공략하고 [!DNL Marketo Engage] 사용자. 각자가 최선을 공유합니다. [!DNL Marketo Engage] 팁이나 트릭.
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 9767
 thumbnail: 340592.jpeg
 exl-id: df4772b7-2dd9-4859-97c2-db9507ecbd03
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---
 
-# Marketo Engage Experience Makers Spotlight
+# [!DNL Marketo Engage] Experience Makers Spotlight
 
-두 명의 전문 고객과 Marketo Engage 사용자를 집중 조명하는 데 동참하십시오. 각 사용자는 최고의 Marketo Engage 팁과 요령을 공유합니다.
+두 명의 전문 고객을 집중 공략하고 [!DNL Marketo Engage] 사용자. 각자가 최선을 공유합니다. [!DNL Marketo Engage] 팁이나 트릭.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340592/?quality=12&learn=on)

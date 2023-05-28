@@ -3,9 +3,9 @@ user-guide-title: Adobe Developers Live 이벤트
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Adobe Developer Live 콘텐츠 이벤트의 녹화본 컬렉션
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: c0ac31a014d3361c109278723baf5da013566ae2
+source-git-commit: e7e3172bb80aab23550aab7720e7554beedfd269
 workflow-type: tm+mt
-source-wordcount: '664'
+source-wordcount: '663'
 ht-degree: 6%
 
 ---
@@ -87,7 +87,7 @@ ht-degree: 6%
       + [개요](2021/october/overview.md)
       + [Keynote 열기](2021/october/keynote.md)
       + [Experience Manager CS로의 전환 가속화](2021/october/accelerate-transistion.md)
-      + [2021년에 알아야 할 Adobe Analytics API](2021/october/analytics-api.md)
+      + [Adobe [!DNL Analytics] 2021년에 알아야 할 API](2021/october/analytics-api.md)
       + [Adobe 클라이언트 데이터 레이어](2021/october/adobe-client-data-layer.md)
       + [Adobe Commerce 및 커뮤니티 기여도 모델](2021/october/community-contribution-model.md)
       + [Adobe Commerce 라이브 검색 결과](2021/october/adobe-commerce-search.md)
