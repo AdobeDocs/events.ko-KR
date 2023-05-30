@@ -1,10 +1,10 @@
 ---
 user-guide-title: 스킬 빌더
 user-guide-description: 랜딩 페이지에 표시되는 사용 안내서에 대한 설명입니다.
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+source-git-commit: 14496a09a0e2dccb88b1ef90a6a070f8f5c3990c
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 39%
+source-wordcount: '164'
+ht-degree: 37%
 
 ---
 
