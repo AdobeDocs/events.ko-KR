@@ -2,12 +2,13 @@
 cloud: Experience Cloud
 solution: Experience Cloud
 product: experience cloud
+feature-set: Advertising, Analytics, Audience Manager, Campaign, Commerce, Customer Journey Analytics, Experience Cloud Services, Experience Manager, Experience Manager Assets, Experience Manager Cloud Manager, Experience Manager Forms, Experience Manager Guides, Experience Manager Screens, Experience Manager Sites, Experience Platform, Journey Optimizer, Journey Orchestration, Marketo Engage, Workfront
 description: Adobe 실시간 스트리밍된 이벤트의 녹화본 컬렉션.
 type: Event
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/events.ko-KR
 index: true
-source-git-commit: 01971230eeaa291ac8f9130ece58484e925d611a
+source-git-commit: 93ecb00dde2ad0cd9bdc93e861cac82e7da07f49
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 83%
