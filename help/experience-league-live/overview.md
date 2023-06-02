@@ -6,10 +6,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 07619d719d0dd1429202686ca359c9744bec77c4
+source-git-commit: 66db5d4c9ae904c4dfa7f69c00142538021523b4
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 52%
+source-wordcount: '175'
+ht-degree: 49%
 
 ---
 
@@ -23,8 +23,16 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 <table>
 <tr>
-  <td>
-    정보를 얻으려면 곧 돌아가십시오. 2023년 6월에 TWO SHOWS를 개최하고 있으며 곧 정보를 얻을 예정입니다.
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-6-14-23.md">
+      <img alt="Experience League 라이브 6월 14일" src="assets/Jun14_2023_exl_live_banner_web_1920_WebBanner.png">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-6-14-23.md">
+        <strong>웹 채널 및 콘텐츠 실험을 통해 Adobe Journey Optimizer의 미래 탐색</strong>
+      </a>
+      <br/><em>산드라 하우스만, 로버트 칼랑주, 에릭 위너, 다니엘 크리스티안 포페스쿠와 함께</em>
+      <br/><em>2023년 6월 14일</em>
+    </div>
   </td>
 </tr>
 </table>

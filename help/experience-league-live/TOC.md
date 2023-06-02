@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 02e78a5b7959dbcca9b73845266e3aa021bf7fd9
+source-git-commit: 06de70ea4e8f35ed3ed5930261e49626a4a029bf
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 9%
+source-wordcount: '252'
+ht-degree: 8%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 9%
 
 + [개요](overview.md)
 + 에피소드 {#episodes}
+   + [Ep. 25: 웹 채널 및 콘텐츠 실험을 통해 Adobe Journey Optimizer의 미래 살펴보기](episodes/exl-live-episode-6-14-23.md)
    + [Ep. 24: Adobe Journey Optimizer을 통해 모바일 앱의 잠재력 극대화](episodes/exl-live-episode-5-24-23.md)
    + [Ep. 23: 몇 번의 클릭만으로 데이터 수집 및 이벤트 전달을 시작하고 실행할 수 있습니다.](episodes/exl-live-episode-4-25-23.md)
    + [Ep. 22: 웹 경험 가속화](episodes/exl-live-episode-2-16-23.md)
