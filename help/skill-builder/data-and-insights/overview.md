@@ -2,10 +2,10 @@
 title: 스킬 빌더 개요
 description: 전체 조직에서 온라인 및 오프라인 데이터 인사이트를 사용하여 모든 채널에서 실시간 개인화를 촉진합니다.
 exl-id: dbb8c5dc-596d-4f89-8a81-3ea201dd4b6b
-source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
+source-git-commit: d2a3a5edcdf1aa38a0d0daf469a6e83d4e0b996b
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -18,11 +18,11 @@ ht-degree: 6%
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html">
       <img alt="Adobe Target을 사용하여 개인화 및 자동화" src="https://video.tv.adobe.com/v/343821?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
+      <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html">
         <strong>Adobe Target을 사용하여 개인화 및 자동화</strong>
       </a>
     </div>
@@ -31,11 +31,11 @@ ht-degree: 6%
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/innovations.html">
       <img alt="2022년 혁신 및 추세" src="https://video.tv.adobe.com/v/343818?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
+      <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/innovations.html">
         <strong>2022년 혁신 및 추세</strong>
       </a>
     </div>
@@ -44,11 +44,11 @@ ht-degree: 6%
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/mobile-and-apps.html">
       <img alt="모바일 및 앱용 분석 및 Target 애플리케이션" src="https://video.tv.adobe.com/v/343819?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
+      <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/mobile-and-apps.html">
         <strong>모바일 및 앱용 분석 및 Target 애플리케이션</strong>
       </a>
     </div>
