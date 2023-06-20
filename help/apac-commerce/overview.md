@@ -2,9 +2,9 @@
 title: APAC Commerce 웨비나 시리즈
 description: APAC Commerce 웨비나 시리즈는 모범 사례부터 제품 로드맵 및 업계 동향에 이르기까지 다양한 주제를 다루는 Adobe Commerce 고객을 위한 월간 워크숍 케이던스입니다.
 exl-id: 35d78d88-38ef-486a-8e34-8bce0da673ca
-source-git-commit: a5958d739ab6dbbc97626a8f95be6d46ee85cfbd
+source-git-commit: 147a7e327b387d0b02e4110e1405c1f8b6f3c883
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -45,15 +45,15 @@ APAC Commerce 웨비나 시리즈는 모범 사례부터 제품 로드맵 및 �
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-      <img alt="New Relic Masterclass" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
+      <img alt="확장 가능하고 민첩한 전자 상거래를 위한 컴포저블 상거래 전략" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-        <strong>New Relic Masterclass</strong>
+        <strong>확장 가능하고 민첩한 전자 상거래를 위한 컴포저블 상거래 전략</strong>
       </a>
     </div>
     <p>
-    <em>이 웨비나에 참여하여 New Relic으로 인프라를 제어하는 방법을 알아보십시오. 인프라 데이터에 액세스하고 이해하여 다음 캠페인에 절대적인 신뢰로 접근하십시오.</em>
+    <em>컴포저블 아키텍처의 세계와 전자 상거래 환경을 혁신적으로 변화시키는 방법을 자세히 살펴볼 수 있는 통찰력 있는 웨비나에 참여해 보십시오.</em>
     <p>
   </td>  
 </tr>
