@@ -3,10 +3,10 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange의 녹화본 컬렉션
 event-series: The Skill Exchange
-source-git-commit: d2aab682b1ae08111655081bd39b29b8370ad816
+source-git-commit: b32c10575f90d02829889d9eae876b2c922915bb
 workflow-type: tm+mt
-source-wordcount: '361'
-ht-degree: 11%
+source-wordcount: '379'
+ht-degree: 12%
 
 ---
 
@@ -15,6 +15,13 @@ ht-degree: 11%
 
 + [개요](overview.md)
 + Analytics {#analytics}
+   + 2023년 5월 {#may2023}
+      + [Adobe Analytics 팁 및 요령](analytics/may2023/tips-and-tricks.md)
+      + [EDDL/WebSDK로 마이그레이션](analytics/may2023/tips-and-tricks.md)
+      + [Rockstar 팁](analytics/may2023/rockstar-tips.md)
+      + [생산성 향상](analytics/may2023/productivity.md)
+      + [지표 이해](analytics/may2023/metrics.md)
+      + [사용자 인터페이스 기본 사항](analytics/may2023/user-interface.md)
    + 2022년 10월 {#oct2022}
       + [시작하기](analytics/oct2022/getting-started.md)
       + [데이터 분석](analytics/oct2022/analyzing-the-data.md)
