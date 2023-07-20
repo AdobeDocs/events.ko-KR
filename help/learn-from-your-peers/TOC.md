@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "다음 녹음/녹화 컬렉션: [!DNL Experience Makers Learn from your peers]"
-source-git-commit: b32c10575f90d02829889d9eae876b2c922915bb
+source-git-commit: e52d34d59b96fcde3e964733c3cfec49f0a46cff
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 22%
+source-wordcount: '87'
+ht-degree: 21%
 
 ---
 
@@ -31,6 +31,8 @@ ht-degree: 22%
 + Experience Manager {#experience-manager}
    + 년 5월{#may2023}
       + [컨텐츠 및 경험 조각 마스터](experience-manager/may2023/mastering-content-and-experience-fragments.md)
+   + 년 7월{#july2023}
+      + [Cloud Service의 효과적인 보안 전략](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
 + Marketo {#marketo}
    + 년 6월{#june2023}
       + [마케팅 캠페인 추적, 분석 및 최적화](marketo/june2023/marketing-campaigns.md)
