@@ -1,7 +1,7 @@
 ---
 title: 데이터 관리의 미래와 변화하는 환경
 description: Adobe 및 451 Research가 새로운 마케팅 환경을 해결하기 위해 기술과 데이터의 미래에 대해 어떻게 생각하고 있는지 확인하고 데이터 관리의 미래를 위한 비즈니스 준비를 시작합니다.
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Data Management
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
@@ -10,7 +10,7 @@ thumbnail: 332077.jpg
 kt: 7333
 type: Event
 exl-id: b3821cbf-b11d-4524-bf05-4e2c77300e30
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 62%

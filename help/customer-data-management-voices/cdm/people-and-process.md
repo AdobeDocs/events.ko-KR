@@ -1,14 +1,14 @@
 ---
 title: CDP 모범 사례 - 인력 및 프로세스
 description: 기술 이면의 인력 및 프로세스에 투자하여 CDP를 최대한 활용하는 방법에 대해 알아봅니다. Adobe의 Nina Caruso가 조직을 설정하는 방법을 공유합니다. (설명은 60~160자 사이여야 함)
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Data Governance
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10634
 thumbnail: 344313.jpeg
 exl-id: c7ff138e-0865-4b89-a1e6-be9cdd95059e
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 6%

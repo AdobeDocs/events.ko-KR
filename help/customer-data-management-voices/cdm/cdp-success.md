@@ -1,14 +1,14 @@
 ---
 title: 성공을 위한 고객 데이터 플랫폼 선택
 description: 시장에서 CDP에 대한 잡음이 많기 때문에 어디에 초점을 두고 성공을 준비하는 방법을 알기 어렵습니다.
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Data Governance
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10633
 thumbnail: 344312.jpeg
 exl-id: 87bed2ec-5ad6-4eab-bf68-30275aaea2db
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 1%

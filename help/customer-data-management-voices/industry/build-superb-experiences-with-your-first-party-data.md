@@ -1,7 +1,7 @@
 ---
 title: 자사 데이터를 사용하여 탁월한 경험 구축
 description: 자사 쿠키 데이터를 동의 기반의 지속적인 식별자와 융합하여 골든 고객 레코드에 액세스하는 방법을 알아봅니다.
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Identities
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
@@ -9,7 +9,7 @@ kt: 9727
 thumbnail: 340369.jpeg
 type: Event
 exl-id: 28a39086-09d5-4998-93e1-927df4e12766
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%

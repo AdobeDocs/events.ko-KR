@@ -1,14 +1,14 @@
 ---
 title: 1마일의 데이터 관리 간소화
 description: 데이터의 양이 증가함에 따라 디지털 상호 작용 데이터를 효율적으로 캡처하여 적절한 마케팅에 전송하는 것이 매우 어려워졌습니다. (설명은 60~160자 사이여야 함)
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Data Governance
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10632
 thumbnail: 344311.jpeg
 exl-id: 57d7697c-455e-428e-95ed-7a29852a702a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 1%
