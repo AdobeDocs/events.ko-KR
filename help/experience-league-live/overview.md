@@ -6,10 +6,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 32f483cf4faf83dfcf671ea5b9836a9b0f960105
+source-git-commit: 8d5f937630f7a521c5cbe1d32d723a24cf8b2b21
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 50%
+source-wordcount: '159'
+ht-degree: 54%
 
 ---
 
@@ -23,16 +23,8 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-7-20-23.md">
-      <img alt="Experience League 라이브 2023년 7월 20일" src="assets/July20_2023_exl_live_banner_web_1920_WebBanner.png">
-    </a>
-    <div>
-      <a href="/help/experience-league-live/episodes/exl-live-episode-7-20-23.md">
-        <strong>표준 컨트롤을 사용하여 소스에서 한 곳에 실행 가능한 대상</strong>
-      </a>
-      <br/><em>아론 실즈, 킴 왓콧, 그리고 안드레스 몬로이와 함께</em>
-      <br/><em>2023년 7월 20일</em>
-    </div>
+  <td style="vertical-align: top;">
+    다가오는 2023년 8월 쇼에 대한 자세한 내용은 곧 이 페이지로 돌아오십시오!
   </td>
 </tr>
 </table>

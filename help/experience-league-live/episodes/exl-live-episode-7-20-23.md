@@ -8,10 +8,10 @@ event-cta-url-live: https://www.youtube.com/watch?v=QaJy9Tp-vTE
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230720.html
 event-start-time: 2023-7-20 09:00-7
 event-guests: Aaron Shields,Kim Whatcott,Andres Monroy
-source-git-commit: 772ab08255584e8b6bde625f0891a76681a84e6a
+source-git-commit: 8d5f937630f7a521c5cbe1d32d723a24cf8b2b21
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 2%
+source-wordcount: '145'
+ht-degree: 0%
 
 ---
 
@@ -19,6 +19,6 @@ ht-degree: 2%
 
 새로운 대상 포털 및 구성 기능은 Real-Time CDP의 세분화 및 대상 관리를 완전히 새로운 수준으로 끌어 올렸습니다. 사전 빌드된 대상, 중앙 집중식 대상 관리 및 새로운 컴포지션 캔버스를 수집하면 마케팅 채널 간에 주요 대상을 빌드하고, 구성하고, 배포할 수 있는 공간을 제공합니다.
 
-[![ExL 라이브 2023년 9월 22일](../assets/July20_2023_exl_live_banner_web_1920_WebBanner.png)](https://engage.adobe.com/ExpLeagueLive-230720.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3421425/?quality=12&learn=on)
 
-이벤트를 등록하려면 위의 이미지를 클릭하십시오. 거기서 보자!
+이 프로그램에 대한 질문이 있습니까? Adobe Experience League에서 이 주제에 대한 토론 계속 [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-actionable/m-p/607073#M366).
