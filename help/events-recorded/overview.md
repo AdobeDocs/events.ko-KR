@@ -3,9 +3,9 @@ title: Adobe Experience League 이벤트
 description: Adobe의 엔터프라이즈 제품 사용에 초점을 맞춘 이벤트 녹화본 모음입니다
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: 6ec7be7a69a315606e4c9aa11d700cca0f78b33f
+source-git-commit: 297506bdd6d1bb73335f8e4054f4aeb3b4c5d2d8
 workflow-type: tm+mt
-source-wordcount: '836'
+source-wordcount: '860'
 ht-degree: 9%
 
 ---
@@ -47,6 +47,19 @@ ht-degree: 9%
       </p>
     </td>
    <td>
+      <a href="/help/adobe-commerce-product-updates/overview.md">
+      <img style="width:100%" alt="Adobe Commerce 제품 업데이트" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png"/>
+      </a>
+      <div>
+         <a href="/help/adobe-commerce-product-updates/overview.md"><strong>Adobe Commerce 제품 업데이트</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
+      </div>
+      <p>
+        <br/>
+         Adobe Commerce 제품 팀에서 발표한 Adobe Commerce의 최신 제품 혁신.
+      </p>
+    </td>
+   <td>
       <a href="/help/adobe-developers-live/overview.md">
       <img style="width:100%" alt="Adobe Developers Live" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png"/>
       </a>
@@ -59,6 +72,8 @@ ht-degree: 9%
          Adobe Developers Live은 다양한 배경과 하나의 목적을 가진 Adobe 개발자와 경험 빌더를 한데 모아 놀라운 통합 경험을 만듭니다.
       </p>
     </td>
+    </tr>
+    <tr>    
     <td>
       <a href="/help/aem-champion-office-hours/overview.md">
       <img style="width:100%" alt="AEM Champion 운영 시간" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png"/>
@@ -72,8 +87,6 @@ ht-degree: 9%
          Adobe Experience Manager의 지식 및 사용을 발전시키고, Experience Manager 사고 리더와 상호 작용하고, 독점 기술 습득에 관심이 있다면 바로 AEM Champion Office Hours 사용자 그룹에 참여하십시오!
       </p>
     </td> 
-    </tr>
-    <tr>
    <td>
       <a href="/help/apac-commerce/overview.md">
       <img style="width:100%" alt="APAC Adobe Commerce 웨비나" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png"/>
@@ -99,7 +112,7 @@ ht-degree: 9%
         <br/>
          Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
       </p>
-    </td> 
+    </td>
    <td>
       <a href="/help/commerce-and-coffee/overview.md">
       <img style="width:100%" alt="Commerce 및 Coffee" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png"/>
@@ -113,6 +126,8 @@ ht-degree: 9%
          Commerce &amp; Coffee 시리즈는 모든 기술 수준의 기존 Adobe Commerce 고객을 위한 것으로 Sr. Commerce 전략 컨설턴트, Corey Gelato를 포함합니다. 이 시리즈는 상거래의 전략과 전술에 초점을 맞추고 있으며, 이벤트 주제를 반영하는 통계에 의해 뒷받침된다.
       </p>
     </td>
+    </tr>
+    <tr> 
    <td>
       <a href="/help/customer-data-management-voices/overview.md">
       <img style="width:100%" alt="고객 데이터 관리 음성" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png"/>
@@ -126,8 +141,7 @@ ht-degree: 9%
          고객 데이터 관리 기술 및 마케팅 실무 리더이자 전문가의 대상입니다. 동료들의 의견을 듣고, 영감을 얻고, martech의 개발에 대해 배울 수 있는 원스톱 샵입니다.
       </p>
     </td>
-   <tr> 
-   <td>
+    <td>
       <a href="/help/deep-dives/overview.md">
       <img style="width:100%" alt="깊이 들어가기" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png"/>
       </a>
@@ -166,6 +180,8 @@ ht-degree: 9%
          Adobe 전문가가 제공하는 기술 Adobe Experience Manager 딥 다이브. 이 시리즈는 제품 설명서와 Adobe Experience Manager에 대한 다른 모든 기술 채널을 보완한 것으로, 개발자가 특정 주제를 선택하여 자세히 알아볼 수 있습니다.
       </p>
     </td>
+    </tr>
+    <tr> 
     <td>
       <a href="/help/experience-manager-release-overview/overview.md">
       <img style="width:100%" alt="Experience Manager 릴리스 개요" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png"/>
@@ -179,8 +195,6 @@ ht-degree: 9%
          Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한 개요 보기. AEM 제품 팀에서 제공하는 약 10분 분량의 짧은 비디오로 최신 릴리스의 하이라이트를 공유합니다.
       </p>
     </td>
-    </tr>
-    <tr>
     <td>
       <a href="/help/learn-from-your-peers/overview.md">
       <img style="width:100%" alt="동료로부터 학습" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png"/>
@@ -220,6 +234,8 @@ ht-degree: 9%
          MBI 웨비나 시리즈는 MBI 고객을 위한 정기 이벤트입니다. 웨비나는 MBI를 최대한 활용할 수 있도록 다양한 주제와 모범 사례를 다룹니다.
       </p>
     </td>
+    </tr>
+    <tr> 
     <td>
       <a href="/help/skill-builder/overview.md">
       <img style="width:100%" alt="스킬 빌더" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png"/>
@@ -233,8 +249,6 @@ ht-degree: 9%
          Skill Builder는 지식 기반을 구축하고 Adobe Experience Cloud에 대한 투자를 극대화하기 위해 설계된 웨비나 시리즈입니다.
       </p>
     </td>
-    </tr>
-    <tr>
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketo 및 Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
