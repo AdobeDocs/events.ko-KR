@@ -2,7 +2,7 @@
 title: Adobe Commerce 제품 업데이트
 description: Adobe Commerce 제품 팀에서 발표한 Adobe Commerce의 최신 제품 혁신.
 user-guide-breadcrumb: Adobe Commerce Release Updates
-source-git-commit: 297506bdd6d1bb73335f8e4054f4aeb3b4c5d2d8
+source-git-commit: 1dc2c36424118ee87f3fd7339f2b582306b91392
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 16%
@@ -23,7 +23,7 @@ Adobe Commerce 제품 업데이트 웨비나에 참여하여 새롭고 흥미로
         <img alt="2023.6.0 릴리스" src="https://video.tv.adobe.com/v/3422012?format=jpeg" />
       </a>
       <div>
-        <a href="2023/2023-6-0.md">
+        <a href="2023/july2023.md">
           <strong>2023년 7월</strong>
           <br/>
         </a>
