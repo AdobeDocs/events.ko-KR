@@ -3,10 +3,10 @@ title: Adobe Experience Manager as a Cloud Service 릴리스 개요
 description: Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한 개요 보기
 user-guide-breadcrumb: AEM Release Events
 exl-id: 15bc0a37-79c6-47f7-958b-96b47fe8b3ff
-source-git-commit: cf77000be5c52184a81d4544d789dc266d8ab494
+source-git-commit: 5630bb6159b0a6e88b4b42cf4d448de20f8400da
 workflow-type: tm+mt
 source-wordcount: '222'
-ht-degree: 96%
+ht-degree: 95%
 
 ---
 
@@ -14,6 +14,176 @@ ht-degree: 96%
 # Adobe Experience Manager as a Cloud Service 릴리스 업데이트
 
 Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한 개요를 확인하십시오. AEM 제품 팀에서 제공하는 약 10분 분량의 짧은 비디오로 최신 릴리스의 하이라이트를 공유합니다.
+<!--
+## Latest Update
+
+<table style="max-width: 50%;">
+  <tr>
+    <td>
+      <a href="2023/2023-7-0.md">
+        <img alt="2023.7.0 Release" src="2023/assets/2023-7-0-thumb.png" />
+      </a>
+      <div>
+        <a href="2023/2023-7-0.md">
+          <strong>Release | 2023.7.0</strong>
+          <br/>
+        </a>
+          <em>Release date July 2023 </em>
+      </div>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
+      <p>
+    </td>
+  </tr>  
+</table> 
+
+## Past Updates
+
+<table style="max-width: 50%;">
+  <tr>
+    <td>
+      <a href="2023/2023-6-0.md">
+        <img alt="2023.6.0 Release" src="2023/assets/2023-6-0-thumb.png" />
+      </a>
+      <div>
+        <a href="2023/2023-6-0.md">
+          <strong>Release | 2023.6.0</strong>
+          <br/>
+        </a>
+          <em>Release date June 2023 </em>
+      </div>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
+      <p>
+    </td>
+    <td>
+      <a href="2023/2023-4-0.md">
+        <img alt="2023.4.0 Release" src="2023/assets/2023-4-0-thumb.png" />
+      </a>
+      <div>
+        <a href="2023/2023-4-0.md">
+          <strong>Release | 2023.4.0</strong>
+          <br/>
+        </a>
+          <em>Release date June 2023 </em>
+      </div>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
+      <p>
+    </td>
+    <td>
+      <a href="2023/2023-2-0.md">
+        <img alt="2023.2.0 Release" src="2023/assets/2023-2-0-thumb.png" />
+      </a>
+      <div>
+        <a href="2023/2023-2-0.md">
+          <strong>Release | 2023.2.0</strong>
+          <br/>
+        </a>
+          <em>Release date Mar 2023 </em>
+      </div>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
+      <p>
+    </td>
+    <tr>
+    <td>
+      <a href="2023/2023-1-0.md">
+        <img alt="2023.1.0 Release" src="2023/assets/2023-1-0-thumb.png" />
+      </a>
+      <div>
+        <a href="2023/2023-1-0.md">
+          <strong>Release | 2023.1.0</strong>
+          <br/>
+        </a>
+          <em>Release date  Feb 2023 </em>
+      </div>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
+      <p>
+    </td>
+    <td>
+      <a href="2022/2022-10-0.md">
+        <img alt="2022.10.0 Release" src="2022/assets/2022-10-0-thumb.png" />
+      </a>
+      <div>
+        <a href="2022/2022-10-0.md">
+          <strong>Release | 2022.10.0</strong>
+          <br/>
+        </a>
+          <em>Release date  Oct 13, 2022 </em>
+      </div>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
+      <p>
+    </td>
+    <td>
+      <a href="2022/2022-8-0.md">
+        <img alt="2022.8.0 Release" src="2022/assets/2022-8-0-thumb.png" />
+      </a>
+      <div>
+        <a href="2022/2022-8-0.md">
+          <strong>Release | 2022.8.0</strong>
+          <br/>
+        </a>
+          <em>Release date  Sept 1, 2022 </em>
+      </div>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
+      <p>
+    </td>
+    </tr>
+    <td>
+      <a href="2022/2022-7-0.md">
+        <img alt="2022.7.0 Release" src="2022/assets/2022-7-0-thumb.png" />
+      </a>
+      <div>
+        <a href="2022/2022-7-0.md">
+          <strong>Release | 2022.7.0</strong>
+          <br/>
+        </a>
+          <em>Release date  Aug 8, 2022 </em>
+      </div>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
+      <p>
+    </td>
+    <td>
+      <a href="2022/2022-6-0.md">
+        <img alt="2022.6.0 Release" src="2022/assets/2022-6-0-thumb.png" />
+      </a>
+      <div>
+        <a href="2022/2022-6-0.md">
+          <strong>Release | 2022.6.0</strong>
+          <br/>
+        </a>
+          <em>Release date  June 30, 2022 </em>
+      </div>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
+      <p>
+    </td>
+    <td>
+      <a href="2022/2022-5-0.md">
+        <img alt="2022.5.0 Release" src="2022/assets/2022-5-0-thumb.png" />
+      </a>
+      <div>
+        <a href="2022/2022-5-0.md">
+          <strong>Release | 2022.5.0</strong>
+          <br/>
+        </a>
+          <em>Release date  June 9, 2022 </em>
+      </div>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
+      <p>
+    </td>
+  </tr>
+</table>
+
+ -->
+
+
 
 ## 최신 업데이트
 
@@ -182,3 +352,4 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한
     </td>
   </tr>
 </table>
+
