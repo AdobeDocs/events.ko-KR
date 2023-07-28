@@ -1,7 +1,7 @@
 ---
-title: 몇 번의 클릭만으로 데이터 수집 및 이벤트 전달을 시작하고 실행할 수 있습니다!
+title: 몇 번의 클릭만으로 데이터 수집 및 이벤트 전달을 시작하고 실행할 수 있습니다.
 description: 몇 번의 클릭만으로 Adobe의 데이터 수집 빠른 시작 워크플로우가 백엔드에 여러 가지를 설정하여 시간을 절약하고 설정이 올바른지 확인합니다.
-solution: Data Collection,Experience Platform,Analytics,Real-time Customer Data Platform,Customer Journey Analytics
+solution: Data Collection,Experience Platform,Analytics,Real-Time Customer Data Platform,Customer Journey Analytics
 kt: 13041
 thumbnail: https://video.tv.adobe.com/v/3417927?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=jGjIKIWFNsM
@@ -9,14 +9,14 @@ event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230425.html
 event-start-time: 2023-4-25 09:00-8
 event-guests: Rudi Shumpert,Travis Jordan,Doug Moore
 exl-id: 1c5c5c90-9772-440e-a7eb-5138d4adadb9
-source-git-commit: 2f91f340269875ee9affbfafc09a3476bfb80d39
+source-git-commit: 1f9b259f31faf9c58a8ea161d17dcffdba47a53d
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 39%
 
 ---
 
-# 몇 번의 클릭만으로 데이터 수집 및 이벤트 전달을 시작하고 실행할 수 있습니다!
+# 몇 번의 클릭만으로 데이터 수집 및 이벤트 전달을 시작하고 실행할 수 있습니다.
 
 **Adobe Experience Platform 데이터 수집의 새로운 빠른 시작 워크플로우 소개**
 

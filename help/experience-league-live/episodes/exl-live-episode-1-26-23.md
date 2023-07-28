@@ -1,7 +1,7 @@
 ---
 title: 데이터 수집 하이라이트 및 로드맵
 description: Adobe 시 데이터 수집은 매우 중요합니다. 작업하는 데이터를 신뢰할 수 있어야 합니다. 작년에 다양한 릴리스가 있었으며 앞으로도 흥미진진한 릴리스가 예정되어 있습니다.
-solution: Data Collection,Experience Platform,Analytics,Real-time Customer Data Platform,Customer Journey Analytics
+solution: Data Collection,Experience Platform,Analytics,Real-Time Customer Data Platform,Customer Journey Analytics
 kt: 11645
 thumbnail: https://video.tv.adobe.com/v/3412963?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=Gj_FDCMgU8I
@@ -9,7 +9,7 @@ event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230126.html
 event-start-time: 2023-1-26 09:00-8
 event-guests: Rudi Shumpert,Mitch Rice,Doug Moore
 exl-id: f2552b21-3b1e-4538-bfe4-a37f4225c4d0
-source-git-commit: 2f91f340269875ee9affbfafc09a3476bfb80d39
+source-git-commit: 1f9b259f31faf9c58a8ea161d17dcffdba47a53d
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 37%

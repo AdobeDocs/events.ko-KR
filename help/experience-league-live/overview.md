@@ -1,16 +1,16 @@
 ---
 title: Experience League LIVE 이벤트
 description: 이전 Experience League LIVE 이벤트에 대한 링크 컬렉션
-solution: Experience Platform,Real-time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
+solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 4017a3a3d649af24fd668a24ceece6ed32598c35
+source-git-commit: 1f9b259f31faf9c58a8ea161d17dcffdba47a53d
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 54%
+source-wordcount: '167'
+ht-degree: 51%
 
 ---
 
@@ -24,8 +24,16 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 <table>
 <tr>
-  <td style="vertical-align: top;">
-    다가오는 2023년 8월 쇼에 대한 자세한 내용은 곧 이 페이지로 돌아오십시오!
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-8-23-23.md">
+      <img alt="Experience League LIVE 4월 21일" src="assets/Aug23_exl_live_banner_web_1920_WebBanner.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-8-23-23.md">
+        <strong>Adobe Journey Optimizer의 API 트리거 메시징</strong>
+      </a>
+      <br/><em>산드라 하우스만, 싯다르트 자인, 니킬 샤르마, 체탄 프라사드와 함께</em>
+      <br/><em>2023년 8월 23일</em>
+    </div>
   </td>
 </tr>
 </table>
