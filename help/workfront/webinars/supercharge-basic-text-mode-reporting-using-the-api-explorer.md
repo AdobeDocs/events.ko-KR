@@ -6,16 +6,16 @@ doc-type: feature video
 team: Technical Marketing
 kt: 9918
 exl-id: ea4716c9-2c61-4c44-9d2a-cbd4f07699d5
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 5952a51bcc4ec25d14cf5527ec1af218ebc0ae11
 workflow-type: tm+mt
-source-wordcount: '1658'
+source-wordcount: '1662'
 ht-degree: 2%
 
 ---
 
 # 전문가에게 문의 - API 탐색기를 사용하여 기본 텍스트 모드 보고
 
-API 탐색기, API 탐색기 사용 방법, 기본 텍스트 모드를 활용하여 보고서를 향상시키는 방법에 대해 알아봅니다. 이 웨비나는 2020년 1월 22일에 녹화되었습니다.
+에 대해 알아보기 [[!UICONTROL API 탐색기]](https://developer.adobe.com/workfront/api-explorer/), 사용 방법 및 기본 텍스트 모드를 활용하여 보고서를 향상시키는 방법에 대해 설명합니다. 이 웨비나는 2020년 1월 22일에 녹화되었습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341124/?quality=12)
 
@@ -49,7 +49,7 @@ valueexpression={name}
 valueformat=HTML
 ```
 
-**&quot;모든 그룹&quot; 열에 대한 텍스트 모드**
+**&quot;모든 그룹&quot; 열의 텍스트 모드**
 
 ```
 displayname=All Groups
@@ -93,7 +93,7 @@ valueformat=HTML
 
 **질문**
 
-&quot;작업 업데이트 컬렉션&quot;이 작업 보고서에서만 가능한지 논의할 수 있습니까?
+&quot;작업 업데이트 컬렉션이 작업 보고서에서만 가능한지&quot; 여부를 논의할 수 있습니까?
 
 **답변**
 
