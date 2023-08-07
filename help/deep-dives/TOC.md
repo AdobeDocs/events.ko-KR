@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 45197a447b183e1be3f0c2806fe33b19780086e5
+source-git-commit: ec7e7cd800b0e3c78c259de4211190a090009c4d
 workflow-type: tm+mt
-source-wordcount: '30'
-ht-degree: 6%
+source-wordcount: '31'
+ht-degree: 9%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 6%
 
 + [개요](overview.md)
 + Marketo의 딥 다이브 {#deep-dives-marketo}
+   + [API](api.md)
    + [인증](certification.md)
    + [전자 메일 지원](email-nurture.md)
    + [인스턴스 상속](inheriting-an-instance.md)
