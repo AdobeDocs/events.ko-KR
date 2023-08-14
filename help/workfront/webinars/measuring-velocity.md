@@ -4,11 +4,12 @@ description: 다음을 사용하여 속도를 측정하고 추적하는 방법�
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: 9912
+jira: KT-9912
+last-substantial-update: 2023-08-14T00:00:00Z
 exl-id: 7ed7887f-acc5-43dd-b0dc-e64341f969ca
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e087e65f2ddea9bf9ca11a5ae7b3dae516402d8c
 workflow-type: tm+mt
-source-wordcount: '3919'
+source-wordcount: '3918'
 ht-degree: 1%
 
 ---
@@ -30,7 +31,7 @@ ht-degree: 1%
 계산:
 
 ```
-IF(ISBLANK(First Commit Date),Default Baseline.Planned Completion Date,First Commit Date)
+IF(ISBLANK({DE:First Commit Date}),{defaultBaseline}.{plannedCompletionDate},{DE:First Commit Date})
 ```
 
 **첫 번째 기간**
@@ -40,7 +41,7 @@ IF(ISBLANK(First Commit Date),Default Baseline.Planned Completion Date,First Com
 계산:
 
 ```
-IF(ISBLANK(First Duration),Default Baseline.Duration,First Duration)
+IF(ISBLANK({DE:First Duration}),{defaultBaseline}.{durationMinutes},{DE:First Duration})
 ```
 
 **Work-to-Commit 비율**
@@ -50,7 +51,7 @@ IF(ISBLANK(First Duration),Default Baseline.Duration,First Duration)
 계산:
 
 ```
-ROUND(DIV(Actual Duration,First Duration),1)
+ROUND(DIV({actualDurationMinutes},{DE:First Duration}),1)
 ```
 
 **작업-커밋 비율 상태**
@@ -60,7 +61,7 @@ ROUND(DIV(Actual Duration,First Duration),1)
 계산:
 
 ```
-IF({Work-to-Commit Ratio}>2,"Terrible",IF({Work-to-CommitRatio}>1.6,"Poor",IF({Work-to-Commit Ratio}>1.2,"Not Bad","Exc ellent")))
+IF({DE:Work-to-Commit Ratio}>2,"Terrible",IF({DE:Work-to-Commit Ratio}>1.6,"Poor",IF({DE:Work-to-Commit Ratio}>1.2,"Not Bad","Excellent")))
 ```
 
 **조정된 속도**
@@ -70,7 +71,7 @@ IF({Work-to-Commit Ratio}>2,"Terrible",IF({Work-to-CommitRatio}>1.6,"Poor",IF({W
 계산:
 
 ```
-ROUND(DIV(Actual Duration,Duration),1)
+ROUND(DIV({actualDurationMinutes},{durationMinutes}),1)
 ```
 
 **조정된 속도 상태**
@@ -80,7 +81,7 @@ ROUND(DIV(Actual Duration,Duration),1)
 계산:
 
 ```
-IF(Adjusted Velocity>2,"Terrible",IF(Adjusted Velocity>1.6,"Poor",IF(Adjusted Velocity>1.2,"Not Bad","Excellent")))
+IF({DE:Adjusted Velocity}>2,"Terrible",IF({DE:Adjusted Velocity}>1.6,"Poor",IF({DE:Adjusted Velocity}>1.2,"Not Bad","Excellent")))
 ```
 
 ## Q&amp;A
@@ -95,7 +96,7 @@ IF(Adjusted Velocity>2,"Terrible",IF(Adjusted Velocity>1.6,"Poor",IF(Adjusted Ve
 
 단계는 다음과 같습니다.
 
-1. 조건 값에 매핑할 상태 값을 결정합니다. 예를 들어 상태 값이 &quot;지연&quot;과 &quot;매우 지연&quot;이며 둘 다 &quot;문제 발생&quot;이라는 상태 값에 매핑된다고 가정해 보겠습니다
+1. 조건 값에 매핑할 상태 값을 결정합니다. 예를 들어 상태 값이 &quot;지연&quot; 및 &quot;매우 지연&quot;이고 둘 다 &quot;문제 발생&quot;이라는 상태 값에 매핑된다고 가정해 보겠습니다.
 1. 상태 값이 &quot;지연&quot; 및 &quot;매우 지연&quot;인 모든 프로젝트를 표시하는 프로젝트 보고서 만들기
 1. 보고서를 실행합니다. 모든 프로젝트를 표시하는지 확인합니다(보고서의 오른쪽 하단에 있는 옵션 참조).
 1. 열 제목이 있는 막대에서 보고서 왼쪽 상단의 확인란을 클릭합니다. 이렇게 하면 보고서의 모든 프로젝트가 선택됩니다.
@@ -111,7 +112,7 @@ IF(Adjusted Velocity>2,"Terrible",IF(Adjusted Velocity>1.6,"Poor",IF(Adjusted Ve
 
 **답변**
 
-이것은 단지 예시일 뿐이지만, 제가 이것을 설정하는 방법은 다음과 같습니다. 먼저 두 개의 인덱스를 계산했습니다.
+이것은 단지 예시일 뿐이지만, 제가 이것을 설정하는 방법은 이렇습니다. 먼저 두 개의 인덱스를 계산했습니다.
 
 조정된 속도
 
@@ -251,9 +252,9 @@ Velocity 보고서의 값은 Planned Duration이 First Duration에서 얼마나 
 
 **답변**
 
-제가 당신의 질문을 이해하는지 봅시다. 작업 사용자 정의 양식 Tammy Form에 Tammy Field라는 필드가 있다고 가정합니다.
+제가 당신의 질문을 이해했는지 봅시다. 작업 사용자 정의 양식 Tammy Form에 Tammy Field라는 필드가 있다고 가정합니다.
 
-태미 양식이 첨부되어 있고 태미 필드가 있는 위치에 일부 가치가 있는 모든 작업을 표시하는 작업 보고서가 필요합니다.
+Tammy Form이 첨부된 모든 작업과 Tammy Field가 가치를 갖는 위치를 보여 주는 작업 보고서가 필요합니다.
 
 네그렇게 하실 수 있습니다 작업 보고서에 두 개의 필터 규칙이 있는 필터만 있으면 됩니다.
 
@@ -267,7 +268,7 @@ Velocity 보고서의 값은 Planned Duration이 First Duration에서 얼마나 
 
 **답변**
 
-예. 문서 보고서를 만들어야 합니다. 보고서를 실행할 때마다 특정 문서 이름을 제공해야 할 수 있습니다. 이런 경우 보고서 옵션 으로 이동하여 보고서 프롬프트 를 선택하는 것이 좋습니다. 문서 >> 이름에 대한 프롬프트를 추가합니다.
+예. 문서 보고서를 만들어야 합니다. 보고서를 실행할 때마다 특정 문서 이름을 제공해야 할 수 있습니다. 이 경우 보고서 옵션 으로 이동하여 보고서 프롬프트 를 선택하는 것이 좋습니다. 문서 >> 이름에 대한 프롬프트를 추가합니다.
 
 **질문**
 
@@ -341,7 +342,7 @@ x축에 새로운 데이터를 어떻게 추가했습니까?
 
 먼저 필터 탭을 사용하여 목록에 표시되는 항목을 제어합니다. 중복 항목이 없습니다. 필터는 각 객체에 적용됩니다. 필터를 통과하면 목록에 한 번 표시되고, 그렇지 않으면 전혀 표시되지 않습니다.
 
-다음 그룹화가 필터링된 목록에 적용됩니다. 그룹화는 포트폴리오의 이름과 같이 목록에 있는 개체에 대한 한 가지를 식별합니다(항목 목록에는 그룹화할 수 없으며 한 가지에만 그룹화할 수 있습니다). 그러면 동일한 포트폴리오의 모든 프로젝트와 마찬가지로 동일한 값을 갖는 모든 오브젝트가 해당 그룹화에 표시됩니다. 포트폴리오가 선택되지 않은 모든 프로젝트는 &quot;값 없음&quot; 그룹화에 표시됩니다.
+다음 그룹화가 필터링된 목록에 적용됩니다. 그룹화는 목록에 있는 포트폴리오의 이름과 같이 목록에 있는 오브젝트에 대한 한 가지를 식별합니다(항목 목록에는 그룹화할 수 없으며 단일 항목에만 그룹화할 수 있음). 그러면 동일한 포트폴리오의 모든 프로젝트와 마찬가지로 동일한 값을 갖는 모든 오브젝트가 해당 그룹화에 표시됩니다. 포트폴리오가 선택되지 않은 모든 프로젝트는 &quot;값 없음&quot; 그룹화에 표시됩니다.
 
 따라서 두 개 이상의 그룹화에는 개체가 나타날 수 없습니다. 그리고 객체가 목록에 표시되는지 여부는 전적으로 필터에 의해 제어됩니다(그리고 보고서를 실행하는 사람이 이를 볼 수 있는 권한이 있는 경우).
 
@@ -353,11 +354,11 @@ Velocity를 추적할 다른 보고서를 추천하시겠습니까? 세부적으
 
 다른 보고서와 마찬가지로, 가장 먼저 알고 싶은 것을 결정하는 것이 필요합니다. 다음 단계는 해당 정보에 액세스하는 것이며, 경우에 따라 추적을 시작해야 합니다.
 
-실제 기간과 계획된 기간 의 두 종류를 비교하기로 한 한 이유 중 하나는 이것이 속도에 대한 흥미로운 통찰력을 제공한다고 생각했기 때문입니다. 데이터 또한 이미 사용 가능하기 때문에 추적을 시작할 필요가 없었습니다. 몇 가지 계산을 통해 나는 내가 보고할 수 있는 형태로 데이터를 추출할 수 있었다.
+실제 기간과 계획된 기간 두 종류를 비교하기로 한 한 이유 중 하나는 속도가 흥미로운 통찰력을 제공한다고 생각했기 때문입니다. 데이터도 이미 사용 가능하기 때문에 추적을 시작할 필요가 없었다. 몇 가지 계산을 통해 나는 내가 보고할 수 있는 형태로 데이터를 추출할 수 있었다.
 
 하지만 보고할 작업 또는 프로젝트에 대한 다른 정보를 추적하도록 결정하는 것이 좋습니다.
 
-Workfront에는 내장된 속도 보고서가 없으므로 속도를 결정하고 추적해야 하는 것을 확인하기 위해 알아야 할 사항에 대해 나와 내 팀이 브레인스토밍하는 것이 좋습니다.
+Workfront에는 내장된 속도 보고서가 없으므로 속도를 결정하고 추적해야 하는 것을 확인하기 위해 알고 싶은 것에 대해 사용자와 팀의 브레인스토밍을 권장합니다.
 
 **질문**
 
@@ -367,7 +368,7 @@ COLUMN 레벨에서 아무 것도 계산할 수 있습니까? 사용자 정의 �
 
 이러한 계산을 수행하려면 텍스트 모드에서 valueexpression을 사용할 수 있습니다. 첫 번째 기간이나 첫 번째 커밋 일자를 수행할 수는 없었지만 변경되지 않는 위치에서 이러한 일자를 캡처해야 했습니다.
 
-작업-커밋 비율 상태 및 조정된 속도 상태는 차트 탭에서 사용할 수 있도록 사용자 정의 필드여야 합니다. 차트 탭은 텍스트 모드 그룹화를 인식하지 못합니다. 사용자 정의 필드여야 합니다. 또한 이러한 상태를 계산하기 위해 Work-to-Commit Ratio와 Adjusted Velocity가 필요했으므로 사용자 정의 필드도 필요합니다. 따라서 이 경우 모든 필드는 사용자 정의 필드여야 하지만 두 가지 방법을 모두 고려하여 가장 적합한 필드를 선택하는 것이 좋습니다. 질문해 주셔서 감사합니다.
+작업-커밋 비율 상태 및 조정된 속도 상태는 차트 탭에서 사용할 수 있도록 사용자 정의 필드여야 합니다. 차트 탭은 텍스트 모드 그룹화를 인식하지 못합니다. 사용자 정의 필드여야 합니다. 또한 이러한 상태를 계산하기 위해 Work-to-Commit Ratio와 Adjusted Velocity가 필요했으므로 사용자 정의 필드도 필요합니다. 따라서 이 경우 모두 사용자 정의 필드여야 하지만 두 가지 방법을 모두 고려하여 가장 적합한 필드를 선택하는 것이 좋습니다. 질문해 주셔서 감사합니다.
 
 **질문**
 
@@ -377,7 +378,7 @@ COLUMN 레벨에서 아무 것도 계산할 수 있습니까? 사용자 정의 �
 
 드롭다운을 사용하여 이를 추적하는 것이 가장 좋습니다. 시작할 때 생각할 수 있는 만큼 &quot;이유&quot;를 많이 넣은 다음 &quot;기타&quot; 옵션을 추가하여 목록에 없는 이유를 캡처합니다. 새 이유가 보이거나 일반화되는 경우 드롭다운에 추가합니다. 드롭다운 목록에서 원하는 항목을 쉽게 보고할 수 있으며 이 필드에서 그룹화할 수 있습니다(확인란 또는 다중 선택 드롭다운에서 그룹화할 수 없음).
 
-이에 대한 또 다른 댓글입니다. Velocity 보고서에 모든 프로젝트를 포함하지 않을 수 있습니다. 버그를 고치거나 &quot;아무도 가지 않은 곳으로 가는&quot; 경우, 이전에 여러 번 지은 집을 짓는 것처럼 완료 날짜에 대한 동일한 약속을 하지 않을 수 있습니다.
+이에 대한 또 다른 댓글입니다. Velocity 보고서에 모든 프로젝트를 포함하지 않을 수 있습니다. 벌레를 고치거나 &quot;아무도 가지 않은 곳으로 간다&quot;면 준공 날짜에 여러 번 지은 집을 짓는 것처럼 같은 약속을 하지 않을 수 있다.
 
 따라서 목표를 달성하는 데 도움이 될 수 있는 위치에 속도 보고를 집중해야 합니다.
 
@@ -403,7 +404,7 @@ COLUMN 레벨에서 아무 것도 계산할 수 있습니까? 사용자 정의 �
 
 **답변**
 
-예. 문서 보고서를 만들어야 합니다. 보고서를 실행할 때마다 특정 문서 이름을 제공해야 할 수 있습니다. 이런 경우 보고서 옵션 으로 이동하여 보고서 프롬프트 를 선택하는 것이 좋습니다. 문서 >> 이름에 대한 프롬프트를 추가합니다.
+예. 문서 보고서를 만들어야 합니다. 보고서를 실행할 때마다 특정 문서 이름을 제공해야 할 수 있습니다. 이 경우 보고서 옵션 으로 이동하여 보고서 프롬프트 를 선택하는 것이 좋습니다. 문서 >> 이름에 대한 프롬프트를 추가합니다.
 
 **질문**
 
@@ -441,15 +442,15 @@ Workfront의 Analytics 기능을 사용하면 상태 변경을 포함하여 내�
 
 하지만 메모 보고서를 사용하여 상태 변경 정보를 얻을 수도 있습니다. 프로젝트 상태 필드를 추적하는 경우 필터링하여 프로젝트의 상태 변경 사항을 볼 수 있습니다.
 
-따라서 먼저 설정>인터페이스>피드 업데이트로 이동하여 프로젝트 상태가 추적 중인 기본 제공 필드 중 하나인지 확인하십시오. 그렇지 않은 경우 추가해야 합니다.
+따라서 먼저 설정>인터페이스>피드 업데이트로 이동하여 프로젝트 상태가 추적 중인 기본 제공 필드 중 하나인지 확인하십시오. 그렇지 않으면 추가할 필요가 있습니다.
 
 이제 메모 보고서를 만들고 다음을 수행합니다.
 
 열(보기) 탭에서:
 
-* &quot;Note Text&quot; 열을 &quot;Audit Text&quot;로 바꿉니다. 및에서 로 상태가 변경된 사항에 대한 정보가 표시됩니다.
-* &quot;프로젝트: 이름&quot; 및 &quot;입력 날짜&quot; 열을 그대로 둡니다.
-* &quot;시작 날짜&quot; 열을 클릭한 다음 열 설정 패널에서 &quot;이 열별로 정렬&quot;을 선택합니다. 맨 위에 있는 가장 최근 상태 변경 사항을 보려면 내림차순으로 정렬하십시오.
+* &quot;감사 텍스트&quot;에 대한 &quot;메모 텍스트&quot; 열을 바꿉니다. 및에서 로 상태가 변경된 사항에 대한 정보가 표시됩니다.
+* &quot;프로젝트: 이름&quot; 및 &quot;입력 날짜&quot; 열을 둡니다.
+* 시작 날짜 열을 클릭한 다음 열 설정 패널에서 &quot;이 열별로 정렬&quot;을 선택합니다. 맨 위에 있는 가장 최근 상태 변경 사항을 보려면 내림차순으로 정렬하십시오.
 
 그룹화 탭에서:
 
