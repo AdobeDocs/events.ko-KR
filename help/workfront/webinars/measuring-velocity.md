@@ -7,7 +7,7 @@ team: Technical Marketing
 jira: KT-9912
 last-substantial-update: 2023-08-15T00:00:00Z
 exl-id: 7ed7887f-acc5-43dd-b0dc-e64341f969ca
-source-git-commit: 063fb4f12e8f5b61f21c96cf86b00966d14b3da9
+source-git-commit: 5f6bb627a24b2b3018094ed31842c1e712785f48
 workflow-type: tm+mt
 source-wordcount: '3958'
 ht-degree: 1%
@@ -27,8 +27,7 @@ ht-degree: 1%
 >[!NOTE]
 >
 >2019년에 프레젠테이션을 시작한 후 사용자 정의 필드 계산에 대한 구문이 변경되었지만 프레젠테이션에 제공된 개념과 기타 지침은 여전히 정확합니다.
-
-아래에 포함된 계산이 최신 구문 규칙을 반영하도록 업데이트되었습니다.
+>**아래에 포함된 계산이 최신 구문 규칙을 반영하도록 업데이트되었습니다.**
 
 **첫 번째 커밋 일자**
 
