@@ -5,11 +5,11 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
-last-substantial-update: 2023-08-14T00:00:00Z
+last-substantial-update: 2023-08-15T00:00:00Z
 exl-id: 7ed7887f-acc5-43dd-b0dc-e64341f969ca
-source-git-commit: e087e65f2ddea9bf9ca11a5ae7b3dae516402d8c
+source-git-commit: 063fb4f12e8f5b61f21c96cf86b00966d14b3da9
 workflow-type: tm+mt
-source-wordcount: '3918'
+source-wordcount: '3958'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,12 @@ ht-degree: 1%
 ## 프레젠테이션에 사용되는 사용자 정의 필드
 
 아래 계산을 복사하여 붙여 넣으면 시간을 절약할 수 있습니다.
+
+>[!NOTE]
+>
+>2019년에 프레젠테이션을 시작한 후 사용자 정의 필드 계산에 대한 구문이 변경되었지만 프레젠테이션에 제공된 개념과 기타 지침은 여전히 정확합니다.
+
+아래에 포함된 계산이 최신 구문 규칙을 반영하도록 업데이트되었습니다.
 
 **첫 번째 커밋 일자**
 
