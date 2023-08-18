@@ -2,10 +2,10 @@
 user-guide-title: Adobe Experience League 이벤트 레코딩
 user-guide-breadcrumb: Event Recordings
 user-guide-description: Adobe의 Enterprise 제품 사용에 초점을 맞춘 이벤트 녹화본 컬렉션
-source-git-commit: 0122cd988472a6c1b87318b925f87b56e908c6e9
+source-git-commit: cd312615b7569fd5eabdee3b08e63ccb23b6ec28
 workflow-type: tm+mt
-source-wordcount: '580'
-ht-degree: 13%
+source-wordcount: '588'
+ht-degree: 16%
 
 ---
 
@@ -28,6 +28,7 @@ ht-degree: 13%
    + [동료로부터 학습](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
    + [Marketo 및 Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
    + [MBI 웨비나](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
+   + [오피스 아워](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
    + [스킬 빌더](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + [The Skill Exchange](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
