@@ -3,9 +3,9 @@ title: Adobe Experience League 이벤트
 description: Adobe의 엔터프라이즈 제품 사용에 초점을 맞춘 이벤트 녹화본 모음입니다
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: 297506bdd6d1bb73335f8e4054f4aeb3b4c5d2d8
+source-git-commit: e6b314b48137e9d3ee7d389977843f10cb6927f3
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '895'
 ht-degree: 9%
 
 ---
@@ -80,7 +80,7 @@ ht-degree: 9%
       </a>
       <div>
          <a href="/help/aem-champion-office-hours/overview.md"><strong>AEM Champion 운영 시간</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Manager</em>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Commerce, Adobe Experience Manager, Adobe Campaign, Marketo Adobe, Adobe Target, Customer Journey Analytics, Real-Time CDP</em>
       </div>
       <p>
         <br/>
@@ -221,6 +221,21 @@ ht-degree: 9%
          Marketo 및 Mochas는 Adobe Marketo을 사용하여 비즈니스를 지원하는 방법을 더 잘 이해하는 데 도움이 됩니다.
       </p>
     </td>
+    </tr>
+    <tr>
+    <td>
+      <a href="/help/office-hours/overview.md">
+      <img style="width:100%" alt="오피스 아워" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png"/>
+      </a>
+      <div>
+         <a href="/help/mbi-webinars/overview.md"><strong>오피스 아워</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
+      </div>
+      <p>
+        <br/>
+         오피스 아워(Office Hours)는 솔루션별 웨비나를 제공하여 사례 변경에 대한 사전 예방적 접근 방식입니다. 
+      </p>
+    </td>
     <td>
       <a href="/help/mbi-webinars/overview.md">
       <img style="width:100%" alt="MBI 웨비나" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
@@ -234,8 +249,6 @@ ht-degree: 9%
          MBI 웨비나 시리즈는 MBI 고객을 위한 정기 이벤트입니다. 웨비나는 MBI를 최대한 활용할 수 있도록 다양한 주제와 모범 사례를 다룹니다.
       </p>
     </td>
-    </tr>
-    <tr> 
     <td>
       <a href="/help/skill-builder/overview.md">
       <img style="width:100%" alt="스킬 빌더" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png"/>
@@ -249,6 +262,8 @@ ht-degree: 9%
          Skill Builder는 지식 기반을 구축하고 Adobe Experience Cloud에 대한 투자를 극대화하기 위해 설계된 웨비나 시리즈입니다.
       </p>
     </td>
+    </tr>
+    <tr>     
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketo 및 Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
