@@ -4,9 +4,9 @@ user-guide-breadcrumb: "[!DNL Campaign] Insider Events"
 user-guide-description: Adobe을 위한 팁 및 요령 및 영감 [!DNL Campaign] 크로스 채널 마케팅 전략을 발전시키고, 팀 마케팅 실무자의 기술을 향상시키고, 조직이 보다 고급 크로스 채널 마케팅 전략을 개시하도록 지원하는 고객.
 feature-set: Campaign
 solution: Campaign
-source-git-commit: 4dab34d66617ff8cc6f4a4daaea06badc3987962
+source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '79'
 ht-degree: 32%
 
 ---
@@ -23,3 +23,5 @@ ht-degree: 32%
    + [을 통해 크로스 채널 마케팅 강화 [!DNL Campaign Classic]](2022/cross-channel.md)
    + [크로스 채널 마케팅을 지원하는 데 필요한 팀, 기술 및 구조 디자인](2022/team-skills-org-design.md)
    + [전문가의 시간 절약 팁](2022/tips.md)
++ 2023 {#2023}
+   + [고객 Spotlight](2023/customer-spotlight-center-parcs.md)

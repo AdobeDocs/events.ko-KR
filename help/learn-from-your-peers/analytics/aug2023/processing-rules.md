@@ -1,0 +1,24 @@
+---
+title: Adobe Analytics에서 처리 규칙 의 강력한 기능 사용
+description: Adobe Analytics의 숨겨진 보석 - 처리 규칙을 사용하여 데이터 처리 및 분석을 효율적으로 최적화하는 방법을 Adobe Analytics 챔피언으로부터 알아보십시오. 매우 중요한 이 툴은 다양한 문제를 해결하고, 데이터 흐름을 세밀하게 조정하며, 추가 처리 전에 정확한 데이터 할당 또는 수정을 가능하게 합니다.
+feature-set: Analytics
+feature: Processing Rules
+role: User
+level: Beginner
+doc-type: Event
+last-substantial-update: 2023-08-25T00:00:00Z
+jira: KT-13802
+thumbnail: 3422690.jpeg
+source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
+workflow-type: tm+mt
+source-wordcount: '104'
+ht-degree: 0%
+
+---
+
+
+# Adobe Analytics에서 처리 규칙 의 강력한 기능 사용
+
+Adobe Analytics Champion으로부터 Adobe Analytics의 숨겨진 보석(처리 규칙)을 사용하여 데이터 처리 및 분석을 효율적으로 최적화하는 방법에 대해 알아보십시오. 매우 중요한 이 툴은 다양한 문제를 해결하고, 데이터 흐름을 세밀하게 조정하며, 추가 처리 전에 정확한 데이터 할당 또는 수정을 가능하게 합니다.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3422690/?learn=on)

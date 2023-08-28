@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "다음 녹음/녹화 컬렉션: [!DNL Experience Makers Learn from your peers]"
-source-git-commit: e52d34d59b96fcde3e964733c3cfec49f0a46cff
+source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 21%
+source-wordcount: '97'
+ht-degree: 20%
 
 ---
 
@@ -15,6 +15,8 @@ ht-degree: 21%
 + [Experience Maker](overview.md)
 + Analytics {#analytics}
    + 2023 {#2023}
+      + 년 8월{#aug2023}
+         + [Adobe Analytics에서 처리 규칙 의 강력한 기능 사용](analytics/aug2023/processing-rules.md)
       + 년 2월{#feb2023}
          + [데이터 기반 문화 구축](analytics/feb2023/data-driven-culture.md)
          + [데이터 기반 문화 구축 후속 Q&amp;A](analytics/feb2023/data-driven-culture-q-and-a.md)
