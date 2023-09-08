@@ -11,17 +11,17 @@ doc-type: Event
 last-substantial-update: 2023-06-22T00:00:00Z
 jira: KT-13542
 thumbnail: KT-13542.jpeg
-source-git-commit: bbbaa32a14c7da72225a94a6c15533aa0c3dd469
+source-git-commit: c475497b293909a5ea8365463a0d075bc34d4e01
 workflow-type: tm+mt
-source-wordcount: '323'
-ht-degree: 0%
+source-wordcount: '350'
+ht-degree: 1%
 
 ---
 
 
 # 기본 Experience Manager 기술 인증 : 준비, 준비, 인증 받기!
 
-이 웨비나는 다음 일자에 수행됩니다. **6월 28일**, 2023년 오전 8시(PST) 이것을 통해 등록하십시오. [이벤트 페이지 링크](https://adobe.ly/3Ni6XeL).
+이 웨비나는에서 수행되었습니다. **6월 28일**, 2023년. 아래 기록을 확인하십시오.
 
 ## 세션 설명
 
@@ -37,3 +37,13 @@ AEM 인증 프로그램의 기술적인 측면과 프레임워크를 살펴볼 �
 
 * Ayana Nickerson, 수석 자격 증명 인증 프로그램 관리자, Adobe
 * Payal Banerjee, Sr. 솔루션 컨설턴트, Adobe
+
+## 웨비나 녹화 - 2023년 6월 28일
+
+>[!VIDEO](https://video.tv.adobe.com/v/3421028)
+
+>[!NOTE]
+>
+>* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 다음을 방문하십시오. [컨텍스트 기반 스레드](https://adobe.ly/3p2CmbA)
+>
+>* 예정된 웨비나에 대한 알림을 받으려면 다음 위치에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
