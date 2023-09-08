@@ -2,10 +2,10 @@
 user-guide-title: 운영 시간 Adobe
 user-guide-breadcrumb: Adobe Office Hours
 user-guide-description: 오피스 아워(Office Hours)는 솔루션별 웨비나를 제공하여 사례 변경에 대한 사전 예방적 접근 방식입니다.
-source-git-commit: cb7148bcc186fc747d97476d12648e40cc7e147a
+source-git-commit: dcddd5ed81868ffcd0bf2a41fd898800129a4bc0
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 14%
+source-wordcount: '89'
+ht-degree: 15%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 14%
 + 2023 {#2023}
    + Adobe Campaign {#adobe-campaign-office-hours}
       + [SMS 채널 개요 및 문제 해결 팁](2023/ac-sms-channel-overview.md)
+   + Adobe Analytics {#adobe-analytics}
+      + [Launch 우수 사례](2023/launch-best-practices.md)
    + Adobe Experience Platform {#adobe-experience-platform-office-hours}
       + [Admin Console 권한](2023/aep-admin-console-permissions.md)
    + Adobe Experience Manager {#adobe-experience-manager-office-hours}
