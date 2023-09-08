@@ -1,8 +1,8 @@
 ---
 user-guide-title: Adobe Experience League 이벤트 레코딩
 user-guide-breadcrumb: Event Recordings
-user-guide-description: Adobe의 Enterprise 제품 사용에 초점을 맞춘 이벤트 녹화본 컬렉션
-source-git-commit: 7378dc0e3e7caf4942e90e95668806bca03c1067
+user-guide-description: Adobe 엔터프라이즈 제품 사용에 초점을 맞춘 이벤트 녹화본 컬렉션
+source-git-commit: 2f61c1360c57a6c93a36cfb944351c67b98a54ed
 workflow-type: tm+mt
 source-wordcount: '697'
 ht-degree: 14%
