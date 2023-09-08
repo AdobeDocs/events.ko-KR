@@ -1,6 +1,6 @@
 ---
 title: aem cloud service용 newrelic apm
-description: 세션에 참여하십시오. 이 세션에서는 최종 사용자 고객에게 영향을 미치는 문제를 인식하고 해결하도록 안내하며 AEM as a Cloud Service 프로젝트의 효율성 향상을 통해 탁월한 경험을 제공합니다. | AEM as a Cloud Service 시스템에 대한 외부 서비스의 영향 측정 | 맞춤형 보기를 최대한 활용합니다. AEMas a Cloud Service 에 기본적으로 포함된 기능인 New Relic에 액세스하는 프로세스에 대해 알아봅니다. 여러분의 질문과 질문에 대해 주저하지 마세요.
+description: 세션에 참여하십시오. 이 세션에서는 최종 사용자 고객에게 영향을 미치는 문제를 인식하고 해결하여 AEM as a Cloud Service 프로젝트의 효율성 향상을 통한 탁월한 경험을 제공합니다. | AEM as a Cloud Service 시스템에 대한 외부 서비스의 영향 측정 | 맞춤형 보기를 최대한 활용합니다. AEMas a Cloud Service 에 기본적으로 포함된 기능인 New Relic에 액세스하는 프로세스에 대해 알아봅니다. 여러분의 질문과 질문에 대해 주저하지 마세요.
 version: Cloud Service
 feature: Developer Tools
 topic: Performance
@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: d66714c84c19ae2d34e61b4e8b221364e39f2774
+source-git-commit: 881f82df9eaa7438c0ffa8ee0bd5cf1c5505019a
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
