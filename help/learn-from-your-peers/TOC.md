@@ -2,9 +2,9 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "다음 녹음/녹화 컬렉션: [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
+source-git-commit: aa5a4e33d739dc33f17c6d5627552df5e0e772c1
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '104'
 ht-degree: 20%
 
 ---
@@ -36,6 +36,8 @@ ht-degree: 20%
    + 년 7월{#july2023}
       + [Cloud Service의 효과적인 보안 전략](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
 + Marketo {#marketo}
+   + 년 9월{#sept2023}
+      + [Marketo Engage으로 이메일 전달성 향상](marketo/sept2023/email-deliverability.md)
    + 년 6월{#june2023}
       + [마케팅 캠페인 추적, 분석 및 최적화](marketo/june2023/marketing-campaigns.md)
    + 년 5월{#may2023}
