@@ -11,7 +11,7 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: 192b072538492f4b4161f0915441e851e933c1d2
+source-git-commit: 51133c6630872a8da35522544e7184884905d2a0
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -19,7 +19,9 @@ ht-degree: 0%
 ---
 
 
-# as a Cloud Service으로 New Relic AEM APM의 잠재력을 발휘합니다. 성능을 극대화하고 문제를 신속하게 해결합니다.
+# as a Cloud Service으로 New Relic AEM APM의 잠재적 활용
+
+성능을 극대화하고 문제를 신속하게 해결합니다.
 
 이 웨비나는 9월 20일 ~ 오후 5시 CEST에 진행됩니다 | 오전 8시 PDT | 8.30pm IST
 
@@ -48,4 +50,3 @@ ht-degree: 0%
 >* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 링크가 곧 게시됩니다.
 >
 >* 예정된 웨비나에 대한 알림을 받으려면 다음 위치에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
-
