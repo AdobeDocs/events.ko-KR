@@ -11,7 +11,7 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: 51133c6630872a8da35522544e7184884905d2a0
+source-git-commit: 3f90292238ae559361bf6ca3736e30742044a5b0
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 성능을 극대화하고 문제를 신속하게 해결합니다.
 
-이 웨비나는 9월 20일 ~ 오후 5시 CEST에 진행됩니다 | 오전 8시 PDT | 8.30pm IST
+이 웨비나는 9월 20일~오후 5시 CEST \| 오전 8시 PDT \| 오후 8시 30분 IST에 진행됩니다
 
 ## 등록
 
