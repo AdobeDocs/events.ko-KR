@@ -1,5 +1,5 @@
 ---
-title: MBI로 휴일 준비
+title: Commerce Intelligence로 휴일 준비
 description: 이 웨비나를 시청하여 휴가철 동안 성공을 위해 eCommerce 데이터를 사용하는 방법에 대해 알아보십시오.
 landing-page-description: 이 녹화된 웨비나를 시청하여 휴가철 동안 성공을 위해 eCommerce 데이터를 사용하는 방법에 대해 알아보십시오.
 short-description: 이 녹화된 웨비나를 시청하여 휴가철 동안 성공을 위해 eCommerce 데이터를 사용하는 방법에 대해 알아보십시오.
@@ -9,14 +9,18 @@ role: Leader, User, Data Architect
 level: Intermediate
 thumbnail: 342496.jpeg
 exl-id: 958d2e09-e4bd-4f6c-91d8-3aa83368013f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 7%
+source-wordcount: '210'
+ht-degree: 3%
 
 ---
 
-# MBI로 휴일 준비
+# Commerce Intelligence로 휴일 준비
+
+>[!NOTE]
+>
+>Adobe Commerce 인텔리전스는 이전에 다음과 같이 알려졌습니다. [!DNL Magento Business Intelligence (MBI)]. 이전 이벤트의 녹화본은 이전 이름을 반영합니다.
 
 휴가철 동안 성공을 위해 전자 상거래 데이터를 사용합니다. 이 웨비나는 다음과 같은 주요 MBI 기능을 사용하여 이를 해결하는 몇 가지 일반적인 시즌 분석 사용 사례와 방법을 강조합니다.
 
@@ -35,9 +39,5 @@ ht-degree: 7%
 
 ## 유용한 리소스
 
->[!TIP]
->
->MBI를 처음 사용하는 경우 [시작하기 비디오 시리즈](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) 는 데이터 집계, 분석 및 시각화를 통해 더 나은 비즈니스 통찰력과 결과를 도출하기 위한 전체 개요를 제공합니다.
-
-[MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html)
-[MBI 지원](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html)
+[Commerce Intelligence 지원](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

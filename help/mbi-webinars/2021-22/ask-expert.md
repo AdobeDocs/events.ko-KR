@@ -1,26 +1,30 @@
 ---
-title: MBI - 전문가에게 묻기
-description: 지능형 데이터를 통한 비즈니스 전환을 포함하여 MBI 제품 팀과 함께 자세히 살펴보려면 이들 녹화된 웨비나를 시청하십시오.
-landing-page-description: 지능형 데이터를 통한 비즈니스 전환을 포함하여 MBI 제품 팀과 함께 자세히 살펴보려면 이들 녹화된 웨비나를 시청하십시오.
-short-description: 지능형 데이터를 통한 비즈니스 전환을 포함하여 MBI 제품 팀과 함께 자세히 살펴보려면 이들 녹화된 웨비나를 시청하십시오.
+title: Commerce Intelligence - 전문가에게 문의
+description: 지능형 데이터를 통한 비즈니스 혁신을 포함하여 Commerce Intelligence 제품 팀과 함께 자세히 알아보려면 이들 녹화된 웨비나를 시청하십시오.
+landing-page-description: 지능형 데이터를 통한 비즈니스 혁신을 포함하여 Commerce Intelligence 제품 팀과 함께 자세히 알아보려면 이들 녹화된 웨비나를 시청하십시오.
+short-description: 지능형 데이터를 통한 비즈니스 혁신을 포함하여 Commerce Intelligence 제품 팀과 함께 자세히 알아보려면 이들 녹화된 웨비나를 시청하십시오.
 kt: 10404
 solution: Commerce,Magento Business Intelligence
 role: Leader,User,Data Architect
 level: Beginner,Intermediate
 thumbnail: 342409.jpeg
 exl-id: a4590f96-8f23-4f14-9f69-dd15253184ed
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 4%
+source-wordcount: '186'
+ht-degree: 2%
 
 ---
 
 # MBI - 전문가에게 묻기
 
+>[!NOTE]
+>
+>Adobe Commerce 인텔리전스는 이전에 다음과 같이 알려졌습니다. [!DNL Magento Business Intelligence (MBI)]. 이전 이벤트의 녹화본은 이전 이름을 반영합니다.
+
 세션 1:
 
-- MBI에 대한 고객의 의견
+- Commerce Intelligence에 대한 고객의 의견
 - 지능형 데이터를 통한 비즈니스 혁신
 
 세션 2:
@@ -46,7 +50,7 @@ _전문가에게 문의_ 는 다음 두 개의 세션으로 구성됩니다.
 
 >[!TIP]
 >
->MBI를 처음 사용하는 경우 [시작하기 비디오 시리즈](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) 는 데이터 집계, 분석 및 시각화를 통해 더 나은 비즈니스 통찰력과 결과를 도출하기 위한 전체 개요를 제공합니다.
+>Commerce Intelligence를 처음 사용하는 경우 [시작하기 비디오 시리즈](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) 는 데이터 집계, 분석 및 시각화를 통해 더 나은 비즈니스 통찰력과 결과를 도출하기 위한 전체 개요를 제공합니다.
 
-- [MBI 소개](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-- [MBI 지원](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+- [Commerce Intelligence 소개](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+- [Commerce Intelligence 지원](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

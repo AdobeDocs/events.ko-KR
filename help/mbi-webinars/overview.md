@@ -1,19 +1,23 @@
 ---
-title: MBI 이벤트
-description: MBI를 최대한 활용하기 위해 다양한 주제와 모범 사례를 다루는 MBI 녹화 웨비나를 살펴보십시오.
+title: Commerce Intelligence 웨비나
+description: Commerce Intelligence를 최대한 활용하기 위한 다양한 주제와 모범 사례를 다루는 Commerce Intelligence의 기록된 웨비나를 살펴봅니다.
 exl-id: ebc973b9-a7e0-42a7-968b-17d077b67af4
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '278'
-ht-degree: 30%
+source-wordcount: '303'
+ht-degree: 19%
 
 ---
 
-# MBI 웨비나
+# Adobe Commerce Intelligence 웨비나
 
-MBI 웨비나 시리즈는 MBI 고객을 위한 정기 이벤트입니다. 웨비나는 MBI를 최대한 활용할 수 있도록 다양한 주제와 모범 사례를 다룹니다.
+>[!NOTE]
+>
+>Adobe Commerce 인텔리전스는 이전에 다음과 같이 알려졌습니다. [!DNL Magento Business Intelligence (MBI)]. 이전 이벤트의 녹화본은 이전 이름을 반영합니다.
 
-모든 지역의 참석자가 실시간으로 이벤트에 참여하여 제품을 더 잘 이해하고 MBI 기능에 대한 질문에 직접 답변할 수 있습니다.
+Commerce Intelligence 웨비나 시리즈는 MBI 고객을 위한 정기 이벤트입니다. 웨비나는 Commerce Intelligence를 최대한 활용하기 위한 다양한 주제와 모범 사례를 다룹니다.
+
+모든 지역의 참석자가 이벤트에 실시간으로 참여하여 제품을 더 잘 이해하고 Commerce Intelligence 기능에 대한 질문에 직접 답할 수 있습니다.
 
 고객이 질문할 수 있는 새로운 질문에 답변할 수 있도록 주제를 반복하는 경우가 있습니다.
 
@@ -31,7 +35,7 @@ MBI 웨비나 시리즈는 MBI 고객을 위한 정기 이벤트입니다. 웨�
       </a>
     </div>
     <p>
-    <em>사전 구성된 대시보드 및 사용 가능한 사용자 정의 옵션에 대한 자세한 내용과 함께 MBI의 핵심 기능에 대해 Commerce 제품 팀에서 직접 알아보십시오.</em>
+    <em>사전 구성된 대시보드 및 사용 가능한 사용자 지정 옵션에 대한 자세한 내용과 함께 제품 팀에서 직접 Commerce Intelligence의 핵심 기능에 대해 알아보십시오.</em>
     <p>
   </td>
   <td>
@@ -69,5 +73,5 @@ MBI 웨비나 시리즈는 MBI 고객을 위한 정기 이벤트입니다. 웨�
 
 ## 유용한 리소스
 
-- [MBI 비디오 및 자습서](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
-- [MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html)
+- [Commerce Intelligence 비디오 및 튜토리얼](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
+- [Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html)
