@@ -4,12 +4,12 @@ description: 이 웨비나를 시청하여 Adobe Commerce 또는 Magento Open So
 landing-page-description: 이 녹화된 웨비나를 시청하여 Adobe Commerce 또는 Magento Open Source 스토어에 대한 Commerce Intelligence의 핵심 기능에 대해 알아보십시오.
 short-description: 이 녹화된 웨비나를 시청하여 Adobe Commerce 또는 Magento Open Source 스토어에 대한 Commerce Intelligence의 핵심 기능에 대해 알아보십시오.
 kt: 10408
-solution: Commerce, Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 342501.jpeg
 exl-id: 4d0843b1-251d-45dc-94ab-85a35b71771f
-source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
+source-git-commit: c0382de473c121272f48d89170c887ae65bd60cf
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 1%

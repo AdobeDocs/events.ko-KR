@@ -4,12 +4,12 @@ description: 이 웨비나를 시청하여 모든 Commerce Intelligence 계정�
 landing-page-description: 이 녹화된 웨비나를 시청하여 모든 Commerce Intelligence 계정과 함께 설정 시 포함된 4개의 대시보드를 둘러보십시오.
 short-description: 이 녹화된 웨비나를 시청하여 모든 Commerce Intelligence 계정과 함께 설정 시 포함된 4개의 대시보드를 둘러보십시오.
 kt: 10496
-solution: Commerce, Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 343498.jpeg
 exl-id: 07faedac-54cd-45fc-a7f0-05379bc8ab28
-source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
+source-git-commit: c0382de473c121272f48d89170c887ae65bd60cf
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
