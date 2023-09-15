@@ -4,12 +4,12 @@ description: 지능형 데이터를 통한 비즈니스 혁신을 포함하여 C
 landing-page-description: 지능형 데이터를 통한 비즈니스 혁신을 포함하여 Commerce Intelligence 제품 팀과 함께 자세히 알아보려면 이들 녹화된 웨비나를 시청하십시오.
 short-description: 지능형 데이터를 통한 비즈니스 혁신을 포함하여 Commerce Intelligence 제품 팀과 함께 자세히 알아보려면 이들 녹화된 웨비나를 시청하십시오.
 kt: 10404
-solution: Commerce,Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader,User,Data Architect
 level: Beginner,Intermediate
 thumbnail: 342409.jpeg
 exl-id: a4590f96-8f23-4f14-9f69-dd15253184ed
-source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
+source-git-commit: 00ca556edca8e39734489d1385029c6b79f3587d
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 2%

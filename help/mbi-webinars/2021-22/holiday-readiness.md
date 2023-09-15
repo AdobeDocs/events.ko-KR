@@ -4,12 +4,12 @@ description: 이 웨비나를 시청하여 휴가철 동안 성공을 위해 eCo
 landing-page-description: 이 녹화된 웨비나를 시청하여 휴가철 동안 성공을 위해 eCommerce 데이터를 사용하는 방법에 대해 알아보십시오.
 short-description: 이 녹화된 웨비나를 시청하여 휴가철 동안 성공을 위해 eCommerce 데이터를 사용하는 방법에 대해 알아보십시오.
 kt: 10409
-solution: Commerce,Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Intermediate
 thumbnail: 342496.jpeg
 exl-id: 958d2e09-e4bd-4f6c-91d8-3aa83368013f
-source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
+source-git-commit: 00ca556edca8e39734489d1385029c6b79f3587d
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 3%
