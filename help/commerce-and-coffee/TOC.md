@@ -2,9 +2,9 @@
 user-guide-title: 상거래 및 커피 이벤트
 breadcrumb-title: 상거래 및 커피 이벤트
 user-guide-description: Adobe Commerce과 커피는 전문가 및 동료들이 Adobe Commerce 사용 방법에 대한 생각과 아이디어를 공유한 영상 라이브러리다.
-source-git-commit: 45197a447b183e1be3f0c2806fe33b19780086e5
+source-git-commit: dd032d0b6f0fef7a5939ef78837d0450c0741544
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '70'
 ht-degree: 5%
 
 ---
@@ -14,6 +14,7 @@ ht-degree: 5%
 
 + [개요](overview.md)
 + 2023 {#2023}
+   + [성수기 준비](2023/peak-season-prep.md)
    + [유기 성장](2023/organic-growth.md)
    + [고객 충성도 및 고객 유지력을 구축하는 7가지 방법](2023/loyalty-retention.md)
    + [B2B 역량 강화 성공](2023/b2b.md)
