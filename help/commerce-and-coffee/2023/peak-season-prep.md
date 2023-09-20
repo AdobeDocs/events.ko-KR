@@ -1,7 +1,7 @@
 ---
 title: 성수기 준비
 description: Corey Gelato는 성수기 모범 사례 및 전략에 대해 자세히 알아보고, 사이트에서 상품 및/또는 서비스를 성공적이고 효과적으로 홍보하고 성수기 동안 매년 언제든지 경쟁력을 유지하는 방법을 알아봅니다. 콘텐츠 스테이징 및 미리보기, 프로모션, 카탈로그 및 장바구니 가격 규칙 등을 포함한 기능에 대한 데모에 이어 Corey는 라이브 Q&A 세션 도중 질문에 답변합니다.
-solution: Adobe Commerce
+solution: Commerce
 feature-set: Commerce
 feature: Promotions/Events, Catalog Management, Catalog Service, Checkout, Best Practices, Price Rules
 role: Admin, Leader, User
@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-09-20T00:00:00Z
 jira: KT-13992
 thumbnail: 3424390.jpeg
-source-git-commit: dd032d0b6f0fef7a5939ef78837d0450c0741544
+source-git-commit: 8f73eadc11a0906ffc987aa2fe5bd83755245b19
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
