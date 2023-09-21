@@ -11,9 +11,9 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: ac72726b967b526018640f76de930a4abb1e6b59
+source-git-commit: 845008d5f0024ed3a6af4cfad0ebdd53ff713a93
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,7 @@ ht-degree: 0%
 
 성능을 극대화하고 문제를 신속하게 해결합니다.
 
-이 웨비나는 9월 20일 - 오후 5시 CEST - 오전 8시(태평양 표준시) - 오후 8시 30분(IST)에 열립니다
-
-## 등록
-
-[이 세션에 참여하려면 AEM 사용자 그룹을 통해 등록하십시오.](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-harness-the-power-of-new-relic-apm-for-aem-as-a-cloud-service-boost-performance-amp-rapid-issue-fix/)
+이 웨비나는에서 수행되었습니다. **9월 20일**, 2023년. 아래 기록을 확인하십시오.
 
 ## 세션 설명
 
@@ -47,8 +43,12 @@ AEMas a Cloud Service 에 기본적으로 포함된 기능인 New Relic에 액�
 * Luciana Surdoiu, 클라우드 자동화 책임자, Adobe
 * Michael Campbell, 수석 AEM 사이트 안정성 엔지니어, Adobe
 
+## 웨비나 녹화 - 2023년 9월 20일
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424439/)
+
 >[!NOTE]
 >
->* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 링크가 곧 게시됩니다.
+>* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 다음을 방문하십시오. [컨텍스트 기반 스레드](https://adobe.ly/3sV67N5).
 >
 >* 예정된 웨비나에 대한 알림을 받으려면 다음 위치에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
