@@ -11,7 +11,7 @@ level: Intermediate
 type: Event
 user-guide-description: AEM GEM 세션
 exl-id: 595f6977-935a-4859-9cfd-161d45847f85
-source-git-commit: 9156b59b2cf55116f1599400a04244f3423b4492
+source-git-commit: d61918b5cd5f0e0aba1b223359f4cc69ab7110c9
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 2%
@@ -44,7 +44,7 @@ ht-degree: 2%
 </table>
 
 -->
-에 대한 최신 AEM GEM 웨비나 **as a Cloud Service으로 New Relic AEM APM의 잠재력을 발휘합니다. 성능을 극대화하고 문제를 신속하게 해결합니다.** 이(가)에 수행되었습니다. *2023년 9월 20일*.
+에 대한 최신 AEM GEM 웨비나 **as a Cloud Service으로 New Relic AEM APM의 잠재력을 발휘합니다. 성능 극대화 및 신속한 문제 해결** 이(가)에 수행되었습니다. *2023년 9월 20일*.
 다음 **레코딩** 은(는) 여기에서 찾을 수 있습니다. [Adobe Experience Manager as a Cloud Service용 New Relic APM](/help/experience-manager-gems/gems2023/newrelic-apm-for-aem-cloud-service.md)
 
 >[!NOTE]
