@@ -7,10 +7,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 6682d7be406a8922067c520b7c21cd2da001fd80
+source-git-commit: aa5d4f36b22a0a069accc635f3d82d5ed6f871cc
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 50%
+source-wordcount: '165'
+ht-degree: 52%
 
 ---
 
@@ -24,8 +24,16 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 <table>
 <tr>
-  <td>
-    가까운 시일 내에 이 페이지를 방문하여 Real-time Customer Data Platform의 2023년 9월 유사 대상 관련 에피소드를 포함하여 예정된 에피소드에 대해 알아보십시오.
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-26-23.md">
+      <img alt="Experience League LIVE 4월 21일" src="assets/Oct26_exl_live_WebBanner.png">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-10-26-23.md">
+        <strong>Workfront 릴리스 딥 다이브 - 새로운 Workfront 홈</strong>
+      </a>
+      <br/><em>베시 웨스트, 벤 로빈스, 제이미 스미스</em>
+      <br/><em>2023년 10월 26일</em>
+    </div>
   </td>
 </tr>
 </table>
