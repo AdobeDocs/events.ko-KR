@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "다음 녹음/녹화 컬렉션: [!DNL Experience Makers Learn from your peers]"
-source-git-commit: aa5a4e33d739dc33f17c6d5627552df5e0e772c1
+source-git-commit: 3ae2f5392dbf58f63f9b2ef1dcaef6ff6f5134d4
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 20%
+source-wordcount: '113'
+ht-degree: 19%
 
 ---
 
@@ -31,10 +31,12 @@ ht-degree: 20%
       + 년 3월{#mar2022}
          + [데이터를 통해 깊은 인상을 주는 스토리 전달](analytics/mar2022/stories-with-data.md)
 + Experience Manager {#experience-manager}
-   + 년 5월{#may2023}
-      + [컨텐츠 및 경험 조각 마스터](experience-manager/may2023/mastering-content-and-experience-fragments.md)
+   + 년 9월{#sept2023}
+      + [AEM Sites용 도구에 대해 자세히 알아보기](experience-manager/sept2023/aem-sites-tools.md)
    + 년 7월{#july2023}
       + [Cloud Service의 효과적인 보안 전략](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+   + 년 5월{#may2023}
+      + [컨텐츠 및 경험 조각 마스터](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
    + 년 9월{#sept2023}
       + [Marketo Engage으로 이메일 전달성 향상](marketo/sept2023/email-deliverability.md)
