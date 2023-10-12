@@ -10,8 +10,8 @@ role: User
 level: Intermediate
 kt: 11630
 event-start-time: 2023-1-18 08:30-8
-exl-id: 04b5d071-18a4-44e3-af7b-6a4db594cacb
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 9e952d3a-aec8-41f7-a9bc-19e187276af0
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 1%
@@ -43,4 +43,3 @@ AEM Best Practices Analyzer는 AEM as a Cloud Service 환경에 적용할 수 �
 >
 >* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 다음을 방문하십시오. [컨텍스트 기반 스레드](https://bit.ly/3Z6AyM1)
 >* 웨비나와 관련된 자동 알림을 받으려면 다음 위치에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
-

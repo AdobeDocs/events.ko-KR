@@ -11,8 +11,8 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9190
 type: Event
-exl-id: 95ce5b8f-d462-493c-965e-479df9ccbe3f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 578bb96c-a1c0-4f2d-b30b-d9ed75563de4
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 59%
@@ -33,6 +33,6 @@ Adobe Experience Manager as a Cloud Service를 활용하여 자동화를 통해 
 
 ## 추가 리소스
 
-- [Adobe Experience Manager 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience Manager 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ko-KR)
 - [Adobe Experience Manager Cloud Service 개요](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager 자습서](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

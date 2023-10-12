@@ -4,8 +4,8 @@ description: 이 AEM Gem은 프로덕션 설정에서 MongoDB에서 AEM을 실�
 uuid: 8ca5b7d0-b71e-481c-961c-c91ee987f374
 discoiquuid: 198f9f6e-4156-468a-88d7-6902f51dd6c1
 targetaudience: target-audience advanced
-exl-id: a730275f-cfc9-4fbe-aa7b-d0a5220a8417
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 1dc74724-9781-477b-a05b-e25ef9f5e15b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 8%
@@ -32,7 +32,7 @@ ht-degree: 8%
 
 >[!WARNING]
 >
->AEM 버전 6.4 및 이전 버전은 단종되어 더 이상 Adobe에서 판매하지 않습니다.  Adobe 최신 버전으로 업그레이드하는 것이 좋습니다. - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  보관된 버전의 설명서는 여기에서 액세스할 수 있습니다. [페이지](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM 버전 6.4 및 이전 버전은 단종되어 더 이상 Adobe에서 판매하지 않습니다.  Adobe 최신 버전으로 업그레이드하는 것이 좋습니다. - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ko-KR).  보관된 버전의 설명서는 여기에서 액세스할 수 있습니다. [페이지](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
 >
 >이 세션과 관련이 있으므로 을 참조하십시오. *Oak 쿼리 및 색인화 : MongoDB가 포함된 AEM* AEM 6.1 설명서에서 확인할 수 있습니다.
 

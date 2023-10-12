@@ -9,8 +9,8 @@ doc-type: Event
 thumbnail: 332060.jpg
 kt: 7335
 type: Event
-exl-id: e97f13cf-091c-4726-b1b1-e0f683fea93a
-source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
+exl-id: 9736dd6f-ff33-41b5-80d6-1bb981bfc0b7
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 16%
@@ -19,7 +19,7 @@ ht-degree: 16%
 
 # 두 가지 인식에 대한 이야기 - 브랜드 대 소비자
 
-오늘날 마케터는 ID 사례 관련 정보의 홍수에 빠져 허우적거리고 있습니다. 그리고 Adobe의 최근 연구에 따르면, 마케팅 전문가 중 37%만이 쿠키 없는 미래에 대해 매우 준비하고 있다고 말했다. [!DNL Advanis]. 이 웨비나 Adobe은 쿠키 없는 미래에 대한 광고주 및 게시자의 이해와 준비 수준, 사용 사례에 미치는 영향, 더 넓은 생태계에 대한 인식을 설명합니다.
+오늘날 마케터는 ID 사례 관련 정보의 홍수에 빠져 허우적거리고 있습니다. 그리고 Adobe의 최근 연구에 따르면, 마케팅 전문가 중 37%만이 쿠키 없는 미래에 대해 매우 준비하고 있다고 말했다. [!DNL Advanis]. 이 웨비나 Adobe은 쿠키 없는 미래에 대한 광고주와 게시자의 이해와 준비 수준, 광고 사용 사례에 미치는 영향, 더 넓은 생태계에 대한 인식을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332060/?quality=12&learn=on)
 

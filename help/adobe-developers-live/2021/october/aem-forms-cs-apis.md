@@ -7,8 +7,8 @@ level: Beginner
 version: Cloud Service
 kt: 9189
 type: Event
-exl-id: ca193a7e-f06e-466f-9c8d-e80214a4dd7c
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: a54293b2-a8d9-475a-b315-18c4088a2d85
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 6%
@@ -29,6 +29,6 @@ Adobe Experience Manager Forms as a Cloud Service API를 사용하여 대규모�
 
 ## 추가 리소스
 
-- [Adobe Experience Manager 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience Manager 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ko-KR)
 - [Adobe Experience Manager Cloud Service 개요](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager 자습서](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

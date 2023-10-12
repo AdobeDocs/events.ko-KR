@@ -1,6 +1,6 @@
 ---
 title: 관련 콘텐츠를 사용하여 상거래 경험 강화
-description: CIF 추가 기능은 자산, 콘텐츠 조각 및 경험 조각의 작성 기능을 확장하여 Adobe Experience Manager 콘텐츠를 제품 데이터에 연결하는 제품 경험 관리를 최근에 도입했습니다. 관련 컨텐츠의 강력한 기능을 사용하면 CIF 핵심 구성 요소로 구축된 동적인 제품 카탈로그를 보강하여 Adobe Commerce 및 Adobe Experience Manager에서 전송된 데이터를 표시할 수 있습니다. 이 세션에서는 다양한 수준의 마케팅 기반 경험으로 상점 프로젝트 를 보강하는 방법을 배웁니다. 사용자 지정 구성 요소가 관련 콘텐츠를 활용하는 방법을 보여 주는 고급 사용 사례도 소개합니다.
+description: CIF 추가 기능에는 최근에 도입된 제품 경험 관리 기능이 있습니다. 이 기능은 에셋, 콘텐츠 조각 및 경험 조각의 작성 기능을 확장하여 Adobe Experience Manager 콘텐츠를 제품 데이터와 연결합니다. 관련 컨텐츠의 강력한 기능을 사용하면 CIF 핵심 구성 요소로 구축된 동적인 제품 카탈로그를 강화하여 Adobe Commerce 및 Adobe Experience Manager 모두에서 얻은 데이터를 표시할 수 있습니다. 이 세션에서는 다양한 수준의 마케팅 기반 경험으로 상점 프로젝트 를 보강하는 방법을 배웁니다. 사용자 지정 구성 요소가 관련 콘텐츠를 활용하는 방법을 보여 주는 고급 사용 사례도 소개합니다.
 solution: Commerce,Experience Manager
 feature: Developer Tools
 role: Developer, Architect
@@ -8,17 +8,17 @@ level: Experienced
 version: Cloud Service
 kt: 9181
 type: Event
-exl-id: ca53c085-2f41-4400-8d88-4d9ed2beef0d
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: f5186897-3afd-4732-99f5-a69dad44b037
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '232'
-ht-degree: 12%
+ht-degree: 13%
 
 ---
 
 # 관련 콘텐츠를 사용하여 상거래 경험 강화
 
-CIF 추가 기능은 자산, 콘텐츠 조각 및 경험 조각의 작성 기능을 확장하여 Adobe Experience Manager 콘텐츠를 제품 데이터에 연결하는 제품 경험 관리를 최근에 도입했습니다. 관련 컨텐츠의 강력한 기능을 사용하면 CIF 핵심 구성 요소로 구축된 동적인 제품 카탈로그를 보강하여 Adobe Commerce 및 Adobe Experience Manager에서 전송된 데이터를 표시할 수 있습니다. 이 세션에서는 다양한 수준의 마케팅 기반 경험으로 상점 프로젝트 를 보강하는 방법을 배웁니다. 사용자 지정 구성 요소가 관련 콘텐츠를 활용하는 방법을 보여 주는 고급 사용 사례도 소개합니다.
+CIF 추가 기능에는 최근에 도입된 제품 경험 관리 기능이 있습니다. 이 기능은 에셋, 콘텐츠 조각 및 경험 조각의 작성 기능을 확장하여 Adobe Experience Manager 콘텐츠를 제품 데이터와 연결합니다. 관련 컨텐츠의 강력한 기능을 사용하면 CIF 핵심 구성 요소로 구축된 동적인 제품 카탈로그를 강화하여 Adobe Commerce 및 Adobe Experience Manager 모두에서 얻은 데이터를 표시할 수 있습니다. 이 세션에서는 다양한 수준의 마케팅 기반 경험으로 상점 프로젝트 를 보강하는 방법을 배웁니다. 사용자 지정 구성 요소가 관련 콘텐츠를 활용하는 방법을 보여 주는 고급 사용 사례도 소개합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337772/?quality=12&learn=on&hidetitle=true)
 

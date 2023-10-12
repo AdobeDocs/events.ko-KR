@@ -1,8 +1,8 @@
 ---
 title: Adobe 컨텐츠 관리 포럼
 description: Adobe 컨텐츠 관리 포럼의 세션 녹화본 컬렉션
-exl-id: 8c882248-0790-4a50-bf8f-55dce1f68b6b
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: 935600fa-4fbc-4569-a3cd-f8b25c205df4
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '311'
 ht-degree: 0%

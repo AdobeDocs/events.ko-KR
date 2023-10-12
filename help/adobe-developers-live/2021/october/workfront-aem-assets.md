@@ -8,8 +8,8 @@ level: Beginner
 version: Cloud Service
 kt: 9135
 type: Event
-exl-id: 0ef65533-9409-4911-a379-eed988b752d8
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 5edbac18-6e5f-4717-a7cb-5ec2ad4b3f29
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 18%
@@ -26,6 +26,6 @@ Adobe Workfront 및 Adobe Experience Manager Assets가 함께 작동하는 방�
 
 ## 추가 리소스
 
-- [Adobe Experience Manager 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience Manager 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ko-KR)
 - [Adobe Experience Manager Cloud Service 개요](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager 자습서](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

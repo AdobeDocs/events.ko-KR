@@ -9,8 +9,8 @@ level: Experienced
 version: Cloud Service
 kt: 9217
 type: Event
-exl-id: 3c7faae0-d8ac-4a5c-ab0c-b25c2694a9dd
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: b1c5f695-45f5-4009-8e5f-2c562cbea213
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 6%
@@ -27,6 +27,6 @@ Adobe Experience Manager as Cloud Service의 Asset compute 마이크로서비스
 
 ## 추가 리소스
 
-- [Adobe Experience Manager 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience Manager 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ko-KR)
 - [Adobe Experience Manager Cloud Service 개요](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager 자습서](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

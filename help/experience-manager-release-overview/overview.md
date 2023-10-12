@@ -2,14 +2,13 @@
 title: Adobe Experience Manager as a Cloud Service 릴리스 개요
 description: Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한 개요 보기
 user-guide-breadcrumb: AEM Release Events
-exl-id: 15bc0a37-79c6-47f7-958b-96b47fe8b3ff
-source-git-commit: aa5a4e33d739dc33f17c6d5627552df5e0e772c1
+exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 91%
 
 ---
-
 
 # Adobe Experience Manager as a Cloud Service 릴리스 업데이트
 

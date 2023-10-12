@@ -2,13 +2,13 @@
 title: Adobe Commerce 제품 업데이트
 description: Adobe Commerce 제품 팀에서 발표한 Adobe Commerce의 최신 제품 혁신.
 user-guide-breadcrumb: Adobe Commerce Release Updates
-source-git-commit: 1dc2c36424118ee87f3fd7339f2b582306b91392
+exl-id: 838b1ed9-eb45-4818-9a8e-807b557d0bce
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 16%
+ht-degree: 14%
 
 ---
-
 
 # Adobe Commerce 제품 업데이트
 

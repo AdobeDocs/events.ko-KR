@@ -10,13 +10,13 @@ doc-type: Event
 last-substantial-update: 2023-07-22T00:00:00Z
 jira: KT-13689
 thumbnail: 3421282.jpeg
-source-git-commit: 7378dc0e3e7caf4942e90e95668806bca03c1067
+exl-id: 731c827e-fb10-48da-a85a-ee73a5d273e3
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Audience Manager을 통한 가치 극대화 | 업계 변경 사항 탐색 및 Real-time CDP로 전환
 

@@ -4,8 +4,8 @@ description: Oak Lucene 인덱스의 기능과 이러한 인덱스를 사용하�
 uuid: 7664c6b2-3f09-4de4-9ade-b934465ac829
 discoiquuid: f69d9c38-a316-4409-94b3-5ff576034bf3
 targetaudience: target-audience advanced
-exl-id: 671b41ee-851b-460b-86d9-8b3a24587408
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: ed0e32b3-44bc-4e45-a80e-f9cfd0688e80
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 11%
@@ -37,7 +37,7 @@ Oak Lucene 인덱스의 기능과 이러한 인덱스를 사용하여 쿼리를 
 
 >[!WARNING]
 >
->AEM 버전 6.4 및 이전 버전은 단종되어 더 이상 Adobe에서 판매하지 않습니다.  Adobe 최신 버전으로 업그레이드하는 것이 좋습니다. - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  보관된 버전의 설명서는 여기에서 액세스할 수 있습니다. [페이지](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM 버전 6.4 및 이전 버전은 단종되어 더 이상 Adobe에서 판매하지 않습니다.  Adobe 최신 버전으로 업그레이드하는 것이 좋습니다. - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ko-KR).  보관된 버전의 설명서는 여기에서 액세스할 수 있습니다. [페이지](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
 >
 >이 세션과 관련이 있으므로 을 참조하십시오. *Oak 쿼리 및 색인 지정* AEM 6.1 설명서에서 확인할 수 있습니다.
 

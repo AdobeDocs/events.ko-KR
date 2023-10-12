@@ -8,8 +8,8 @@ feature: AEM Community Lens
 topic: Administration
 role: User
 level: Intermediate
-exl-id: 5f75ebf2-1a15-4d1d-b233-6de1cfecd11f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 6e35763d-d18a-468c-9b34-df14da7c7e2f
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -55,4 +55,3 @@ AEM을 통해 Headless CMS를 구현할 수 있는 방법에는 여러 가지가
 >
 >* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 다음을 방문하십시오. [컨텍스트 기반 스레드](https://adobe.ly/3r6P4nr)
 >* 웨비나와 관련된 자동 알림을 받으려면 다음 위치에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
-

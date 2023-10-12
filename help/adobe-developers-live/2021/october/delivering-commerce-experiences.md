@@ -1,6 +1,6 @@
 ---
 title: 규모에 맞춰 상거래 경험 제공
-description: Commerce Integration Framework를 사용하여 Adobe Experience Manager 및 Adobe Commerce을 설정하고 구성하여 로드가 적으면서도 성과가 좋은 경험을 제공하는 방법에 대해 알아봅니다.
+description: Commerce integration framework을 사용하여 Adobe Experience Manager 및 Adobe Commerce을 설정하고 구성하여 부하 상태에서 고성능 경험을 제공하는 방법에 대해 알아봅니다.
 solution: Commerce, Experience Manager
 feature: Developer Tools
 topic: Integrations
@@ -9,17 +9,17 @@ level: Experienced
 version: Cloud Service
 kt: 9141
 type: Event
-exl-id: d4fdab1a-7cae-4750-9b16-16c4470f43d2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: f1aec13d-db37-4d71-9650-9bb01a745b91
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 31%
+ht-degree: 35%
 
 ---
 
 # 규모에 맞춰 상거래 경험 제공
 
-Commerce Integration Framework를 사용하여 Adobe Experience Manager 및 Adobe Commerce을 설정하고 구성하여 로드가 적으면서도 성과가 좋은 경험을 제공하는 방법에 대해 알아봅니다.
+Commerce integration framework을 사용하여 Adobe Experience Manager 및 Adobe Commerce을 설정하고 구성하여 부하 상태에서 고성능 경험을 제공하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337582/?quality=12&learn=on&hidetitle=true)
 

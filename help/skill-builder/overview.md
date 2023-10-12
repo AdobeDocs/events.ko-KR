@@ -1,8 +1,8 @@
 ---
 title: 스킬 빌더 개요
 description: 기술 자료를 구축하고 Adobe Experience Cloud 투자를 극대화하기 위해 녹화된 웨비나 시리즈입니다.
-exl-id: a2c07218-6f1d-434a-8b69-f6686c9f3370
-source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
+exl-id: 48b7a0ea-2fcf-4387-8f9e-0405d59acd7f
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 3%

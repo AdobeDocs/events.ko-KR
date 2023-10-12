@@ -1,7 +1,8 @@
 ---
 title: Adobe 고객 성공 웨비나
-description: Adobe Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계된 고객 성공 주도 웨비나 입니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: 6ec7be7a69a315606e4c9aa11d700cca0f78b33f
+description: Adobe 고객 성공 주도 웨비나는 Adobe의 Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
+exl-id: a66dabe6-c545-4226-bf0b-811d5d3e5cf1
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
@@ -10,7 +11,7 @@ ht-degree: 0%
 
 # Adobe 고객 성공 웨비나 {#adobe-customer-success-webinars}
 
-Adobe Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계된 고객 성공 주도 웨비나 입니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
+Adobe 고객 성공 주도 웨비나는 Adobe의 Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
 
 <!-- 
 ## Featured Sessions

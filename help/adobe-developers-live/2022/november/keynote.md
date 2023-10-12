@@ -1,6 +1,6 @@
 ---
 title: Adobe Developers Live - 11월 22일 - Opening Keynote
-description: Keynote - Adobe Experience Manager의 Headless 오늘 및 내일Director Director 엔지니어링 수석 부사장, Michael Marth 제품 관리 수석 부사장, Cedric Huesler와 함께 Adobe Experience Manager Headless CMS의 현재 및 미래 상태에 대한 개발자의 견해를 듣고 기조연설에 참여하십시오.
+description: Keynote - Adobe Experience Manager를 통한 헤드리스 오늘 및 내일 Headless Today & TomorrowAdobe Experience Manager 헤드리스 CMS의 현재 및 미래 상태에 대한 개발자의 시각을 위해 Cedric Huesleer와 엔지니어링 수석 Director, Michael Marth 및 제품 관리 Director과 함께 기조 연설을 합니다.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -11,8 +11,8 @@ doc-type: Event
 last-substantial-update: 2022-11-15T00:00:00Z
 kt: 11472
 thumbnail: 3411296.jpeg
-exl-id: 0c6e95a6-63c0-40a0-a5b2-bf5a7d304a3b
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: c2d3f86e-4fed-4dbd-94be-6e2cfeaa1c1a
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%

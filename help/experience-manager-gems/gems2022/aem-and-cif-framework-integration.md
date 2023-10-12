@@ -9,8 +9,8 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 10220
-exl-id: 970e633b-251a-438a-aaf1-159571fa36d2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 3f893f4f-8d4e-4877-9520-8d2012eb724a
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 23%
@@ -19,7 +19,7 @@ ht-degree: 23%
 
 # AEM 및 CIF 프레임워크를 통합하여 풍부하고 매력적인 전자 상거래 경험을 구축하십시오
 
-이 AEM GEM 웨비나에는 Adobe의 CIF 프레임워크를 사용하여 일관되고 콘텐츠가 풍부한 몰입형 상거래 경험을 구축하는 방법을 이해하는 데 도움이 되는 프레젠테이션 및 데모가 포함되어 있습니다. Experience Manager과 Adobe Commerce은 CIF(Commerce Integration Framework)를 사용하여 원활하게 통합됩니다. CIF를 사용하면 AEM이 Adobe Commerce의 GraphQL API를 사용하여 상거래 인스턴스에 직접 액세스하고 통신할 수 있습니다(아래 고급 주제 보기).
+이 AEM GEM 웨비나에는 Adobe의 CIF 프레임워크를 사용하여 일관되고 콘텐츠가 풍부한 몰입형 상거래 경험을 구축하는 방법을 이해하는 데 도움이 되는 프레젠테이션 및 데모가 포함되어 있습니다. Experience Manager과 Adobe Commerce은 Commerce integration framework(CIF)를 사용하여 원활하게 통합됩니다. CIF을 사용하면 AEM이 Adobe Commerce의 GraphQL API를 사용하여 상거래 인스턴스에 직접 액세스하고 통신할 수 있습니다(아래 높은 수준의 주제 보기).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
 
@@ -31,14 +31,13 @@ ht-degree: 23%
 >* [해당 컨텍스트 스레드](https://adobe.ly/3jorz5r)
 >* 다음 위치에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/) 예정된 웨비나에 대한 알림을 받으려면.
 
-
 **고위급 의제:**
 
-* CIF란 무엇이며 CIF를 사용하는 이유는 무엇입니까?
+* CIF이란 무엇이며 CIF을 사용하는 이유는 무엇입니까?
 
-* CIF 통합 유형 및 AEM과 CIF를 사용하는 방법
+* CIF 통합 유형 및 AEM과 함께 CIF을 사용하는 방법
 
-* CIF 구성요소 라이브러리
+* CIF 구성 요소 라이브러리
 
    * AEM CIF 핵심 구성 요소
 

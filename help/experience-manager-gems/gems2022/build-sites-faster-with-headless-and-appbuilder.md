@@ -10,8 +10,8 @@ role: Developer
 level: Intermediate
 kt: 10053
 thumbnail: 341311.jpeg
-exl-id: 2b8158e3-3122-4ce6-ad0a-3124664fd0aa
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 9d5b5cd4-e401-43e1-a9ed-2c992decd45b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 2%
@@ -32,7 +32,6 @@ Java 및 Sling과 같은 기존의 Experience Manager 기술 없이도 Adobe App
 >
 >* [해당 컨텍스트 스레드](https://adobe.ly/3LkSWdm)
 >* 다음 위치에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/) 예정된 웨비나에 대한 알림을 받으려면.
-
 
 
 <!-- >>* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/) -->

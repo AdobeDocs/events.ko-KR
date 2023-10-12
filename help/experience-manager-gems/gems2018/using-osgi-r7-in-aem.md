@@ -4,8 +4,8 @@ description: OSGi R7 릴리스는 많은 중요한 새로운 기능과 성능을
 uuid: a173cd38-d646-4748-b8d0-8a726f1c3be8
 discoiquuid: da05c4fb-e8b7-4f01-b588-dea904eaddf9
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-exl-id: 3680483f-fb50-4272-86bd-46c2bc22d0a5
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 35368abf-05fb-44ff-b40e-ef4f236a327d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 1%
@@ -24,7 +24,7 @@ OSGi R7 릴리스는 많은 중요한 새로운 기능과 성능을 나타내며
 * 구성자 및 구성 관리자
 * Java 9 지원
 
-이 세션에서는 AEM 6.4에서 이미 사용할 수 있는 것에 중점을 두고 OSGi R7에서 가장 흥미로운 추가 사항을 강조 표시하고 설명합니다.
+이 세션에서는 AEM 6.4에서 이미 사용할 수 있는 것에 중점을 두고 OSGi R7에서 가장 흥미로운 추가 사항에 대해 강조하고 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25037/?quality=9)
 

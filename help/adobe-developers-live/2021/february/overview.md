@@ -2,11 +2,11 @@
 title: Adobe Developers Live 2021년 2월
 description: Adobe Developers Live 컨텐츠 이벤트의 일부로 제공되는 Adobe Experience Manager Sites에 대한 비디오 및 튜토리얼 모음입니다.
 sub-product: sites, content-services
-exl-id: fe98b6e8-b45c-4780-bf57-7541c240ed97
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 6c430d4c-12c1-4d3a-860f-fc3c6bf5803c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '353'
-ht-degree: 10%
+ht-degree: 12%
 
 ---
 
