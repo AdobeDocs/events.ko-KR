@@ -7,10 +7,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: 9dcc4e29440db713e82718beca9d5cf08f9c1c94
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 52%
+source-wordcount: '172'
+ht-degree: 50%
 
 ---
 
@@ -24,15 +24,15 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-26-23.md">
-      <img alt="Experience League LIVE 4월 21일" src="assets/Oct26_exl_live_WebBanner.png">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-11-14-23.md">
+      <img alt="Experience League LIVE 4월 21일" src="assets/Nov14_2023_exl_live_WebBanner.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-10-26-23.md">
-        <strong>Workfront 릴리스 딥 다이브 - 새로운 Workfront 홈</strong>
+      <a href="episodes/exl-live-episode-11-14-23.md">
+        <strong>Real-Time CDP 및 Journey Optimizer에서 동작 이벤트 데이터를 최대한 활용합니다</strong>
       </a>
-      <br/><em>베시 웨스트, 벤 로빈스, 제이미 스미스</em>
-      <br/><em>2023년 10월 26일</em>
+      <br/><em>대니얼 라이트, 로리 미쉬라, 라칫 굽타</em>
+      <br/><em>2023년 11월 14일</em>
     </div>
   </td>
 </tr>

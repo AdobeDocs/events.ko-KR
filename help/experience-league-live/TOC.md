@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: aa5d4f36b22a0a069accc635f3d82d5ed6f871cc
+source-git-commit: 9dcc4e29440db713e82718beca9d5cf08f9c1c94
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '294'
 ht-degree: 7%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 7%
 
 + [개요](overview.md)
 + 에피소드 {#episodes}
+   + [Ep. 29: Real-Time CDP 및 AJO에서 행동 이벤트 데이터를 최대한 활용](episodes/exl-live-episode-11-14-23.md)
    + [Ep. 28: Workfront 릴리스 심층 분석 - 새로운 Workfront 홈](episodes/exl-live-episode-10-26-23.md)
    + [Ep. 27: Adobe Journey Optimizer의 API 트리거 메시징](episodes/exl-live-episode-8-23-23.md)
    + [Ep. 26: 표준 컨트롤을 사용하여 소스에서 한 &#x200B; 위치에 실행 가능한 대상](episodes/exl-live-episode-7-20-23.md)
