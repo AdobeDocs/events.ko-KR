@@ -7,9 +7,9 @@ event-cta-url-live: https://www.youtube.com/watch?v=xQ-yydkLeHc
 event-cta-url-reg: null
 event-start-time: 2023-11-14 09:00-7
 event-guests: Daniel Wright,Lory Mishra,Rachit Gupta
-source-git-commit: 9dcc4e29440db713e82718beca9d5cf08f9c1c94
+source-git-commit: 8410a6480a055c0a3ab858a005eb98a7456bcad2
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 계산된 속성을 사용하여 이벤트 데이터 합계를 만들어 세분화, 개인화 및 여정을 개선하는 방법을 알아봅니다!
 
->[!VIDEO](https://video.tv.adobe.com/v/3425196/?learn=on)
+[![ExL 라이브 2023년 9월 22일](assets/Nov14_2023_exl_live_WebBanner.jpg)](https://www.youtube.com/watch?v=xQ-yydkLeHc)
 
 행동 데이터는 개인화된 고객 경험을 전달하는 핵심 요소이지만 완전히 활용하기는 어려울 수 있습니다. 오늘날 사용자는 별도의 시스템, 기술 전문가 및 데이터 엔지니어를 통해 탁월한 경험을 제공할 수 있는 의미 있는 행동 데이터 집계를 만들 수 있습니다.
 
