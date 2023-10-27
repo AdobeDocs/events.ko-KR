@@ -3,10 +3,10 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange의 녹화본 컬렉션
 event-series: The Skill Exchange
-source-git-commit: b16db3497f0e9801b71294bcaa66ae3cd9a2eb5c
+source-git-commit: f0a805efa9e6599df4aefa87f6de048bca9a5661
 workflow-type: tm+mt
-source-wordcount: '379'
-ht-degree: 12%
+source-wordcount: '416'
+ht-degree: 11%
 
 ---
 
@@ -67,6 +67,15 @@ ht-degree: 12%
       + [마케팅 채널, 책임 있게 사용하십시오.](analytics/jun2021/marketing-channels.md)
       + [모두 합치기](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
+   + 2023년 8월 {#aug2023}
+      + 개발자 트랙 {#developer-track}
+         + [AEM 개발자 스타터 키트](aem/aug2023/deploy-new-project.md)
+         + [효과적이고 확장 가능한 스타일 시스템 구축](aem/aug2023/scalable-style-system.md)
+         + [AEM Cloud Service으로 마이그레이션](aem/aug2023/migrate-to-aemcs.md)
+      + 웹 트랙 {#webtrack}
+         + [AEM Assets 시작하기](aem/aug2023/getting-started-aem-assets.md)
+         + [공동 작업 DAM 활용](aem/aug2023/collaborative-dam.md)
+         + [AI 준비 척도](aem/aug2023/metadata.md)
    + 2022년 8월 {#aug2022}
       + 개발자 트랙 {#developer-track}
          + [Experience Makers Spotlight](aem/aug2022/spotlight.md)
@@ -101,6 +110,8 @@ ht-degree: 12%
       + [다음 범위 내 보고 [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Forms을 위한 최고의 팁 및 요령](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
+   + 2023년 8월 {#aug2023}
+      + [리소스 관리 기반](workfront/aug2023/resource-management.md)
    + 2022년 4월 {#apr2022}
       + [당신의 Workfront을 와우 10 팁](workfront/apr2022/ten-tips.md)
       + [모든 사람이 알아야 할 계산된 필드](workfront/apr2022/calculated-fields.md)
