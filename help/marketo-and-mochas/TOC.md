@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
+source-git-commit: 92d4404a950f68a4cdc675b52c8623cfdd54c9e6
 workflow-type: tm+mt
-source-wordcount: '33'
-ht-degree: 9%
+source-wordcount: '37'
+ht-degree: 8%
 
 ---
 
@@ -28,3 +28,4 @@ ht-degree: 9%
    + [라이프사이클 모델링](2023/lifecycle-modeling.md)
    + [MSI 모범 사례 및 최적화](2023/msi-best-practices.md)
    + [온라인 및 오프라인 채널](2023/online-offline.md)
+   + [프로그램 관리 우수 사례](2023/program-management.md)
