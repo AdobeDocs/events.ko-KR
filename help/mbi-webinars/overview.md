@@ -2,7 +2,7 @@
 title: Commerce Intelligence 웨비나
 description: Commerce Intelligence를 최대한 활용하기 위한 다양한 주제와 모범 사례를 다루는 Commerce Intelligence의 기록된 웨비나를 살펴봅니다.
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 19%
@@ -26,11 +26,11 @@ Commerce Intelligence 웨비나 시리즈는 MBI 고객을 위한 정기 이벤�
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/getting-started.html">
+    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
       <img alt="MBI 시작하기" src="./assets/getting-started-mbi.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/getting-started.html">
+      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
         <strong>MBI 시작하기</strong>
       </a>
     </div>
