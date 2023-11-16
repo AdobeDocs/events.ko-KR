@@ -3,7 +3,7 @@ user-guide-title: Adobe Developers Live 이벤트
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Adobe Developer Live 콘텐츠 이벤트의 녹화본 컬렉션
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+source-git-commit: 543ecb57f8864ef5fa052f61a01029496f45495e
 workflow-type: tm+mt
 source-wordcount: '700'
 ht-degree: 8%
@@ -17,20 +17,20 @@ ht-degree: 8%
 + 2023 {#2023}
    + 년 11월{#nov2023}
       + [Keynote 열기](2023/november/keynote.md)
-      + Edge Delivery Services
+      + Edge Delivery Services {#nov-edgedeliveryservices}
          + [웹 사이트 구축](2023/november/edge-breakout-1.md)
          + [웹 사이트 성능](2023/november/edge-breakout-2.md)
          + [고객 배포](2023/november/edge-breakout-3.md)
          + [문서 기반 작성](2023/november/deep-dive.md)
-      + Headless
+      + Headless {#nov-headless}
          + [헤드리스 API](2023/november/headless-breakout-1.md)
          + [Universal Editor](2023/november/headless-breakout-2.md)
          + [외부 데이터 소스](2023/november/headless-breakout-3.md)
-      + Commerce
-         + [카탈로그 서비스](2023/novemnber/commerce-breakout-1.md)
-         + [Amazon Sales Channel과 통합](2023/novemnber/commerce-breakout-2.md)
-         + [이벤트 주도 확장성](2023/novemnber/commerce-breakout-3.md)
-         + [API 메쉬](2023/novemnber/commerce-breakout-4.md)
+      + Commerce {#nov-commerce}
+         + [카탈로그 서비스](2023/november/commerce-breakout-1.md)
+         + [Amazon Sales Channel과 통합](2023/november/commerce-breakout-2.md)
+         + [이벤트 주도 확장성](2023/november/commerce-breakout-3.md)
+         + [API 메쉬](2023/november/commerce-breakout-4.md)
    + 년 5월{#may2023}
       + [Keynote 열기](2023/may/keynote.md)
       + [API 투어](2023/may/new-apis.md)
