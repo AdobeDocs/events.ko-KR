@@ -3,10 +3,10 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange의 녹화본 컬렉션
 event-series: The Skill Exchange
-source-git-commit: f0a805efa9e6599df4aefa87f6de048bca9a5661
+source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 11%
+source-wordcount: '446'
+ht-degree: 10%
 
 ---
 
@@ -111,7 +111,15 @@ ht-degree: 11%
       + [Forms을 위한 최고의 팁 및 요령](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + 2023년 8월 {#aug2023}
+      + [보드 소개](workfront/aug2023/introduction-to-boards.md)
+      + [Experience Makers Spotlight](workfront/aug2023/spotlight.md)
+      + [성장 및 지속적인 효율성](workfront/aug2023/growth-continued-efficiencies.md)
+      + [기업 전반에 걸쳐 Workfront 숙성](workfront/aug2023/workfront-across-enterprise.md)
+      + [Creative Cloud과 기본 통합](workfront/aug2023/native-integtrations.md)
+      + [용도에 맞는 자동화](workfront/aug2023/automations.md)
+      + [리소스 관리 소진](workfront/aug2023/resource-management-burnout.md)
       + [리소스 관리 기반](workfront/aug2023/resource-management.md)
+      + [리소스 관리 시작 키트](workfront/aug2023/resource-management-starter-kit.md)
    + 2022년 4월 {#apr2022}
       + [당신의 Workfront을 와우 10 팁](workfront/apr2022/ten-tips.md)
       + [모든 사람이 알아야 할 계산된 필드](workfront/apr2022/calculated-fields.md)

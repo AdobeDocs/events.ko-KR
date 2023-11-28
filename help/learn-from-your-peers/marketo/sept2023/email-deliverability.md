@@ -3,7 +3,7 @@ title: Marketo Engage으로 이메일 전달성 향상
 description: 이 웨비나에서는 이메일 전달성에 기여하는 요인에 대해 알아봅니다.  이메일 성과 보고서, 사람 성과 보고서 및 스마트 목록을 사용하여 현재 상태 평가.  확인 프로토콜, 데이터베이스 품질 유지 및 정확한 타겟팅 사용을 포함하여 이메일 전달성에 미치는 위험을 줄이기 위한 단계입니다.
 solution: Marketo Engage
 feature-set: Marketo Engage
-feature: Smart Lists, Email Editor, Email Programs, Email Setup, Database, Target Account Management, Deliverability, Performance Insights
+feature: Smart Lists, Deliverability, Reporting
 role: Admin
 level: Intermediate
 doc-type: Event
@@ -11,7 +11,7 @@ last-substantial-update: 2023-09-07T00:00:00Z
 jira: KT-13911
 thumbnail: 3423966.jpeg
 exl-id: c6b9cb51-fb81-41e7-b100-9cb2029c43dc
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
