@@ -2,9 +2,8 @@
 user-guide-title: Adobe 컨텐츠 관리 포럼
 user-guide-breadcrumb: Adobe Content Management Forum
 user-guide-description: 컨텐츠 관리 전략의 현재와 미래 상태, 제공 서비스, 과제 및 기술 요구 사항에 대해 논의하는 Adobe 전문가로부터 배워 보십시오.
-feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
 solution: Experience Manager
-source-git-commit: 4dab34d66617ff8cc6f4a4daaea06badc3987962
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 1%
