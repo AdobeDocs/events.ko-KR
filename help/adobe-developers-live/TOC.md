@@ -2,11 +2,10 @@
 user-guide-title: Adobe Developers Live 이벤트
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Adobe Developer Live 콘텐츠 이벤트의 녹화본 컬렉션
-feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: 543ecb57f8864ef5fa052f61a01029496f45495e
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
-source-wordcount: '700'
-ht-degree: 8%
+source-wordcount: '718'
+ht-degree: 7%
 
 ---
 
@@ -27,10 +26,13 @@ ht-degree: 8%
          + [Universal Editor](2023/november/headless-breakout-2.md)
          + [외부 데이터 소스](2023/november/headless-breakout-3.md)
       + Commerce {#nov-commerce}
-         + [카탈로그 서비스](2023/november/commerce-breakout-1.md)
-         + [Amazon Sales Channel과 통합](2023/november/commerce-breakout-2.md)
-         + [이벤트 주도 확장성](2023/november/commerce-breakout-3.md)
+         + [Adobe 앱 빌더, Adobe IO, 웹후크 및 관리 UI SDK](2023/november/app-builder-web-hooks-admin-ui-sdk.md)
          + [API 메쉬](2023/november/commerce-breakout-4.md)
+         + [카탈로그 서비스](2023/november/commerce-breakout-1.md)
+         + [이벤트 주도 확장성](2023/november/commerce-breakout-3.md)
+         + [Amazon Sales Channel과 통합](2023/november/commerce-breakout-2.md)
+         + [Adobe Commerce 소개](2023/november/intro-to-adobe-commerce.md)
+         + [검색 및 카탈로그 서비스](2023/november/commerce-search-and-catalog-service.md)
    + 년 5월{#may2023}
       + [Keynote 열기](2023/may/keynote.md)
       + [API 투어](2023/may/new-apis.md)
