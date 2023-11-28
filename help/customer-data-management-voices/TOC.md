@@ -2,8 +2,7 @@
 user-guide-title: 고객 데이터 관리 음성
 user-guide-breadcrumb: Customer Data Management Voices
 user-guide-description: 기술 및 마케팅 실무 리더와 전문가를 위한 고객 데이터 관리 대상
-feature-set: Experience Platform
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 21%
