@@ -2,8 +2,7 @@
 user-guide-title: Workfront 이벤트
 breadcrumb-title: Workfront 이벤트
 user-guide-description: Workfront 이벤트
-feature-set: Workfront
-source-git-commit: 07e92e59ba5c6b0b9ac7d66fb929d0be4d8b1f06
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
