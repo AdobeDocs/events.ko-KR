@@ -5,9 +5,8 @@ user-guide-description: Adobe Commerce 제품 팀에서 발표한 Adobe Commerce
 breadcrumb-title: Adobe Commerce 릴리스 업데이트
 type: Event
 mini-toc-levels: 2
-feature-set: Commerce
 event-series: Adobe Commerce Product Updates
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
 source-wordcount: '30'
 ht-degree: 13%
