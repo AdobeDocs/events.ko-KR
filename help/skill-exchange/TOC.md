@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange의 녹화본 컬렉션
 event-series: The Skill Exchange
-source-git-commit: ec6cc182a6c28d629c0ce2905997f369eb214fb2
+source-git-commit: 0fee35240f4f19707da7a222680858ccf89d0377
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '446'
 ht-degree: 10%
 
 ---
@@ -76,6 +76,7 @@ ht-degree: 10%
          + [AEM Assets 시작하기](aem/aug2023/getting-started-aem-assets.md)
          + [공동 작업 DAM 활용](aem/aug2023/collaborative-dam.md)
          + [AI 준비 척도](aem/aug2023/metadata.md)
+         + [스포트라이트](aem/aug2023/spotlight.md)
    + 2022년 8월 {#aug2022}
       + 개발자 트랙 {#developer-track}
          + [Experience Makers Spotlight](aem/aug2022/spotlight.md)
@@ -116,6 +117,7 @@ ht-degree: 10%
       + [성장 및 지속적인 효율성](workfront/aug2023/growth-continued-efficiencies.md)
       + [기업 전반에 걸쳐 Workfront 숙성](workfront/aug2023/workfront-across-enterprise.md)
       + [Creative Cloud과 기본 통합](workfront/aug2023/native-integtrations.md)
+      + [Keynote 열기](workfront/aug2023/opening-keynote.md)
       + [용도에 맞는 자동화](workfront/aug2023/automations.md)
       + [리소스 관리 소진](workfront/aug2023/resource-management-burnout.md)
       + [리소스 관리 시작 키트](workfront/aug2023/resource-management-starter-kit.md)
