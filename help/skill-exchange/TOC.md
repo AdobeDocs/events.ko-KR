@@ -3,7 +3,7 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange의 녹화본 컬렉션
 event-series: The Skill Exchange
-source-git-commit: b5bbc2cade0b5bccb8dc1d06811fa526e612b4f2
+source-git-commit: ec6cc182a6c28d629c0ce2905997f369eb214fb2
 workflow-type: tm+mt
 source-wordcount: '443'
 ht-degree: 10%
@@ -118,7 +118,7 @@ ht-degree: 10%
       + [Creative Cloud과 기본 통합](workfront/aug2023/native-integtrations.md)
       + [용도에 맞는 자동화](workfront/aug2023/automations.md)
       + [리소스 관리 소진](workfront/aug2023/resource-management-burnout.md)
-         + [리소스 관리 시작 키트](workfront/aug2023/resource-management-starter-kit.md)
+      + [리소스 관리 시작 키트](workfront/aug2023/resource-management-starter-kit.md)
    + 2022년 4월 {#apr2022}
       + [당신의 Workfront을 와우 10 팁](workfront/apr2022/ten-tips.md)
       + [모든 사람이 알아야 할 계산된 필드](workfront/apr2022/calculated-fields.md)
