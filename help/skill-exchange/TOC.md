@@ -3,10 +3,10 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange의 녹화본 컬렉션
 event-series: The Skill Exchange
-source-git-commit: 0fee35240f4f19707da7a222680858ccf89d0377
+source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
 workflow-type: tm+mt
-source-wordcount: '446'
-ht-degree: 10%
+source-wordcount: '496'
+ht-degree: 8%
 
 ---
 
@@ -15,6 +15,16 @@ ht-degree: 10%
 
 + [개요](overview.md)
 + Analytics {#analytics}
+   + 2023년 8월 {#aug2023}
+      + [세그먼트 정보](analytics/aug2023/spotlight-segments.md)
+      + [데이터 분석](analytics/aug2023/analyze-the-data.md)
+      + [캐주얼 작업 영역 사용자 교육](analytics/aug2023/spotlight.md)
+      + [탐색 수정](analytics/aug2023/fix-navigation.md)
+      + [4개의 사용 중인 기능](analytics/aug2023/data-analysis.md)
+      + [시작하기](analytics/aug2023/getting-started.md)
+      + [고객 경험 개선](analytics/aug2023/anti-conversion.md)
+      + [Keynote](analytics/aug2023/keynote.md)
+      + [결합하기](analytics/aug2023/putting-together.md)
    + 2023년 5월 {#may2023}
       + [Adobe Analytics 팁 및 요령](analytics/may2023/tips-and-tricks.md)
       + [EDDL/WebSDK로 마이그레이션](analytics/may2023/migrate.md)
@@ -72,6 +82,7 @@ ht-degree: 10%
          + [AEM 개발자 스타터 키트](aem/aug2023/deploy-new-project.md)
          + [효과적이고 확장 가능한 스타일 시스템 구축](aem/aug2023/scalable-style-system.md)
          + [AEM Cloud Service으로 마이그레이션](aem/aug2023/migrate-to-aemcs.md)
+         + [개인화된 마케팅 이메일](aem/aug2023/personalized-marketing-emails.md)
       + 웹 트랙 {#webtrack}
          + [AEM Assets 시작하기](aem/aug2023/getting-started-aem-assets.md)
          + [공동 작업 DAM 활용](aem/aug2023/collaborative-dam.md)
