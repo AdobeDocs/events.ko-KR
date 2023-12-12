@@ -3,7 +3,7 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange의 녹화본 컬렉션
 event-series: The Skill Exchange
-source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
+source-git-commit: 76b246f4b6b43632cf07b17ee1ec9b2d581e1e08
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 8%
@@ -18,7 +18,7 @@ ht-degree: 8%
    + 2023년 8월 {#aug2023}
       + [세그먼트 정보](analytics/aug2023/spotlight-segments.md)
       + [데이터 분석](analytics/aug2023/analyze-the-data.md)
-      + [캐주얼 작업 영역 사용자 교육](analytics/aug2023/spotlight.md)
+      + [캐주얼 작업 영역 사용자 교육](analytics/aug2023/spotlight-workspace-user.md)
       + [탐색 수정](analytics/aug2023/fix-navigation.md)
       + [4개의 사용 중인 기능](analytics/aug2023/data-analysis.md)
       + [시작하기](analytics/aug2023/getting-started.md)

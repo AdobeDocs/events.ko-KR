@@ -1,8 +1,8 @@
 ---
 title: AEM을 사용하여 고도로 개인화된 마케팅 이메일 만들기
 description: 이메일 커뮤니케이션은 기존 및 잠재적 신규 고객에게 도달할 수 있는 가장 중요한 방법 중 하나입니다. 고도로 개인화된 이메일을 효율적으로 만들 수 있으므로 고객 참여도가 크게 높아질 수 있습니다. 누군가 AEM(Adobe Experience Manager)를 떠올리면 웹 사이트 및 웹 컨텐츠에 대해 자주 생각하게 됩니다. 하지만 AEM을 사용하여 이메일을 만들 수도 있다는 사실을 알고 계십니까
-feaeture-set: Experience Manager Sites
-feature: Core components, Developing
+feature-set: Experience Manager Sites
+feature: Core Components, Developing
 topic: Personalization
 role: Developer
 level: Intermediate, Experienced
@@ -11,7 +11,7 @@ duration: 2198
 last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14650
 thumbnail: 3425982.jpeg
-source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
+source-git-commit: 76b246f4b6b43632cf07b17ee1ec9b2d581e1e08
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
