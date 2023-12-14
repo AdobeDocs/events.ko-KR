@@ -8,9 +8,9 @@ event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231214.html
 event-start-time: 2023-12-14 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
 exl-id: c2c2c560-adc1-45f4-b235-0307923cc9a8
-source-git-commit: 0352149767e9366a1a125d3afbc632aa320b6f37
+source-git-commit: 9a3018b3e8ded0ded37a5c97f536db2eaa93416b
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 2023년에 릴리스된 새로운 기능이 효과적인 개인화를 위해 대상자를 보다 효과적이고 효율적으로 활성화하는 데 어떻게 도움이 되는지 알아보십시오.
 
-[![ExL LIVE 2023년 12월 14일](assets/Dec14_exl_live_banner_web_1920_WebBanner.png)](https://engage.adobe.com/ExpLeagueLive-231214.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3425754/?quality=12&learn=on)
 
-**쇼에 등록하려면 위의 이미지를 클릭하십시오!**.
+**위의 리플레이를 확인하십시오. 에서 이 세션에 대한 토론을 계속할 수도 있습니다. [Experience League 커뮤니티 토론](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14)**.
 
 **세부 사항:**
 현재 Real-Time CDP 전문가로서 제품의 새로운 기능, 중요한 이유 및 Adobe이 고객 데이터 관리 전략을 개선하는 데 어떻게 도움이 될 수 있는지에 대한 통찰력을 찾고 계십니까? 더 이상 보지 마세요. 당신은 올바른 곳에 와 있습니다! 이 시리즈에서는 Real-Time CDP에서 최근 출시된 기능을 자세히 살펴봄으로써 새로운 기능을 바로 활용하고 조직에 영향을 미칠 수 있도록 합니다.
@@ -41,6 +41,5 @@ ht-degree: 0%
 * 지금 바로 이러한 새로운 기능을 활용할 수 있습니다
 * 지금 바로 고객 개인화 노력을 개선해 보십시오!
 
-이 라이브 세션에서는 항상 그렇듯이 채팅에서 질문을 하고 전문가로부터 답변을 얻을 수 있습니다.
 
 
