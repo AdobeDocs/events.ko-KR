@@ -2,10 +2,10 @@
 user-guide-title: Adobe Developers Live 이벤트
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Adobe Developer Live 콘텐츠 이벤트의 녹화본 컬렉션
-source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
+source-git-commit: c50f4241e22bc858473156a3e7cd32052177a5e1
 workflow-type: tm+mt
-source-wordcount: '718'
-ht-degree: 7%
+source-wordcount: '777'
+ht-degree: 6%
 
 ---
 
@@ -14,26 +14,37 @@ ht-degree: 7%
 
 + [개요](overview.md)
 + 2023 {#2023}
-   + 년 11월{#nov2023}
+   + 11월 {#nov2023}
       + [Keynote 열기](2023/november/keynote.md)
+      + [Keynote(APAC) 열기](2023/november/keynote-apac.md)
+      + [App Builder를 사용하여 콘텐츠 워크플로 자동화](2023/november/content-workflows.md)
+      + [맨 앞으로 구성 요소 개발 및 배포](2023/november/component-development.md)
+      + [옴니채널 콘텐츠 게재](2023/november/omnichannel.md)
       + Edge Delivery Services {#nov-edgedeliveryservices}
          + [웹 사이트 구축](2023/november/edge-breakout-1.md)
          + [웹 사이트 성능](2023/november/edge-breakout-2.md)
          + [고객 배포](2023/november/edge-breakout-3.md)
          + [문서 기반 작성](2023/november/deep-dive.md)
+         + [Edge Delivery Services 기술 개요](2023/november/edge-delivery-services-tech-overview.md)
       + Headless {#nov-headless}
          + [헤드리스 API](2023/november/headless-breakout-1.md)
+         + [유니버설 편집기 소개](2023/november/intro-universal-editor.md)
+         + [Headless Forms 소개](2023/november/headless-forms.md)
          + [Universal Editor](2023/november/headless-breakout-2.md)
          + [외부 데이터 소스](2023/november/headless-breakout-3.md)
-      + Commerce {#nov-commerce}
+      + 상거래 {#nov-commerce}
          + [Adobe 앱 빌더, Adobe IO, 웹후크 및 관리 UI SDK](2023/november/app-builder-web-hooks-admin-ui-sdk.md)
          + [API 메쉬](2023/november/commerce-breakout-4.md)
          + [카탈로그 서비스](2023/november/commerce-breakout-1.md)
+         + [플랫폼을 통한 상거래 성능 제공](2023/november/commerce-performance.md)
          + [이벤트 주도 확장성](2023/november/commerce-breakout-3.md)
+         + [상업의 미래](2023/november/future-of-commerce.md)
          + [Amazon Sales Channel과 통합](2023/november/commerce-breakout-2.md)
          + [Adobe Commerce 소개](2023/november/intro-to-adobe-commerce.md)
          + [검색 및 카탈로그 서비스](2023/november/commerce-search-and-catalog-service.md)
-   + 년 5월{#may2023}
+         + [상거래 사이트 성과를 최적화하는 전략](2023/november/commerce-site-performance.md)
+         + [Adobe Commerce Cloud에서 변경 내용 추적](2023/november/commerce-cloud-track-changes.md)
+   + 5월 {#may2023}
       + [Keynote 열기](2023/may/keynote.md)
       + [API 투어](2023/may/new-apis.md)
       + [이메일 및 Forms용 AEM 핵심 구성 요소에 대해 자세히 알아보기](2023/may/core-components.md)
@@ -101,7 +112,7 @@ ht-degree: 7%
       + [신속한 프론트엔드 개발](2021/february/rapid-frontend-devlopment.md)
       + [SPA 편집기 2.0](2021/february/spa-editor-2-0.md)
       + [모든 사이트를 점진적 웹 앱으로 변환](2021/february/any-site-into-pwa.md)
-   + 년 10월{#oct2021}
+   + 10 {#oct2021}
       + [개요](2021/october/overview.md)
       + [Keynote 열기](2021/october/keynote.md)
       + [Experience Manager CS로의 전환 가속화](2021/october/accelerate-transistion.md)
