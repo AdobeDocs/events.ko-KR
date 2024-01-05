@@ -7,10 +7,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
-source-git-commit: 14a1df2b02b0eab4c86073c82627507106011a86
+source-git-commit: ba2c392cef2c5bd49eeaeb9241396c9b13389fdb
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 50%
+source-wordcount: '170'
+ht-degree: 44%
 
 ---
 
@@ -20,19 +20,19 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 <div id="upcoming-events">
 
-## 다가오는 Experience League LIVE 이벤트
+## 예정된 Experience League 라이브 이벤트
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-12-14-23.md">
-      <img alt="Experience League LIVE 4월 21일" src="episodes/assets/Dec14_exl_live_banner_web_1920_WebBanner.png">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-17-24.md">
+      <img alt="Experience League LIVE 4월 21일" src="episodes/assets/Jan17_2024_WebBanner.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-12-14-23.md">
-        <strong>Adobe Real-Time CDP의 5가지 새로운 기능으로 카운트다운 - 2024</strong>
+      <a href="episodes/exl-live-episode-01-17-24.md">
+        <strong>Adobe Analytics 데이터 및 분석을 Customer Journey Analytics으로 가져오기</strong>
       </a>
-      <br/><em>더그 무어, 니나 카루소, 루디 숨퍼트</em>
-      <br/><em>2023년 12월 14일</em>
+      <br/><em>Doug Moore, Eric Matisoff, Bryan Skelton과 함께</em>
+      <br/><em>2024년 1월 17일 오전 10시 PST</em>
     </div>
   </td>
 </tr>

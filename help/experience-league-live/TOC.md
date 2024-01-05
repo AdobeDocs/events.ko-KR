@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 14a1df2b02b0eab4c86073c82627507106011a86
+source-git-commit: ba2c392cef2c5bd49eeaeb9241396c9b13389fdb
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 7%
+source-wordcount: '351'
+ht-degree: 6%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 7%
 
 + [개요](overview.md)
 + 에피소드 {#episodes}
+   + [Ep. 31: Adobe Analytics 데이터 및 분석을 Customer Journey Analytics으로 가져오기](episodes/exl-live-episode-01-17-24.md)
    + [Ep. 30: Adobe Real-Time CDP의 5가지 새로운 기능과 함께 2024년 카운트다운](episodes/exl-live-episode-12-14-23.md)
    + [Ep. 29: Real-Time CDP 및 AJO에서 행동 이벤트 데이터를 최대한 활용](episodes/exl-live-episode-11-14-23.md)
    + [Ep. 28: Workfront 릴리스 심층 분석 - 새로운 Workfront 홈](episodes/exl-live-episode-10-26-23.md)
