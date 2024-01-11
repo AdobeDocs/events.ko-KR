@@ -2,16 +2,16 @@
 title: 경험 작성자 The Skill Exchange
 description: Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트 시리즈로, Adobe Experience Cloud 솔루션에 대해 자세히 살펴보는 데 중점을 둡니다.
 exl-id: 6d0f26c7-d5d2-4993-b2a1-58d5880f8f96
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: ba3b7d08ae9e9b703bc48df1c5963b8576f51733
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
 # 경험 작성자 The Skill Exchange {#overview}
 
-<img alt="경험 작성자 The Skill Exchange" src="./assets/skill-exchange.png" />
+<img alt="경험 작성자 The Skill Exchange" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png" />
 
 Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트 시리즈로, Adobe Experience Cloud 솔루션에 대해 자세히 살펴보는 데 중점을 둡니다. 이 프로그램은 우수 사례와 팁과 요령을 공유하여 Adobe 제품 전문가 및 전문가 동료로부터 배울 수 있는 기회를 제공합니다.
 
