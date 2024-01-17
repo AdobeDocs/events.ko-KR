@@ -2,9 +2,9 @@
 user-guide-title: Workfront 이벤트
 breadcrumb-title: Workfront 이벤트
 user-guide-description: Workfront 이벤트
-source-git-commit: 258dad6728f49c093121b6f7a8b49db5778d18fe
+source-git-commit: e5c41210809983e9b6d2854f6ecf75e44976d019
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -47,5 +47,4 @@ ht-degree: 0%
 + 요청 큐 및 접수 {#request-queues-and-intake}
    + [요청 대기열 및 접수 Forms](user-groups/request-queues-and-intake-forms.md)
 + 릴리스 {#releases}
-   + 20 {#2024-releases}
-      + [24.1 릴리스](webinars/24-1-release-webinar.md)
+   + [24.1 릴리스](webinars/24-1-release-webinar.md)
