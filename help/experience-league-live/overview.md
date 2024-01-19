@@ -7,10 +7,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
-source-git-commit: e4d280f98bf46b0f2c663e85bedd1fed4f85cafe
+source-git-commit: 830d7210220293c9c9b6e7923213e9e7f5936d2c
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 47%
+source-wordcount: '176'
+ht-degree: 42%
 
 ---
 
@@ -24,8 +24,16 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 <table>
 <tr>
-  <td style="vertical-align: top;">
-    2024년 2월 8일에 시작되는 프로그램에 대한 정보를 얻으려면 곧 이 페이지로 돌아오십시오!
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-08-24.md">
+      <img alt="Experience League 라이브 2월 08일" src="episodes/assets/WebBanner-Feb08-2024.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-02-08-24.md">
+        <strong>사용 사례 플레이북, 셀프서비스 템플릿을 사용하여 Real-Time CDP 및 Journey Optimizer에 대해 몇 번의 클릭으로 사용 사례를 배포할 수 있습니다</strong>
+      </a>
+      <br/><em>대니얼 라이트, 조세 모네트-힐리, 로히트 바수리와 함께</em>
+      <br/><em>2024년 2월 08일</em>
+    </div>
   </td>
 </tr>
 </table>

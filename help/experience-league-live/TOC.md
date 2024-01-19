@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: ba2c392cef2c5bd49eeaeb9241396c9b13389fdb
+source-git-commit: 830d7210220293c9c9b6e7923213e9e7f5936d2c
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '366'
 ht-degree: 6%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 6%
 
 + [개요](overview.md)
 + 에피소드 {#episodes}
+   + [Ep. 32: 몇 번의 클릭으로 사용 사례를 배포하기 위한 사용 사례 플레이북, 셀프서비스 템플릿](episodes/exl-live-episode-02-08-24.md)
    + [Ep. 31: Adobe Analytics 데이터 및 분석을 Customer Journey Analytics으로 가져오기](episodes/exl-live-episode-01-17-24.md)
    + [Ep. 30: Adobe Real-Time CDP의 5가지 새로운 기능과 함께 2024년 카운트다운](episodes/exl-live-episode-12-14-23.md)
    + [Ep. 29: Real-Time CDP 및 AJO에서 행동 이벤트 데이터를 최대한 활용](episodes/exl-live-episode-11-14-23.md)
