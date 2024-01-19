@@ -7,10 +7,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
-source-git-commit: ba2c392cef2c5bd49eeaeb9241396c9b13389fdb
+source-git-commit: e4d280f98bf46b0f2c663e85bedd1fed4f85cafe
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 44%
+source-wordcount: '159'
+ht-degree: 47%
 
 ---
 
@@ -24,16 +24,8 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-17-24.md">
-      <img alt="Experience League LIVE 4월 21일" src="episodes/assets/Jan17_2024_WebBanner.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-01-17-24.md">
-        <strong>Adobe Analytics 데이터 및 분석을 Customer Journey Analytics으로 가져오기</strong>
-      </a>
-      <br/><em>Doug Moore, Eric Matisoff, Bryan Skelton과 함께</em>
-      <br/><em>2024년 1월 17일 오전 10시 PST</em>
-    </div>
+  <td style="vertical-align: top;">
+    2024년 2월 8일에 시작되는 프로그램에 대한 정보를 얻으려면 곧 이 페이지로 돌아오십시오!
   </td>
 </tr>
 </table>

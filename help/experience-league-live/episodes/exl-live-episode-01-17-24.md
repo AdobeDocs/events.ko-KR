@@ -7,9 +7,10 @@ event-cta-url-live: https://www.youtube.com/watch?v=BkAjaMPgpgE
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-240117.html
 event-start-time: 2024-01-17 10:00-7
 event-guests: Doug Moore,Eric Matisoff,Bryan Skelton
-source-git-commit: ba2c392cef2c5bd49eeaeb9241396c9b13389fdb
+exl-id: 2c2136a9-0b40-4a0a-907d-5af181568073
+source-git-commit: fed7c247f14965d91cb639707e17d70dd9cf37b2
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -18,13 +19,7 @@ ht-degree: 0%
 
 Bryan, Eric 및 Doug와 함께 CJA(Customer Journey Analytics)를 사용하여 빠르게 전환하는 방법에 대해 논의합니다. 자동화된 프로세스를 사용하여 Adobe Analytics에서 CJA로 데이터 및 분석을 이동하는 방법과 프로세스 중에 고려해야 할 사항에 대해 알아봅니다. 그리고 물론, 그들은 그 과정에서 건강한 양의 재미있는 팁과 요령을 가질 것입니다.
 
-[![ExL LIVE 2024년 1월 17일](assets/Jan17_2024_WebBanner.jpg)](https://engage.adobe.com/ExpLeagueLive-240117.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3426778/?quality=12&learn=on)
 
-이 라이브 세션에서는 항상 그렇듯이 채팅에서 질문을 하고 전문가로부터 답변을 얻을 수 있습니다.
-
-**이벤트를 등록하려면 위의 이미지를 클릭하십시오!**.
-
-
-
-
+**다음에 대한 토론 계속 [Experience League 커뮤니티 포럼 토론](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582)**.
 
