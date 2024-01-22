@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "다음 녹음/녹화 컬렉션: [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 787fd78cb2ceb61f296bfe63c5b4e6cf71712abf
+source-git-commit: 06f787d8dd891e1afe3b8eda58c4790542a3a082
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 6%
+source-wordcount: '135'
+ht-degree: 5%
 
 ---
 
@@ -42,6 +42,8 @@ ht-degree: 6%
    + 5월 {#may2023}
       + [컨텐츠 및 경험 조각 마스터](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
+   + 1월 {#jan2024}
+      + [Marketo Engage으로 개인 채점 숙달](marketo/jan2024/person-scoring-mastery.md)
    + 11월 {#nov2023}
       + [Marketo Engage 및 Dynamic Chat](marketo/nov2023/dynamic-chat.md)
    + 9월 {#sept2023}
