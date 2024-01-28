@@ -1,19 +1,19 @@
 ---
 title: MSM 및 번역 - 모범 사례
-description: 이 웨비나는 다국어 웹 사이트를 위한 MSM과 번역의 교차를 조사합니다. 번역으로 소개된 복잡성, 사이트 구조에 대한 권장 사항 및 다양한 사용 사례에 대한 번역 커넥터 및 도구의 간단한 비교에 대해 설명합니다.
-uuid: e03f11cc-f16e-428b-91b7-dad22b1f2969
+description: 이 웨비나는 다국어 웹 사이트에 대한 MSM과 번역의 교차 부분을 검사합니다. 번역으로 소개된 복잡성, 사이트 구조에 대한 권장 사항 및 다양한 사용 사례에 대한 번역 커넥터 및 도구의 간단한 비교에 대해 설명합니다.
 discoiquuid: 4dc97a95-c401-499c-b5f6-8ffc6f464468
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+duration: 29
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 3%
+source-wordcount: '141'
+ht-degree: 1%
 
 ---
 
 # MSM 및 번역: 우수 사례 {#msm-and-translation-best-practices}
 
-이 웨비나는 다국어 웹 사이트를 위한 MSM과 번역의 교차를 조사합니다. 번역으로 소개된 복잡성, 사이트 구조에 대한 권장 사항 및 다양한 사용 사례에 대한 번역 커넥터 및 도구의 간단한 비교에 대해 설명합니다.
+이 웨비나는 다국어 웹 사이트에 대한 MSM과 번역의 교차 부분을 검사합니다. 번역으로 소개된 복잡성, 사이트 구조에 대한 권장 사항 및 다양한 사용 사례에 대한 번역 커넥터 및 도구의 간단한 비교에 대해 설명합니다.
 
 **제공 주체:**
 

@@ -1,11 +1,11 @@
 ---
 title: AEM 기술 몰래 보기
 description: 기술 강연을 통해 차세대 Adobe Experience Manager을 위해 노력하고 있는 내용을 살펴보십시오.
-uuid: a0eae408-c0a2-44a4-abca-040895955570
 discoiquuid: 78af3b2f-b010-4753-bacc-18696a598ded
 targetaudience: target-audience advanced
 exl-id: 9b023ec2-70c3-40ba-92bf-37271c197602
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3536
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 3%

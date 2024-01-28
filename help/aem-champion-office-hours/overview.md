@@ -2,9 +2,10 @@
 title: AEM Champion 운영 시간
 description: 이 Adobe Experience Manager 사용자 그룹(AEMUG)은 2022-2023 AEM 챔피언 클래스에 의해 진행됩니다. 챔피언은 이 AEMAG를 월간 오피스 아워 플랫폼으로 사용할 것입니다
 exl-id: 59afdad3-fffc-4ec4-9bdf-cdae32422737
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 72
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---

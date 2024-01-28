@@ -1,11 +1,11 @@
 ---
 title: 자산 공유에 대한 주요 Brand Portal 릴리스 및 새로운 참조 구현
 description: 미디어 포털은 기업 내부적으로나 많은 경우 외부적으로 자산을 공유하는 데 매우 중요합니다. 이 세션에서는 Adobe Assets의 새로운 Asset Share Commons를 소개합니다.
-uuid: 0a5a3c7c-60b2-400f-b555-ca51f01e8184
 discoiquuid: 524f8a2e-dcd4-44b5-ae2f-524dff8f03ab
 targetaudience: target-audience advanced
 exl-id: 2ca69b0f-8e43-437b-9fbb-76376fb1c17d
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3408
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 3%

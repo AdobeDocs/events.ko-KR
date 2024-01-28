@@ -1,15 +1,15 @@
 ---
 title: 전문가에게 문의 - Workfront 증명을 최대화하기 위한 모범 사례
 description: 설정을 구성하고, 유용한 보고를 사용하도록 설정하고, 증명에서 일반적인 위험을 방지하는 방법에 대해 알아봅니다. 이 웨비나는 2020년 2월 26일에 녹화되었습니다.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9916
 exl-id: 7d3e437d-4a6e-44b8-9eff-eabb8284c391
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 5182
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '5566'
-ht-degree: 2%
+source-wordcount: '5572'
+ht-degree: 1%
 
 ---
 

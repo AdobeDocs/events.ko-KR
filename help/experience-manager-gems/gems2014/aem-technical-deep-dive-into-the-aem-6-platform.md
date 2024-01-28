@@ -1,13 +1,13 @@
 ---
 title: AEM 6 플랫폼에 대한 기술적 심층 분석
 description: 새로운 저장소 아키텍처에 대해 자세히 알아보고 개발자와 운영 팀의 주요 차이점과 개선 사항에 대해 알아봅니다.
-uuid: 8038fb68-e841-4d35-affd-c32d53e4cc8f
 discoiquuid: 1374a0f7-4456-47ba-b061-1b6d67d12d55
 targetaudience: target-audience advanced
 exl-id: 75bfdd70-c79d-4206-99fd-5f8e62b368d9
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3816
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '117'
 ht-degree: 3%
 
 ---

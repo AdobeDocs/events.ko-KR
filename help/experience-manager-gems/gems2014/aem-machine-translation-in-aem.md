@@ -1,13 +1,13 @@
 ---
 title: AEM에서 기계 번역
 description: AEM 및 Microsoft Translator가 기계 번역을 제공하여 콘텐츠 도달 범위를 확장하고, 콘텐츠 마케팅 시간을 늘리고, 비용을 최적화하고, 검색 엔진 최적화를 통해 사용자의 검색 기능을 향상시켜 결과적으로 리소스를 더 잘 사용하고 ROI를 높이는 방법을 알아봅니다.
-uuid: c25c9806-560c-46ef-b9c0-ffe0af296ed9
 discoiquuid: c976c008-4f51-4146-8c34-265e9707be6a
 targetaudience: target-audience advanced
 exl-id: e4f4d4ec-f702-4958-913e-fb3d34421855
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3062
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '211'
 ht-degree: 2%
 
 ---

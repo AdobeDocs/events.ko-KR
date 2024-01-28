@@ -3,10 +3,11 @@ title: 2021년 10월 Adobe Developers Live
 description: Adobe Developers Live 이벤트의 일부로 제공되는 Adobe Experience Manager Sites에 대한 비디오 및 튜토리얼 모음입니다.
 sub-product: sites, content-services
 exl-id: e6ebda58-dd9f-4d27-9f94-0233fc98d3c0
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 110
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 19%
+source-wordcount: '385'
+ht-degree: 9%
 
 ---
 
@@ -82,7 +83,7 @@ Adobe Experience Cloud, Document Cloud 및 Creative Cloud의 Adobe 제품 팀은
 * [AEM Sites 개발 설명서](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
 * [AEM Sites 관리 설명서](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
 * [AEM Sites 배포 설명서](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
-* [AEM as a Cloud Service 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html)
+* [AEM as a Cloud Service Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html)
 * [AEM Assets 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html)
 * [AEM Forms 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
 * [AEM Foundation 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)

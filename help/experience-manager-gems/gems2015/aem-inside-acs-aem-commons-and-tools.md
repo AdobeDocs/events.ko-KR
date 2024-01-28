@@ -1,11 +1,11 @@
 ---
 title: ACS AEM Commons and Tools 내부
 description: 이 세션에서는 AEM의 글로벌 리더, ACS AEM Commons 및 ACS AEM Tools의 공동 프로젝트 리더, Justin Edelson이 AEM용 오픈 소스 프로젝트에서 사용되는 목표 및 프로세스에 대한 몇 가지 배경 지식을 제공하고 몇 가지 주요 기능을 시연합니다.
-uuid: aef962ac-5e21-4582-9da2-cdfa6f5f18ff
 discoiquuid: 3210944a-4a03-495a-b652-3c9e54ecbc22
 targetaudience: target-audience advanced
 exl-id: 44aa2e08-f792-4b46-b7ff-c3a54c5a6bf0
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3249
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 1%

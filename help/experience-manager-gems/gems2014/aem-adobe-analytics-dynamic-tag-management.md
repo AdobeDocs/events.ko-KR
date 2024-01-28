@@ -1,15 +1,15 @@
 ---
 title: Dynamic Tag Management 클라우드 서비스를 사용하여 로컬 AEM 인스턴스에 Adobe Analytics 배포
 description: AEM 6에는 Adobe이 웹 사이트에 Adobe Analytics(및 Marketing Cloud의 다른 솔루션)를 배포하는 권장 방법인 DTM(Dynamic Tag Management)을 위한 클라우드 서비스가 포함되어 있습니다. 로컬 AEM 인스턴스도 DTM 서비스에 연결하고 원하는 사용 데이터를 Adobe Analytics으로 전송하는 방법을 알아봅니다.
-uuid: 0af8b03b-18dc-4701-93c6-65acdc85b6a2
 topic-tags: Dynamictagmanagement
 discoiquuid: a91aeec3-337f-4cfd-850d-6ece0041e550
 targetaudience: target-audience advanced
 exl-id: 94f6fe0f-b6cd-4484-bd1d-92fa31be4e17
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2846
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 5%
+source-wordcount: '179'
+ht-degree: 1%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: AEM 6.4에서 ContextHub 소개
 description: 이 프레젠테이션에서는 사용 가능한 일반 저장소, 지속성 레이어, 이벤트 및 디버깅에 대한 몇 가지 자세한 내용과 함께 높은 수준의 ContextHub 아키텍처를 다룹니다. ContextHub로 쉽게 마이그레이션할 수 있도록 ClientContext과 ContextHub 간의 유사성 및 기능 패리티에 대해 알아봅니다.
-uuid: f8789846-ff15-4cd5-9102-3b7394da5958
 discoiquuid: e714ec87-355c-4373-b547-98d544d73c9e
 targetaudience: target-audience advanced
 exl-id: a415f41b-03b9-4a41-8b70-5d81ac8fc456
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3307
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '92'
 ht-degree: 2%
 
 ---

@@ -1,14 +1,14 @@
 ---
 title: Eclipse용 AEM 개발자 도구
 description: AEM Developer Tools for Eclipse는 AEM 애플리케이션 개발을 더 쉽고, 더 직선적이며, 모범 사례에 맞게 만드는 것을 목표로 하는 Eclipse 플러그인 세트입니다. OSGi 번들 및 JCR 콘텐츠용 의 두 가지 새로운 프로젝트 측면을 기반으로 Eclipse와 AEM 인스턴스 간에 매끄럽고 반복적으로 동기화할 수 있습니다. FileVault 형식의 컨텐츠를 표시하고 편집할 수 있는 컨텐츠 브라우저와 함께 제공됩니다. 마지막으로 프로젝트 설정을 부트스트랩하는 데 사용할 수 있는 샘플 다중 모듈 Maven 기반 프로젝트가 포함됩니다.
-uuid: cb4bb28a-8370-4425-b082-3516b35f3125
 discoiquuid: dfefaa5f-0800-4d6c-99c0-430b2d960079
 targetaudience: target-audience advanced
 exl-id: 5209870a-c0fb-4241-ab21-ddf6adf233f8
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3325
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 10%
+source-wordcount: '227'
+ht-degree: 6%
 
 ---
 

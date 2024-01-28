@@ -1,15 +1,15 @@
 ---
 title: AEM 색인화 및 JCR 쿼리
 description: AEM 색인화 및 쿼리 모범 사례입니다. AEM에서 쿼리 문제를 해결하는 방법 및 색인을 구성하고 관리하는 방법입니다.
-uuid: d4f70700-328c-42f9-9fd8-5181d2ba1697
 topic-tags: troubleshoot, best_practices
 discoiquuid: d11b23ec-d7cf-47ce-9767-60b53b1015b6
 targetaudience: target-audience advanced;target-audience ongoing
 exl-id: 01475b08-c644-4fcc-8d85-48b4828d276a
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3510
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 14%
+source-wordcount: '142'
+ht-degree: 3%
 
 ---
 

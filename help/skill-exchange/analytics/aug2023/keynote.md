@@ -4,17 +4,17 @@ description: Adobe Analytics이 어디로 향하고 있는지 궁금하신가요
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
-duration: 961
+duration: 973
 last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14651
 thumbnail: 3425984.jpeg
-source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
+exl-id: c9777907-e0a2-4958-a217-3da36dfd034b
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
 
 ---
-
 
 # 스킬 교환 이벤트 2023년 8월 - Opening Keynote
 

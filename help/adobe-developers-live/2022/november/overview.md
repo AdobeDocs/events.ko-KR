@@ -3,9 +3,10 @@ title: 2022년 11월 Adobe Developers Live
 description: Adobe Developers Live 이벤트의 일부로 제공되는 Adobe Experience Manager Sites에 대한 비디오 및 튜토리얼 모음입니다.
 sub-product: sites, content-services
 exl-id: ccb76ddd-f751-4e15-af09-b7b031e12134
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 83
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '121'
 ht-degree: 2%
 
 ---

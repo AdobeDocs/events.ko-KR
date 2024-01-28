@@ -1,14 +1,14 @@
 ---
 title: Oak Lucene 인덱스
 description: Oak Lucene 인덱스의 기능과 이러한 인덱스를 사용하여 쿼리를 보다 효율적으로 수행할 수 있는 방법을 설명합니다. 두 번째 부분에서는 비동기 인덱싱이 일반적으로 어떻게 작동하고 어떻게 모니터링되는지 설명합니다.
-uuid: 7664c6b2-3f09-4de4-9ade-b934465ac829
 discoiquuid: f69d9c38-a316-4409-94b3-5ff576034bf3
 targetaudience: target-audience advanced
 exl-id: ed0e32b3-44bc-4e45-a80e-f9cfd0688e80
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3517
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 11%
+source-wordcount: '177'
+ht-degree: 3%
 
 ---
 

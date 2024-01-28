@@ -9,10 +9,11 @@ last-substantial-update: 2023-03-03T00:00:00Z
 jira: KT-12415
 thumbnail: 3416250.jpeg
 exl-id: 2526c088-08da-4839-a1f4-27aa1f620340
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3440
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,7 +21,7 @@ ht-degree: 1%
 
 마케팅 프로그램을 위한 콘텐츠를 만드는 것은 긴 시간이 소요됩니다. 템플릿과 토큰을 적용하면 팀 간에 확장 가능한 프로세스를 구축하고 더 적은 비용으로 더 많은 성과를 얻을 수 있습니다. [!DNL Marketo Engage]. 수상 경력에 빛나는 마케팅 리더이자 Adobe 2배인 Lauren McCormack의 이야기를 들어보십시오 [!DNL Marketo Engage] 챔피언 - 그녀가 수년간의 지혜를 공유하여 [!DNL Marketo Engage] 컨텐츠 확장 가능.
 
-알아보기:
+자세히 알아보기:
 
 * 토큰 및 템플릿을 사용하여 프로그램을 보다 효과적이고 효율적으로 구축
 * 기존 콘텐츠 라이브러리를 최대한 활용하기 위한 팁

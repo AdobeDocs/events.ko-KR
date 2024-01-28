@@ -1,11 +1,11 @@
 ---
 title: 실시간 및 경량 - Adobe I/O 이벤트를 사용하여 AEM과 이벤트 기반 통합 구축
 description: AEM용 커넥터 구축에 지쳤습니까? Adobe I/O 이벤트를 통해 AEM의 모든 내부 OSGi 이벤트를 노출하여 여러 시스템에 이벤트 기반 워크플로우를 쉽게 구축하는 방법을 살펴보십시오. I/O 이벤트를 사용하면 관리 이벤트와 고객 행동에 실시간으로 대응할 수 있습니다.
-uuid: 78a98ffd-cdca-462a-8915-fd936a270232
 discoiquuid: 4c239cfb-5c0f-45d7-a856-acdfd015df5d
 targetaudience: target-audience advanced
 exl-id: 18613ec9-a2d9-4c9d-958d-a324d9e4a1a7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2315
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 1%

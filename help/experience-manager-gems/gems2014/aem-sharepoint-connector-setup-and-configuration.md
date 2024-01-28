@@ -1,13 +1,13 @@
 ---
 title: SharePoint 커넥터 - 설정 및 구성
 description: 몇 가지 예에 대한 데모와 함께 CQ/AEM(5.6.0)와 공유 커넥터를 설정하고 구성하는 방법에 대한 단계별 지침을 얻으십시오. Adobe의 SharePoint Connector는 표준 JCR 인터페이스를 통해 콘텐츠를 노출하므로 애플리케이션이 전용 저장소에 있는 콘텐츠에 표준화된 방식으로 액세스할 수 있으므로 콘텐츠에 간편하게 액세스할 수 있습니다.
-uuid: 48c54652-4816-4e31-933d-5d710db40ba3
 discoiquuid: 731a0196-b5da-459c-96a6-7da08cd3756d
 targetaudience: target-audience advanced
 exl-id: bf44898e-f455-456a-b168-912feb275aae
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3478
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '164'
 ht-degree: 1%
 
 ---

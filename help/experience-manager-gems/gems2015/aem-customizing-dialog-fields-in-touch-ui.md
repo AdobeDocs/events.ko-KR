@@ -1,13 +1,13 @@
 ---
 title: Touch UI의 대화 상자 필드 맞춤화
 description: AEM 6.1에서 Touch UI 대화 상자에 대한 사용자 정의 필드(또는 위젯)를 구현하는 방법을 알아봅니다. 이전에 ExtJS(클래식 UI)로 수행하던 작업을 이제 Granite UI 및 Coral UI를 사용하여 수행하는 방법에 대해 알아봅니다.
-uuid: 3fe33258-ae88-42e6-917e-35a6525e5cd5
 discoiquuid: 45acb883-7202-494b-bbbb-78189c222093
 targetaudience: target-audience advanced
 exl-id: de13e990-fd41-4d7f-b70a-49b210c38263
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3267
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '123'
 ht-degree: 1%
 
 ---

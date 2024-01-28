@@ -2,10 +2,11 @@
 title: 스킬 빌더 - 콘텐츠 및 상거래
 description: 기술 자료를 구축하고 Adobe 컨텐츠 및 상거래 솔루션에 대한 투자를 극대화하기 위해 녹화된 웨비나 시리즈
 exl-id: 1ed57ee1-89d4-4697-a999-72e0fe215f87
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 58
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 46%
+source-wordcount: '198'
+ht-degree: 2%
 
 ---
 
@@ -19,15 +20,15 @@ ht-degree: 46%
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
-      <img alt="Adobe Experience Manager를 통해 헤드리스 경험 제공" src="https://video.tv.adobe.com/v/343816?format=jpeg" />
+      <img alt="Adobe Experience Manager을 통해 헤드리스 경험 제공" src="https://video.tv.adobe.com/v/343816?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
-        <strong>Adobe Experience Manager를 통해 헤드리스 경험 제공</strong>
+        <strong>Adobe Experience Manager을 통해 헤드리스 경험 제공</strong>
       </a>
     </div>
     <p>
-    <em>최신 Experience Manager 콘텐츠 조각 개선 사항 및 헤드리스 콘텐츠 게재를 위한 새로운 GraphQL API를 사용한 헤드리스 경험 관리에 대해 알아봅니다.</em>
+    <em>최신 Experience Manager 콘텐츠 조각 개선 사항 및 헤드리스 콘텐츠 제공을 위한 새로운 GraphQL API를 사용한 헤드리스 경험 관리에 대해 알아봅니다.</em>
     <p>
   </td>
   <td>
@@ -40,16 +41,16 @@ ht-degree: 46%
       </a>
     </div>
     <p>
-    <em>에셋 태그 지정에 대한 워크로드를 줄이고 에셋을 보다 간편하게 검색할 수 있도록 만들어 AEM Assets에서 메타데이터를 최대한 활용하는 방법에 대해 알아봅니다.</em>
+    <em>에셋에 태그를 지정하는 워크로드를 줄이고 에셋을 보다 간편하게 검색할 수 있도록 만들어 AEM Assets에서 메타데이터를 최대한 활용하는 방법에 대해 알아봅니다.</em>
     <p>
   </td>  
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">
-      <img alt="효율적인 기업 워크플로 관리 활용" src="https://video.tv.adobe.com/v/343817?format=jpeg" />
+      <img alt="엔터프라이즈 워크플로 관리 활용" src="https://video.tv.adobe.com/v/343817?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">
-        <strong>효율적인 기업 워크플로 관리 활용</strong>
+        <strong>엔터프라이즈 워크플로 관리 활용</strong>
       </a>
     </div>
     <p>

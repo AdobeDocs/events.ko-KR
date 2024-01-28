@@ -1,14 +1,14 @@
 ---
 title: AEM 5.6 업그레이드 메커니즘
 description: CQ/AEM jar 파일을 새 파일로 교체하여 CQ 자체는 물론 사용자 정의 애플리케이션 및 콘텐츠를 업그레이드할 수 있는 CQ/AEM의 업그레이드 메커니즘에 대해 알아봅니다. 일반적인 업그레이드 시나리오를 살펴보고, 업그레이드 확장 지점에 대해 설명하고, 업그레이드 메커니즘을 테스트하는 방법을 설명하고, 업그레이드와 관련된 몇 가지 기술적 과제에 대해 설명합니다.
-uuid: 76e69880-3d93-49bd-98fa-0e2f34afe5f2
 discoiquuid: 97d8dc55-0f38-4505-88af-27e08b173407
 targetaudience: target-audience advanced
 exl-id: a440b824-bf46-4fb7-8683-1a38e4e32f14
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3272
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 1%
+source-wordcount: '149'
+ht-degree: 2%
 
 ---
 

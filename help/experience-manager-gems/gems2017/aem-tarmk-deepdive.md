@@ -1,11 +1,11 @@
 ---
 title: Tar 문제점 - TarMK 심층 해부
 description: TarMK의 tar 파일 안에 무엇이 있는지 궁금해 본 적이 있는가? 세그먼트란 무엇이며 레코드란 무엇입니까? 세그먼트 저장소 가비지 수집은 어떻게 작동하며 그 이유는 무엇입니까 (또는 왜 안 됨)? 이 세션은 이러한 질문과 더 많은 질문에 대한 답을 제공합니다.
-uuid: 67aed294-c1f2-422e-a568-7a2e19eb60d1
 discoiquuid: 3c650f0e-e16b-4a18-9462-90cdde8a2f10
 targetaudience: target-audience advanced
 exl-id: bcf64ff5-f8c1-4355-803e-df22cc784cc2
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4071
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 2%

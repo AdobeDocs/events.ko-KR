@@ -1,14 +1,14 @@
 ---
 title: Solr as a Oak index for AEM
 description: AEM 전체 텍스트 검색 기능은 기본적으로 Oak Lucene 색인에서 제공됩니다. 그러나 AEM은 Oak Solr 색인을 통해 색인화 및 검색을 Solr 서버/클러스터로 오프로드할 수도 있습니다. 이 Gem 세션에서는 AEM용 Oak 색인으로 Solr을 사용하는 것이 성능 및 색인 지정/검색 기능 측면에서 유용한 몇 가지 실제 시나리오에 대해 알아봅니다.
-uuid: 97e4ee67-f218-4ff9-9d9a-452963ba6deb
 topic-tags: analytics
 discoiquuid: 84a24cd3-1420-48e0-ae7a-dfa4a68ce657
 targetaudience: target-audience advanced
 exl-id: 638aab84-a8eb-411d-89de-856558492831
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3474
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '156'
 ht-degree: 1%
 
 ---

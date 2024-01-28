@@ -1,13 +1,13 @@
 ---
 title: AEM 6.1을 사용하여 온라인 커뮤니티 만들기
 description: AEM의 강력한 제작 인터페이스를 활용하여 생동감 있는 고객 커뮤니티를 구축하고 출시 후 오랫동안 팬 기반을 유지할 수 있는 도구에 대해 알아봅니다.
-uuid: 5b685948-697f-4095-85ad-f62db189bb30
 discoiquuid: 62b6b8d4-b763-4801-9918-447a2c5deb01
 targetaudience: target-audience advanced
 exl-id: 86ceb0d8-b8ce-4ab9-8b54-68ac3dfeea95
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3473
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '149'
 ht-degree: 1%
 
 ---

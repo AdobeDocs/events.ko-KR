@@ -4,14 +4,14 @@ description: 웹 SDK에 대해 알아봅니다. 웹 SDK에 대한 추론, 작동
 solution: Data Collection,Experience Platform
 kt: 10412
 thumbnail: https://video.tv.adobe.com/v/343335?format=jpeg
-event-cta-url: null
 event-start-time: 2022-05-26 09:00-7
 event-guests: Doug Moore, Eric Matisoff, Rudi Shumpert, Jeff Chasin
 exl-id: b2ea730b-d4ad-4be0-b229-7063369cba7f
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+duration: 3863
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 9%
+source-wordcount: '208'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ Adobe Experience Cloud의 데이터 수집에 대한 세 가지 라이브스트�
 
 ## 이 데이터 수집 시리즈의 추가 Experience League 라이브 세션
 
-* [전문가에게 질문하기- Real-Time CDP 연결](exl-live-episode-06-23-22.md)
+* [전문가에게 문의 - Real-Time CDP Connections](exl-live-episode-06-23-22.md)
 * [전문가에게 문의 - 데이터 스트림 및 데이터 준비](exl-live-episode-07-21-22.md)
 
 ### 몇 가지 유용한 링크

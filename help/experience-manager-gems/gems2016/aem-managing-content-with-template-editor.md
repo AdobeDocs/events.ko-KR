@@ -1,14 +1,14 @@
 ---
 title: Adobe Experience Manager의 템플릿 편집기로 콘텐츠 관리
 description: Adobe Experience Manager 6.2를 사용하면 디지털 속성을 새로 만들고, 구성하고, 구성할 수 있는 강력한 방법을 제공하는 새로운 템플릿 편집기가 도입되었습니다. 슈퍼 작성자 관점에서 기능을 탐색하여 다양한 페이지 템플릿을 구성하는 방법을 이해하고 콘텐츠 작성자가 해당 페이지에서 수행할 수 있는 작업을 정확하게 제어할 수 있습니다. 마지막으로, 내부 역학에 잠입하여 그것이 후드 아래에서 어떻게 작동하는지 이해한다.
-uuid: fd01fb68-9c5d-4cc3-b8f9-2e18a473734d
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
 exl-id: 0f447b26-e145-48ea-8b75-a9c03b047da9
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2962
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 4%
+source-wordcount: '263'
+ht-degree: 1%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: 전문가에게 문의 - 기업을 위한 최신 작업 거버넌스
 description: 성공을 보장하기 위해 Center of Excellence의 프레임워크를 개발하는 방법에 대해 알아봅니다. 이 웨비나는 2020년 8월 5일에 녹화되었습니다.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9915
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+duration: 3698
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%

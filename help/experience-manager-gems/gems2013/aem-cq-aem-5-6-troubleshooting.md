@@ -1,13 +1,13 @@
 ---
 title: CQ/AEM 5.6 문제 해결
 description: CQ/AEM(5.6) 기반 애플리케이션 문제 해결 방법에 대한 지침과 몇 가지 모범 사례 및 좋은 방법론이 솔루션 경로를 단축하는 데 어떻게 도움이 되는지에 대한 몇 가지 예를 알아보십시오.
-uuid: 5c036b16-f1ea-4ef4-b0bd-07489f972770
 discoiquuid: 207a6ae5-b8d3-40cd-82fc-ee9fcbea17aa
 targetaudience: target-audience advanced
 exl-id: 2d7c89ac-bd0a-4549-ac0f-dbf3237c5951
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3580
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '95'
 ht-degree: 3%
 
 ---

@@ -1,11 +1,11 @@
 ---
 title: Oak의 외부 로그인 모듈 - LDAP 이상으로 인증
 description: Apache Jackrabbit Oak의 새 외부 로그인 모듈을 참조하십시오. 로그인 모듈, 동기화 핸들러 및 ID 공급자에 대한 세부 정보 및 상호 작용을 알아봅니다. LDAP 사용자를 인증 목적으로 AEM에 자동으로 가져올 수 있도록 필요한 구성에 대한 데모를 받습니다. 즉시 작동하지 않는 경우 시스템을 디버깅하는 방법에 대한 팁과 요령을 알아봅니다.
-uuid: 97f60619-50fd-4f6d-ad77-3afb5951846c
 discoiquuid: dbc3dbdf-3bae-4ad8-a4dd-0bd28abebc58
 targetaudience: target-audience advanced
 exl-id: 31d8076c-b61e-4d3d-bc92-0cee1852d026
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3236
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 1%

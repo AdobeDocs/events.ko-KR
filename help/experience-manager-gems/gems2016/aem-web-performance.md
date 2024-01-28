@@ -1,14 +1,14 @@
 ---
 title: AEM 웹 성능
 description: 복잡한 웹 경험을 빠르게 제공하는 것은 어려운 일입니다. 이 강연에서 조엘은 좀 더 일반적인 함정들 중 몇 가지를 밝힐 것이다. 여기에는 이론, 예, 모범 사례와 도구 시연이 포함됩니다.
-uuid: f6338645-e05f-4b57-b576-65645d9220ed
 discoiquuid: cad28317-da2a-4aa0-a7f1-549f19ca4de1
 targetaudience: target-audience advanced
 exl-id: dfb6708b-0b2e-4ee1-8983-014d1f3bc708
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3831
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 10%
+source-wordcount: '184'
+ht-degree: 2%
 
 ---
 
@@ -48,7 +48,7 @@ AEM 구성 요소:\
 [https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components](https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components)\
 [https://adobe-consulting-services.github.io/acs-aem-commons/features/named-image-transform.html](https://adobe-consulting-services.github.io/acs-aem-commons/features/named-image-transform.html)
 
-서드파티:\
+타사:\
 [https://www.ampproject.org/docs/reference/amp-img.html](https://www.ampproject.org/docs/reference/amp-img.html)\
 [https://www.appelsiini.net/projects/lazyload](https://www.appelsiini.net/projects/lazyload)
 

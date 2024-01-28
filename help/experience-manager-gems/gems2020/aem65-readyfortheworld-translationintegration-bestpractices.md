@@ -1,13 +1,13 @@
 ---
 title: AEM 6.5 전세계 지원 - 번역 통합 및 모범 사례
 description: 다국어 웹 사이트 관리를 위한 최신 AEM 번역 기능 및 모범 사례에 대해 알아봅니다. 글로벌 웹 사이트를 구성하고, 언어 사본을 사용하고, 라이브 카피를 하고, MSM을 사용하는 방법을 알아봅니다. 고급 기능을 사용하여 보다 쉽고 빠르며 간편하게 콘텐츠를 번역할 수 있습니다.
-uuid: 50db5f3d-2bd0-4366-8c26-b11c4aa6a23c
 discoiquuid: 0c24228b-b674-47a7-9892-45bb26684ad1
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: 3d12fd42-8b35-4c6d-b1ab-2a0c38f3ca12
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3482
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '132'
 ht-degree: 3%
 
 ---

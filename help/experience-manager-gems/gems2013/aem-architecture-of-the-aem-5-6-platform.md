@@ -1,13 +1,13 @@
 ---
 title: AEM 5.6 플랫폼의 아키텍처
 description: AEM 애플리케이션 플랫폼의 아키텍처 발전에 대해 알아봅니다. Communiqué 1의 첫 번째 릴리스 이후, AEM 5.6의 가장 최근 출시에 이르기까지, 응용 프로그램은 다목적 및 확장 가능한 응용 프로그램 플랫폼이 되기 위해 여러 가지 변경 사항이 적용되었습니다.
-uuid: 6c7d287b-4dec-4ea8-9731-881c736429d9
 discoiquuid: 3049a99b-1ee0-492d-80c3-4d31d70fa452
 targetaudience: target-audience advanced
 exl-id: 75228968-d47a-4d4a-9f55-a8ba95b8d32c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2883
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '122'
 ht-degree: 4%
 
 ---

@@ -1,11 +1,11 @@
 ---
 title: AEM Sites Touch UI에 대한 팁 및 요령
 description: 에 대한 가장 멋진 팁과 요령 알아보기 [!DNL AEM Sites] Touch UI. 더 많은 작업을 수행하고 더 빠르게 수행할 수 있도록 하는 Touch UI의 기능에 대해 알고 있거나 모를 수 있습니다. 콘텐츠 전략가이든 콘텐츠 마케터이든, Touch UI의 숨겨진 보석 중 일부를 발견하여 보다 효율적이고 생산성을 높일 수 있습니다.
-uuid: 2d11ca50-d3cf-43e3-8256-358d72d03a44
 discoiquuid: 30cbcfed-fd63-465a-be79-eb2cfeec9078
 targetaudience: target-audience advanced
 exl-id: e5575c26-8725-4857-973f-b0991d48497b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3140
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%

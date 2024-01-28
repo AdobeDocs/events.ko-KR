@@ -1,14 +1,14 @@
 ---
 title: AEM 쿼리 및 인덱스 문제 해결
 description: 이는 작년 세션 AEM 색인화 및 JCR 쿼리(아래 링크)의 연속입니다. 이 프레젠테이션은 동일한 주제를 다루지만 완전히 새로운 내용으로 이전 프레젠테이션과 거의 겹치지 않습니다. AEM 6.4의 새로운 기능도 포함되어 있습니다.
-uuid: da172124-bef7-45b8-91f4-86fc37d03f5d
 discoiquuid: 7d95cb2b-9fc4-4d0e-8a70-a751f4487f77
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: 18c67108-c642-43dd-a177-b441f03a83bb
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3538
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 2%
+source-wordcount: '104'
+ht-degree: 1%
 
 ---
 

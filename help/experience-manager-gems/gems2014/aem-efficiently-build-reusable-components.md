@@ -1,13 +1,13 @@
 ---
 title: 재사용 가능한 구성 요소를 효율적으로 구축
 description: HTML 웹 개발자를 AEM 프로젝트에 완전히 통합할 수 있도록 하는 것이 팀의 효율성에 중요한 이유와 이를 가능하게 하는 방법에 대해 알아봅니다. 또한 서버측 JavaScript 및 HTL로 구축된 새로운 기초 구성 요소와 이를 재사용하고 확장하는 방법에 대해서도 알아봅니다.
-uuid: 445d4ead-8055-4624-a618-edd67ee3ec2d
 discoiquuid: 8c411732-3462-4ea1-9bca-e3e1cd6ac3f0
 targetaudience: target-audience advanced
 exl-id: 6cffa7ca-4b83-4564-8674-51ec7d2d734c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 5792
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '192'
 ht-degree: 2%
 
 ---

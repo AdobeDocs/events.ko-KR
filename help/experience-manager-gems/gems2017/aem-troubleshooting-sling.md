@@ -1,15 +1,15 @@
 ---
 title: Sling 콘텐츠 배포 문제 해결
 description: Sling 콘텐츠 배포(SCD)는 정방향, 역방향 콘텐츠 배포 및 동기화를 위해 AEM에서 사용할 수 있습니다. 이 세션에서는 SCD의 일반적인 문제를 해결하고 처리하는 방법에 대한 자세한 내용을 제공합니다.
-uuid: 823b2bda-411b-49af-9a75-ab5eb9562d57
 topic-tags: troubleshoot
 discoiquuid: 58c61b72-166b-4c7e-ab63-3edd68e3e925
 targetaudience: target-audience advanced
 exl-id: 2d87ab40-9848-4bf9-ab9a-8d4d9ef6542c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3093
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 10%
+source-wordcount: '164'
+ht-degree: 3%
 
 ---
 

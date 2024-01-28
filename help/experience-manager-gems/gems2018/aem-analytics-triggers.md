@@ -1,14 +1,14 @@
 ---
 title: Adobe Developer(IO) 이벤트 - Analytics 트리거
 description: 이벤트 기반 아키텍처의 힘과 실시간 고객 행동 패턴 인식 결합 - 이 세션에서는 Adobe Developer(Adobe I/O) 이벤트를 통해 Analytics 트리거를 활용하여 고객 행동에 반응하고 거의 실시간으로 다시 타깃팅하는 방법에 대해 설명합니다.
-uuid: 69df8fcb-4713-42a9-a986-a4ad9d4e36c6
 topic-tags: analytics
 discoiquuid: 0982386a-a34c-4401-a6d5-7aeabe7eb50c
 targetaudience: target-audience advanced
 exl-id: 870620f5-60dd-43b0-86ed-b2bb82779531
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2746
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '124'
 ht-degree: 1%
 
 ---

@@ -1,21 +1,21 @@
 ---
-title: 이들 대상자를 어떻게 처리합니까?
+title: 이러한 대상을 어떻게 처리합니까?
 description: 호스트 Doug Moore와 게스트 Nick Cammuso 및 Jackie Chevallier와 함께 Audience Manager(AAM) 및 Real-time Customer Data Platform을 모두 사용하는 방법을 살펴보십시오. (설명은 60~160자 사이여야 함)
 solution: Audience Manager, Real-Time Customer Data Platform
 kt: 10358
 thumbnail: https://video.tv.adobe.com/v/342611?format=jpeg
-event-cta-url: null
 event-start-time: 2022-04-28 09:00-7
 event-guests: Nick Cammuso,Jackie Chevallier
 exl-id: a1262eef-da2b-4e79-92d8-73819bc47744
-source-git-commit: 0d4c3913e2db031097c1a3a3a7555ab4c4227181
+duration: 3812
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 9%
+source-wordcount: '141'
+ht-degree: 0%
 
 ---
 
-# 이들 대상자를 어떻게 처리합니까?
+# 이러한 대상을 어떻게 처리합니까?
 
 호스트 Doug Moore와 게스트 Nick Cammuso 및 Jackie Chevallier와 함께 AAM(Audience Manager) 및 RTCDP(Real-time Customer Data Platform)를 모두 사용하여 주요 대상 전략 및 사용 사례를 달성하는 방법에 대해 알아보십시오. 또한 AAM에서 주요 대상 세그먼트를 가져와 RTCDP로 전송하여 유연성 및 타깃팅을 강화하는 방법도 소개합니다.
 

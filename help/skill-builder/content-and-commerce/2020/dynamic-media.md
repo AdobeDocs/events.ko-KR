@@ -13,16 +13,17 @@ version: Cloud Service
 type: Event
 kt: 7341
 exl-id: 01149450-8d92-4ea8-a048-86559dd323b7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3081
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 6%
+source-wordcount: '164'
+ht-degree: 4%
 
 ---
 
 # Dynamic Media - Adobe Experience Manager 에셋 시리즈
 
-이 5부로 구성된 웨비나 시리즈를 사용하여 기술 자료를 구축하고 Adobe Experience Manager Assets에 대한 투자를 극대화하십시오. Adobe Experience Manager Assets를 처음 사용하거나 한동안 Adobe Experience Manager Assets를 사용하여 기존 스킬을 향상시키고자 하는 전문가라면, 이 방법이 솔루션의 가장 중요한 다섯 가지 영역을 자세히 살펴볼 수 있는 이상적인 방법입니다. Adobe 전문가는 기본 사항을 검토하고 즉시 적용할 수 있는 실행 가능한 다음 단계를 남겨주는 고급 통찰력을 제공합니다.
+이 5부로 구성된 웨비나 시리즈를 사용하여 지식 기반을 구축하고 Adobe Experience Manager Assets에 대한 투자를 극대화할 수 있습니다. Adobe Experience Manager Assets을 처음 사용하거나 한동안 Adobe Experience Manager Assets을 사용하여 기존 스킬을 향상하고자 하는 전문가라면 솔루션의 가장 중요한 5가지 영역을 자세히 살펴볼 수 있는 이상적인 방법입니다. Adobe 전문가는 기본 사항을 검토하고 즉시 적용할 수 있는 실행 가능한 다음 단계를 남겨주는 고급 통찰력을 제공합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332132/?quality=12&learn=on&hidetitle=true)
 

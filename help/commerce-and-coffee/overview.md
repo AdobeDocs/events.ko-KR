@@ -2,7 +2,8 @@
 title: Commerce 및 Coffee
 description: Adobe Commerce과 커피 시리즈는 이벤트 주제를 반영한 통계가 뒷받침되는 상거래 전략과 전술에 초점을 맞춥니다.
 exl-id: fba820f3-55cf-4cf5-bb0f-6b19870264db
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 81
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%

@@ -2,9 +2,10 @@
 title: APAC Commerce 웨비나 시리즈
 description: APAC Commerce 웨비나 시리즈는 모범 사례부터 제품 로드맵 및 업계 동향에 이르기까지 다양한 주제를 다루는 Adobe Commerce 고객을 위한 월간 워크숍 케이던스입니다.
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 66
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---

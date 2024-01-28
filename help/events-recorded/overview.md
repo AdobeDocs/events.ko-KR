@@ -3,10 +3,11 @@ title: Adobe Experience League 이벤트
 description: Adobe의 엔터프라이즈 제품 사용에 초점을 맞춘 이벤트 녹화본 모음입니다
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 334
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '915'
-ht-degree: 9%
+source-wordcount: '912'
+ht-degree: 5%
 
 ---
 
@@ -164,7 +165,7 @@ ht-degree: 9%
       </div>
       <p>
         <br/>
-         Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트리밍 쇼입니다. Adobe 제품 전문가를 만나고 Adobe Experience Cloud 애플리케이션에 적용할 수 있는 유용한 팁, 요령 및 전략을 배울 수 있는 기회입니다.
+         Experience League 라이브는 Experience League 팀이 제작하는 라이브 스트리밍 쇼입니다. Adobe 제품 전문가를 만나고 Adobe Experience Cloud 애플리케이션에 적용할 수 있는 유용한 팁, 요령 및 전략을 배울 수 있는 기회입니다.
       </p>
     </td>
    <td>
@@ -192,7 +193,7 @@ ht-degree: 9%
       </div>
       <p>
         <br/>
-         Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한 개요 보기. AEM 제품 팀에서 제공하는 약 10분 분량의 짧은 비디오로 최신 릴리스의 하이라이트를 공유합니다.
+         Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한 개요를 확인하십시오. AEM 제품 팀에서 제공하는 약 10분 분량의 짧은 비디오로 최신 릴리스의 하이라이트를 공유합니다.
       </p>
     </td>
     <td>

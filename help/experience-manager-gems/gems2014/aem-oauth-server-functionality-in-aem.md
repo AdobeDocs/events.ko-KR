@@ -1,13 +1,13 @@
 ---
 title: AEM의 OAuth 서버 기능 - 페더레이션을 수용하고 REST API를 출시합니다!
 description: OAuth 2 프레임워크 및 Granite OAuth 서버 기능에 대해 소개합니다. Adobe Experience Manager(AEM)는 OSGi 환경에서 실행되도록 구현되며 REST 원칙을 기반으로 합니다.
-uuid: 5fa01808-033f-456d-a024-c28f60e1e4b7
 discoiquuid: b53df422-3625-40f4-b7fe-9945f2ec71f6
 targetaudience: target-audience advanced
 exl-id: e0797cec-a27b-4790-9281-a8b1d6e9b10c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1804
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '190'
 ht-degree: 1%
 
 ---

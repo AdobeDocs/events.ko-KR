@@ -1,13 +1,13 @@
 ---
 title: Adobe Experience Manager 6.4에 대해 자세히 알아보기
 description: Experience Manager은 웹, 모바일 및 고객 여정의 모든 종단점에서 신속하게 적응할 수 있는 경험을 설계, 예측 및 제공할 수 있는 애자일 솔루션을 제공합니다. 이 세션에 참석하여 Adobe Experience Manager 6.4의 향후 릴리스에서 주요 기능 및 통합을 미리 볼 수 있습니다.
-uuid: 6cb2db2b-f465-412f-8039-e0281454b264
 discoiquuid: 98f017e8-42e3-436f-b7e4-a60e57042617
 targetaudience: target-audience advanced
 exl-id: 7391a332-a8c5-4d91-9c9c-80a81e6e78d8
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3717
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '157'
 ht-degree: 1%
 
 ---

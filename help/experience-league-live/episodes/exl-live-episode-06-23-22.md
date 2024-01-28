@@ -1,5 +1,5 @@
 ---
-title: 전문가에게 질문하기- Real-Time CDP 연결
+title: 전문가에게 문의 - Real-Time CDP Connections
 description: Adobe Experience Cloud의 데이터 수집에 대한 세 가지 라이브스트림 세션 중 두 번째 세션에서는 고객이 서버측 태그 관리 시스템을 사용하여 Adobe이 아닌 대상에 이벤트를 전달할 수 있는 Adobe의 RTCDP Connections 제품에 대해 광범위하게 살펴봅니다.
 solution: Data Collection,Experience Platform
 kt: 10490
@@ -8,14 +8,15 @@ event-cta-text: Watch the replay
 event-start-time: 2022-06-23 09:00-7
 event-guests: Rudi Shumpert, Jeff Chasin, Eric Matisoff
 exl-id: 63dadfa3-edfa-4901-ab22-1f721a2a7b7d
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+duration: 3518
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 8%
+source-wordcount: '130'
+ht-degree: 0%
 
 ---
 
-# 전문가에게 질문: Real-Time CDP Connections
+# 전문가에게 질문하기: Real-Time CDP Connections
 
 Adobe Experience Cloud의 데이터 수집에 대한 세 가지 라이브스트림 세션 중 두 번째 세션에서는 고객이 서버측 태그 관리 시스템을 사용하여 Adobe이 아닌 대상에 이벤트를 전달할 수 있는 Adobe의 RTCDP Connections 제품에 대해 광범위하게 살펴봅니다.
 

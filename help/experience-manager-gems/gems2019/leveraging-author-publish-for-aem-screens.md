@@ -1,11 +1,11 @@
 ---
 title: AEM Screens용 작성자-게시 활용
 description: AEM Screens에 대한 전체 프로덕션 설정을 가져오고 Screens/Digital Signage 플레이어에 콘텐츠를 게시하는 데 필요한 모든 단계를 배웁니다.
-uuid: 45a68d1d-824e-4922-b440-dd53131d2bdc
 discoiquuid: ea92d8e0-1dc3-4933-9fd2-f8d240ec65ba
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: 27bf6d01-d720-41a1-87b2-7d1d6d29a10c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3012
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 2%

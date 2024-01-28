@@ -1,14 +1,14 @@
 ---
 title: AEM Screens 소개
 description: AEM Screens은 Adobe Experience Manager에 통합된 새로운 디지털 사이니지 솔루션입니다. 이 AEM Gems 세션에서는 AEM Screens의 주요 기능과, 슬라이드쇼 및 대화형 환경을 통해 간단한 프로젝트를 설정하는 방법을 소개합니다. 그런 다음 AEM Screens에 최적화된 구성 요소를 개발하는 방법과 오프라인에서 사용할 채널을 설정하는 방법에 대한 개요를 제공합니다. 마지막으로 AEM Screens REST API를 살펴보고 사용자 지정 Cordova 플러그인을 통합하는 방법을 설명합니다.
-uuid: a6c42610-4a3d-4575-ac27-fc154d58c13d
 discoiquuid: c3001249-b443-420d-924c-b52e515026ef
 targetaudience: target-audience advanced
 exl-id: 212a9f72-e5ed-4010-992b-b3a7a9c0d7b7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3127
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 8%
+source-wordcount: '256'
+ht-degree: 2%
 
 ---
 

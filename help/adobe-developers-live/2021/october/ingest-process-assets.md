@@ -1,6 +1,6 @@
 ---
 title: 자산을 Experience Manager Assets에 as a Cloud Service으로 수집 및 처리하는 방법
-description: 고객이 자산을 Adobe Experience Manager으로 가져와 Adobe Experience Manager Assets에서 한 번 처리할 수 있는 방법에는 여러 가지가 있습니다. 고객은 사용 사례에 적합한 접근 방식을 어떻게 선택합니까? 어떻게 플랫폼의 가져오기 및 처리 기능을 활용하여 투자 가치를 극대화하고 가치 실현 시간을 단축할 수 있습니까? Adobe Experience Manager Assets Cloud Service 플랫폼의 새로운 기능에 대해 알아봅니다.
+description: 고객이 자산을 Adobe Experience Manager으로 가져와 Adobe Experience Manager Assets에서 한 번 처리할 수 있는 다양한 방법이 있습니다. 고객은 사용 사례에 적합한 접근 방식을 어떻게 선택합니까? 어떻게 플랫폼의 가져오기 및 처리 기능을 활용하여 투자 가치를 극대화하고 가치 실현 시간을 단축할 수 있습니까? Adobe Experience Manager Assets Cloud Service 플랫폼의 새로운 기능에 대해 알아봅니다.
 solution: Experience Manager,Experience Manager Assets
 feature: Asset Ingestion
 role: User
@@ -9,16 +9,17 @@ version: Cloud Service
 kt: 9180
 type: Event
 exl-id: 7bf484d6-29fc-44b5-99c1-cc3e6055c72d
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1797
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 6%
+source-wordcount: '197'
+ht-degree: 3%
 
 ---
 
 # 자산을 Experience Manager Assets에 as a Cloud Service으로 수집 및 처리하는 방법
 
-고객이 자산을 Adobe Experience Manager으로 가져와 Adobe Experience Manager Assets에서 한 번 처리할 수 있는 방법에는 여러 가지가 있습니다. 고객은 사용 사례에 적합한 접근 방식을 어떻게 선택합니까? 어떻게 플랫폼의 가져오기 및 처리 기능을 활용하여 투자 가치를 극대화하고 가치 실현 시간을 단축할 수 있습니까? Adobe Experience Manager Assets Cloud Service 플랫폼의 새로운 기능에 대해 알아봅니다.
+고객이 자산을 Adobe Experience Manager으로 가져와 Adobe Experience Manager Assets에서 한 번 처리할 수 있는 다양한 방법이 있습니다. 고객은 사용 사례에 적합한 접근 방식을 어떻게 선택합니까? 어떻게 플랫폼의 가져오기 및 처리 기능을 활용하여 투자 가치를 극대화하고 가치 실현 시간을 단축할 수 있습니까? Adobe Experience Manager Assets Cloud Service 플랫폼의 새로운 기능에 대해 알아봅니다.
 
 에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/2Zq7dlg)**.
 

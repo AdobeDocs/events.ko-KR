@@ -1,11 +1,11 @@
 ---
 title: Adobe Experience Manager 애플리케이션 테스트에 사용할 도구
 description: Experience Manager의 단위 테스트부터 통합 테스트까지 애플리케이션 개발에는 자동화된 테스트가 필수적입니다. 이 프레젠테이션에서는 장치 테스트부터 기능 및 통합 테스트까지의 기본 사항부터 Java 코드 테스트를 위한 다양한 도구를 살펴봅니다. 간단한 유틸리티 메서드, 일부 OSGi 서비스 또는 HTTP 종단점을 테스트할 것인지 여부에 관계없이 가장 효과적인 방법으로 코드 기반에 테스트를 추가하는 방법을 알아봅니다.
-uuid: beb88371-ac62-4c94-9115-886455778a38
 discoiquuid: 5a831981-2313-45d6-8d5e-996fc88debb2
 targetaudience: target-audience advanced
 exl-id: 5d84328d-f4da-4420-962e-86713d2230b5
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3351
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 37%

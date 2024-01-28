@@ -1,14 +1,14 @@
 ---
 title: AEM querybuilder로 쉽게 만든 검색 양식
 description: 이 세션에서는 JCR 스택의 다른 쿼리 언어와 비교하여 쿼리 빌더 이면의 원칙에 대해 설명합니다. 이를 사용하여 작성 가능한 검색 양식을 쉽게 작성하는 방법, 효율적인 검색을 작성하는 방법, 쿼리를 디버깅하는 방법 및 확장하는 방법을 보여 줍니다.
-uuid: 867545ac-e175-4bd8-9d17-b5423f29031f
 discoiquuid: c7e8b80f-1eb3-4fa7-9d36-c76b493bd351
 targetaudience: target-audience advanced
 exl-id: 38cea360-b900-44e3-b565-b7c493fa6822
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3652
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 6%
+source-wordcount: '218'
+ht-degree: 2%
 
 ---
 

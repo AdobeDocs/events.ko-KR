@@ -1,15 +1,15 @@
 ---
 title: 전문가에게 문의 - Workfront 증명 모범 사례의 후속 내용
 description: 자동화된 워크플로 템플릿을 사용해야 하는 이유, 템플릿을 만드는 방법 및 개인 정보 보호를 위해 증명 설정을 조정하는 방법을 알아봅니다. 이 웨비나는 2020년 3월 4일에 녹화되었습니다.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9917
 exl-id: 2b2f6522-2fd9-4d5e-9bc3-903c1d5e4e3b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4083
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '1638'
-ht-degree: 2%
+source-wordcount: '1649'
+ht-degree: 1%
 
 ---
 

@@ -2,10 +2,11 @@
 title: Adobe [!DNL Campaign] Insider 시리즈
 description: Adobe을 위한 팁 및 요령 및 영감 [!DNL Campaign] 크로스 채널 마케팅 전략을 발전시키고, 팀 마케팅 실무자의 기술을 향상시키고, 조직이 보다 고급 크로스 채널 마케팅 전략을 개시하도록 지원하는 고객.
 exl-id: 414b8d81-ff05-47ed-b572-fb655d3dd231
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 36
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 16%
+ht-degree: 0%
 
 ---
 
@@ -35,7 +36,7 @@ Adobe을 위한 팁 및 요령 및 영감 [!DNL Campaign] 크로스 채널 마�
       <img alt="Adobe [!DNL Campaign] 마케팅 생태계와 통합" src="assets/integrations.png"/>
       </a>
       <div>
-         <a href="./2022/integrations.md"><strong>[!DNL Campaign]마케팅 생태계와 Adobe 통합</strong></a>
+         <a href="./2022/integrations.md"><strong>Adobe [!DNL Campaign] 마케팅 생태계와 통합</strong></a>
          <br/>
       </div>
    </td>

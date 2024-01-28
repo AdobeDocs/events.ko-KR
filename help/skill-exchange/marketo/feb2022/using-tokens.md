@@ -7,10 +7,11 @@ level: Beginner
 kt: 9770
 thumbnail: 340593.jpeg
 exl-id: 529a09c2-8122-4d1c-a4a5-0fcfb3406b04
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3010
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +19,7 @@ ht-degree: 2%
 
 에서 프로그램을 보다 효율적으로 구축하고 운영할 수 있도록 개인화를 넘어 토큰을 사용하는 방법을 알아봅니다. [!DNL Marketo Engage].
 
-**주요 학습 사항**
+**주요 개선 사항**
 
 * 다양한 유형의 토큰과 토큰을 사용할 수 있는 위치를 이해합니다
 * 토큰 전략 문서화 방법에 대한 아이디어 얻기

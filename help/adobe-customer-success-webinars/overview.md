@@ -2,7 +2,8 @@
 title: Adobe 고객 성공 웨비나
 description: Adobe 고객 성공 주도 웨비나는 Adobe의 Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
 exl-id: a66dabe6-c545-4226-bf0b-811d5d3e5cf1
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 42
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%

@@ -1,11 +1,11 @@
 ---
 title: AEM용 IBM WebSphere Commerce 통합
 description: 코드를 자세히 살펴보고 다양한 통합 기능에 대해 살펴봅니다. 통합을 사용자 지정, 확장 및 테스트하는 방법에 대해 알아봅니다.
-uuid: 0c7aa66b-3909-4eeb-85d6-87e7faa4db39
 discoiquuid: f9e11075-59f1-46cb-82c7-ba85864f5e33
 targetaudience: target-audience advanced
 exl-id: e95f9c55-f36f-47c3-b86a-9bb045e7822c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3336
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 1%

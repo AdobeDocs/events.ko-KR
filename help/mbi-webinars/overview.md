@@ -2,7 +2,8 @@
 title: Commerce Intelligence 웨비나
 description: Commerce Intelligence를 최대한 활용하기 위한 다양한 주제와 모범 사례를 다루는 Commerce Intelligence의 기록된 웨비나를 살펴봅니다.
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
-source-git-commit: 5be00538f31610434e2853d4c94fb0611726e709
+duration: 77
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 1%

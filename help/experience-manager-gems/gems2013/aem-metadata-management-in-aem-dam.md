@@ -1,13 +1,13 @@
 ---
 title: AEM DAM의 메타데이터 관리
 description: AEM DAM이 에셋의 메타데이터를 관리하는 방법에 대해 알아봅니다. XMP 표준 및 DAM에서 이를 사용하는 방법, 검색에서 메타데이터를 사용하는 방법, 기본 제공 메타데이터 스키마를 확장하는 방법에 대해 알아봅니다. 최신 DAM 기능 팩에 도입된 새로운 메타데이터 스키마 편집기도 제공됩니다.
-uuid: 09bce4bb-8880-41ae-b95c-1f36407191ff
 discoiquuid: 0e2538bc-7a1a-41ce-8fed-64805ca1bb89
 targetaudience: target-audience advanced
 exl-id: 11302a97-d19e-4572-99f3-6315d0bd936e
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2907
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '135'
 ht-degree: 2%
 
 ---

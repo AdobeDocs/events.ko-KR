@@ -1,14 +1,14 @@
 ---
 title: MongoDB에서 AEM 실행
 description: 이 AEM Gem은 프로덕션 설정에서 MongoDB에서 AEM을 실행하는 방법을 자세히 설명합니다. MongoDB가 배포에 대해 갖는 옵션을 제시하고, 권장 배포를 강조 표시하고, 이러한 권장 사항의 이유를 설명합니다.
-uuid: 8ca5b7d0-b71e-481c-961c-c91ee987f374
 discoiquuid: 198f9f6e-4156-468a-88d7-6902f51dd6c1
 targetaudience: target-audience advanced
 exl-id: 1dc74724-9781-477b-a05b-e25ef9f5e15b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3024
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 8%
+source-wordcount: '154'
+ht-degree: 2%
 
 ---
 

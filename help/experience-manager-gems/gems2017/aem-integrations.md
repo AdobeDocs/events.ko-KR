@@ -1,13 +1,13 @@
 ---
 title: AEM 통합 - 견고한 토대는 먼 길을 갑니다
 description: AEM 작업이 매우 독자적이지만 AEM과 함께 작업하는 AT/AAM/AA 컨설턴트는 AEM 담당자와 공동 작업을 수행해야 합니다. 이 세션은 DTM을 사용한 AT/AAM/AA 통합, 우리가 찾는 사항 및 이 모든 것이 중요한 이유에 대한 간략한 개요를 제공합니다.
-uuid: 6967a5c8-5eca-488c-9548-facef7bb55c0
 discoiquuid: 40741bd1-4995-4627-9c7c-2d5f2cd68760
 targetaudience: target-audience advanced
 exl-id: 52581331-7021-4c1d-9340-161bd56cfad8
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3581
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '161'
 ht-degree: 1%
 
 ---

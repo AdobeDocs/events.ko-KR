@@ -1,14 +1,14 @@
 ---
 title: SPA Editor SDK 심층 분석 - 2부 - Angular
 description: AEM 페이지 편집기를 사용하여 작성할 수 있는 단일 페이지 애플리케이션 개발에 대해 자세히 알아보십시오.
-uuid: 4ac2d85b-63f9-4d74-a8c0-7857be6b3d84
 discoiquuid: 3b050b88-e1c3-4a42-81ce-bd1b321a01e7
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: da77b44b-5bf2-43de-bf72-9f302398decf
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2754
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 10%
+source-wordcount: '144'
+ht-degree: 2%
 
 ---
 
@@ -38,7 +38,7 @@ AEM 페이지 편집기를 사용하여 작성할 수 있는 단일 페이지 �
 
 [주말 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
 
-[설명서](https://helpx.adobe.com/kr/experience-manager/6-4/sites/developing/using/spa-overview.html)
+[설명서](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
 
 [샘플 - 당사 소매 저널](https://github.com/adobe/aem-sample-we-retail-journal)
 
