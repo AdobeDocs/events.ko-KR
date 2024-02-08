@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 1e8c3a3c4cd7668a78d47a2f018a3dc27900630d
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 42%
+source-wordcount: '167'
+ht-degree: 44%
 
 ---
 
@@ -25,15 +25,15 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-08-24.md">
-      <img alt="Experience League 라이브 2월 08일" src="episodes/assets/WebBanner-Feb08-2024.jpg">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-29-24.md">
+      <img alt="Experience League 라이브 2월 29일" src="assets/Feb29_2024_WebBanner.png">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-02-08-24.md">
-        <strong>사용 사례 플레이북, 셀프서비스 템플릿을 사용하여 Real-Time CDP 및 Journey Optimizer에 대해 몇 번의 클릭으로 사용 사례를 배포할 수 있습니다</strong>
+      <a href="episodes/exl-live-episode-02-29-24.md">
+        <strong>새로운 Adobe Campaign v8 UI로 한 단계 도약</strong>
       </a>
-      <br/><em>대니얼 라이트, 조세 모네트-힐리, 로히트 바수리와 함께</em>
-      <br/><em>2024년 2월 08일</em>
+      <br/><em>산드라 하우스만, 에릭 페린, 가엘 무엘로, 브루스 스완</em>
+      <br/><em>2024년 2월 29일</em>
     </div>
   </td>
 </tr>
@@ -101,4 +101,4 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 당사의 무료 [교육 과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별적인 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko-KR)을 살펴보시기 바랍니다.
+>기타 학습 방법에 대해서는 당사의 무료 [교육 과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별적인 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html)을 살펴보시기 바랍니다.
