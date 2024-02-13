@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 1e8c3a3c4cd7668a78d47a2f018a3dc27900630d
+source-git-commit: d63e2bf6b09c8db5c0833ac449f10d47103cc6a7
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '168'
 ht-degree: 44%
 
 ---
@@ -30,7 +30,7 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
     </a>
     <div>
       <a href="episodes/exl-live-episode-02-29-24.md">
-        <strong>새로운 Adobe Campaign v8 UI로 한 단계 도약</strong>
+        <strong>새로운 Adobe Campaign Web User Interface의 발전</strong>
       </a>
       <br/><em>산드라 하우스만, 에릭 페린, 가엘 무엘로, 브루스 스완</em>
       <br/><em>2024년 2월 29일</em>

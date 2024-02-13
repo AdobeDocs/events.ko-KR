@@ -1,20 +1,20 @@
 ---
-title: 새로운 Adobe Campaign v8 UI로 한 단계 도약
-description: 2월 29일에 참여하여 베타의 생성 AI 기능을 포함하여 새로운 Adobe Campaign v8 UI를 사용하여 크로스 채널 전략을 계획, 실행 및 측정하는 방법에 대해 알아보십시오.
+title: 새로운 Adobe Campaign Web User Interface의 발전
+description: 2월 29일에 참여하여 베타의 생성 AI 기능을 포함하여 새로운 Adobe Campaign 웹 사용자 인터페이스를 사용하여 크로스 채널 전략을 계획, 시작 및 측정하는 방법에 대해 알아보십시오.
 kt: KT-14433
 thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: a671a2ecef92dbccc5318f5563d0da4943a3510c
+source-git-commit: d63e2bf6b09c8db5c0833ac449f10d47103cc6a7
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
-# 새로운 Adobe Campaign v8 UI로 한 단계 도약
+# 새로운 Adobe Campaign Web User Interface의 발전
 
 Adobe Campaign v8은 완전히 새로운 모양과 느낌을 선사할 것입니다. 다시 상상한 사용자 경험은 캠페인 디자인 프로세스를 단순화하고 다른 Adobe Experience Cloud 솔루션과 일치합니다.
 
