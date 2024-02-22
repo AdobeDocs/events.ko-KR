@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 92d4404a950f68a4cdc675b52c8623cfdd54c9e6
+source-git-commit: 01689cc3c8f1d21e1ea223b8ee0fa3f22019fbcf
 workflow-type: tm+mt
-source-wordcount: '37'
-ht-degree: 8%
+source-wordcount: '43'
+ht-degree: 9%
 
 ---
 
@@ -20,8 +20,10 @@ ht-degree: 8%
 # Marketo 및 Mochas {#marketo-and-mochas-recordings}
 
 + [개요](overview.md)
++ 2024 {#2024}
+   + [기여도 분석 대시보드 기록](2024/attribution-dashboard-recording.md)
 + 2023 {#2023}
-   + [귀속](2023/attribution.md)
+   + [기여도](2023/attribution.md)
    + [전달성 - 1부](2023/deliverability-part-one.md)
    + [전달성 - 2부](2023/deliverability-part-two.md)
    + [잠재 고객 점수](2023/lead-scoring.md)
