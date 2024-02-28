@@ -1,15 +1,15 @@
 ---
 title: 새로운 Adobe Campaign Web User Interface의 발전
-description: 2월 29일에 참여하여 베타의 생성 AI 기능을 포함하여 새로운 Adobe Campaign 웹 사용자 인터페이스를 사용하여 크로스 채널 전략을 계획, 시작 및 측정하는 방법에 대해 알아보십시오.
+description: 2월 29일에 참여하여 새로운 Adobe Campaign 웹 사용자 인터페이스를 사용하여 크로스 채널 전략을 계획, 시작 및 측정하는 방법에 대해 알아보십시오.
 kt: KT-14433
 thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: 46cb6d3ed306f7f03116124912bcbdb0a5f24529
+source-git-commit: ebfe862ab1219b40a957f4cf5db552ff09292bef
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
