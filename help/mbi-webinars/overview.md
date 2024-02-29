@@ -3,9 +3,9 @@ title: Commerce Intelligence 웨비나
 description: Commerce Intelligence를 최대한 활용하기 위한 다양한 주제와 모범 사례를 다루는 Commerce Intelligence의 기록된 웨비나를 살펴봅니다.
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
 duration: 77
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 17a9052c99275eff0599c64be3d6872e60c52fe1
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '251'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ Commerce Intelligence 웨비나 시리즈는 Commerce Intelligence 고객을 위
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
-      <img alt="Commerce Intelligence 시작하기" src="./assets/getting-started.png" />
+      <img alt="Commerce Intelligence 시작하기" src="https://video.tv.adobe.com/v/3425736?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
@@ -40,21 +40,21 @@ Commerce Intelligence 웨비나 시리즈는 Commerce Intelligence 고객을 위
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
-      <img alt="MBI에서 데이터 세트 관리" src="./assets/managing-data-sets-mbi.png" />
+    <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+      <img alt="Adobe Commerce Intelligence에서 데이터 세트 관리" src="https://video.tv.adobe.com/v/3427547?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
-        <strong>MBI에서 데이터 세트 관리</strong>
+      <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+        <strong>Adobe Commerce Intelligence에서 데이터 세트 관리</strong>
       </a>
     </div>
     <p>
-    <em>Adobe Commerce 제품 팀에서 직접 MBI Data Warehouse 관리자의 몇 가지 강력한 기능에 대해 알아보십시오. 기본 보고서 작성에서 벗어나 데이터로 더 많은 작업을 수행하는 방법에 대해 알아보십시오.</em>
+    <em>제품 팀에서 직접 Commerce Intelligence Data Warehouse 관리자의 강력한 기능을 살펴보십시오.</em>
     <p>
   </td>
    <td>
     <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
-      <img alt="MBI Data Warehouse 최적화" src="./assets/optimize-data-warehouse.png" />
+      <img alt="MBI Data Warehouse 최적화" src="https://video.tv.adobe.com/v/342562?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
