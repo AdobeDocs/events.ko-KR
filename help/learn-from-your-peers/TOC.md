@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "다음 녹음/녹화 컬렉션: [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 06f787d8dd891e1afe3b8eda58c4790542a3a082
+source-git-commit: 8f572e77a739bdf15824c890acda22fe4029661f
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 5%
+source-wordcount: '144'
+ht-degree: 6%
 
 ---
 
@@ -32,6 +32,9 @@ ht-degree: 5%
          + [설명서 임무 가능](analytics/june2022/mission-possible.md)
       + 3월 {#mar2022}
          + [데이터를 통해 깊은 인상을 주는 스토리 전달](analytics/mar2022/stories-with-data.md)
++ 상거래 {#commerce}
+   + 2월 {#feb2024}
+      + [Agile SDLC의 통신, 요구 사항 및 테스트](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
    + 11월 {#nov2023}
       + [AEM 핵심 구성 요소를 사용한 개발자 우수 사례](experience-manager/nov2023/core-components.md)
