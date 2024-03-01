@@ -7,9 +7,9 @@ event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: ebfe862ab1219b40a957f4cf5db552ff09292bef
+source-git-commit: e0c633c24b493c757eb7c47d472e9e07df789fc3
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,8 @@ Adobe Campaign v8은 완전히 새로운 모양과 느낌을 선사할 것입니
 
 이 Experience League 라이브 세션에 참여하십시오. 이 세션에서는 Adobe Campaign 제품 전문가가 새로운 사용자 경험에서 크로스채널 캠페인을 계획, 시작 및 측정하는 방법을 보여줍니다.
 
-[![ExL LIVE 2024년 2월 29일](../assets/exl-live-episode-02-29-24-web-banner.png)](https://engage.adobe.com/ExpLeagueLive-240229.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3427258/?quality=12&learn=on)
 
-**이벤트를 등록하려면 위의 이미지를 클릭하십시오.**
+현재 Adobe Campaign 웹 사용자 인터페이스에서 사용할 수 있는 항목에 대한 자세한 설명서는 다음을 참조하십시오. [Campaign 웹 사용자 인터페이스 - 주요 기능](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=ko-KR){target="_blank"}.
+
+**질문이 있습니까?** Adobe Experience League에서 이 주제에 대한 토론 계속 [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.

@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: bc8a97db6ab36aed939dcf51962f172958ac1d07
+source-git-commit: e0c633c24b493c757eb7c47d472e9e07df789fc3
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '169'
 ht-degree: 44%
 
 ---
@@ -25,17 +25,11 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-29-24.md">
-      <img alt="Experience League 라이브 2월 29일" src="assets/exl-live-episode-02-29-24-web-banner.png">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-02-29-24.md">
-        <strong>새로운 Adobe Campaign Web User Interface의 발전</strong>
-      </a>
-      <br/><em>산드라 하우스만, 에릭 페린, 가엘 무엘로, 브루스 스완</em>
-      <br/><em>2024년 2월 29일</em>
-    </div>
-  </td>
+  <td>
+    다가오는 2024년 4월 쇼에 대해 알아보려면 곧 돌아오십시오.<br/>
+    그 동안 다음 시간에 뵙겠습니다. <a href="https://summit.adobe.com/na/">Adobe Summit</a> 2024년 3월 25~28일에!
+
+</td>
 </tr>
 </table>
 
