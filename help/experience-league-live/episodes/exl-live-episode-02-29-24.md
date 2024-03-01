@@ -7,10 +7,10 @@ event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: 3266abc5c077d75424eeae5cb87d66cf0ee52357
+source-git-commit: e8ecba0a2c066e881e53be13f07352e636058de2
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 2%
+source-wordcount: '160'
+ht-degree: 1%
 
 ---
 
@@ -27,7 +27,7 @@ Adobe Campaign v8은 완전히 새로운 모양과 느낌을 선사할 것입니
 ## 추가 리소스
 
 * **[Campaign 웹 사용자 인터페이스 - 주요 기능](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=ko-KR){target="_blank"}**
-  *현재 Adobe Campaign 웹 사용자 인터페이스에서 사용 가능한 항목에 대한 자세한 설명서는 다음을 참조하십시오. [Campaign 웹 사용자 인터페이스 - 주요 기능](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=ko-KR){target="_blank"}.*
+  *현재 Adobe Campaign 웹 사용자 인터페이스에서 사용할 수 있는 내용에 대한 자세한 설명서입니다.*
 
 * **[Adobe Campaign 웹 사용자 인터페이스 - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
   *Adobe Campaign 웹 사용자 인터페이스의 기능 및 성능에 대한 비디오 및 튜토리얼을 제공하는 방법.*
