@@ -2,7 +2,7 @@
 user-guide-title: Adobe 고객 성공 웨비나
 breadcrumb-title: Adobe 고객 성공 웨비나
 user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: 2489f9e31da2de8e7955843baed3ff05d5cc7b64
+source-git-commit: b023ed45c159d848f28f159348a21763d4c539f5
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 + [Adobe 고객 성공 웨비나](overview.md)
 + 2024 {#2024}
    + [데이터 스트림 우선 순위 지정](2024/data-stream-prioritization.md)
-   + [레아 팀 역량 강화](2024/empowering-lean-teams.md)
+   + [Lean 팀 지원](2024/empowering-lean-teams.md)
    + [전략적 리더십](2024/strategic-leadership.md)
 + 2023 {#2023}
    + [규모에 맞게 개인화를 위한 기반 구축](2023/personalization-at-scale.md)
