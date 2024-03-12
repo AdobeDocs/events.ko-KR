@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM 세션
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: baac75a81046d05642dbcb1c5aa4711de7a0dd51
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -45,14 +45,15 @@ ht-degree: 0%
 </table>
 
 -->
-에 대한 최신 AEM GEM 웨비나 **as a Cloud Service으로 New Relic AEM APM의 잠재력을 발휘합니다. 성능 극대화 및 신속한 문제 해결** 이(가)에 수행되었습니다. *2023년 9월 20일*.
-다음 **레코딩** 은(는) 여기에서 찾을 수 있습니다. [Adobe Experience Manager as a Cloud Service용 New Relic APM](/help/experience-manager-gems/gems2023/newrelic-apm-for-aem-cloud-service.md)
+에 대한 최신 AEM GEM 웨비나 **Adobe Commerce을 사용하여 Edge Delivery Services에 상점 구축** 이(가)에 수행되었습니다. *2024년 3월 6일*.
+다음 **레코딩** 은(는) 여기에서 찾을 수 있습니다.
+[Adobe Commerce을 사용하여 Edge Delivery Services에 상점 구축](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 
 >[!NOTE]
 >
 > 다음 AEM GEM 웨비나에 등록하여 알림 받기: [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
 
-## 2022년 AEM GEM 출시
+## AEM GEM - AEM에 대한 기술 웨비나 - 개발자가 제공한 개발자용
 
 시작 **AEM GEM** - Adobe 전문가가 Adobe Experience Manager의 기술적인 측면에 대한 심도 있는 분석을 제공하는 웨비나 시리즈입니다. 이 시리즈는 제품 설명서와 Adobe Experience Manager에 대한 다른 모든 기술 채널을 보완하는 것으로, 개발자가 특정 주제를 선택하여 자세히 알아볼 수 있도록 합니다.
 
@@ -61,9 +62,7 @@ ht-degree: 0%
 * 최대 60분
 * 웨비나 전체에서 Q&amp;A 및 채팅 전문가 제공
 * 각 웨비나 후에 사용할 수 있는 레코딩
-* 웨비나는 무료입니다
-
-당사의 모든 AEM GEM 웨비나는 무료로 제공되며 가상으로 수행됩니다.
+* 모든 AEM GEM 웨비나는 무료로 진행되며 사실상 등록만 하면 된다.
 
 등록 위치 [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/) 예정된 웨비나에 대한 알림을 받으려면.
 

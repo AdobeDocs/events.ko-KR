@@ -2,10 +2,10 @@
 user-guide-title: Adobe Experience Manager GEMS 이벤트
 user-guide-description: Adobe Experience Manager 전문가가 제공하는 일련의 기술적인 분석인 AEM Gems에 대해 알아봅니다.
 breadcrumb-title: AEM GEM 이벤트
-source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
+source-git-commit: baac75a81046d05642dbcb1c5aa4711de7a0dd51
 workflow-type: tm+mt
-source-wordcount: '648'
-ht-degree: 5%
+source-wordcount: '696'
+ht-degree: 2%
 
 ---
 
@@ -13,6 +13,9 @@ ht-degree: 5%
 # GEMS 이벤트 Experience Manager {#experience-manager-gems-recordings}
 
 + [개요](overview.md)
++ 2024 {#gems2024}
+   + [AEM 제작 및 Edge Delivery Services 시작하기](/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+   + [Adobe Commerce에서 Edge Delivery Services에 대한 상점 만들기](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023 {#gems2023}
    + [New Relic AEM APM for as a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
    + [AEM 인증 - 기술](gems2023/aem-certification-technical.md)
@@ -21,7 +24,7 @@ ht-degree: 5%
 + 2022 {#gems2022}
    + [고객 사용 사례 및 사용 중인 AEM Headless 구현](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [자세히 살펴보기 - Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
-   + [AEM 및 CIF 프레임워크를 통합하여 풍부하고 매력적인 전자 상거래 경험을 구축하십시오](gems2022/aem-and-cif-framework-integration.md)
+   + [AEM 및 CIF 프레임워크를 통합하여 풍부하고 매력적인 전자 상거래 경험 구축](gems2022/aem-and-cif-framework-integration.md)
    + [AEM Headless 및 App Builder를 사용하여 보다 빠르게 웹 사이트 구축](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
    + [Adobe Experience Manager as a Cloud Service: 2021년 검토 및 2022년 전망](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + 2020 {#gems2020}
