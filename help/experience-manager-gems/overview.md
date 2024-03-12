@@ -12,7 +12,7 @@ type: Event
 user-guide-description: AEM GEM 세션
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: baac75a81046d05642dbcb1c5aa4711de7a0dd51
+source-git-commit: 4fbbc6c8f1abfaaa7b26b8e9ef6e0d0685217d7b
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -47,7 +47,7 @@ ht-degree: 0%
 -->
 에 대한 최신 AEM GEM 웨비나 **Adobe Commerce을 사용하여 Edge Delivery Services에 상점 구축** 이(가)에 수행되었습니다. *2024년 3월 6일*.
 다음 **레코딩** 은(는) 여기에서 찾을 수 있습니다.
-[Adobe Commerce을 사용하여 Edge Delivery Services에 상점 구축](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
+[Adobe Commerce을 사용하여 Edge Delivery Services에 상점 구축](./gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 
 >[!NOTE]
 >
