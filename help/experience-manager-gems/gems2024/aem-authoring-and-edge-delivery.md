@@ -1,6 +1,7 @@
 ---
 title: AEM 제작 및 Edge Delivery Services 시작하기
 description: 이 AEM GEM 웨비나에는 AEM 작성이 Edge Delivery Services과 함께 작동하는 방식을 보여 주는 프레젠테이션 및 데모가 포함되어 있습니다. AEM Cloud Service을 컨텐츠 소스로 사용하여 AEM 작성에 사용할 수 있는 새 Edge Delivery Services 프로젝트를 만드는 과정을 안내하고 Edge Delivery Services과 함께 제공되는 린 앤 애자일 개발 경험의 혜택을 누리면서도 전문가를 위한 WYSIWYG 작성 경험을 보존할 수 있는 방법을 보여 줍니다.
+solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
 topic: Development
@@ -11,7 +12,7 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
-source-git-commit: 32ae273fcd9f4271e1a61684d925a8fcb74252b8
+source-git-commit: 0534647ce6335dd9988451de2629bee65b4603e5
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
