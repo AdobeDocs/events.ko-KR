@@ -12,16 +12,16 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
-source-git-commit: 0534647ce6335dd9988451de2629bee65b4603e5
+source-git-commit: c3256d974364fa0b1615b470aa703d6b9a8e1956
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
 # 웨비나 날짜: 2024년 3월 13일
 
-시간: 5pm CET / 8am PST / 9.30pm IST 아래 이벤트 페이지 링크를 통해 등록하십시오.
+이 웨비나는 완료되었습니다. 아래 녹화를 시청하십시오.
 
 ## AEM 제작 및 Edge Delivery Services 시작하기
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
 * Dirk Rudolph, 관리자, 소프트웨어 개발, Adobe
 
-## 웨비나 등록
+## 웨비나 녹화
+
+>[!VIDEO](https://video.tv.adobe.com/v/3427919/)
 
 >[!NOTE]
->
->* 을(를) 통해 이 웨비나에 등록/RSVP하십시오. [이벤트 페이지](https://adobe.ly/4bz9T0H).
 > 
 >* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 다음을 방문하십시오. [컨텍스트 기반 스레드](https://adobe.ly/3uIj6D7).
 >
