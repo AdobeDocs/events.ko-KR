@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM 세션
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 4fbbc6c8f1abfaaa7b26b8e9ef6e0d0685217d7b
+source-git-commit: 44db30f1def4682ed40a703c3e38b787d556621b
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -45,13 +45,13 @@ ht-degree: 0%
 </table>
 
 -->
-에 대한 최신 AEM GEM 웨비나 **Adobe Commerce을 사용하여 Edge Delivery Services에 상점 구축** 이(가)에 수행되었습니다. *2024년 3월 6일*.
+에 대한 최신 AEM GEM 웨비나 **AEM 제작 및 Edge Delivery Services 시작하기** 이(가)에 수행되었습니다. *2024년 3월 13일*.
 다음 **레코딩** 은(는) 여기에서 찾을 수 있습니다.
-[Adobe Commerce을 사용하여 Edge Delivery Services에 상점 구축](./gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
+[AEM 제작 및 Edge Delivery Services 시작하기](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
 
 >[!NOTE]
 >
-> 다음 AEM GEM 웨비나에 등록하여 알림 받기: [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
+> 예정된 AEM GEM 웨비나에 대한 알림을 받으려면 등록 - [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
 
 ## AEM GEM - AEM에 대한 기술 웨비나 - 개발자가 제공한 개발자용
 
