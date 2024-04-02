@@ -3,9 +3,9 @@ title: APAC Commerce 웨비나 시리즈
 description: APAC Commerce 웨비나 시리즈는 모범 사례부터 제품 로드맵 및 업계 동향에 이르기까지 다양한 주제를 다루는 Adobe Commerce 고객을 위한 월간 워크숍 케이던스입니다.
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
 duration: 66
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 6a1868d01c63f6c56157663c41c834b312ddc5a7
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,19 @@ APAC Commerce 웨비나 시리즈는 모범 사례부터 제품 로드맵 및 �
 
 <table>
 <tr>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
+      <img alt="Adobe Commerce Innovation Spotlight 웨비나" src="https://video.tv.adobe.com/v/3427965?format=jpeg" />
+    </a>
+     <div>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
+        <strong>Adobe Commerce Innovation Spotlight 웨비나</strong>
+      </a>
+    </div>
+    <p>
+    <em>고객에게 최상의 경험을 제공하고 비즈니스를 성장시키기 위해 최신 기능과 아키텍처를 채택하는 방법에 대한 영감을 얻으십시오!이 웨비나에서.</em>
+    <p>
+  </td> 
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
       <img alt="Adobe Commerce 사이트 전체 분석 도구" src="https://video.tv.adobe.com/v/3419132?format=jpeg" />
@@ -44,19 +57,6 @@ APAC Commerce 웨비나 시리즈는 모범 사례부터 제품 로드맵 및 �
     <em>AI에 대한 Adobe의 투자와 Commerce로의 통합을 통해 탁월한 고객 경험을 위한 AI의 힘을 활용하십시오.</em>
     <p>
   </td>
-  <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-      <img alt="확장 가능하고 민첩한 전자 상거래를 위한 컴포저블 상거래 전략" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
-    </a>
-     <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-        <strong>확장 가능하고 민첩한 전자 상거래를 위한 컴포저블 상거래 전략</strong>
-      </a>
-    </div>
-    <p>
-    <em>컴포저블 아키텍처의 세계와 전자 상거래 환경을 혁신적으로 변화시키는 방법을 자세히 살펴볼 수 있는 통찰력 있는 웨비나에 참여해 보십시오.</em>
-    <p>
-  </td>  
 </tr>
 </table>
 
