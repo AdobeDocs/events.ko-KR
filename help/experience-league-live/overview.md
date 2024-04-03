@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: e0c633c24b493c757eb7c47d472e9e07df789fc3
+source-git-commit: 858f7011039c59a4bb34860d05904f03131d2dc4
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 44%
+source-wordcount: '181'
+ht-degree: 41%
 
 ---
 
@@ -25,11 +25,28 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 <table>
 <tr>
-  <td>
-    다가오는 2024년 4월 쇼에 대해 알아보려면 곧 돌아오십시오.<br/>
-    그 동안 다음 시간에 뵙겠습니다. <a href="https://summit.adobe.com/na/">Adobe Summit</a> 2024년 3월 25~28일에!
-
-</td>
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-18-24.md">
+      <img alt="Experience League LIVE 4월 21일" src="episodes/assets/WebBanner-April18-2024.jpg">
+    </a>
+    <div>
+      <a href="/help/experience-league-live/episodes/exl-live-episode-04-18-24.md">
+        <strong>Marketo Measure의 새로운 Discover 대시보드</strong>
+      </a>
+      <br/><em>이안 미셸, 케이트 콜버트, 제임스 리돔과 함께</em>
+      <br/><em>2024년 4월 18일</em>
+    </div>
+  </td>
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-24-24.md">
+      <img alt="Experience League LIVE 4월 21일" src="episodes/assets/WebBanner-Apr24-2024.jpg">
+    </a>
+    <div>
+      <a href="/help/experience-league-live/episodes/exl-live-episode-04-18-24.md">
+        <strong>Journey Optimizer의 새로운 코드 기반 경험 채널</strong>
+      </a>
+      <br/><em>산드라 하우스만, 로버트 칼랑주, 브렌트 코스타크</em>
+      <br/><em>2024년 4월 24일</em>
+    </div>
+  </td>
 </tr>
 </table>
 
@@ -95,4 +112,4 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 당사의 무료 [교육 과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별적인 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html)을 살펴보시기 바랍니다.
+>기타 학습 방법에 대해서는 당사의 무료 [교육 과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별적인 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko-KR)을 살펴보시기 바랍니다.
