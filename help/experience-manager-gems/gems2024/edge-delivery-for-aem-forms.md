@@ -1,0 +1,39 @@
+---
+title: AEM Forms용 Edge Delivery Services 시작하기
+description: Edge Delivery Services을 사용하여 AEM Forms을 만들고 게시하고 Edge를 통해 탁월한 경험으로 제공하는 방법에 대해 알아봅니다. 이러한 양식을 작성하는 방법에는 문서 기반 작성과 AEM 기반 작성을 사용하는 두 가지가 있습니다. Forms 블록 및 구성 요소를 사용자 정의하고 Server Side 확장을 사용하기 위해 AEM Forms Edge Delivery Services 프로젝트를 설정하는 방법에 대해 알아봅니다. 제출 후 AEM Forms의 백엔드 처리에 Forms as a Cloud Service을 활용하는 방법도 알아봅니다.
+solution: Experience Manager
+version: Cloud Service
+feature: Edge Delivery Services
+topic: Development
+role: Developer
+level: Intermediate
+doc-type: Event
+duration: 3600
+source-git-commit: 3e548378b0a3c35d435e2d67d4857200cf45bd37
+workflow-type: tm+mt
+source-wordcount: '259'
+ht-degree: 0%
+
+---
+
+# 웨비나 날짜: 2024년 4월 17일
+
+본 웨비나는 2024년 4월 17일 부터 오후 5시 CEST / 오전 8시 PDT / 오후 8시 30분 IST로 진행됩니다.
+다음을 수행하세요. [여기에 참석 여부를 알리기/등록](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-getting-started-with-edge-delivery-services-for-aem-forms/).
+
+## AEM Forms용 Edge Delivery Services 시작하기
+
+Edge Delivery Services을 사용하여 AEM Forms을 만들고 게시하고 Edge를 통해 탁월한 경험으로 제공하는 방법에 대해 알아봅니다. 이러한 양식을 작성하는 방법에는 문서 기반 작성과 AEM 기반 작성의 두 가지가 있습니다. Forms 블록 및 구성 요소를 사용자 정의하고 Server Side 확장을 사용하기 위해 AEM Forms Edge Delivery Services 프로젝트를 설정하는 방법에 대해 알아봅니다. 제출 후 AEM Forms의 백엔드 처리에 Forms as a Cloud Service을 활용하는 방법도 알아봅니다.
+
+## 발표자
+
+* Arun Taneja, 제품 관리 Director, Adobe
+* Vijay Kumar Jalagari, 수석 엔지니어링 관리자, Adobe
+
+## 웨비나 녹화
+
+>[!NOTE]
+> 
+>* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 컨텍스트 기반 스레드를 빠르게 사용할 수 있습니다.
+>
+>* 예정된 웨비나에 대한 알림을 받으려면 다음 위치에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
