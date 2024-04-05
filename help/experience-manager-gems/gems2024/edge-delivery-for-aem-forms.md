@@ -9,9 +9,10 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 3e548378b0a3c35d435e2d67d4857200cf45bd37
+exl-id: 0361b404-1c6c-4343-876c-ac6a200ba3b9
+source-git-commit: cf730e65edcd42ce99b7064c7e7a1c98abbdebf2
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -30,10 +31,10 @@ Edge Delivery Services을 사용하여 AEM Forms을 만들고 게시하고 Edge�
 * Arun Taneja, 제품 관리 Director, Adobe
 * Vijay Kumar Jalagari, 수석 엔지니어링 관리자, Adobe
 
-## 웨비나 녹화
+## 웨비나 커뮤니티 인터랙션
 
 >[!NOTE]
 > 
->* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 컨텍스트 기반 스레드를 빠르게 사용할 수 있습니다.
+>* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 다음을 방문하십시오. [컨텍스트 기반 스레드](https://adobe.ly/4aCz0OE).
 >
 >* 예정된 웨비나에 대한 알림을 받으려면 다음 위치에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
