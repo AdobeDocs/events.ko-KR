@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM 세션
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 3e548378b0a3c35d435e2d67d4857200cf45bd37
+source-git-commit: 3fe49df071fd893fb7007545abec74ee3e331702
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,8 @@ ht-degree: 0%
 
 ## 예정된 AEM GEM 이벤트
 
-2024년 4월 17일 - **AEM Forms용 Edge Delivery Services 시작하기**
-RSVP/등록하십시오. [여기](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-getting-started-with-edge-delivery-services-for-aem-forms/)
+2024년 5월 29일 - **Edge Delivery Services 및 AEM Assets**
+곧 등록이 열립니다.
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -51,9 +51,9 @@ RSVP/등록하십시오. [여기](https://aem-augs.adobe.com/events/details/adob
 
 ## 이전 AEM GEM 이벤트
 
-에 대한 최신 AEM GEM 웨비나 **AEM 제작 및 Edge Delivery Services 시작하기** 이(가)에 수행되었습니다. *2024년 3월 13일*.
+에 대한 최신 AEM GEM 웨비나 **AEM Forms용 Edge Delivery Services 시작하기** 이(가)에 수행되었습니다. *2024년 4월 17일*.
 다음 **레코딩** 은(는) 여기에서 찾을 수 있습니다.
-[AEM 제작 및 Edge Delivery Services 시작하기](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+[AEM Forms용 Edge Delivery Services 시작하기](/gems2024/edge-delivery-for-aem-forms.md)
 
 >[!NOTE]
 >

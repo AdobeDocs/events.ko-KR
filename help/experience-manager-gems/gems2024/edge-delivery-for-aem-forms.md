@@ -10,17 +10,16 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 0361b404-1c6c-4343-876c-ac6a200ba3b9
-source-git-commit: cf730e65edcd42ce99b7064c7e7a1c98abbdebf2
+source-git-commit: 3fe49df071fd893fb7007545abec74ee3e331702
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
 
 # 웨비나 날짜: 2024년 4월 17일
 
-본 웨비나는 2024년 4월 17일 부터 오후 5시 CEST / 오전 8시 PDT / 오후 8시 30분 IST로 진행됩니다.
-다음을 수행하세요. [여기에 참석 여부를 알리기/등록](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-getting-started-with-edge-delivery-services-for-aem-forms/).
+이 웨비나는 완료되었습니다. 아래 녹화를 시청하십시오.
 
 ## AEM Forms용 Edge Delivery Services 시작하기
 
@@ -30,6 +29,10 @@ Edge Delivery Services을 사용하여 AEM Forms을 만들고 게시하고 Edge�
 
 * Arun Taneja, 제품 관리 Director, Adobe
 * Vijay Kumar Jalagari, 수석 엔지니어링 관리자, Adobe
+
+## 웨비나 녹화
+
+>[!VIDEO](https://video.tv.adobe.com/v/3428434/)
 
 ## 웨비나 커뮤니티 인터랙션
 
