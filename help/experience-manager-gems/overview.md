@@ -12,7 +12,7 @@ type: Event
 user-guide-description: AEM GEM 세션
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: c8635305f4754d6001108357799a80f50d58b4ac
+source-git-commit: 2f4720df0080c4121892fbdfab1a0cbcf1be850e
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 ## 예정된 AEM GEM 이벤트
 
 2024년 5월 29일 - **Edge Delivery Services 및 AEM Assets**
-곧 등록이 열립니다.
+등록은 곧 개시될 예정입니다.
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
