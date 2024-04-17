@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM 세션
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 3fe49df071fd893fb7007545abec74ee3e331702
+source-git-commit: c8635305f4754d6001108357799a80f50d58b4ac
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -53,11 +53,11 @@ ht-degree: 0%
 
 에 대한 최신 AEM GEM 웨비나 **AEM Forms용 Edge Delivery Services 시작하기** 이(가)에 수행되었습니다. *2024년 4월 17일*.
 다음 **레코딩** 은(는) 여기에서 찾을 수 있습니다.
-[AEM Forms용 Edge Delivery Services 시작하기](/gems2024/edge-delivery-for-aem-forms.md)
+[AEM Forms용 Edge Delivery Services 시작하기](gems2024/edge-delivery-for-aem-forms.md)
 
 >[!NOTE]
 >
-> 예정된 AEM GEM 웨비나에 대한 알림을 받으려면 등록 - [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
+> 예정된 AEM GEM 웨비나 및 기타 AEM 관련 이벤트에 대한 알림을 받으려면 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
 
 ## AEM GEM - AEM에 대한 기술 웨비나 - 개발자가 제공한 개발자용
 
@@ -69,8 +69,6 @@ ht-degree: 0%
 * 웨비나 전체에서 Q&amp;A 및 채팅 전문가 제공
 * 각 웨비나 후에 사용할 수 있는 레코딩
 * 모든 AEM GEM 웨비나는 무료로 진행되며 사실상 등록만 하면 된다.
-
-등록 위치 [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/) 예정된 웨비나에 대한 알림을 받으려면.
 
 ## Experience League 커뮤니티
 
