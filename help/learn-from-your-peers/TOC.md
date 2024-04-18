@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "다음 녹음/녹화 컬렉션: [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 8f572e77a739bdf15824c890acda22fe4029661f
+source-git-commit: a8ae18af0407dd9a1f28a80b2f665ec6d4a446de
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 6%
+source-wordcount: '153'
+ht-degree: 5%
 
 ---
 
@@ -57,3 +57,4 @@ ht-degree: 6%
       + [을 사용하여 스케일 코드에서 개인화 크래킹 [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
    + 3월 {#mar2023}
       + [사용자 정의 방법 [!DNL Adobe Marketo Engage] 컨텐츠 확장 가능](marketo/mar2023/templates-tokens-teamwork.md)
++ [뛰어난 Adobe 챔피언 애플리케이션을 제출하는 방법에 대해 알아보기](./adobe-champion-application.md)
