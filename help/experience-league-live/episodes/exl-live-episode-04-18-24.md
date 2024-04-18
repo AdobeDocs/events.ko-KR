@@ -8,7 +8,7 @@ event-start-time: 2024-04-18 09:00-7
 event-guests: Ian Michels,Kate Colbert,James Leedom
 duration: 25
 exl-id: 4f3dcc03-307e-48fe-9bf2-e0a15e40bf6a
-source-git-commit: 44b97fea8d73859bbdbccadfb66543a531f25401
+source-git-commit: 05a172345f394d3eacff2548d4e71547bbf000f3
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -30,3 +30,4 @@ Marketo Measure은 Discover Dashboards를 완전히 개선했습니다. 이는 �
 * 어떤 새로운 사전 구축 대시보드를 사용할 수 있으며 이를 최대한 활용하는 방법
 * 새로 사용 가능한 지표 및 이를 사용하여 비즈니스 통찰력을 향상시키는 방법
 * 사용자 지정 보고서를 작성하고 저장하는 방법
+
