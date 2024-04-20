@@ -2,9 +2,9 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "다음 녹음/녹화 컬렉션: [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 28c2d6f249968bfe402dad24bf42fe7e3bfbdf4a
+source-git-commit: aa7d6f3d8f132e14c318f7df9bec97aa3805a57d
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '168'
 ht-degree: 5%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 5%
    + 5월 {#may2023}
       + [컨텐츠 및 경험 조각 마스터](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
-   + 4월 {#april2024}
+   + 2024년 4월 {#april2024}
       + [Marketo Engage REST API의 실용적인 응용](marketo/april2024/practical-applications-of-marketo-engage-rest-api.md)
    + 2024년 1월 {#jan2024}
       + [Marketo Engage으로 개인 채점 숙달](marketo/jan2024/person-scoring-mastery.md)
