@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 4b83bd595f69eafd7dd8074917eee9c9645f2e22
+source-git-commit: 08b9921b35dcd8c6525edae5dcd1688aed1743f0
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 46%
+source-wordcount: '171'
+ht-degree: 43%
 
 ---
 
@@ -26,16 +26,8 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-24-24.md">
-      <img alt="Experience League LIVE 4월 21일" src="episodes/assets/WebBanner-Apr24-2024.jpg">
-    </a>
-    <div>
-      <a href="/help/experience-league-live/episodes/exl-live-episode-04-18-24.md">
-        <strong>Journey Optimizer의 새로운 코드 기반 경험 채널</strong>
-      </a>
-      <br/><em>산드라 하우스만, 로버트 칼랑주, 브렌트 코스타크</em>
-      <br/><em>2024년 4월 24일</em>
-    </div>
+<td style="vertical-align: top;">
+    <strong>5월 16일 쇼에 대한 자세한 내용을 확인하려면 나중에 이 페이지로 돌아오십시오. 스포일러 경고 - AppMeasurement에서 웹 SDK로 Analytics를 마이그레이션하는 방법에 대해 알아보겠습니다.</strong>
   </td>
 </tr>
 </table>
