@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 858f7011039c59a4bb34860d05904f03131d2dc4
+source-git-commit: 4590f2cfc142bc5520b2c9cd12f7af1b6906b33b
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '404'
 ht-degree: 5%
 
 ---
@@ -21,8 +21,9 @@ ht-degree: 5%
 
 + [개요](overview.md)
 + 에피소드 {#episodes}
+   + [Ep. 36: 이렇게 하면 Analytics를 웹 SDK로 마이그레이션할 수 있습니다](episodes/exl-live-episode-05-16-24.md)
    + [Ep. 35: Journey Optimizer의 새로운 코드 기반 경험 채널](episodes/exl-live-episode-04-24-24.md)
-   + [Ep. 34: Marketo Measure의 새로운 Discover 대시보드](episodes/exl-live-episode-04-18-24.md)
+   + [Ep. 34: Marketo Measure의 새로운 검색 대시보드](episodes/exl-live-episode-04-18-24.md)
    + [Ep. 33: 새로운 Adobe Campaign v8 UI로 한 단계 도약](episodes/exl-live-episode-02-29-24.md)
    + [Ep. 32: 몇 번의 클릭으로 사용 사례를 배포하기 위한 사용 사례 플레이북, 셀프서비스 템플릿](episodes/exl-live-episode-02-08-24.md)
    + [Ep. 31: Adobe Analytics 데이터 및 분석을 Customer Journey Analytics으로 가져오기](episodes/exl-live-episode-01-17-24.md)

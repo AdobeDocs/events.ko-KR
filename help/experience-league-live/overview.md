@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 08b9921b35dcd8c6525edae5dcd1688aed1743f0
+source-git-commit: 4590f2cfc142bc5520b2c9cd12f7af1b6906b33b
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 43%
+source-wordcount: '163'
+ht-degree: 46%
 
 ---
 
@@ -26,8 +26,16 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 <table>
 <tr>
 
-<td style="vertical-align: top;">
-    <strong>5월 16일 쇼에 대한 자세한 내용을 확인하려면 나중에 이 페이지로 돌아오십시오. 스포일러 경고 - AppMeasurement에서 웹 SDK로 Analytics를 마이그레이션하는 방법에 대해 알아보겠습니다.</strong>
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-05-16-24.md">
+      <img alt="2024년 5월 16일 Experience League 라이브" src="episodes/assets/WebBanner-May16-2024.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-05-16-24.md">
+        <strong>이렇게 하면 Analytics를 웹 SDK로 마이그레이션할 수 있습니다</strong>
+      </a>
+      <br/><em>Doug Moore, Mitch Rice, Joe Koury와 함께</em>
+      <br/><em>2024년 5월 16일</em>
+    </div>
   </td>
 </tr>
 </table>
