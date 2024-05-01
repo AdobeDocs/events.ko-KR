@@ -4,10 +4,10 @@ description: Adobe의 엔터프라이즈 제품 사용에 초점을 맞춘 이�
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
 duration: 334
-source-git-commit: 3a1643f897e6bb54dac5d896a30d9f0a25e9dacd
+source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
 workflow-type: tm+mt
-source-wordcount: '997'
-ht-degree: 10%
+source-wordcount: '1028'
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,30 @@ ht-degree: 10%
 
 ## 이벤트 시리즈
 
-<div class="columns is-multiline"><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Campaign Insider Series" tabIndex="0">
+<div class="columns is-multiline"><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Acrobat Sign Webinars" tabIndex="0">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" title="Adobe Campaign Insider 시리즈" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png" alt="Acrobat Sign 웨비나">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" title="Acrobat Sign 웨비나">Acrobat Sign 웨비나</a>
+          </p>
+          <p class="is-size-6">
+         Acrobat Sign에서 새로운 전자 서명 워크플로를 마스터하는 방법을 Adobe 전문가로부터 알아보십시오.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
+      </a>
+    </div>
+  </div>
+</div>
+<div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Campaign Insider Series" tabIndex="0">
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
@@ -41,7 +64,8 @@ ht-degree: 10%
       </a>
     </div>
   </div>
-</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Content Management Forum" tabIndex="1">
+</div>
+<div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Content Management Forum" tabIndex="1">
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
@@ -177,18 +201,18 @@ ht-degree: 10%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Commerce 및 Coffee" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png" alt="Commerce 및 Coffee">
+        <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Commerce 및 커피" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png" alt="Commerce 및 커피">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Commerce 및 Coffee">Commerce 및 Coffee</a>
+              <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Commerce 및 커피">Commerce 및 커피</a>
           </p>
           <p class="is-size-6">
-         Commerce &amp; Coffee 시리즈는 모든 기술 수준의 기존 Adobe Commerce 고객을 위한 것으로 Sr. Commerce 전략 컨설턴트, Corey Gelato를 포함합니다. 이 시리즈는 상거래의 전략과 전술에 초점을 맞추고 있으며, 이벤트 주제를 반영하는 통계에 의해 뒷받침된다.</p>
+         Commerce 및 커피 시리즈는 모든 기술 수준의 기존 Adobe Commerce 고객을 위한 것이며 Commerce 전략 컨설턴트, Corey Gelato를 포함합니다. 이 시리즈는 Commerce 전략과 전술에 중점을 두며, 이벤트 주제를 반영하는 통계에 의해 지원됩니다.</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
@@ -199,7 +223,7 @@ ht-degree: 10%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html" title="고객 데이터 관리 음성" tabindex="-1">
+        <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=ko-KR" title="고객 데이터 관리 음성" tabindex="-1">
           <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png" alt="고객 데이터 관리 음성">
         </a>
       </figure>
@@ -207,12 +231,12 @@ ht-degree: 10%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html" title="고객 데이터 관리 음성">고객 데이터 관리 음성</a>
+              <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=ko-KR" title="고객 데이터 관리 음성">고객 데이터 관리 음성</a>
           </p>
           <p class="is-size-6">
          고객 데이터 관리 기술 및 마케팅 실무 리더이자 전문가의 대상입니다. 동료들의 의견을 듣고, 영감을 얻고, martech의 개발에 대해 배울 수 있는 원스톱 샵입니다.</p>
       </div>
-      <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+      <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=ko-KR" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
       </a>
     </div>
@@ -287,7 +311,7 @@ ht-degree: 10%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html" title="Experience Manager 릴리스 개요" tabindex="-1">
+        <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=ko-KR" title="Experience Manager 릴리스 개요" tabindex="-1">
           <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png" alt="Experience Manager 릴리스 개요">
         </a>
       </figure>
@@ -295,12 +319,12 @@ ht-degree: 10%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html" title="Experience Manager 릴리스 개요">Experience Manager 릴리스 개요</a>
+              <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=ko-KR" title="Experience Manager 릴리스 개요">Experience Manager 릴리스 개요</a>
           </p>
           <p class="is-size-6">
          Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한 개요를 확인하십시오. AEM 제품 팀에서 제공하는 약 10분 분량의 짧은 비디오로 최신 릴리스의 하이라이트를 공유합니다.</p>
       </div>
-      <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+      <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=ko-KR" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
       </a>
     </div>
