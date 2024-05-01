@@ -2,13 +2,14 @@
 title: Journey Optimizer의 새로운 코드 기반 경험 채널
 description: 개발자 중심 작업으로 인바운드 표면 및 세분화된 개인화 제어를 활성화합니다.
 kt: KT-14776
-thumbnail: https://video.tv.adobe.com/v/3428095?format=jpeg
+solution: Journey Optimizer
+feature: Code-based Experiences
 event-cta-url-live: https://www.youtube.com/watch?v=ZKa4OatgQjk
-event-start-time: 2024-04-18 08:30-7
+event-start-time: 2024-04-24 08:30-7
 event-guests: Sandra Hausmann,Robert Calangiu,Brent Kostak
 duration: 25
 exl-id: 94725433-1bc2-40a4-835a-2cfac9af1fd9
-source-git-commit: 08b9921b35dcd8c6525edae5dcd1688aed1743f0
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -30,4 +31,3 @@ ht-degree: 0%
 **Adobe Experience League에서 이 주제에 대한 토론 계속 [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.**
 
 >[!ENDSHADEBOX]
-

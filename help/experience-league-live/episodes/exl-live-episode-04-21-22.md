@@ -2,13 +2,13 @@
 title: AEM의 Headful에서 Headless까지(그리고 그 사이의 모든 것)
 description: 가장 일반적인 Adobe Experience Manager Sites 구현에 대한 자세한 분류입니다.
 solution: Experience Manager
-thumbnail: https://video.tv.adobe.com/v/342475?format=jpeg
+feature: Headless
 event-cta-url: https://youtu.be/idByz7WrhbQ
 event-start-time: 2022-04-21 09:00-7
 event-guests: Amol Anand, Sachin Mali, Sean Steimer
 exl-id: 9d5203ce-fb0d-4b0e-9508-29aeae467149
 duration: 5193
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -30,3 +30,4 @@ ht-degree: 0%
 레코딩 중에 제공된 슬라이드를 다운로드합니다.
 
 **[AEMHeadfulHeadless.pdf](../assets/documents/AEMHeadfulHeadless.pdf)**
+

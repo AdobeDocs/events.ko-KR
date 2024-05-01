@@ -6,12 +6,11 @@ short-description: 개발자가 아닌 사용자도 사이트를 쉽게 작성�
 solution: Experience Manager
 sub-product: Experience Manager Sites
 kt: 9397
-thumbnail: https://video.tv.adobe.com/v/338798?format=jpeg
 event-start-time: 2021-11-18 09:00-8
 event-guests: Danny Gordon,Shankari Panchapakesan,Gabriel Walt
 exl-id: 2760b900-44b0-49bc-9d63-39a459c338f1
 duration: 3869
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 94%
@@ -25,3 +24,4 @@ Adobe Experience Manager Sites에 멋진 웹 경험의 전달을 가속화하는
 Adobe 제품 관리자 Shankari Panchapakesan 및 Gabriel Walt와 함께 라이브 프레젠테이션 및 데모에 참여해 보십시오. 라이브 코딩도 볼 수 있습니다!
 
 >[!VIDEO](https://video.tv.adobe.com/v/338798/?quality=12&learn=on)
+

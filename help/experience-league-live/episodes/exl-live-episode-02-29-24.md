@@ -2,13 +2,14 @@
 title: 새로운 Adobe Campaign Web User Interface의 발전
 description: 새로운 Adobe Campaign 웹 사용자 인터페이스를 사용하여 이메일 마케팅 및 소셜 미디어 마케팅을 포함한 크로스 채널 마케팅 전략을 계획, 시작 및 측정할 때 보다 효율적으로 사용하는 방법을 알아봅니다.
 jira: KT-14433
-thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
+solution: Campaign v8 Web User Interface
+feature: Configuration
 event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
 exl-id: 636d8bf5-80d9-406b-ab1e-3d5c4b1c8b8f
-source-git-commit: 8872c95059c96fc4b565563add254f3b359ea216
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '422'
 ht-degree: 1%
@@ -50,3 +51,4 @@ Adobe Experience League에서 이 주제에 대한 토론 계속 [커뮤니티 �
 
 * **[Adobe Campaign 웹 사용자 인터페이스 - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
   *Adobe Campaign 웹 사용자 인터페이스의 기능 및 성능에 대한 비디오 및 튜토리얼을 제공하는 방법.*
+

@@ -2,14 +2,15 @@
 title: Workfront 릴리스 딥 다이브 - 새로운 Workfront 홈
 description: Workfront 고객으로부터 자신과 사용자의 New Home 작동 방식에 대해 들어보십시오.
 kt: KT-14069
-thumbnail: https://video.tv.adobe.com/v/3424606?format=jpeg
+solution: Workfront
+feature: Work Management
 event-cta-url-live: https://www.youtube.com/watch?v=dvCuSQfMTZg
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231026.html
 event-start-time: 2023-10-26 09:00-7
 event-guests: Betsey West,Ben Robbins,Jamie Smith
 exl-id: f36c96ce-d889-4549-8595-a43d815dd9af
 duration: 3132
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -27,3 +28,4 @@ Workfront 고객으로부터 자신과 사용자의 New Home 작동 방식에 �
 이 Experience League 라이브 세션에서는 제품 전문가 Ben Robbins가 2024년에 출시되는 새로운 관리자 레이아웃 제어 및 흥미로운 개선 사항을 포함하여 새로운 홈 환경에 대해 안내합니다. Workfront 고객 Jamie Smith는 새로운 홈 환경이 AT&amp;T의 생산성을 어떻게 향상시키는지에 대한 통찰력을 나눌 예정입니다.
 
 **토론을 계속하려면 다음을 방문하십시오. [Experience League 커뮤니티 게시물!](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}**
+

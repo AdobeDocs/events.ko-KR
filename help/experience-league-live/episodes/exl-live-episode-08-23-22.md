@@ -1,14 +1,14 @@
 ---
 title: 전문가에게 문의 - Tags(Launch)의 유용한 확장 기능으로 Web SDK의 비용 절감
 description: 구현을 새로운 Adobe Web SDK로 마이그레이션하시겠습니까?  Adobe 태그 라이브러리에서 데이터 수집을 한 단계 업그레이드하는 데 도움이 되는 자주 사용하는 확장 몇 가지를 살펴보겠습니다.
-solution: Data Collection,Experience Platform
+solution: Data Collection, Experience Platform
+feature: Tags
 kt: 10528
-thumbnail: https://video.tv.adobe.com/v/346610?format=jpeg
 event-start-time: 2022-08-23 09:00-7
 event-guests: Rudi Shumpert,Jeff Chasin,Eric Matisoff
 exl-id: 5ef987f4-37f5-473f-b9f2-1598b7e655ba
 duration: 3833
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '675'
 ht-degree: 0%
@@ -104,3 +104,4 @@ ht-degree: 0%
 * [전문가에게 문의 - Web SDK 기본 사항](exl-live-episode-05-26-22.md)
 * [전문가에게 문의 - RTCDP Connections](exl-live-episode-06-23-22.md)
 * [전문가에게 문의 - 데이터 스트림 및 데이터 준비](exl-live-episode-07-21-22.md)
+

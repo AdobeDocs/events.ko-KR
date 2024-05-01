@@ -2,13 +2,14 @@
 title: Adobe Journey Optimizer의 API 트리거 메시징
 description: 상황에 맞는 개인화된 실시간 트랜잭션 및 마케팅 커뮤니케이션에 REST API를 사용하는 방법에 대해 알아봅니다.
 kt: KT-13734
-thumbnail: https://video.tv.adobe.com/v/3422169?format=jpeg
+solution: Journey Optimizer
+feature: API
 event-cta-url-live: https://www.youtube.com/watch?v=eC51g4bf81s
 event-start-time: 2023-08-23 08:00-7
 event-guests: Siddharth Jain,Nikhil Sharma,Chetan Prasad
 exl-id: 4c3e2036-7afb-42f2-8071-17586b18aeec
 duration: 3637
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -30,3 +31,4 @@ API 트리거된 캠페인을 사용하면 기업은 캠페인을 설정하고 �
 **쇼를 보려면 위의 이미지를 클릭하십시오!**
 
 다음에 대한 토론 계속 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
+
