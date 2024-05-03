@@ -3,9 +3,9 @@ title: APAC Commerce 웨비나 시리즈
 description: APAC Commerce 웨비나 시리즈는 모범 사례부터 제품 로드맵 및 업계 동향에 이르기까지 다양한 주제를 다루는 Adobe Commerce 고객을 위한 월간 워크숍 케이던스입니다.
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
 duration: 66
-source-git-commit: 6a1868d01c63f6c56157663c41c834b312ddc5a7
+source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -32,29 +32,29 @@ APAC Commerce 웨비나 시리즈는 모범 사례부터 제품 로드맵 및 �
     <p>
   </td> 
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
-      <img alt="Adobe Commerce 사이트 전체 분석 도구" src="https://video.tv.adobe.com/v/3419132?format=jpeg" />
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/visionary-thinking.html">
+      <img alt="Adobe Commerce 사이트 전체 분석 도구" src="https://video.tv.adobe.com/v/3428818?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
-        <strong>Adobe의 PaaS Cloud Commerce를 통해 비즈니스 간소화</strong>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/visionary-thinking.html">
+        <strong>크리에이티브 엣지 - 비전적 사고가 Commerce을 변화시키는 방법</strong>
       </a>
     </div>
     <p>
-    <em>웨비나에 참여하여 자체 호스팅이 가능하고 PaaS에 대해 호기심이 많거나 설정을 최적화하려는 기존 고객 등 Adobe Commerce Cloud PaaS 솔루션의 이점을 알아보십시오.</em>
+    <em>창의성과 상업의 통합을 살펴봅니다.</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/ai-personalisation.html">
-      <img alt="Adobe Commerce 2.4.4로 업그레이드할 때의 이점" src="https://video.tv.adobe.com/v/3419107?format=jpeg" />
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/grow-ecommerce-business.html">
+      <img alt="Adobe Commerce 2.4.4로 업그레이드할 때의 이점" src="https://video.tv.adobe.com/v/3428817?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/ai-personalisation.html">
-        <strong>AI 기반 개인화</strong>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/grow-ecommerce-business.html">
+        <strong>전자 상거래 비즈니스를 유기적으로 성장시키는 7가지 방법</strong>
       </a>
     </div>
     <p>
-    <em>AI에 대한 Adobe의 투자와 Commerce로의 통합을 통해 탁월한 고객 경험을 위한 AI의 힘을 활용하십시오.</em>
+    <em>SEO 전략을 통해 전자 상거래 비즈니스를 유기적으로 성장시키기 위한 중요한 통찰력과 실용적인 팁을 얻을 수 있습니다</em>
     <p>
   </td>
 </tr>
