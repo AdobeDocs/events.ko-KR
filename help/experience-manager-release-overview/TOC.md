@@ -3,10 +3,10 @@ user-guide-title: Adobe Experience Manager as a Cloud Service 릴리스 개요
 user-guide-breadcrumb: AEMCS Release Events
 user-guide-description: Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한 개요 보기
 breadcrumb-title: AEM CS 릴리스 업데이트
-source-git-commit: 8fdbc89be6e17116ef4f3fe1c3a0465783fa63f4
+source-git-commit: c22e8000c84765100c5b3c70bb249d38b4ed6178
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 97%
+source-wordcount: '99'
+ht-degree: 100%
 
 ---
 
@@ -15,6 +15,7 @@ ht-degree: 97%
 
 + [개요](overview.md)
 + 2024 {#2024}
+   + [2024.4.0](2024/2024-4-0.md)
    + [2024.3.0](2024/2024-3-0.md)
    + [2024.1.0](2024/2024-1-0.md)
 + 2023 {#2023}
