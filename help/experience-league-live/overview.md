@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
+source-git-commit: 34b3c72c487bd43cd8b1ec0e94e107dfb72be850
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 46%
+source-wordcount: '169'
+ht-degree: 44%
 
 ---
 
@@ -26,16 +26,9 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-05-16-24.md">
-      <img alt="2024년 5월 16일 Experience League 라이브" src="episodes/assets/WebBanner-May16-2024.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-05-16-24.md">
-        <strong>이렇게 하면 Analytics를 웹 SDK로 마이그레이션할 수 있습니다</strong>
-      </a>
-      <br/><em>Doug Moore, Mitch Rice, Joe Koury와 함께</em>
-      <br/><em>2024년 5월 16일</em>
-    </div>
+<td style="vertical-align: top;"><b>2024년 6월 프로그램에 대한 자세한 내용을 보려면 곧 이 페이지로 돌아오십시오.</b><br/>
+    * Adobe Real-time Customer Data Platform용 H1 2024 릴리스<br/>
+    * Adobe Workfront 통합 검토 및 승인
   </td>
 </tr>
 </table>
