@@ -2,10 +2,10 @@
 user-guide-title: APAC Commerce 이벤트
 breadcrumb-title: APAC Commerce 이벤트
 user-guide-description: Adobe Commerce 이벤트는 전문가와 동료가 Adobe Commerce 사용 방법에 대한 생각과 아이디어를 공유한 비디오 라이브러리입니다.
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+source-git-commit: 4b65bfcf2f3025b1b5deddef7f8347000e0af2ce
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 4%
+source-wordcount: '136'
+ht-degree: 2%
 
 ---
 
@@ -14,6 +14,18 @@ ht-degree: 4%
 
 + [개요](overview.md)
 + 2024 {#2024}
+   + [액셀러레이터 데이](2024/accelerator-day/overview.md)
+   + 액셀러레이터 데이{#accelerator-day}
+      + [숨김: 내일 탐색](./2024/accelerator-day/navigating-tomorrow.md)
+      + [숨김: 테두리 밖의 패널](./2024/accelerator-day/panel-beyond-borders.md)
+      + [숨김: 경험 진화](./2024/accelerator-day/experience-evolution.md)
+      + [숨김: 내일 패널 탭하기](./2024/accelerator-day/panel-tapping-into-tomorrow.md)
+      + [숨김: 차세대 Commerce](./2024/accelerator-day/next-gen-commerce.md)
+      + [숨김: 표면 아래](./2024/accelerator-day/beneath-the-surface.md)
+      + [숨김: 번개 속도](./2024/accelerator-day/lightning-speed.md)
+      + [숨김: 구성 가능성](./2024/accelerator-day/composability.md)
+      + [히든: 크로스 채널 심포니](./2024/accelerator-day/cross-channel-symphony.md)
+      + [숨김: Art of Commerce](./2024/accelerator-day/the-art-of-commerce.md)
    + [Innovation Spotlight 웨비나](2024/innovation-spotlight.md)
    + [비전적 사고가 Commerce을 어떻게 변화시키고 있는가](2024/visionary-thinking.md)
    + [전자 상거래 비즈니스를 유기적으로 성장시키는 7가지 방법](2024/grow-ecommerce-business.md)
