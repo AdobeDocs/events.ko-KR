@@ -10,10 +10,10 @@ duration: 1582
 last-substantial-update: 2024-05-21T00:00:00Z
 jira: KT-15546
 hidefromtoc: true
-badgeEvent: label="Adobe Commerce 가속기의 날" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html"
-source-git-commit: 4b65bfcf2f3025b1b5deddef7f8347000e0af2ce
+badgeEvent: label="Adobe Commerce 가속기의 날" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview"
+source-git-commit: 89005ee91f2222029cc3abf30d02dc3b7714b588
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -29,3 +29,5 @@ Adobe Commerce과 협력하여 DotDigital이 혁신, 개인화 및 일대일 메
 + Graham Bell, ANZ 영업 책임자 - DotDigital
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429273/?learn=on)
+
+[&lt; Adobe Commerce Accelerator Day로 돌아가기](./overview.md)

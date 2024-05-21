@@ -10,10 +10,10 @@ duration: 1590
 last-substantial-update: 2024-05-21T00:00:00Z
 jira: KT-15543
 hidefromtoc: true
-badgeEvent: label="Adobe Commerce 가속기의 날" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html"
-source-git-commit: 4b65bfcf2f3025b1b5deddef7f8347000e0af2ce
+badgeEvent: label="Adobe Commerce 가속기의 날" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview"
+source-git-commit: 89005ee91f2222029cc3abf30d02dc3b7714b588
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -29,3 +29,5 @@ Commonwealth Bank의 파워보드 결제 오케스트레이션 플랫폼과 온�
 + Luke Jericho, Crew Lead, eCommerce 책임자 - CBA
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429270/?learn=on)
+
+[&lt; Adobe Commerce Accelerator Day로 돌아가기](./overview.md)
