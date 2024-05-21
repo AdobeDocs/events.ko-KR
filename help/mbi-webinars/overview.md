@@ -1,9 +1,9 @@
 ---
 title: Commerce Intelligence 웨비나
-description: Commerce Intelligence를 최대한 활용하기 위한 다양한 주제와 모범 사례를 다루는 Commerce Intelligence의 기록된 웨비나를 살펴봅니다.
+description: Commerce Intelligence를 최대한 활용하기 위한 다양한 주제와 모범 사례를 다루는 Commerce Intelligence 기록 웨비나를 살펴봅니다.
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
 duration: 77
-source-git-commit: 17a9052c99275eff0599c64be3d6872e60c52fe1
+source-git-commit: 78cb08c0aabfa98db97e1b7c1cee466e7c3578df
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 1%
@@ -40,11 +40,11 @@ Commerce Intelligence 웨비나 시리즈는 Commerce Intelligence 고객을 위
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
       <img alt="Adobe Commerce Intelligence에서 데이터 세트 관리" src="https://video.tv.adobe.com/v/3427547?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
         <strong>Adobe Commerce Intelligence에서 데이터 세트 관리</strong>
       </a>
     </div>
@@ -74,5 +74,5 @@ Commerce Intelligence 웨비나 시리즈는 Commerce Intelligence 고객을 위
 
 ## 유용한 리소스
 
-- [Commerce Intelligence 비디오 및 튜토리얼](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
+- [Commerce Intelligence 비디오 및 자습서](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
 - [Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html)
