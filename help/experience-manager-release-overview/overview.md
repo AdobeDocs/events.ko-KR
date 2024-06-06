@@ -4,10 +4,10 @@ description: Adobe Experience Manager as a Cloud Service의 최신 기능에 대
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
 duration: 91
-source-git-commit: cbf8d71cd9d7071ea70907e550ed3e602a026304
+source-git-commit: 6d8e23f544f23b09f545eb2e09978b8bb26b647e
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 14%
+source-wordcount: '177'
+ht-degree: 1%
 
 ---
 
@@ -28,7 +28,7 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한
           <strong>릴리스 | 2024.5.0</strong>
         </a>
       </div>
-      <p><em>릴리스 날짜: 2024년 5월 </em></p>
+      <em>릴리스 날짜: 2024년 5월 </em>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ko-KR">릴리스 정보</a>
       </p>
@@ -49,10 +49,7 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한
           <strong>릴리스 | 2024.4.0</strong>
         </a>
       </div>
-      <p><em>릴리스 날짜 2024년 4월 </em></p>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ko-KR">릴리스 정보</a>
-      </p>
+      <em>릴리스 날짜 2024년 4월 </em>
     </td>
     <td>
       <a href="2024/2024-3-0.md">
@@ -63,10 +60,7 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한
           <strong>릴리스 | 2024.3.0</strong>
         </a>
       </div>
-      <p><em>릴리스 날짜 2024년 4월 </em></p>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ko-KR">릴리스 정보</a>
-      </p>
+      <em>릴리스 날짜 2024년 4월 </em>
     </td>
     <td>
       <a href="2024/2024-1-0.md">
@@ -79,9 +73,6 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한
         </a>
           <em>릴리스 날짜 2024년 1월 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ko-KR">릴리스 정보</a>
-      <p>
     </td>
   </tr>
   <tr>
@@ -96,9 +87,6 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한
         </a>
           <em>릴리스 날짜 2023년 11월 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ko-KR">릴리스 정보</a>
-      <p>
     </td>
     <td>
       <a href="2023/2023-10-0.md">
@@ -111,9 +99,6 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한
         </a>
           <em>릴리스 날짜 2023년 10월 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ko-KR">릴리스 정보</a>
-      <p>
     </td>
     <td>
       <a href="2023/2023-9-0.md">
@@ -126,9 +111,6 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한
         </a>
           <em>릴리스 날짜 2023년 9월 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ko-KR">릴리스 정보</a>
-      <p>
     </td>
   </tr>
   <tr>    
@@ -143,9 +125,6 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한
         </a>
           <em>릴리스 날짜: 2023년 8월 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ko-KR">릴리스 정보</a>
-      <p>
     </td>
     <td>
       <a href="2023/2023-7-0.md">
@@ -158,9 +137,6 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한
         </a>
           <em>릴리스 날짜 2023년 7월 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ko-KR">릴리스 정보</a>
-      <p>
     </td>
     <td>
       <a href="2023/2023-6-0.md">
@@ -173,9 +149,6 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한
         </a>
           <em>릴리스 날짜 2023년 6월 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ko-KR">릴리스 정보</a>
-      <p>
     </td>
   </tr>
 </table>
