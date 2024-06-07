@@ -2,10 +2,10 @@
 user-guide-title: 운영 시간 Adobe
 user-guide-breadcrumb: Adobe Office Hours
 user-guide-description: 오피스 아워(Office Hours)는 솔루션별 웨비나를 제공하여 사례 변경에 대한 사전 예방적 접근 방식입니다.
-source-git-commit: 7378dc0e3e7caf4942e90e95668806bca03c1067
+source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 18%
+source-wordcount: '95'
+ht-degree: 14%
 
 ---
 
@@ -13,6 +13,9 @@ ht-degree: 18%
 # 운영 시간 Adobe {#office-hours}
 
 + [운영 시간 Adobe](overview.md)
++ 2024 {#2024}
+   + Marketo Adobe {#adobe-marketo-office-hours-2024}
+      + [챔피언 운영 시간 - 5월](2024/champion-office-hours.md)
 + 2023 {#2023}
    + Adobe Analytics {#adobe-analytics}
       + [Launch 우수 사례](2023/launch-best-practices.md)

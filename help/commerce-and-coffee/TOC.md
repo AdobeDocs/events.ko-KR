@@ -1,19 +1,20 @@
 ---
-user-guide-title: 상거래 및 커피 이벤트
-breadcrumb-title: 상거래 및 커피 이벤트
+user-guide-title: Commerce 및 커피 이벤트
+breadcrumb-title: Commerce 및 커피 이벤트
 user-guide-description: Adobe Commerce과 커피는 전문가 및 동료들이 Adobe Commerce 사용 방법에 대한 생각과 아이디어를 공유한 영상 라이브러리다.
-source-git-commit: 01689cc3c8f1d21e1ea223b8ee0fa3f22019fbcf
+source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '81'
 ht-degree: 6%
 
 ---
 
 
-# Commerce 및 Coffee {#commerce-and-coffee-recordings}
+# Commerce 및 커피 {#commerce-and-coffee-recordings}
 
 + [개요](overview.md)
 + 2024 {#2024}
+   + [Ecommerce 기본 사항](2024/ecommerce-essentials.md)
    + [AI를 사용한 eCommerce 경험 개인화](2024/personalize-ecommerce.md)
 + 2023 {#2023}
    + [무엇이든 묻기](2023/ask-me-anything.md)
@@ -23,7 +24,7 @@ ht-degree: 6%
    + [B2B 역량 강화 성공](2023/b2b.md)
 + 2022 {#2022}
    + [AI 및 자동화](2022/ai-and-automation.md)
-   + [전자 상거래 트렌드](2022/ecommerce-trends.md)
+   + [E-Commerce 트렌드](2022/ecommerce-trends.md)
    + [휴일 회고](2022/holiday.md)
    + [성수기 준비](2022/peak-season-prep.md)
    + [성수기 뭐라도 물어봐](2022/peak-season-ask-anything.md)

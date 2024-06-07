@@ -2,9 +2,9 @@
 user-guide-title: Adobe Experience League 이벤트 레코딩
 user-guide-breadcrumb: Event Recordings
 user-guide-description: Adobe 엔터프라이즈 제품 사용에 초점을 맞춘 이벤트 녹화본 컬렉션
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '351'
 ht-degree: 12%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 12%
    + [Acrobat Sign 웨비나](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html)
    + [Adobe Campaign Insider 시리즈](https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html)
    + [Adobe 컨텐츠 관리 포럼](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
+   + [Adobe Commerce Intelligence 웨비나](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
    + [Adobe Commerce 제품 업데이트](https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html)
    + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
    + [AEM Champion 운영 시간](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
@@ -31,7 +32,6 @@ ht-degree: 12%
    + [동료로부터 학습](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
    + [Marketo 및 Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
    + [오피스 아워](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
-   + [MBI 웨비나](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
    + [스킬 빌더](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + [스킬 교환](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
@@ -59,7 +59,7 @@ ht-degree: 12%
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [APAC Commerce 이벤트](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
       + [Commerce 및 커피](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
-      + [MBI 웨비나](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
+      + [Adobe Commerce Intelligence 웨비나](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
       + [오피스 아워](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
       + [스킬 빌더](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + Adobe Customer Journey Analytics {#cja}
