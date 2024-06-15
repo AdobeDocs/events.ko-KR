@@ -2,9 +2,9 @@
 user-guide-title: APAC Commerce 이벤트
 breadcrumb-title: APAC Commerce 이벤트
 user-guide-description: Adobe Commerce 이벤트는 전문가와 동료가 Adobe Commerce 사용 방법에 대한 생각과 아이디어를 공유한 비디오 라이브러리입니다.
-source-git-commit: 4b65bfcf2f3025b1b5deddef7f8347000e0af2ce
+source-git-commit: e2beb9336151eddc3cb29470fab12e77a4f8ffb0
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '138'
 ht-degree: 2%
 
 ---
@@ -26,6 +26,7 @@ ht-degree: 2%
       + [숨김: 구성 가능성](./2024/accelerator-day/composability.md)
       + [히든: 크로스 채널 심포니](./2024/accelerator-day/cross-channel-symphony.md)
       + [숨김: Art of Commerce](./2024/accelerator-day/the-art-of-commerce.md)
+   + [Commerce 및 구성 기능](2024/commerce-and-composability.md)
    + [Innovation Spotlight 웨비나](2024/innovation-spotlight.md)
    + [비전적 사고가 Commerce을 어떻게 변화시키고 있는가](2024/visionary-thinking.md)
    + [전자 상거래 비즈니스를 유기적으로 성장시키는 7가지 방법](2024/grow-ecommerce-business.md)
