@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM 세션
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 2f4720df0080c4121892fbdfab1a0cbcf1be850e
+source-git-commit: 338f58a58dc88d72fc641eb51d87ca4bf410be02
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,7 @@ ht-degree: 0%
 
 ## 예정된 AEM GEM 이벤트
 
-2024년 5월 29일 - **Edge Delivery Services 및 AEM Assets**
-등록은 곧 개시될 예정입니다.
+예정된 웨비나는 2024년 7월에 발표됩니다.
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -51,9 +50,9 @@ ht-degree: 0%
 
 ## 이전 AEM GEM 이벤트
 
-에 대한 최신 AEM GEM 웨비나 **AEM Forms용 Edge Delivery Services 시작하기** 이(가)에 수행되었습니다. *2024년 4월 17일*.
+에 대한 최신 AEM GEM 웨비나 **새로운 API 및 이벤트를 사용하여 AEM Assets에 대한 개발자 경험 개선** 이(가)에 수행되었습니다. *2024년 6월 19일*.
 다음 **레코딩** 은(는) 여기에서 찾을 수 있습니다.
-[AEM Forms용 Edge Delivery Services 시작하기](gems2024/edge-delivery-for-aem-forms.md)
+[새로운 API 및 이벤트를 사용하여 AEM Assets에 대한 개발자 경험 개선](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
 
 >[!NOTE]
 >

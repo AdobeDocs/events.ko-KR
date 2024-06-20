@@ -9,7 +9,8 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: d9fcab5e7cde89e24cb746bc4f24ab2edc41848c
+exl-id: c33fab30-649e-43b3-b1df-cf57e42d3612
+source-git-commit: e364366d7df321ebbcb598ac15e237e5626a4087
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
@@ -18,8 +19,7 @@ ht-degree: 0%
 
 # 웨비나 날짜: 2024년 6월 19일
 
-이번 웨비나는 6월 19일 수요일~오후 5시(CEST)/오전 8시(PDT)/오후 8시 30분(IST) 방송된다.
-다음을 통해 등록하십시오. [이벤트 페이지](https://adobe.ly/3wLRpdI).
+이 웨비나는 6월 19일 수요일 - 오후 5시(CEST) / 오전 8시(PDT) / 오후 8시 30분(IST)에 진행되었습니다. 아래 기록을 확인하십시오.
 
 ## 새로운 API 및 이벤트를 사용하여 AEM Assets에 대한 개발자 경험 개선
 
@@ -34,10 +34,12 @@ AEM 개발자는 새로 도입된 Assets Open API 및 제공 중인 클라우드
 * Ian Reasor, 수석 컴퓨터 과학자, Adobe
 * Ievgen Nedoviesov, 소프트웨어 엔지니어링 관리자, Adobe
 
-## 웨비나 커뮤니티 인터랙션
+## 웨비나 녹화
+
+>[!VIDEO](https://video.tv.adobe.com/v/3430198)
 
 >[!NOTE]
 > 
->* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 다음을 방문하십시오. [컨텍스트 기반 스레드](https://adobe.ly/3UQXwFO).
+>* Experience League에서 이 웨비나에 대한 세션별 커뮤니티 상호 작용에 대해서는 다음을 방문하십시오. [컨텍스트 기반 스레드](https://adobe.ly/3UQXwFO).
 >
 >* 예정된 웨비나에 대한 알림을 받으려면 다음 위치에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
