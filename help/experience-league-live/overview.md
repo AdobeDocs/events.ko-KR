@@ -1,6 +1,6 @@
 ---
-title: Experience League LIVE 이벤트
-description: 이전 Experience League LIVE 이벤트에 대한 링크 컬렉션
+title: 라이브 이벤트 Experience League
+description: 이전 Experience League 라이브 이벤트에 대한 링크 컬렉션
 solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -8,16 +8,16 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 34b3c72c487bd43cd8b1ec0e94e107dfb72be850
+source-git-commit: b38221f215d93a24838a607da1def2129f398bb3
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 44%
+ht-degree: 3%
 
 ---
 
 # Experience League LIVE
 
-Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트리밍 쇼입니다.  Adobe 제품 전문가를 만나고 Adobe Experience Cloud 애플리케이션에 적용할 수 있는 유용한 팁, 요령 및 전략을 배울 수 있는 기회입니다.
+Experience League 라이브는 Experience League 팀이 제작하는 라이브 스트리밍 쇼입니다.  Adobe 제품 전문가를 만나고 Adobe Experience Cloud 애플리케이션에 적용할 수 있는 유용한 팁, 요령 및 전략을 배울 수 있는 기회입니다.
 
 <div id="upcoming-events">
 
@@ -26,9 +26,16 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 <table>
 <tr>
 
-<td style="vertical-align: top;"><b>2024년 6월 프로그램에 대한 자세한 내용을 보려면 곧 이 페이지로 돌아오십시오.</b><br/>
-    * Adobe Real-time Customer Data Platform용 H1 2024 릴리스<br/>
-    * Adobe Workfront 통합 검토 및 승인
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
+      <img alt="Experience League 라이브 6월 26일" src="episodes/assets/WebBanner-June26-2024.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-06-26-24.md">
+        <strong>최신 Adobe Real-Time CDP 릴리스가 비즈니스에 중요한 역할을 하는 방법</strong>
+      </a>
+      <br/><em>니나 카루소, 루디 숨퍼트, 더그 무어와 함께</em>
+      <br/><em>2024년 6월 26일</em>
+    </div>
   </td>
 </tr>
 </table>
@@ -94,4 +101,4 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 당사의 무료 [교육 과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별적인 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko-KR)을 살펴보시기 바랍니다.
+>기타 학습 방법에 대해서는 무료로 살펴보시기 바랍니다 [교육 과정](https://experienceleague.adobe.com/#dashboard/learning) 개인뿐 아니라 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko-KR).
