@@ -8,7 +8,7 @@ event-cta-url-live: https://www.youtube.com/live/Cw5004YGMbc
 event-start-time: 2024-06-26 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
 duration: 25
-source-git-commit: 33de0c8d1af0afe68c602cc566f9fb91a148a302
+source-git-commit: 56ccf95c77ba8efebf8d8ed112d2e8e1d7c0418a
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 1%
@@ -19,9 +19,9 @@ ht-degree: 1%
 
 지난 몇 개월 동안 출시된 Adobe Real-Time CDP의 최신 기능에 대해 알아보고 이러한 기능이 비즈니스에 어떤 영향을 줄 수 있는지 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/331788/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430515/?quality=12&learn=on)
 
-**토론을 계속하려면 다음을 방문하십시오. [Experience League 커뮤니티에 대한 토론](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-how-the-latest/m-p/685150#M67){target="_blank"}**
+**토론을 계속하려면 다음을 방문하십시오. [Experience League 커뮤니티에 대한 토론](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-how-the-latest/m-p/685150#M67){target="_blank"}.**
 
 **세부 사항 표시**: 현재 Real-Time CDP 전문가로서 제품의 새로운 기능, 중요한 이유 및 Adobe이 고객 데이터 관리 전략을 향상시키는 데 어떻게 도움이 될 수 있는지에 대한 통찰력을 찾고 계십니까? 더 이상 보지 마세요. 당신은 올바른 곳에 와 있습니다! 이 시리즈에서는 Real-Time CDP에서 최근 출시된 기능을 자세히 살펴봄으로써 새로운 기능을 바로 활용하고 조직에 영향을 미칠 수 있도록 합니다.\
 이 세션에서는 지난 몇 달 동안 출시된 5가지 새로운 기능에 대해 논의하고 보여줍니다.
@@ -37,4 +37,3 @@ ht-degree: 1%
 * 라이브 데모를 통해 이러한 기능이 실제로 작동하는 방식을 이해합니다
 * 이러한 기능이 효과적인 이유를 알아보고 전문가로서 효율성과 가치를 제공하십시오
 * 지금 바로 이러한 새로운 기능을 활용할 수 있습니다
-
