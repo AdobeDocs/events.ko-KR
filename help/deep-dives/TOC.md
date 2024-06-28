@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 8fdbc89be6e17116ef4f3fe1c3a0465783fa63f4
+source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 6%
+source-wordcount: '53'
+ht-degree: 5%
 
 ---
 
@@ -21,12 +21,14 @@ ht-degree: 6%
 
 + [개요](overview.md)
 + Marketo의 딥 다이브 {#deep-dives-marketo}
+   + [Admin Console 마이그레이션](admin-console.md)
    + [API](api.md)
    + [인증](certification.md)
    + [전자 메일 지원](email-nurture.md)
    + [실행 가능한 캠페인](executable-campaigns.md)
    + [인스턴스 상속](inheriting-an-instance.md)
    + [리드 수명 주기](lead-lifecycles.md)
+   + [확장성을 위한 PMCF 필드 활용](pmcf-fields.md)
    + [소규모 팀으로 인스턴스 최대화](small-team-instance.md)
    + [작업 로그에 복잡한 프로세스 알림](activity-log.md)
    + [웹후크를 사용하여 데이터 전송](webhooks.md)

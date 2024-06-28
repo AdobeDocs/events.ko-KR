@@ -8,13 +8,13 @@ doc-type: Event
 duration: 2148
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15558
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+exl-id: 1ab0e81c-50eb-4416-baa1-e80572ffe783
+source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Workfront을 통한 효율성 극대화: Lean Teams 웨비나
 
@@ -27,3 +27,31 @@ ht-degree: 0%
 * 지속적인 학습 및 적응
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429287/?learn=on)
+
+## 회의 개요
+
+이 회의에서는 Lean Teams와 Adobe Workfront을 통한 효율성 극대화를 중점적으로 다뤘다. 다음은 논의된 주요 사항에 대한 요약입니다.
+
+**린 팀 및 효율성**
+
+* Lean 팀이 직면한 문제에 대해 논의했습니다.
+* 린 관리의 목표와 이점을 강조했습니다.
+* 린 관리와 관련된 원칙을 강조했습니다.
+
+**효율성을 위한 전략**
+
+* 지속적인 개선의 중요성.
+* 커뮤니케이션을 간소화합니다.
+* 데이터 중심의 의사 결정
+
+**Workfront 도구**
+
+* 성공을 위한 블루프린트, 리소스 플래너 및 통합과 같은 Workfront 도구 활용입니다.
+
+**주요 개선 사항**
+
+* 효율성을 위한 전략
+* 커뮤니케이션 간소화.
+* 데이터 중심의 의사 결정.
+* 학습 마인드를 함양합니다.
+* 지원 및 모범 사례를 위해 Workfront 커뮤니티와 협력
