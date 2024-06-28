@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: b38221f215d93a24838a607da1def2129f398bb3
+source-git-commit: 33de0c8d1af0afe68c602cc566f9fb91a148a302
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '166'
 ht-degree: 3%
 
 ---
@@ -26,16 +26,8 @@ Experience League 라이브는 Experience League 팀이 제작하는 라이브 �
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
-      <img alt="Experience League 라이브 6월 26일" src="episodes/assets/WebBanner-June26-2024.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-06-26-24.md">
-        <strong>최신 Adobe Real-Time CDP 릴리스가 비즈니스에 중요한 역할을 하는 방법</strong>
-      </a>
-      <br/><em>니나 카루소, 루디 숨퍼트, 더그 무어와 함께</em>
-      <br/><em>2024년 6월 26일</em>
-    </div>
+<td style="vertical-align: top;">
+      <b>곧 다시 와서 새롭고 다가오는 쇼에 대해 배워보세요! 당분간은 아래 또는 왼쪽 탐색에서 링크를 클릭하여 이전 에피소드를 확인합니다.</b>
   </td>
 </tr>
 </table>
