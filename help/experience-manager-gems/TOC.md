@@ -2,9 +2,9 @@
 user-guide-title: Adobe Experience Manager GEMS 이벤트
 user-guide-description: Adobe Experience Manager 전문가가 제공하는 일련의 기술적인 분석인 AEM Gems에 대해 알아봅니다.
 breadcrumb-title: AEM GEM 이벤트
-source-git-commit: d9fcab5e7cde89e24cb746bc4f24ab2edc41848c
+source-git-commit: 5ce016c300cbb576e55fb3b824a06b59091a7bd0
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: '726'
 ht-degree: 1%
 
 ---
@@ -14,25 +14,26 @@ ht-degree: 1%
 
 + [개요](overview.md)
 + 2024 {#gems2024}
+   + [AEM Cloud Manager에서 개인 GitHub 저장소 통합](gems2024/private-github-for-aem-cloud-manager.md)
    + [새로운 API 및 이벤트를 사용하여 AEM Assets에 대한 개발자 경험 개선](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
    + [AEM Forms용 Edge Delivery Services 시작하기](gems2024/edge-delivery-for-aem-forms.md)
-   + [AEM 제작 및 Edge Delivery Services 시작하기](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+   + [AEM 제작 및 Edge Delivery Services 시작](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
    + [Adobe Commerce에서 Edge Delivery Services에 대한 상점 만들기](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023 {#gems2023}
-   + [New Relic AEM APM for as a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
+   + [AEM as a Cloud Service용 New Relic APM](gems2023/newrelic-apm-for-aem-cloud-service.md)
    + [AEM 인증 - 기술](gems2023/aem-certification-technical.md)
-   + [Experience Manager 신속한 개발 환경을 통한 as a Cloud Service 개발 가속화](/help/experience-manager-gems/gems2023/rapid-development-environments.md)
+   + [신속한 개발을 통한 Experience Manager as a Cloud Service 개발 가속화](/help/experience-manager-gems/gems2023/rapid-development-environments.md)
    + [On-Premise 및 AMS 환경을 위한 AEM Best Practices Analyzer](gems2023/aem-best-practices-analyzer.md)
 + 2022 {#gems2022}
    + [고객 사용 사례 및 사용 중인 AEM Headless 구현](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [자세히 살펴보기 - Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
    + [AEM 및 CIF 프레임워크를 통합하여 풍부하고 매력적인 전자 상거래 경험 구축](gems2022/aem-and-cif-framework-integration.md)
-   + [AEM Headless 및 App Builder를 사용하여 보다 빠르게 웹 사이트 구축](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
+   + [AEM Headless 및 App Builder을 사용하여 보다 빠르게 웹 사이트 구축](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
    + [Adobe Experience Manager as a Cloud Service: 2021년 검토 및 2022년 전망](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + 2020 {#gems2020}
    + [AEM 6.5 전세계 지원 - 번역 통합 및 모범 사례](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
 + 2019 {#gems2019}
-   + [Experience Manager 6.5의 새로운 기능 [!DNL Sites]](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
+   + [Experience Manager 6.5 [!DNL Sites]의 새로운 기능](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
    + [AEM 리치 텍스트 편집기(RTE) 심층 분석](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
    + [ContextHub의 저장소, 모듈 및 세그먼트에 대한 구현 세부 사항에 대해 자세히 알아봅니다](gems2019/contexthub-deep-dive.md)
    + [AEM 6.5로 헤드리스 옴니채널 경험 만들기](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)
@@ -45,7 +46,7 @@ ht-degree: 1%
    + [Adobe Developer(IO) 이벤트 - Analytics 트리거](gems2018/aem-analytics-triggers.md)
    + [AEM Author 확장성의 실험](gems2018/aem-author-scalability1.md)
    + [AEM 핵심 구성 요소](gems2018/aem-core-components.md)
-   + [디지털 자산 폭증 및 [!DNL AEM Assets]](gems2018/aem-digital-asset-explosion.md)
+   + [디지털 자산 폭발 및  [!DNL AEM Assets]](gems2018/aem-digital-asset-explosion.md)
    + [AEM 6.4에서 ContextHub 소개](gems2018/aem-intro-to-contexthub.md)
    + [AEM의 머신 러닝: 향상된 스마트 태그, 스마트 레이아웃 등](gems2018/aem-machine-learning.md)
    + [온전성을 유지하면서 오픈 소스 유지](gems2018/aem-maintaining-open-source.md)
@@ -91,10 +92,10 @@ ht-degree: 1%
    + [AEM [!DNL Forms] 기능 팩 1 소개 및 기술 샘플](gems2015/aem-forms-feature-pack-1-introduction-and-technical-samples.md)
    + [AEM용 IBM WebSphere Commerce 통합](gems2015/aem-ibm-websphere-commerce-integration-for-aem.md)
    + [ACS AEM Commons &amp; tools 내부](gems2015/aem-inside-acs-aem-commons-and-tools.md)
-   + [Oak의 외부 로그인 모듈](gems2015/aem-oak-external-login-module-authenticating-with-ldap-and-beyond.md)
+   + [Oak 외부 로그인 모듈](gems2015/aem-oak-external-login-module-authenticating-with-ldap-and-beyond.md)
    + [Sonar - 제품 품질을 개선하는 주요 요소](gems2015/aem-sonar-a-key-element-to-improve-product-quality.md)
    + [AEM Tech 살짝 보기](gems2015/aem-tech-sneak-peek.md)
-   + [팁 및 요령 [!DNL AEM Sites] Touch UI](gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
+   + [ [!DNL AEM Sites] Touch UI에 대한 팁 및 요령](gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
    + [JavaScript 프로젝트의 품질 지표 추적](gems2015/aem-track-quality-metrics-of-your-javascript-project.md)
 + 2014 {#gems2014}
    + [DTM 클라우드 서비스를 통해 로컬 AEM 인스턴스에 Adobe Analytics 배포](gems2014/aem-adobe-analytics-dynamic-tag-management.md)
