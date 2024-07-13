@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM 세션
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 338f58a58dc88d72fc641eb51d87ca4bf410be02
+source-git-commit: 658be21bfe19a3070d0dafbb753fc3292610e989
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 <img alt="디지털 환경" src="./assets/ADX_Gems.png"/>
 
-## 예정된 AEM GEM 이벤트
+## 예정된 AEM GEM 웨비나 - AEM Cloud Manager에서 개인 GitHub 저장소 통합
 
-예정된 웨비나는 2024년 7월에 발표됩니다.
+본 웨비나는 7월 31일 수요일~오후 5시(CEST)/오전 8시(PDT)/오후 8시 30분(IST)에 진행될 예정입니다. 이 웨비나는 등록만 필요합니다. [여기](https://adobe.ly/3LmXfGk)에서 등록하십시오.
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -50,17 +50,17 @@ ht-degree: 0%
 
 ## 이전 AEM GEM 이벤트
 
-에 대한 최신 AEM GEM 웨비나 **새로운 API 및 이벤트를 사용하여 AEM Assets에 대한 개발자 경험 개선** 이(가)에 수행되었습니다. *2024년 6월 19일*.
-다음 **레코딩** 은(는) 여기에서 찾을 수 있습니다.
-[새로운 API 및 이벤트를 사용하여 AEM Assets에 대한 개발자 경험 개선](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
+**새로운 API 및 이벤트를 통해 AEM Assets의 개발자 경험 개선**&#x200B;에 대한 최신 AEM GEM 웨비나는 *2024년 6월 19일*에 진행되었습니다.
+**기록**은(는) 여기에서 찾을 수 있습니다.
+[새로운 API 및 이벤트를 통해 AEM Assets의 개발자 경험 개선](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
 
 >[!NOTE]
 >
-> 예정된 AEM GEM 웨비나 및 기타 AEM 관련 이벤트에 대한 알림을 받으려면 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
+> 예정된 AEM GEM 웨비나 및 기타 AEM 관련 이벤트([Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/))에 대한 알림을 받으려면 등록하십시오.
 
 ## AEM GEM - AEM에 대한 기술 웨비나 - 개발자가 제공한 개발자용
 
-시작 **AEM GEM** - Adobe 전문가가 Adobe Experience Manager의 기술적인 측면에 대한 심도 있는 분석을 제공하는 웨비나 시리즈입니다. 이 시리즈는 제품 설명서와 Adobe Experience Manager에 대한 다른 모든 기술 채널을 보완하는 것으로, 개발자가 특정 주제를 선택하여 자세히 알아볼 수 있도록 합니다.
+Adobe 전문가가 Adobe Experience Manager에서 제공하는 **AEM GEM** - 기술적인 심도 있는 다이빙 웨비나 시리즈입니다. 이 시리즈는 제품 설명서와 Adobe Experience Manager에 대한 다른 모든 기술 채널을 보완하는 것으로, 개발자가 특정 주제를 선택하여 자세히 알아볼 수 있도록 합니다.
 
 웨비나는 다음을 포함하여 정기적으로 수행됩니다.
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 
 ## Experience League 커뮤니티
 
-당사 [Experience Manager 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) 제품 채택과 고객 성공을 지원하는 데 중요한 역할을 수행합니다.
+[Experience Manager 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)는 제품 채택과 고객 성공을 지원하는 데 중요한 역할을 합니다.
 
 * 연결: 구현부터 제품 사용 확장까지 지침 및 모범 사례를 위한 피어 및 Adobe 담당자와 네트워크
 * 빠른 답변: Adobe 솔루션의 성공적인 활성 사용을 지원하기 위한 광범위한 실제 사용 사례 답변 풀
