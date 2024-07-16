@@ -9,7 +9,7 @@ doc-type: Event
 duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 7582ea084cdfe20cfc5bd4c62a5a1234b5c3bcac
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 예정된 Adobe Admin Console 마이그레이션에 대한 독점 MUG 리더 교육입니다. 이 회의는 &quot;트레이너 교육&quot; 형식으로 진행되며, 이를 통해 학습한 내용을 학습하고 향후 변화될 사항에 대해 챕터를 교육할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430626/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
 ## 개요
 
