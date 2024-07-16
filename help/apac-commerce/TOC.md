@@ -15,7 +15,7 @@ ht-degree: 2%
 + [개요](overview.md)
 + 2024 {#2024}
    + [액셀러레이터 데이](2024/accelerator-day/overview.md)
-   + 액셀러레이터 데이{#accelerator-day}
+   + 액셀러레이터 일{#accelerator-day}
       + [숨김: 내일 탐색](./2024/accelerator-day/navigating-tomorrow.md)
       + [숨김: 테두리 밖의 패널](./2024/accelerator-day/panel-beyond-borders.md)
       + [숨김: 경험 진화](./2024/accelerator-day/experience-evolution.md)

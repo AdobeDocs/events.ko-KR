@@ -19,7 +19,7 @@ ht-degree: 5%
 
 이 이틀 간의 컨퍼런스에서는 Headless 및 GraphQL, Adobe Experience Manager as a Cloud Service, 기술 세션 및 커뮤니티 네트워킹 기회와 같은 중요한 Adobe Experience Manager 개발자 업데이트를 제공했습니다.
 
-동료 개발자와 연결하고 의 세션 대화에 참여합니다. **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**.
+**[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**&#x200B;에서 동료 개발자와 연결하여 세션 대화에 참여하세요.
 
 ## 강조 표시
 
@@ -31,7 +31,7 @@ ht-degree: 5%
       </a>
       <div>
          <a href="headless-graphql-content-fragments.md"><strong>헤드리스 - 콘텐츠 조각이 있는 GraphQL</strong></a>         
-         <br/><em>소프트웨어 수석 엔지니어 Jabran Asghar</em>
+         <br/><em>소프트웨어 엔지니어 Jabran Asghar와 함께</em>
       </div>
       <p>
         <br/>
@@ -43,8 +43,8 @@ ht-degree: 5%
       <img alt="프론트엔드 개발 - 사이트의 프론트엔드를 빠르게 구축하고 배포하는 향후 워크플로우입니다." src="/help/adobe-developers-live/assets/gabriel.png"/>
       </a>
       <div>
-         <a href="rapid-frontend-devlopment.md"><strong>프론트엔드 개발 - 사이트의 프론트엔드를 빠르게 구축하고 배포하는 향후 워크플로우입니다.</strong></a>
-         <br/><em>수석 제품 관리자인 Gabriel Walt 와 함께</em>
+         <a href="rapid-frontend-devlopment.md"><strong>프론트엔드 개발 - 사이트의 프론트엔드를 빠르게 빌드하고 배포하는 향후 워크플로우입니다.</strong></a>
+         <br/><em>수석 제품 관리자인 Gabriel Walt와 함께</em>
       </div>
       <p>
         <br/>
@@ -58,7 +58,7 @@ ht-degree: 5%
       </a>
       <div>
          <a href="get-ready-aem-cloud.md"><strong>Cloud Service 준비 - 마이그레이션 모범 사례</strong></a>
-         <br/><em>소프트웨어 수석 엔지니어 Andreea Moise와 함께</em>
+         <br/><em>소프트웨어 엔지니어 Andreea Moise와 함께</em>
       </div>
       <p>
         <br/>
@@ -70,7 +70,7 @@ ht-degree: 5%
 
 >[!TIP]
 >
->**모든 세션이 왼쪽의 탐색에 나열됩니다.**.
+>**모든 세션이 왼쪽의 탐색에 나열됩니다**.
 
 ## 추가 리소스
 
@@ -79,7 +79,7 @@ ht-degree: 5%
 * [AEM Sites 개발 설명서](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
 * [AEM Sites 관리 설명서](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
 * [AEM Sites 배포 설명서](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
-* [AEM as a Cloud Service Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html)
+* [AEM as a Cloud Service Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=ko-KR)
 * [AEM Assets 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html)
 * [AEM Forms 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
 * [AEM Foundation 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)

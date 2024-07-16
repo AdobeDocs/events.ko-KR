@@ -8,7 +8,7 @@ duration: 4010
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -20,11 +20,11 @@ HTL은 새로운 템플릿 엔진 및 언어 구현입니다. HTL은 Apache Slin
 
 *2014년 6월 25일에 게재됨*
 
-**제공 주체:**
+**제공:**
 
 Gabriel Walt, 제품 관리자, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/sightly-component-development.pdf)
 
@@ -34,7 +34,7 @@ Gabriel Walt, 제품 관리자, Adobe
 
 ## 관련 링크 {#related-links}
 
-[HTL을 사용한 개발](https://docs.adobe.com/docs/en/htl/overview.html?wcmmode=disabled)
+[HTL로 개발](https://docs.adobe.com/docs/en/htl/overview.html?wcmmode=disabled)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

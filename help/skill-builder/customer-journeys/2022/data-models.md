@@ -1,6 +1,6 @@
 ---
-title: Adobe에서 데이터 모델 개발 및 사용자 지정 [!DNL Campaign Classic]
-description: 내의 데이터 모델 내에서 데이터 스키마를 개발하는 방법을 알아봅니다 [!DNL Campaign Classic]
+title: ' [!DNL Campaign Classic] Adobe에서 데이터 모델 개발 및 사용자 지정'
+description: ' [!DNL Campaign Classic] 내의 데이터 모델 내에서 데이터 스키마를 개발하는 방법에 대해 알아봅니다.'
 solution: Campaign Classic
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe에서 데이터 모델 개발 및 사용자 지정 [!DNL Campaign Classic]
+# [!DNL Campaign Classic] Adobe에서 데이터 모델 개발 및 사용자 지정
 
-이 세션에 참여하기 [!DNL Campaign] 내의 데이터 모델 내에서 데이터 스키마를 개발하는 방법에 대해 알아보는 트레이너 [!DNL Campaign Classic].
+[!DNL Campaign Classic] 내의 데이터 모델 내에서 데이터 스키마를 개발하는 방법에 대해 알아보려면 [!DNL Campaign] 트레이너와 함께 이 세션에 참여하십시오.
 
-*카밀리아 타지* 교육 컨설턴트 / Adobe
+*Kamilia Tazi* 교육 컨설턴트/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343829/?quality=12&learn=on)

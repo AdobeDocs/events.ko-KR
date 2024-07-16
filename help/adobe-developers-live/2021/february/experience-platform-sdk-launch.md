@@ -24,8 +24,8 @@ ht-degree: 0%
 
 AEP 웹 및 모바일 SDK를 통해 AEP Launch Server Side의 잠재력을 최대한 활용하여 엔터프라이즈 데이터 수집을 최적화할 수 있습니다.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**.
+**[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331761/?quality=12&learn=on&hidetitle=true)
 
-클릭 **[여기](/help/adobe-developers-live/assets/experience-platform-sdk-launch.pdf)** ( 세션 슬라이드 참조)
+세션 슬라이드를 보려면 **[여기](/help/adobe-developers-live/assets/experience-platform-sdk-launch.pdf)**&#x200B;를 클릭하십시오.

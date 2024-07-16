@@ -8,7 +8,7 @@ duration: 3249
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -24,13 +24,13 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19374/?quality=9)
 
-*2015년 8월 26일 게재됨*
+*2015년 8월 26일에 배달됨*
 
-**제공 주체:**
+**제공:**
 
 * Justin Edelson, AEM 전도사, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/08262015-commons-and-tools.pptx)
 <!--

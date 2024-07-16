@@ -1,8 +1,8 @@
 ---
 title: Commerce Intelligence 대시보드 심층 분석
 description: 이 웨비나를 시청하여 모든 Commerce Intelligence 계정과 함께 설정 시 포함된 4개의 대시보드에 대한 둘러보기를 확인하십시오.
-landing-page-description: 이 녹화된 웨비나를 시청하여 모든 Commerce Intelligence 계정과 함께 설정 시 포함된 4개의 대시보드를 둘러보십시오.
-short-description: 이 녹화된 웨비나를 시청하여 모든 Commerce Intelligence 계정과 함께 설정 시 포함된 4개의 대시보드를 둘러보십시오.
+landing-page-description: 이 녹화된 웨비나를 시청하여 모든 Commerce Intelligence 계정과 함께 설정에 포함된 4개의 대시보드를 살펴보십시오.
+short-description: 이 녹화된 웨비나를 시청하여 모든 Commerce Intelligence 계정과 함께 설정에 포함된 4개의 대시보드를 살펴보십시오.
 kt: 10496
 solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Adobe Commerce 인텔리전스는 이전에 다음과 같이 알려졌습니다. [!DNL Magento Business Intelligence (MBI)]. 이전 이벤트의 녹화본은 이전 이름을 반영합니다.
+>Adobe Commerce Intelligence은 이전에 [!DNL Magento Business Intelligence (MBI)](으)로 알려져 있었습니다. 이전 이벤트의 녹화본은 이전 이름을 반영합니다.
 
 모든 Commerce Intelligence 계정과 함께 설정에 포함된 4개의 대시보드를 둘러보십시오. 이 녹화된 웨비나는 eCommerce 스토어 데이터에서 가치를 창출하는 기본 대시보드의 역할을 강조하며 각 대시보드의 높은 수준 목표를 다룹니다. 또한 다음과 같이 미리 작성된 보고서의 몇 가지 일반적인 사용 사례로 이동합니다.
 

@@ -8,7 +8,7 @@ duration: 5792
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,13 +18,13 @@ Adobe Experience Manager 6.0은 Brackets 및 Eclipse IDE 플러그인, HTL 템�
 
 >[!VIDEO](https://video.tv.adobe.com/v/19503/?quality=9)
 
-*2014년 7월 2일 게재됨*
+*2014년 7월 2일에 게재됨*
 
-**제공 주체:**
+**제공:**
 
 Gabriel Walt, 제품 관리자, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/efficiently-build-reusable-components.pdf)
 

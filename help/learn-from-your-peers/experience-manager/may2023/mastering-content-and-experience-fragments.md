@@ -34,6 +34,6 @@ Adobe Experience Manager 챔피언, Greg Dimeris와 함께 비즈니스와 함�
 * 편집 가능한 템플릿 팁 및 요령
 * 이러한 모든 요소를 결합하여 강력한 콘텐츠 구성 요소 만들기
 
-프레젠테이션 슬라이드에 액세스할 수 있습니다 [여기](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM_Content_fragments_and_Experience_Fragments_Webinar_Session_Final.pdf).
+프레젠테이션 슬라이드 [여기](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM_Content_fragments_and_Experience_Fragments_Webinar_Session_Final.pdf)에 액세스할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419557/?learn=on)

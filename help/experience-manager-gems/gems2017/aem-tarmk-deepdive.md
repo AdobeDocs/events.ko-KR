@@ -8,7 +8,7 @@ duration: 4071
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,11 +18,11 @@ TarMK의 tar 파일 안에 무엇이 있는지 궁금해 본 적이 있는가? �
 
 >[!VIDEO](https://video.tv.adobe.com/v/19138/?quality=9)
 
-*2017년 2월 15일 발표*
+*2017년 2월 15일에 발표됨*
 
 **Michael Duerig, 수석 개발자, Adobe**
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/aem-gems-tarmk-deep-dive.pptx)
 

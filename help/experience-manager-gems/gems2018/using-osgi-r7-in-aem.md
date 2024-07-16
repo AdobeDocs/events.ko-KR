@@ -8,7 +8,7 @@ duration: 2785
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -28,9 +28,9 @@ OSGi R7 릴리스는 많은 중요한 새로운 기능과 성능을 나타내며
 
 >[!VIDEO](https://video.tv.adobe.com/v/25037/?quality=9)
 
-*2018년 10월 17일 게재됨*
+*18/10/17 배달됨*
 
-**제공 주체:**
+**제공:**
 
 * Karl Pauls, 컴퓨터 과학자, Adobe
 * Carsten Ziegeler, 수석 과학자, Adobe
@@ -44,9 +44,9 @@ OSGi R7 릴리스는 많은 중요한 새로운 기능과 성능을 나타내며
 
 [OSGi 제휴 블로그](https://blog.osgi.org/2018/09/osgi-r7-highlights-blog-series.html)
 
-[OSGi 사양 라이센스, 버전 2.0](https://osgi.org/specification/osgi.core/7.0.0/index.html)
+[OSGi 사양 라이선스, 버전 2.0](https://osgi.org/specification/osgi.core/7.0.0/index.html)
 
-[OSGi Compendium 릴리스 7](https://osgi.org/specification/osgi.cmpn/7.0.0/index.html)
+[OSGi 표준 릴리스 7](https://osgi.org/specification/osgi.cmpn/7.0.0/index.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

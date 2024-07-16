@@ -27,7 +27,7 @@ Experience League 라이브는 Experience League 팀이 제작하는 라이브 �
 <tr>
 
 <td style="vertical-align: top;">
-      <b>곧 다시 와서 새롭고 다가오는 쇼에 대해 배워보세요! 당분간은 아래 또는 왼쪽 탐색에서 링크를 클릭하여 이전 에피소드를 확인합니다.</b>
+      <b>곧 다시 돌아와 새로운 프로그램에 대해 알아보세요! 그동안 아래 또는 왼쪽 탐색에서 링크를 클릭하여 이전 에피소드를 봅니다.</b>
   </td>
 </tr>
 </table>
@@ -56,9 +56,9 @@ Experience League 라이브는 Experience League 팀이 제작하는 라이브 �
     </a>
     <div>
       <a href="/help/experience-league-live/episodes/exl-live-episode-04-21-22.md">
-        <strong>AEM from Headful to Headless</strong>
+        <strong>Headful에서 Headless로 AEM</strong>
       </a>
-      <br/><em>대니 고든, 아몰 아난드, 사친 말리, 그리고 션 스티머와 함께</em>
+      <br/><em>Danny Gordon, Amol Anand, Sachin Mali 및 Sean Steimer와 함께</em>
       <br/><em>2022년 4월 21일</em>
     </div>
   </td>
@@ -68,8 +68,8 @@ Experience League 라이브는 Experience League 팀이 제작하는 라이브 �
       <img alt="Experience League LIVE ep8" src="./assets/youtube-thumbnails/jan-25-yt.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics - 인사이드 스쿠프</strong></a>
-      <br/><em>트레버 폴슨, 로히트 고세인, 알렉스 스트런과 함께</em>
+      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics - Inside Scoop</strong></a>
+      <br/><em>Trevor Paulsen, Rohit Gossain, Alex Strawn과 함께</em>
       <br/><em>2021년 1월 25일</em>
     </div>
   </td>
@@ -80,7 +80,7 @@ Experience League 라이브는 Experience League 팀이 제작하는 라이브 �
     </a>
     <div>
       <a href="episodes/exl-live-episode-05-26-22.md">
-        <strong>전문가에게 질문하기: Web SDK 기본 사항</strong>
+        <strong>전문가에게 문의: Web SDK 기본 사항</strong>
       </a>
       <br/><em>Rudi Shumpert, Jeff Chasin 및 Eric Matisoff와 함께</em>
       <br/><em>2022년 5월 26일</em>
@@ -93,4 +93,4 @@ Experience League 라이브는 Experience League 팀이 제작하는 라이브 �
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 무료로 살펴보시기 바랍니다 [교육 과정](https://experienceleague.adobe.com/#dashboard/learning) 개인뿐 아니라 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko-KR).
+>기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko-KR)을 확인하세요.

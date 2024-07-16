@@ -28,5 +28,5 @@ Adobe Experience Cloud의 데이터 수집에 대한 이 세션에서는 데이�
 * [전문가에게 문의 - Web SDK 기본 사항](exl-live-episode-05-26-22.md)
 * [전문가에게 문의 - RTCDP Connections](exl-live-episode-06-23-22.md)
 
-이 주제에 대한 지속적인 논의는 Experience League을 참조하십시오. [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/aep-community-qna-coffee-break-7-21-22-10-30am-pt-adobe/td-p/461503).
+이 주제에 대한 지속적인 토론을 보려면 Experience League [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/aep-community-qna-coffee-break-7-21-22-10-30am-pt-adobe/td-p/461503)을 방문하세요.
 

@@ -20,8 +20,8 @@ ht-degree: 0%
 
 이 세션에 참여하여 최신 제품 업데이트에 대해 알아보고 제품 관리자로부터 V7 및 V8 간의 차이점에 대해 알아보십시오.
 
-*크리스토프 프로타트* 제품 관리자/Adobe
+*Christophe Protat* 제품 관리자/Adobe
 
-*가엘 무엘로* 수석 제품 관리자 / Adobe
+*Gael Mouello* 고급 제품 관리자/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343823/?quality=12&learn=on)

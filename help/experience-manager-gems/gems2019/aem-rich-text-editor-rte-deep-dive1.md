@@ -8,7 +8,7 @@ duration: 3186
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,9 +20,9 @@ AEM에서 RTE의 풍부한 구성 및 사용에 대한 모범 사례에 대해 �
 
 >[!VIDEO](https://video.tv.adobe.com/v/27087/?quality=9)
 
-*2019년 4월 17일 게재됨*
+*19/04/17 배달됨*
 
-**제공 주체:**
+**제공:**
 
 Hanish Bansal, 컴퓨터 과학자, Adobe
 

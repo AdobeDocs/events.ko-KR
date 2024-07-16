@@ -1,5 +1,5 @@
 ---
-title: 자사 데이터 컨텍스트에서의 데이터 공동 작업
+title: 자사 데이터 컨텍스트의 데이터 Collaboration
 description: 이 웨비나는 서드파티 쿠키 없이 향후 데이터 공동 작업의 기회를 여는 데 도움이 됩니다.
 solution: Real-Time Customer Data Platform
 feature: Data Management
@@ -13,11 +13,11 @@ duration: 2560
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 15%
+ht-degree: 11%
 
 ---
 
-# 자사 데이터 컨텍스트에서의 데이터 공동 작업
+# 자사 데이터 컨텍스트의 데이터 Collaboration
 
 적은 데이터에 액세스하여 경험 약속을 이행합니다. 광고주든, 게시자든 아니면 에이전시든, 이 웨비나는 서드파티 쿠키 없이 향후 데이터 공동 작업의 기회를 여는 데 도움이 됩니다.
 
@@ -33,6 +33,6 @@ ht-degree: 15%
 
 [세그먼트 일치 개요](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en)
 
-[데이터 구매자용 Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
+데이터 구매자용 [Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
 
 [사용자 기반 대상](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=en)

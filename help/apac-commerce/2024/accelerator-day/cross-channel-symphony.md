@@ -11,13 +11,13 @@ last-substantial-update: 2024-05-21T00:00:00Z
 jira: KT-15546
 hidefromtoc: true
 badgeEvent: label="Adobe Commerce 가속기의 날" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview"
-source-git-commit: 89005ee91f2222029cc3abf30d02dc3b7714b588
+exl-id: 65225e1f-62d1-4158-9ab7-c53cf372e8ec
+source-git-commit: 0ebc7343e2d19e91f27c1bbba20f290ef7df5377
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
 
 ---
-
 
 # 크로스 채널 교향곡: Orchestrating commerce excellence
 

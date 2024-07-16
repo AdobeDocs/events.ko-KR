@@ -1,5 +1,5 @@
 ---
-title: 모든 자산을 위한 자산
+title: Assets for all
 description: Purnima Rachoor Roy로부터 Assets Essentials이 부서 및 중견기업을 위한 새로운 디지털 자산 관리 시스템이라는 이야기를 들어보십시오.
 solution: Experience Manager, Experience Manager Assets, Experience Manager as a Cloud Service
 feature: Asset Management
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 모든 자산을 위한 자산
+# Assets for all
 
-Purnima Rachoor Roy로부터 어떻게 지내는지에 대해 들어보십시오 [!DNL Assets Essentials] 새로운 항목 [!DNL Digital Asset Management] 부서 및 중견기업을 위한 시스템.
+Purnima Rachoor Roy로부터 [!DNL Assets Essentials]이(가) 부서 및 중견기업을 위한 새로운 [!DNL Digital Asset Management] 시스템인 방법에 대해 들어보십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345378/?quality=12&learn=on)

@@ -24,9 +24,9 @@ ht-degree: 1%
    + [솔루션 기능에 대한 사용 사례 매핑](2024/use-case-mapping.md)
    + [웹 SDK 마이그레이션 핵심 사항](2024/web-sdk-migration.md)
 + 2023 {#2023}
-   + [규모에 맞게 개인화를 위한 기반 구축](2023/personalization-at-scale.md)
+   + [규모에 맞는 Personalization 기반 구축](2023/personalization-at-scale.md)
    + [변경 관리](2023/change-management.md)
-   + [콘텐츠 및 경험 - 개인화](2023/content-experiences-personalization.md)
+   + [컨텐츠 및 경험 - Personalization](2023/content-experiences-personalization.md)
    + [Customer Journey Analytics 마이그레이션 준비](2023/cja-migration-readiness.md)
    + [Customer Journey Analytics 통합 Essentials](2023/cja-integration-essentials.md)
    + [실시간 데이터 수집 및 활성화 전략 개발](2023/data-collection-activation-strategy.md)

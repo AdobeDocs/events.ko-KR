@@ -7,13 +7,13 @@ duration: 105
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 12%
+ht-degree: 7%
 
 ---
 
 # Adobe Commerce 제품 업데이트
 
-Adobe Commerce 제품 업데이트 웨비나에 참여하여 새롭고 흥미로운 많은 기능으로 플랫폼을 전환하는 방법에 대해 알아보십시오. Commerce의 혁신적인 최신 기능과 이러한 기술이 고객의 매출 성장, 개발 간소화 및 성능 향상에 어떻게 도움이 되는지 소개합니다.
+Adobe Commerce 제품 업데이트 웨비나에 참여하여 새롭고 흥미로운 많은 기능으로 플랫폼을 전환하는 방법에 대해 알아보십시오. Dell은 최신 Commerce 혁신 기술과 이를 통해 판매 증대, 개발 간소화 및 성능 향상에 어떻게 도움이 되는지 소개합니다.
 
 ## 최신 업데이트
 
@@ -31,7 +31,7 @@ Adobe Commerce 제품 업데이트 웨비나에 참여하여 새롭고 흥미로
           <!-- <em>Release date June 2023 </em> -->
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html">릴리스 정보</a>
+        <a href="https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=ko-KR">릴리스 정보</a>
       <p>
     </td>
   </tr>  
@@ -53,7 +53,7 @@ Adobe Commerce 제품 업데이트 웨비나에 참여하여 새롭고 흥미로
           <!-- <em>Release date June 2023 </em> -->
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html">릴리스 정보</a>
+        <a href="https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=ko-KR">릴리스 정보</a>
       <p>
     </td>
   </tr>  

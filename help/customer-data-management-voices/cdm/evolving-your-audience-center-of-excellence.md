@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336938/?quality=12&learn=on)
 
-이 비디오를 보완하기 위해 다음 작업을 수행할 수도 있습니다 [백서 다운로드](./../assets/whitepaper-evolving-the-audience-center-of-excellence.pdf)
+이 비디오를 보완하기 위해 [백서를 다운로드](./../assets/whitepaper-evolving-the-audience-center-of-excellence.pdf)할 수도 있습니다.

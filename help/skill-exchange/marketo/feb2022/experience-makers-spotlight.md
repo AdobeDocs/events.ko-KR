@@ -1,6 +1,6 @@
 ---
 title: Marketo Engage Experience Makers Spotlight
-description: 두 명의 전문 고객을 집중 공략하고 [!DNL Marketo Engage] 사용자. 각자가 최선을 공유합니다. [!DNL Marketo Engage] 팁이나 트릭.
+description: 두 명의 전문가 고객과 [!DNL Marketo Engage] 명의 사용자에게 관심을 기울이면 참여하십시오. 각 사용자는 최고의 [!DNL Marketo Engage] 팁이나 요령을 공유하게 됩니다.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # [!DNL Marketo Engage] Experience Makers Spotlight
 
-두 명의 전문 고객을 집중 공략하고 [!DNL Marketo Engage] 사용자. 각자가 최선을 공유합니다. [!DNL Marketo Engage] 팁이나 트릭.
+두 명의 전문가 고객과 [!DNL Marketo Engage]명의 사용자를 집중 조명해 보겠습니다. 각 사용자는 최고의 [!DNL Marketo Engage] 팁이나 요령을 공유하게 됩니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340592/?quality=12&learn=on)

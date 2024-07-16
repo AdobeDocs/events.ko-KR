@@ -23,6 +23,6 @@ ht-degree: 0%
 
 Naomi Robichud는 2023년 11월 6일에 녹화된 Adobe Developers Live에서 이 세션에서 Adobe Commerce과 Amazon Sales Channel의 통합에 대해 자세히 살펴봅니다. Adobe Commerce의 UI 및 이벤트 기반 확장성 도구의 유연성과 이를 활용하여 클라우드 기반 환경에서 적응성 있고 강력한 디지털 상거래 애플리케이션을 제작하는 방법에 대해 알아봅니다. Digital Commerce 통합에 대한 실용적인 통찰력을 원하는 개발자를 위한 필수 사항입니다.
 
-에서 대화 계속 [Experience League 커뮤니티](https://adobe.ly/46M7lZK).
+[Experience League 커뮤니티](https://adobe.ly/46M7lZK)에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425636/?learn=on)

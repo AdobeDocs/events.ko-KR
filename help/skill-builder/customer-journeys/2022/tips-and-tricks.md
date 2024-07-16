@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Adobe Campaign Standard 인스턴스에 연결하고 ACS를 보다 효율적으로 사용하기 위한 타겟팅, 개인화 및 마케팅 노력에 대한 모범 사례를 살펴봅니다. 이 세션은 대화형입니다. 전문가에게 기능/요구 사항에 대해 직접 질문하여 이 세션을 직접 만드십시오.
 
-*로랑 발렌자* 주요 솔루션 컨설턴트/Adobe
+*Laurent Valenza* 주 솔루션 컨설턴트/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343828/?quality=12&learn=on)

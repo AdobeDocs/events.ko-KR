@@ -22,6 +22,6 @@ ht-degree: 69%
 
 최신 Experience Manager 콘텐츠 조각 개선 사항 및 헤드리스 콘텐츠 게재를 위한 새로운 GraphQL API를 사용한 헤드리스 경험 관리에 대해 알아봅니다.
 
-*토머스 모프* 교육 컨설턴트 / Adobe
+*Thomas Morf* 교육 컨설턴트/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343816/?quality=12&learn=on)

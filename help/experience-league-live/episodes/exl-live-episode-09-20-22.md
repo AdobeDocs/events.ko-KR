@@ -21,5 +21,5 @@ Adobe Target과 Adobe Real-time Customer Data Platform을 통합하여 보다 �
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409425/?quality=12&learn=on)
 
-에 대한 자세한 내용은 설명서 를 참조하십시오. [에지 세분화](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/edge-segmentation.html?lang=ko-KR) 및 [스트리밍 세분화](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html).
+[Edge 세그먼테이션](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/edge-segmentation.html?lang=ko-KR) 및 [스트리밍 세그먼테이션](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html)에 대한 자세한 내용은 설명서를 참조하십시오.
 

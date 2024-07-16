@@ -19,15 +19,15 @@ ht-degree: 0%
 이 세션에서는 다음 방법을 알아봅니다.
 
 * Adobe Experience Platform을 구성하는 구성 요소 - 데이터 서비스
-* Data Science Workspace 는 풍부한 고객 경험의 디자인과 전달을 획기적으로 향상시킵니다
+* Data Science Workspace은 풍부한 고객 경험의 디자인과 전달을 획기적으로 향상시킵니다
 * Adobe Experience Platform과 통합 및 경험 데이터 모델 사용의 첫 번째 단계
 * 타사 개발자를 위한 현재 및 향후 통합 옵션
 
 >[!VIDEO](https://video.tv.adobe.com/v/23270/?quality=9)
 
-*2018/08/08 게재됨*
+*배달 08/08/2018*
 
-**제공 주체:**
+**제공:**
 
 Klaasjan Tukker, Director 제품 관리, Adobe
 

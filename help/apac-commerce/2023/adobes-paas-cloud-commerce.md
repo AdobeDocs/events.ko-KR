@@ -1,5 +1,5 @@
 ---
-title: Adobe의 PaaS Cloud Commerce를 통해 비즈니스 간소화
+title: Adobe의 PaaS Cloud Commerce을 통해 비즈니스 간소화
 description: Adobe의 Commerce Cloud PaaS 솔루션의 가치를 살펴보십시오. 현재 자체 호스팅 중이며 PaaS 솔루션이 제공할 수 있는 기능이 궁금한 사용자를 위해 이 웨비나를 제공합니다.
 feature-set: Commerce
 feature: Upgrade
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe의 PaaS Cloud Commerce를 통해 비즈니스 간소화
+# Adobe의 PaaS Cloud Commerce을 통해 비즈니스 간소화
 
 APAC Commerce 웨비나 시리즈의 최신 편에서는 Adobe의 Commerce Cloud PaaS 솔루션의 가치를 살펴봅니다. 자체 호스팅이 가능하며 PaaS 솔루션이 제공할 수 있는 기능을 궁금한 사용자를 위해 이 웨비나는 사용자를 위한 것입니다. 이미 Adobe Commerce Cloud 고객인 경우 참여하여 기존 설정의 가치를 극대화하는 방법에 대해 자세히 알아볼 수 있습니다.
 

@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager Forms Cloud Service - 안전한 다중 채널 디지털 등록
-description: Adobe Experience Manager Forms as a Cloud Service으로 안전하고 현대적인 디지털 등록 경험을 구축하는 방법을 알아봅니다. 이 세션에서는 워크플로우에서 처리된 데이터 보안, 제출된 데이터를 Azure 스토리지로 외부화하는 모범 사례를 강조하고 Adobe을 사용하여 통찰력을 수집합니다. [!DNL Analytics] 클라우드 서비스의 적응형 Forms 포함.
+description: Adobe Experience Manager Formsas a Cloud Service 을 사용하여 안전하고 현대적인 디지털 등록 경험을 구축하는 방법을 알아보십시오. 이 세션에서는 워크플로우에서 처리된 데이터 보안, Azure 스토리지에 제출된 데이터 외부화, Adobe  [!DNL Analytics] 을(를) 사용한 통찰력 수집 등과 관련된 모범 사례를 강조합니다. Adaptive Forms on cloud service.
 solution: Experience Manager,Experience Manager Forms
 role: User
 level: Beginner
@@ -18,13 +18,13 @@ ht-degree: 7%
 
 # Adobe Experience Manager Forms Cloud Service - 안전한 다중 채널 디지털 등록
 
-Adobe Experience Manager Forms as a Cloud Service으로 안전하고 현대적인 디지털 등록 경험을 구축하는 방법을 알아봅니다.
+Adobe Experience Manager Formsas a Cloud Service 을 사용하여 안전하고 현대적인 디지털 등록 경험을 구축하는 방법을 알아보십시오.
 
-이 세션에서는 워크플로우에서 처리된 데이터 보안, 제출된 데이터를 Azure 스토리지로 외부화하는 모범 사례를 강조하고 Adobe을 사용하여 통찰력을 수집합니다. [!DNL Analytics] 클라우드 서비스의 적응형 Forms 포함.
+이 세션에서는 워크플로우에서 처리된 데이터 보안, 제출된 데이터를 Azure 스토리지로 외부화하는 모범 사례를 강조하고 클라우드 서비스의 적응형 Forms과 함께 Adobe [!DNL Analytics]을(를) 사용하여 통찰력을 수집합니다.
 
 또한 Microsoft PowerAutomate 및 Adobe Experience Manager Forms과의 Teams 통합과 같은 로드맵에 일부 통합 미리보기가 포함됩니다.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/3CQjKgg)**.
+**[Experience League 커뮤니티](https://adobe.ly/3CQjKgg)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337887/?quality=12&learn=on&hidetitle=true)
 

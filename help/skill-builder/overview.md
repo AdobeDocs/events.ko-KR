@@ -6,7 +6,7 @@ duration: 48
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
@@ -21,10 +21,10 @@ Skill Builder는 지식 기반을 구축하고 Adobe Experience Cloud에 대한 
   <td>
     <img alt="Content 및 Commerce" src="assets/commerce.png" />
     <div>
-      <strong>Content 및 Commerce</strong>
+      <strong>컨텐츠 및 Commerce</strong>
     </div>
     <p>
-    <em>매력적인 웹 사이트, 모바일 앱 및 양식을 만들고 관리할 수 있습니다. 또한 유연한 AI 기반 상거래 솔루션을 통해 단일 플랫폼에서 멀티채널 상거래 경험을 구축하는 방법을 살펴볼 수 있습니다.</em>
+    <em>매력적인 웹 사이트, 모바일 앱 및 양식을 만들고 관리합니다. 또한 유연한 AI 기반 상거래 솔루션을 사용하여 단일 플랫폼에서 다중 채널 상거래 경험을 구축하는 방법을 배웁니다.</em>
     <p>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">세션 찾아보기</span>
@@ -36,7 +36,7 @@ Skill Builder는 지식 기반을 구축하고 Adobe Experience Cloud에 대한 
       <strong>고객 여정</strong>
     </div>
     <p>
-    <em>모든 소스에서 데이터를 가져와 개인화된 크로스 채널 여정을 생성하여 실시간 고객 프로필을 개발합니다.</em>
+    <em>모든 소스에서 데이터를 가져와서 개인화된 크로스 채널 여정을 만들어 실시간 고객 프로필을 개발합니다.</em>
     <p>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">세션 찾아보기</span>
@@ -45,10 +45,10 @@ Skill Builder는 지식 기반을 구축하고 Adobe Experience Cloud에 대한 
   <td>
     <img alt="데이터 및 통찰력" src="assets/data-insights.png" />
     <div>
-      <strong>데이터 및 통찰력</strong>
+      <strong>데이터 및 인사이트</strong>
     </div>
     <p>
-    <em>전체 조직에서 온라인 및 오프라인 데이터 인사이트를 사용하여 모든 채널에서 실시간 개인화를 촉진합니다.</em>
+    <em>조직 전체에서 온라인 및 오프라인 데이터 인사이트를 사용하여 모든 채널에서 실시간 개인화를 촉진합니다.</em>
     <p>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">세션 찾아보기</span>

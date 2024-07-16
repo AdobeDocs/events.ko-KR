@@ -19,6 +19,6 @@ ht-degree: 0%
 
 이 세션에서는 모바일 디바이스에서 Analytics 대시보드를 사용하는 방법과 Target을 통해 앱을 개인화하는 방법에 대한 모범 사례에 대해 알아봅니다.
 
-*아시카 람지* 솔루션 컨설턴트 / Adobe
+*Ashika Ramjee* 솔루션 컨설턴트/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343819/?quality=12&learn=on)

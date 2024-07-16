@@ -1,6 +1,6 @@
 ---
-title: Adobe Developer 콘솔 소개
-description: Adobe Developer 콘솔은 Adobe API, 이벤트, 런타임 및 App Builder의 게이트웨이입니다. Adobe Developer 에코시스템의 일부로 사용할 수 있는 서비스 및 도구에 대한 개요를 살펴보십시오.
+title: Adobe Developer Console 소개
+description: Adobe Developer Console은 Adobe API, 이벤트, 런타임 및 App Builder의 게이트웨이입니다. Adobe Developer 에코시스템의 일부로 사용할 수 있는 서비스 및 도구에 대한 개요를 살펴보십시오.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -14,15 +14,15 @@ duration: 1898
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 12%
+ht-degree: 11%
 
 ---
 
-# Adobe Developer 콘솔 소개
+# Adobe Developer Console 소개
 
-Adobe Developer 콘솔은 Adobe API, 이벤트, 런타임 및 App Builder의 게이트웨이입니다. Adobe Developer 에코시스템의 일부로 사용할 수 있는 서비스 및 도구에 대한 개요를 살펴보십시오.
+Adobe Developer Console은 Adobe API, 이벤트, 런타임 및 App Builder의 게이트웨이입니다. Adobe Developer 에코시스템의 일부로 사용할 수 있는 서비스 및 도구에 대한 개요를 살펴보십시오.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/2Y2DDld)**.
+**[Experience League 커뮤니티](https://adobe.ly/2Y2DDld)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337771/?quality=12&learn=on&hidetitle=true)
 

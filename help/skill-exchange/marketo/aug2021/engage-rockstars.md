@@ -1,6 +1,6 @@
 ---
 title: Marketo Engage 록스타즈
-description: '''록스타'' 고객 3명이 각자 최고의 모습을 선보인다 [!DNL Marketo Engage] 팁이나 트릭. 누가 당신을 놀래킬 것 같습니까? 실시간으로 시청하고 투표하십시오.'
+description: 세 명의 "Rockstar" 고객이 각자 최고의 [!DNL Marketo Engage] 팁이나 요령을 제시합니다. 누가 당신을 놀래킬 것 같습니까? 실시간으로 시청하고 투표하십시오.
 solution: Marketo Engage
 role: User
 level: Intermediate, Experienced
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Engage] 록스타스
+# [!DNL Marketo Engage] 록스타
 
-&#39;록스타&#39; 고객 3명이 각자 최고의 모습을 선보인다 [!DNL Marketo Engage] 팁이나 트릭. 누가 당신을 놀래킬 것 같습니까? 실시간으로 시청하고 투표하십시오.
+세 명의 &quot;Rockstar&quot; 고객이 각각 최고의 [!DNL Marketo Engage] 팁이나 요령을 제시합니다. 누가 당신을 놀래킬 것 같습니까? 실시간으로 시청하고 투표하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342559/?quality=12&learn=on)

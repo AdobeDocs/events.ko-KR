@@ -1,6 +1,6 @@
 ---
-title: Adobe Experience Manager Assets의 새로운 기능 as a Cloud Service
-description: 주요 개발자 및 비즈니스 사용 사례를 해결하기 위해 2021년에 Adobe Experience Manager Assets as a Cloud Service으로 많은 기능을 추가했습니다. 한 해를 마무리하면서 이 세션에 참여하여 새로운 기능 및 데모 또는 두 가지에 대한 충돌 과정을 살펴보십시오.
+title: Adobe Experience Manager Assetsas a Cloud Service 의 새로운 기능
+description: 주요 개발자 및 비즈니스 사용 사례를 해결하기 위해 2020년 Adobe Experience Manager Assets as a Cloud Service 1에 많은 기능을 추가했습니다. 한 해를 마무리하면서 이 세션에 참여하여 새로운 기능 및 데모 또는 두 가지에 대한 충돌 과정을 살펴보십시오.
 solution: Experience Manager,Experience Manager Assets
 role: User
 level: Beginner
@@ -12,15 +12,15 @@ duration: 1692
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 9%
+ht-degree: 8%
 
 ---
 
-# Adobe Experience Manager Assets의 새로운 기능 as a Cloud Service
+# Adobe Experience Manager Assetsas a Cloud Service 의 새로운 기능
 
-주요 개발자 및 비즈니스 사용 사례를 해결하기 위해 2021년에 Adobe Experience Manager Assets as a Cloud Service으로 많은 기능을 추가했습니다. 한 해를 마무리하면서 이 세션에 참여하여 새로운 기능 및 데모 또는 두 가지에 대한 충돌 과정을 살펴보십시오.
+주요 개발자 및 비즈니스 사용 사례를 해결하기 위해 2020년 Adobe Experience Manager Assets as a Cloud Service 1에 많은 기능을 추가했습니다. 한 해를 마무리하면서 이 세션에 참여하여 새로운 기능 및 데모 또는 두 가지에 대한 충돌 과정을 살펴보십시오.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/2XSAcg)**.
+**[Experience League 커뮤니티](https://adobe.ly/2XSAcg)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337574/?quality=12&learn=on&hidetitle=true)
 

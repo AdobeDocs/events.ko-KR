@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # AEM Cloud Service을 통한 색인 최적화 기반
 
-이 라이브 세션에서는 AEMaaCS(AEM as a Cloud Service)를 사용하는 색인화가 도입되었습니다. 색인화 변경 사항 및 색인화가 다양한 프로젝트에 미치는 영향, AEMaaCS의 색인으로 인해 고객이 직면하는 어려움, 이러한 색인을 최적화하기 위한 모범 사례 등을 다룰 예정입니다
+이 라이브 세션에서는 AEMaaCS(AEM as a Cloud Service)를 사용한 색인화가 도입되었습니다. 색인화 변경 사항 및 색인화가 다양한 프로젝트에 미치는 영향, AEMaaCS의 색인으로 인해 고객이 직면하는 어려움, 이러한 색인을 최적화하기 위한 모범 사례 등을 다룰 예정입니다
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422534/?learn=on)

@@ -5,7 +5,7 @@ user-guide-description: Adobe Developer Live 콘텐츠 이벤트의 녹화본 �
 source-git-commit: c50f4241e22bc858473156a3e7cd32052177a5e1
 workflow-type: tm+mt
 source-wordcount: '777'
-ht-degree: 6%
+ht-degree: 4%
 
 ---
 
@@ -14,10 +14,10 @@ ht-degree: 6%
 
 + [개요](overview.md)
 + 2023 {#2023}
-   + 11월 {#nov2023}
+   + {#nov2023}년 11월
       + [Keynote 열기](2023/november/keynote.md)
       + [Keynote(APAC) 열기](2023/november/keynote-apac.md)
-      + [App Builder를 사용하여 콘텐츠 워크플로 자동화](2023/november/content-workflows.md)
+      + [App Builder을 사용하여 콘텐츠 워크플로 자동화](2023/november/content-workflows.md)
       + [맨 앞으로 구성 요소 개발 및 배포](2023/november/component-development.md)
       + [옴니채널 콘텐츠 게재](2023/november/omnichannel.md)
       + Edge Delivery Services {#nov-edgedeliveryservices}
@@ -30,26 +30,26 @@ ht-degree: 6%
          + [헤드리스 API](2023/november/headless-breakout-1.md)
          + [유니버설 편집기 소개](2023/november/intro-universal-editor.md)
          + [Headless Forms 소개](2023/november/headless-forms.md)
-         + [Universal Editor](2023/november/headless-breakout-2.md)
+         + [유니버설 편집기](2023/november/headless-breakout-2.md)
          + [외부 데이터 소스](2023/november/headless-breakout-3.md)
-      + 상거래 {#nov-commerce}
-         + [Adobe 앱 빌더, Adobe IO, 웹후크 및 관리 UI SDK](2023/november/app-builder-web-hooks-admin-ui-sdk.md)
+      + Commerce {#nov-commerce}
+         + [App Builder, Adobe IO, 웹후크 및 관리 UI SDK Adobe](2023/november/app-builder-web-hooks-admin-ui-sdk.md)
          + [API 메쉬](2023/november/commerce-breakout-4.md)
          + [카탈로그 서비스](2023/november/commerce-breakout-1.md)
-         + [플랫폼을 통한 상거래 성능 제공](2023/november/commerce-performance.md)
+         + [플랫폼을 통한 Commerce 성능 제공](2023/november/commerce-performance.md)
          + [이벤트 주도 확장성](2023/november/commerce-breakout-3.md)
          + [상업의 미래](2023/november/future-of-commerce.md)
          + [Amazon Sales Channel과 통합](2023/november/commerce-breakout-2.md)
          + [Adobe Commerce 소개](2023/november/intro-to-adobe-commerce.md)
          + [검색 및 카탈로그 서비스](2023/november/commerce-search-and-catalog-service.md)
-         + [상거래 사이트 성과를 최적화하는 전략](2023/november/commerce-site-performance.md)
+         + [Commerce 사이트 성능을 최적화하는 전략](2023/november/commerce-site-performance.md)
          + [Adobe Commerce Cloud에서 변경 내용 추적](2023/november/commerce-cloud-track-changes.md)
-   + 5월 {#may2023}
+   + {#may2023}년 5월
       + [Keynote 열기](2023/may/keynote.md)
       + [API 투어](2023/may/new-apis.md)
       + [이메일 및 Forms용 AEM 핵심 구성 요소에 대해 자세히 알아보기](2023/may/core-components.md)
-      + [에셋 선택기 포함](2023/may/asset-picker.md)
-      + [Microsoft 365/Google Workspace를 사용하여 편집](2023/may/microsoft-365.md)
+      + [Assets 선택기 포함](2023/may/asset-picker.md)
+      + [Microsoft 365/Google Workspace으로 편집](2023/may/microsoft-365.md)
       + [신속한 배포](2023/may/workflows.md)
       + [AEM 제품 리더와의 Fireside 채팅](2023/may/fireside.md)
       + [JavaScript 블록](2023/may/javascript-blocks.md)
@@ -57,7 +57,7 @@ ht-degree: 6%
       + [GraphQL API 이해](2023/may/graphql.md)
       + [Universal Editor](2023/may/universal-editor.md)
 + 2022 {#2022}
-   + 2월 - 상거래 {#feb2022}
+   + 2월 - Commerce {#feb2022}
       + [개요](2022/february/overview.md)
       + [Keynote 열기](2022/february/opening-keynote.md)
       + [Adobe Commerce 플랫폼의 상태 및 성능](2022/february/visibility-health-performance.md)
@@ -66,7 +66,7 @@ ht-degree: 6%
       + [Headless 통합으로 혁신](2022/february/headless-integrations.md)
       + [Commerce Developer&#39;s Toolkit 살펴보기](2022/february/developers-toolkit.md)
       + [맺음말](2022/february/closing-remarks.md)
-   + 11월 - 헤드리스 {#nov2022}
+   + 11월 - Headless {#nov2022}
       + [개요](2022/november/overview.md)
       + [Adobe Experience Manager as a Headless CMS](2022/november/headless-cms.md)
       + [AEM Rockstar Headless](2022/november/rockstar.md)
@@ -89,7 +89,7 @@ ht-degree: 6%
       + [일괄 에셋 수집](2021/february/asset-bulk-ingestion.md)
       + [Asset compute 서비스 확장성](2021/february/asset-compute-service-extensibility.md)
       + [GraphQL을 통한 CIF 확장성](2021/february/cif-extensibility-graphql.md)
-      + [Experience Manager이 있는 Content 및 Commerce](2021/february/content-commerce.md)
+      + [Experience Manager이 포함된 컨텐츠 및 Commerce](2021/february/content-commerce.md)
       + [Experience Manager Cloud Service을 사용한 컨텐츠 전달](2021/february/content-delivery.md)
       + [사용자 정의 기능 테스트](2021/february/custom-functional-tests-cicd.md)
       + [개발자 경험](2021/february/developer-experience.md)
@@ -112,20 +112,20 @@ ht-degree: 6%
       + [신속한 프론트엔드 개발](2021/february/rapid-frontend-devlopment.md)
       + [SPA 편집기 2.0](2021/february/spa-editor-2-0.md)
       + [모든 사이트를 점진적 웹 앱으로 변환](2021/february/any-site-into-pwa.md)
-   + 10 {#oct2021}
+   + {#oct2021}년 10월
       + [개요](2021/october/overview.md)
       + [Keynote 열기](2021/october/keynote.md)
       + [Experience Manager CS로의 전환 가속화](2021/october/accelerate-transistion.md)
-      + [Adobe [!DNL Analytics] 2021년에 알아야 할 API](2021/october/analytics-api.md)
+      + [2021년에 알아야 하는  [!DNL Analytics] API Adobe](2021/october/analytics-api.md)
       + [Adobe 클라이언트 데이터 레이어](2021/october/adobe-client-data-layer.md)
       + [Adobe Commerce 및 커뮤니티 기여도 모델](2021/october/community-contribution-model.md)
       + [Adobe Commerce 라이브 검색 결과](2021/october/adobe-commerce-search.md)
-      + [Adobe 교환 - 서드파티 개발자 마켓플레이스](2021/october/app-builder-exchange.md)
-      + [Adobe I/O 오픈 소스 프로젝트 및 기여](2021/october/app-builder-adobeio.md)
+      + [Adobe Exchange - 서드파티 개발자 마켓플레이스](2021/october/app-builder-exchange.md)
+      + [Adobe I/O Open Source 프로젝트 및 기여](2021/october/app-builder-adobeio.md)
       + [Adobe I/O 기반 Experience Manager Assets 내보내기](2021/october/app-builder-asset-export.md)
       + [Experience Manager CS를 사용한 고급 네트워킹](2021/october/advanced-networking.md)
       + [App Builder에 구축된 예외 항목 탐지 도구](2021/october/data-anomaly-detection.md)
-      + [App Builder 아키텍처 및 기술적 심층 분석](2021/october/app-builder-architecture.md)
+      + [App Builder 아키텍처 및 기술 심층 분석](2021/october/app-builder-architecture.md)
       + [PDF 서비스 API를 사용하여 PDF 생성 및 조작 자동화](2021/october/automate-pdf-services-api.md)
       + [구성 요소 스크립트 개발에 대한 우수 사례](2021/october/component-script-development.md)
       + [Creative Cloud 플러그인 빌드](2021/october/cc-extensibility.md)
@@ -135,10 +135,10 @@ ht-degree: 6%
       + [XD와 공동 PWA 상점 설계](2021/october/commerce-storefront-xd.md)
       + [Creative Cloud 앱 엔진 API](2021/october/cc-app-api.md)
       + [데이터 수집](2021/october/data-collection.md)
-      + [상거래 경험 전달](2021/october/delivering-commerce-experiences.md)
+      + [Commerce 경험 전달](2021/october/delivering-commerce-experiences.md)
       + [Experience Manager을 통한 빠른 경험 제공](2021/october/fast-experiences.md)
       + [효율적인 사이트 구조 - 향상된 성능](2021/october/efficient-site-structure.md)
-      + [관련 콘텐츠를 사용하여 상거래 경험 강화](2021/october/associated-content.md)
+      + [관련 콘텐츠를 사용하여 Commerce 경험 강화](2021/october/associated-content.md)
       + [TCO 절감을 위한 Adobe Commerce의 발전](2021/october/reduce-tco.md)
       + [Experience Manager Assets 새로운 기능](2021/october/aem-assets-whats-new.md)
       + [App Builder 및 Photoshop API를 사용하는 Experience Manager Assets Compute Worker](2021/october/app-builder-asset-compute.md)
@@ -149,7 +149,7 @@ ht-degree: 6%
       + [Experience Manager Forms CS - 안전한 다중 채널 디지털 등록](2021/october/multichannel-digital-enrollment.md)
       + [Experience Platform Destination SDK](2021/october/destination-sdk.md)
       + [Experience Platform 통합](2021/october/aep-integration.md)
-      + [App Builder로 AEM 확장](2021/october/extend-aem-app-builder.md)
+      + [App Builder을 사용하여 AEM 확장](2021/october/extend-aem-app-builder.md)
       + [Adobe I/O을 사용하여 Adobe Commerce 확장](2021/october/commerce-io.md)
       + [이벤트 주도 경험](2021/october/event-driven-experiences.md)
       + [프론트엔드 코드 파이프라인](2021/october/front-end-code.md)
@@ -160,8 +160,8 @@ ht-degree: 6%
       + [Experience Manager Assets으로 에셋을 수집하고 처리하는 방법](2021/october/ingest-process-assets.md)
       + [Experience Manager CS와 Adobe IO 이벤트 통합](2021/october/integrate-aem-io-events.md)
       + [App Builder 소개](2021/october/introduction-app-builder.md)
-      + [Adobe Developer 콘솔 소개](2021/october/app-builder-adc.md)
-      + [Creative Cloud 라이브러리 소개](2021/october/cc-libraries.md)
+      + [Adobe Developer Console 소개](2021/october/app-builder-adc.md)
+      + [Creative Cloud Libraries 소개](2021/october/cc-libraries.md)
       + [JSON 및 PDF 추출 API](2021/october/parsing-pdf.md)
       + [서버측 실행](2021/october/launch-server-side.md)
       + [로그 전달로 App Builder 앱 모니터링](2021/october/log-forwarding.md)
@@ -172,7 +172,7 @@ ht-degree: 6%
       + [초보자를 위한 PWA Studio 우수 사례](2021/october/pwa-studio-best-practices.md)
       + [빠른 사이트 생성](2021/october/quick-site-creation.md)
       + [관련 검색 및 전자 상거래](2021/october/relevant-search-ecommerce.md)
-      + [화면 Cloud Service](2021/october/aem-screens-cs.md)
+      + [Screens Cloud Service](2021/october/aem-screens-cs.md)
       + [Headless 구현에서 Adobe Commerce Cloud 크기 조정](2021/october/commerce-headless.md)
       + [URL을 통해 이미지 변환, 조정 및 최적화](2021/october/smart-imaging.md)
       + [Workfront 및 Experience Manager Assets](2021/october/workfront-aem-assets.md)

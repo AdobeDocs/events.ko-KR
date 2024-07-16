@@ -8,7 +8,7 @@ duration: 3324
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -23,13 +23,13 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27322?quality=9)
 
-*2019년 5월 08일 게재됨*
+*배달 05/08/19*
 
-**제공 주체:**
+**제공:**
 
 * Bryan Stopp, AEM Technical Architect, Adobe
 * Gilles Knobloch, 수석 엔지니어링 관리자, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/modernization-toolsaemgems.pdf)

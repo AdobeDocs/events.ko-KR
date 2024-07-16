@@ -29,7 +29,7 @@ ht-degree: 4%
       <img alt="1마일의 데이터 관리 간소화" src="./assets/first-mile.png"/>
       </a>
       <div>
-         <a href="./cdm/first-mile.md"><strong>1마일의 데이터 관리 간소화</strong></a>
+         <a href="./cdm/first-mile.md"><strong>데이터 관리 1마일 간소화</strong></a>
          <br/>
       </div>
    </td>
@@ -38,7 +38,7 @@ ht-degree: 4%
       <img alt="성공을 위한 고객 데이터 플랫폼 선택" src="./assets/cdp-success.png"/>
       </a>
       <div>
-         <a href="./cdm/cdp-success.md"><strong>성공을 위한 고객 데이터 플랫폼 선택</strong></a>
+         <a href="./cdm/cdp-success.md"><strong>성공을 위해 고객 데이터 플랫폼 선택</strong></a>
          <br/>
       </div>
     </td>
@@ -47,7 +47,7 @@ ht-degree: 4%
       <img alt="사람 및 프로세스" src="./assets/people-and-process.png"/>
       </a>
       <div>
-         <a href="./cdm/people-and-process.md"><strong>CDP 모범 사례 - 인력 및 프로세스</strong></a>
+         <a href="./cdm/people-and-process.md"><strong>CDP 모범 사례 - 사람 및 프로세스</strong></a>
          <br/>
       </div>
     </td>
@@ -67,7 +67,7 @@ ht-degree: 4%
       <img alt="고객 프로필을 통해 더 나은 경험 구축" src="./assets/building-better-experiences-with-customer-profiles.png"/>
       </a>
       <div>
-         <a href="./cdm/building-better-experiences-with-customer-profiles.md"><strong>고객 프로필을 통해 더 나은 경험 구축</strong></a>
+         <a href="./cdm/building-better-experiences-with-customer-profiles.md"><strong>고객 프로필을 통해 더 나은 경험 만들기</strong></a>
       </div>
       <p>
         <br/>
@@ -77,7 +77,7 @@ ht-degree: 4%
       <img alt="마케팅 팀이 데이터 관리 전략을 향상시키는 방법" src="./assets/how-marketing-teams-are-improving-data-management-strategies.png"/>
       </a>
       <div>
-         <a href="./cdm/how-marketing-teams-are-improving-data-management-strategies.md"><strong>마케팅 팀이 데이터 관리 전략을 향상시키는 방법</strong></a>
+         <a href="./cdm/how-marketing-teams-are-improving-data-management-strategies.md"><strong>마케팅 팀이 데이터 관리 전략을 개선하는 방법</strong></a>
       </div>
       <p>
       </p>
@@ -105,7 +105,7 @@ ht-degree: 4%
       <img alt="책임 있는 고객 데이터 관리를 위한 10가지 고려 사항" src="./assets/ten-considerations-for-responsible-customer-data-management.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong>책임 있는 고객 데이터 관리를 위한 10가지 고려 사항</strong></a>
+         책임 있는 고객 데이터 관리를 위한 <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong>10가지 고려 사항</strong></a>
          <br/>
       </div>
       <p>
@@ -116,7 +116,7 @@ ht-degree: 4%
       <img alt="데이터 관리자로서 마케터의 역할 강화" src="./assets/elevating-the-marketers-role-as-a-data-steward.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong>데이터 관리자로서 마케터의 역할 강화</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong>데이터 관리자로서 마케터의 역할 향상</strong></a>
          <br/>
       </div>
       <p>
@@ -135,17 +135,17 @@ ht-degree: 4%
       <img alt="자사 데이터를 사용하여 탁월한 경험 구축" src="./assets/build-superb-experiences-with-your-first-party-data.png"/>
       </a>
       <div>
-         <a href="./industry/build-superb-experiences-with-your-first-party-data.md"><strong>자사 데이터를 사용하여 탁월한 경험 구축</strong></a>
+         <a href="./industry/build-superb-experiences-with-your-first-party-data.md"><strong>자사 데이터를 사용하여 최고의 경험 구축</strong></a>
       </div>
       <p>
       </p>
     </td>
      <td>
       <a href="./industry/data-collaboration-in-the-first-party-data-context.md">
-      <img alt="자사 데이터 컨텍스트에서의 데이터 공동 작업" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
+      <img alt="자사 데이터 컨텍스트의 데이터 Collaboration" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
       </a>
       <div>
-         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>자사 데이터 컨텍스트에서의 데이터 공동 작업</strong></a>
+         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>자사 데이터 컨텍스트의 Data Collaboration</strong></a>
       </div>
       <p>
       </p>

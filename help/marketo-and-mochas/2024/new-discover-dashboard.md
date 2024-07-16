@@ -7,7 +7,8 @@ doc-type: Event
 duration: 3619
 last-substantial-update: 2024-05-01T00:00:00Z
 jira: KT-15339
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: 7f69f653-e293-4fec-a38d-211bc6dac4e1
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
@@ -22,7 +23,7 @@ Adobe의 수석 비즈니스 고문인 Kate Colbert 및 기술 고문인 James L
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428405/?learn=on)
 
-## 핵심 사항
+## 주요 개선 사항
 
 * Marketo Measure의 Discover 대시보드는 유용성을 높이고 보고 기능에 가치를 더하도록 디자인된 새롭고 개선된 사전 설치된 대시보드 세트입니다.
 * 이전 대시보드는 3월에 더 이상 사용되지 않으며, 이제 모든 Marketo Measure 고객이 새 대시보드를 사용할 수 있습니다.

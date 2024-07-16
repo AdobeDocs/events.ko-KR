@@ -8,7 +8,7 @@ duration: 2315
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,13 +18,13 @@ AEM용 커넥터 구축에 지쳤습니까? Adobe I/O 이벤트를 통해 AEM의
 
 >[!VIDEO](https://video.tv.adobe.com/v/22501/?quality=9)
 
-*2018년 5월 16일에 게재됨*
+*2018년 5월 16일에 배달됨*
 
-**제공 주체:**
+**제공:**
 
 Francois Le Droff, 수석 컴퓨터 과학자, 클라우드 통합, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/gem-2018-05-aem-events.pdf)
 

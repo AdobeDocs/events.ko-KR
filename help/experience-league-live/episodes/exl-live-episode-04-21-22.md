@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/342475/?quality=12&learn=on)
 
-**기록 4월 21일 오전 9시(PST)**
+**녹화된 4월 21일 오전 9시(태평양 표준시)**
 
 ## 프레젠테이션 슬라이드
 

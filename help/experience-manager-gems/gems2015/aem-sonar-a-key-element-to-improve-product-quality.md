@@ -22,13 +22,13 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19379/?quality=9)
 
-*2015년 2월 11일에 게재됨*
+*2015년 2월 11일 배달됨*
 
-**제공 주체:**
+**제공:**
 
 * David Catalan, 수석 QE 개발자, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/cq-gems-on-aem-sonarqube-2015-02.pdf)
 [개요로 돌아가기](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

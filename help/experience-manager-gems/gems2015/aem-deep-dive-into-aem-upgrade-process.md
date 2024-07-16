@@ -8,7 +8,7 @@ duration: 3383
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19376/?quality=9)
 
-*2015년 10월 14일에 게재됨*
+*2015년 10월 14일에 배달됨*
 
-**제공 주체:**
+**제공:**
 
 * Bertrand Delacretaz, 수석 과학자, Adobe
 * Tomek Rekawek 소프트웨어 개발자, Adobe

@@ -8,13 +8,13 @@ doc-type: Event
 duration: 2447
 last-substantial-update: 2024-04-19T00:00:00Z
 jira: KT-15347
-source-git-commit: 21784d00fa8a5a6d700c92b2e824a8b3f36d03ee
+exl-id: bdfc3a26-0af1-4f39-b9ed-2842fecea17c
+source-git-commit: 18df838cce497b57c9bee0229bd2e7fc2ffde999
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
 
 ---
-
 
 # 강력한 워크플로 자동화 잠금 해제: Marketo Engage REST API의 실용적인 응용 프로그램
 
@@ -29,4 +29,4 @@ Marketo Engage REST API의 강력한 기능을 살펴보고 마케팅 운영 워
 >[!VIDEO](https://video.tv.adobe.com/v/3428435/?learn=on)
 
 
-다음에서 대화에 참여: [마케팅 국가 커뮤니티 웨비나 스레드](https://nation.marketo.com/t5/product-discussions/webinar-april-17th-8am-pst-unlocking-powerful-workflow/td-p/346330){target="_blank"}.
+[Marketing Nation 커뮤니티 웨비나 스레드](https://nation.marketo.com/t5/product-discussions/webinar-april-17th-8am-pst-unlocking-powerful-workflow/td-p/346330){target="_blank"}에서 대화에 참여하십시오.

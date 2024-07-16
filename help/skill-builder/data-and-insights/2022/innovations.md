@@ -19,6 +19,6 @@ ht-degree: 0%
 
 이 기조 세션에서는 D&amp;I의 주요 트렌드에 대해 알아봅니다. 참여하여 Experience Cloud 투자를 극대화하여 데이터를 적절하게 사용하는 방법을 알아보고 새로운 혁신을 엿보십시오.
 
-*악셀 셰퍼* Analytics EMEA/Adobe 제품 마케팅 책임자
+*Axel Schaefer* 제품 마케팅, Analytics EMEA/Adobe 책임자
 
 >[!VIDEO](https://video.tv.adobe.com/v/343818/?quality=12&learn=on)

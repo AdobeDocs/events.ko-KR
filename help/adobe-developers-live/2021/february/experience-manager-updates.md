@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Experience Manager 제품 관리자인 Gabriel Walt와 함께 Adobe Experience Manager의 로드맵을 주도하는 주요 테마와 세션이 관련되는 방식에 대한 개요를 살펴보십시오.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**.
+**[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331279/?quality=12&learn=on&hidetitle=true)
 
-클릭 **[여기](/help/adobe-developers-live/assets/experience-manager-updates.pdf)** ( 세션 슬라이드 참조)
+세션 슬라이드를 보려면 **[여기](/help/adobe-developers-live/assets/experience-manager-updates.pdf)**&#x200B;를 클릭하십시오.

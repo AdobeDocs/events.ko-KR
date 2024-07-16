@@ -19,6 +19,6 @@ ht-degree: 0%
 
 이 세션에 참여하여 자동 타겟 및 자동 개인화를 사용하여 Adobe Target 기능 자동화 및 최적화에 대한 핵심 개념을 알아보십시오.
 
-*마티아스 콜리치* 선임 멀티 솔루션 트레이너 EMEA/Adobe
+*Matthias Kolitsch* 고급 멀티 솔루션 트레이너 EMEA / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343821/?quality=12&learn=on)

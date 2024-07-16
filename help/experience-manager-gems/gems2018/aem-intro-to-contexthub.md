@@ -8,7 +8,7 @@ duration: 3307
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23839/?quality=9)
 
-*2018/09/19 게재됨*
+*배달 09/19/2018*
 
-**제공 주체:**
+**제공:**
 
 Artur Kudlacz , 개발자, Adobe
 

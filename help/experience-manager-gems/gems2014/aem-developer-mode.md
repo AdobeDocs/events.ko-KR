@@ -8,7 +8,7 @@ duration: 2739
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
@@ -24,11 +24,11 @@ David은 AEM 6.O의 개발자 모드를 소개합니다. 개발자 모드:
 
 *2014년 7월 16일에 게재됨*
 
-**제공 주체:**
+**제공:**
 
 David Catalan, QE 개발자, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/aem-6-developer-mode-07-16-14.pdf)
 

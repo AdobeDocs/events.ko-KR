@@ -23,10 +23,10 @@ ht-degree: 0%
 
 # Adobe Experience Manager Screens as a Cloud Service
 
-Adobe Experience Manager Screens as a Cloud Service으로 다시 상상하기: CMS와 긴밀하게 연결되는 여정이 완전히 관리되고 확장 가능한 클라우드 서비스로 발전하는 것입니다.
+Adobe Experience Manager Screensas a Cloud Service 의 재상상화: CMS와 긴밀하게 연결되는 여정에서 완전히 관리되고 확장 가능한 클라우드 서비스가 되는 것.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**.
+**[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331767/?quality=12&learn=on&hidetitle=true)
 
-클릭 **[여기](/help/adobe-developers-live/assets/screens-as-a-cloud-service.pdf)** ( 세션 슬라이드 참조)
+세션 슬라이드를 보려면 **[여기](/help/adobe-developers-live/assets/screens-as-a-cloud-service.pdf)**&#x200B;를 클릭하십시오.

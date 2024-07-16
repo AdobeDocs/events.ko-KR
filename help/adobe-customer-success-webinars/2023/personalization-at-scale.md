@@ -1,5 +1,5 @@
 ---
-title: 규모에 맞게 개인화를 위한 기반 구축
+title: 규모에 맞는 Personalization 기반 구축
 description: 이 웨비나는 규모에 맞게 개인화를 오케스트레이션하는 데 필요한 기반 작업을 이해하는 데 중점을 둡니다
 solution: Experience Cloud
 topic: Personalization
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# 규모에 맞게 개인화를 위한 기반 구축
+# 규모에 맞는 Personalization 기반 구축
 
 이 웨비나는 규모에 맞게 개인화를 오케스트레이션하는 데 필요한 기반 작업을 이해하는 데 중점을 둡니다
 

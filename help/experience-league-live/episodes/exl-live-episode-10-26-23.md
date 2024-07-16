@@ -27,5 +27,5 @@ Workfront 고객으로부터 자신과 사용자의 New Home 작동 방식에 �
 
 이 Experience League 라이브 세션에서는 제품 전문가 Ben Robbins가 2024년에 출시되는 새로운 관리자 레이아웃 제어 및 흥미로운 개선 사항을 포함하여 새로운 홈 환경에 대해 안내합니다. Workfront 고객 Jamie Smith는 새로운 홈 환경이 AT&amp;T의 생산성을 어떻게 향상시키는지에 대한 통찰력을 나눌 예정입니다.
 
-**토론을 계속하려면 다음을 방문하십시오. [Experience League 커뮤니티 게시물!](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}**
+**토론을 계속하려면 [Experience League 커뮤니티 Post!](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}**&#x200B;을(를) 방문하세요.
 

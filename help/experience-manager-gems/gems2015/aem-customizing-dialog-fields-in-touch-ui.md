@@ -8,7 +8,7 @@ duration: 3267
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -23,14 +23,14 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19373/?quality=9)
 
-*2015년 10월 7일에 게재됨*
+*2015년 10월 7일에 배달됨*
 
-**제공 주체:**
+**제공:**
 
 * Christanto Leonardo, 수석 개발자, Adobe
 * Christian Meyer, 개발자, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/aem-gems-customizing-touch-ui-dialog-fields.pdf)
 <!--

@@ -8,7 +8,7 @@ duration: 2897
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,13 +18,13 @@ Adobe Experience Manager은 웹 사이트 및 모바일 사이트를 통해 디�
 
 >[!VIDEO](https://video.tv.adobe.com/v/19579/?quality=9)
 
-*2013년 6월 12일에 게재됨*
+*2013년 6월 12일에 배달됨*
 
-**제공 주체:**
+**제공:**
 
 Gilles Knobloch, 리드 개발자, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/2013-06-12-launches-cqgems.pdf)
 

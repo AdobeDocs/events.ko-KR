@@ -1,6 +1,6 @@
 ---
-title: 함께 사용하여 더욱 효율적인 Adobe [!DNL Marketo Engage] 및 Real-Time CDP
-description: 을 사용하여 B2B 캠페인을 오케스트레이션하는 방법에 대해 알아봅니다 [!DNL Marketo Engage] 및 RT-CDP(B2B 에디션)
+title: 함께 사용하여 더 보기 - Adobe [!DNL Marketo Engage] 및 Real-Time CDP
+description: ' [!DNL Marketo Engage]  및 RT-CDP(B2B 에디션)를 사용하여 B2B 캠페인을 오케스트레이션하는 방법에 대해 알아봅니다'
 solution: Marketo, Real-Time Customer Data Platform
 role: Admin, Data Architect, Data Engineer, User
 level: Beginner, Intermediate, Experienced
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# 함께 사용하여 더욱 효율적인 Adobe [!DNL Marketo Engage] 및 Real-Time CDP
+# 함께 사용하여 더욱 효율적인 작업 수행 - Adobe [!DNL Marketo Engage] 및 Real-Time CDP
 
-이 세션에서는 를 사용하여 B2B 캠페인을 오케스트레이션하는 방법을 배웁니다. [!DNL Marketo Engage] 및 RT-CDP(B2B 에디션)와 주요 사용 사례 및 이점에 대한 정보도 얻을 수 있습니다.
+이 세션에서는 [!DNL Marketo Engage] 및 RT-CDP(B2B 에디션)를 사용하여 B2B 캠페인을 오케스트레이션하는 방법과 주요 사용 사례 및 이점에 대해 알아봅니다.
 
-*미하이 프리사카리우* 솔루션 컨설턴트, CJM / Adobe
+*Mihai Prisacariu* 솔루션 컨설턴트, CJM / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343824/?quality=12&learn=on)

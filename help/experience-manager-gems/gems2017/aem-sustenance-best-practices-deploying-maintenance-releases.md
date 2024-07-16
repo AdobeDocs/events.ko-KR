@@ -8,7 +8,7 @@ duration: 2534
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,14 +18,14 @@ AEM 유지 관리 릴리스(예: 서비스 팩 및 누적 수정 팩) 배포에 
 
 >[!VIDEO](https://video.tv.adobe.com/v/18982/?quality=9)
 
-*2017년 6월 28일 게재됨*
+*2017년 6월 28일에 게재됨*
 
-**제공 주체:**
+**제공:**
 
 * Gurpreet Singh Bhatia, 수석 소프트웨어 엔지니어, AEM 유지 엔지니어링, Adobe
 * Karanjeet Singh, 수석 소프트웨어 엔지니어, AEM Sustaining Engineering, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/aem-sustenance-best-practices-gems.pdf)
 <!--

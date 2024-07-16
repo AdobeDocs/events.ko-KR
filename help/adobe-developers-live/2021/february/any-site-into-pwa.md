@@ -25,6 +25,6 @@ ht-degree: 0%
 
 웹 앱이든 기존 사이트이든 상관없이 사이트를 모바일 장치에 설치하고 클릭 한 번으로 오프라인에서 사용할 수 있도록 합니다.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**.
+**[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331742/?quality=12&learn=on&hidetitle=true)

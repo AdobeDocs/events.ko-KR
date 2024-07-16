@@ -8,7 +8,7 @@ duration: 3750
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19580/?quality=9)
 
-*2013년 7월 24일 게재됨*
+*2013년 7월 24일에 게재됨*
 
-**제공 주체:**
+**제공:**
 
 Carsten Ziegeler, 수석 개발자, Adobe
 

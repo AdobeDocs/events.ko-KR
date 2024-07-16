@@ -16,7 +16,7 @@ ht-degree: 1%
 + [전자 서명 계약 준비](./skill-builders/e-signature-setup.md)
 + [Microsoft 앱에서 전자 서명 작업](./skill-builders/e-signature-microsoft.md)
 + [서명을 위한 문서 전송을 위한 고급 팁](./skill-builders/advanced-sending-documents-signature.md)
-+ [입력 가능한 서명 가능한 웹 양식 게시](./skill-builders/fillable-signable-web-form.md)
++ [Post 입력 가능한 서명 가능한 웹 양식](./skill-builders/fillable-signable-web-form.md)
 + [한 번의 클릭으로 많은 서명 수집](./skill-builders/collect-signatures.md)
 + [작성 환경](./skill-builders/authoring-environment.md)
 + [계약 상태 표시](./skill-builders/agreement-status.md)

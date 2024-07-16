@@ -22,4 +22,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426854/?learn=on)
 
-답변된 릴리스에 대한 질문을 받으면 다음에서 해당 릴리스에 대해 논의하십시오. [Adobe Workfront 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-24-1-release-webinar/td-p/645442?profile.language=en).
+답변된 릴리스에 대한 질문을 받고 [Adobe Workfront 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-24-1-release-webinar/td-p/645442?profile.language=en)에서 해당 릴리스에 대해 논의하십시오.

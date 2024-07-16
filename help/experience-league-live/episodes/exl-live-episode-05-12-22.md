@@ -26,5 +26,5 @@ ht-degree: 25%
 
 [Android AEPSampleAPP 다운로드](https://github.com/adobe/aepsdk-sample-app-android)
 
-이 세션에 대한 대화를 계속하려면 다음을 방문하십시오. [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869).
+이 세션에 대한 대화를 계속하려면 [커뮤니티 게시물 Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869)를 방문하세요.
 

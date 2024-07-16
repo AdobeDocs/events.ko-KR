@@ -25,4 +25,4 @@ Workfront의 교육 및 게재 관리자인 Chris Knittle과 함께 다음 내�
 * 작업 기간 및 전임 작업 기본 사항
 * 작업 제한 사항 소개
 
->[!VIDEO](https://video.tv.adobe.com/v/Cannot find MPC Link/?quality=12&amp;learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/Cannot MPC 링크 찾기/?quality=12&amp;learn=on)

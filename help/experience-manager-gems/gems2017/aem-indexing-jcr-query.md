@@ -9,7 +9,7 @@ duration: 3510
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19133/?quality=9)
 
-*2017년 7월 19일 발표*
+*2017년 7월 19일에 발표됨*
 
-**Thomas Mueller, 수석 소프트웨어 엔지니어, Adobe**
+**Thomas Mueller, 선임 소프트웨어 엔지니어, Adobe**
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/aem-gems-aem-indexing-and-jcr-query.pdf)
 
@@ -35,13 +35,13 @@ AEM 설명서
 
 >[!WARNING]
 >
->AEM 버전 6.4 및 이전 버전은 단종되어 더 이상 Adobe에서 판매하지 않습니다.  Adobe 최신 버전으로 업그레이드하는 것이 좋습니다. - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ko-KR).  보관된 버전의 설명서는 여기에서 액세스할 수 있습니다. [페이지](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM 버전 6.4 및 이전 버전은 단종되어 더 이상 Adobe에서 판매하지 않습니다.  Adobe은 최신 버전인 [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)(으)로 업그레이드할 것을 권장합니다.  보관된 버전의 설명서는 이 [페이지](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)에서 액세스할 수 있습니다.
 >
->이 세션과 관련이 있으므로 을 참조하십시오. *Oak 쿼리 및 색인 지정* 및 *쿼리 및 색인 생성에 대한 우수 사례* AEM 6.3 설명서에서 참조할 수 있습니다.
+>이 세션과 관련된 내용은 AEM 6.3 설명서에서 *Oak 쿼리 및 색인화* 및 *쿼리 및 색인화 모범 사례*&#x200B;를 참조하십시오.
 
 Oak 설명서
 
-* [Oak 쿼리 및 색인](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/queries-and-indexing.html)
+* [Oak 쿼리 및 인덱스](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/queries-and-indexing.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

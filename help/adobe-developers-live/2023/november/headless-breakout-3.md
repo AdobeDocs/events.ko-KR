@@ -24,6 +24,6 @@ ht-degree: 0%
 
 Iryna Lagno와 Valerii Naida는 2023년 11월 6일에 라이브로 녹화된 이 세션에서 Adobe Experience Manager의 콘텐츠 관리에 대한 혁신적인 접근 방법을 제시했습니다. Google Places API와 같은 외부 데이터 소스를 컨텐츠 조각에 통합하고 캔버스 데이터 API 및 사용자 지정 UI 요소를 검색하는 방법에 대해 알아봅니다. 이 세션은 워크플로를 간소화하고 콘텐츠 전략에 데이터 기반 요소를 도입하려는 개발자와 콘텐츠 관리자에게 실용적인 지식을 제공합니다.
 
-에서 대화 계속 [Experience League 커뮤니티](https://adobe.ly/48Rl57B).
+[Experience League 커뮤니티](https://adobe.ly/48Rl57B)에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425626/?learn=on)

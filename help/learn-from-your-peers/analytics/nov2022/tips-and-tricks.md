@@ -1,6 +1,6 @@
 ---
-title: '''[!DNL Adobe Analytics] 챔피언 팁 및 요령'
-description: 5개 가입 [!DNL Adobe Analytics] 전세계 챔피언들이 자신들이 마스터하는 데 도움이 되는 팁과 요령을 공유합니다 [!DNL Adobe Analytics].
+title: '[!DNL Adobe Analytics] 챔피언 팁 및 요령'
+description: 전 세계의 5개 [!DNL Adobe Analytics] 챔피언과 함께 마스터하는 데 도움이 되는 팁과 요령을 공유해 보세요 [!DNL Adobe Analytics].
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # [!DNL Adobe Analytics] 챔피언 팁 및 요령
 
-5개 가입 [!DNL Adobe Analytics] 전세계 챔피언들이 자신들이 마스터하는 데 도움이 되는 팁과 요령을 공유합니다 [!DNL Adobe Analytics].
+[!DNL Adobe Analytics]을(를) 마스터하는 데 도움이 되는 팁과 요령을 공유하면서 전 세계에서 5개의 [!DNL Adobe Analytics] 챔피언에 참여하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414191/?quality=12&learn=on)

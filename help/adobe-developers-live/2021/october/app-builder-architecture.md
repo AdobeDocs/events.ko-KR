@@ -1,6 +1,6 @@
 ---
-title: App Builder 아키텍처 및 기술적 심층 분석
-description: Adobe Experience Manager을 확장하는 App Builder 앱의 애플리케이션 아키텍처를 살펴보면서 App Builder에 대해 자세히 알아보십시오.
+title: App Builder 아키텍처 및 기술 심층 분석
+description: App Builder을 확장하는 App Builder 앱의 애플리케이션 아키텍처를 살펴보면서 Adobe Experience Manager에 대해 자세히 알아보십시오.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -14,15 +14,15 @@ duration: 2093
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 16%
+ht-degree: 14%
 
 ---
 
-# App Builder 아키텍처 및 기술적 심층 분석
+# App Builder 아키텍처 및 기술 심층 분석
 
-Adobe Experience Manager을 확장하는 App Builder 앱의 애플리케이션 아키텍처를 살펴보면서 App Builder에 대해 자세히 알아보십시오.
+App Builder을 확장하는 App Builder 앱의 애플리케이션 아키텍처를 살펴보면서 Adobe Experience Manager에 대해 자세히 알아보십시오.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/3uragoI)**.
+**[Experience League 커뮤니티](https://adobe.ly/3uragoI)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337709/?quality=12&learn=on&hidetitle=true)
 

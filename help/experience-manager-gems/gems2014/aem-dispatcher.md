@@ -8,7 +8,7 @@ duration: 3623
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
@@ -18,21 +18,21 @@ ht-degree: 4%
 
 >[!VIDEO](https://video.tv.adobe.com/v/20842/?quality=9)
 
-*2017년 11월 22일에 게재됨*
+*2017년 11월 22일에 배달됨*
 
-**제공 주체:**
+**제공:**
 
 Dominique Pfister, 수석 컴퓨터 과학자, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/dispatcher-aemgemsnov2017.pdf)
 
 ## 리소스 {#resources}
 
-[Dispatcher 캐시에 대한 자세한 정보](https://github.com/cqsupport/webinar-dispatchercache)
+[Dispatcher 캐시의 기타](https://github.com/cqsupport/webinar-dispatchercache)
 
-[Rosetta Flash으로 JSONP 남용](https://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/)
+[Rosetta Flash으로 JSONP 사용](https://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/)
 
 [추가 정보](https://adobe-consulting-services.github.io/acs-aem-commons/features/dispatcher-ttl/index.html)
 

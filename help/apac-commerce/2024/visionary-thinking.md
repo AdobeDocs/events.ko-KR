@@ -1,5 +1,5 @@
 ---
-title: 크리에이티브 엣지 - 비전적 사고가 Commerce을 변화시키는 방법
+title: 크리에이티브 Edge - 비전적 사고가 Commerce을 변화시키는 방법
 description: 이 웨비나에서는 창의성과 커머스의 통합을 살펴보고 Adobe의 도구와 기술이 어떻게 에셋을 관리하고, 콘텐츠 생성을 확장하며, 콘텐츠 공급망을 효율화하는 데 도움이 되는지에 대해 소개합니다. 이 비디오에서는 창의성과 상거래를 하나로 통합하는 것의 중요성에 대해 설명하고 개인화된 경험, 자산 관리 및 Adobe Workfront, Adobe Experience Manager 및 Adobe Stock과 같은 도구를 사용하여 콘텐츠 생성 프로세스를 간소화하는 것과 같은 주제를 다룹니다.
 solution: Commerce
 topic: Commerce
@@ -9,17 +9,17 @@ doc-type: Event
 duration: 3419
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-15448
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+exl-id: a495d5f0-a567-4a17-913a-15d01441ab27
+source-git-commit: 441e5d9313ea3c46ce09d1d6cfbe358fce8e0b83
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
+# 크리에이티브 Edge: 비전적 사고가 Commerce을 변화시키는 방법
 
-# 크리에이티브 엣지: 비전적 사고가 Commerce을 변화시키는 방법
-
-Creative Edge: Visionary Thinking이 Ecommerce를 혁신하여 AI가 창의적 환경을 혁신하고 있는 혁신의 선두주자로 나아가는 방법은 전례 없는 통찰력과 가능성을 제공합니다. 참석자는 AI가 어떻게 브랜드 및 스타일 지침을 효율적으로 관리하여 다양한 플랫폼 및 채널에서 일관성을 보장하는지 알아봅니다.
+The Creative Edge: Visionary Thinking이 Ecommerce를 어떻게 변화시키고 있는지, Gen AI가 창의적 환경을 혁신하고 있는 혁신의 선두주자로 파고들어 전례 없는 통찰력과 가능성을 제공합니다. 참석자는 AI가 어떻게 브랜드 및 스타일 지침을 효율적으로 관리하여 다양한 플랫폼 및 채널에서 일관성을 보장하는지 알아봅니다.
 
 원활한 통합을 통해 크리에이티브 자산을 마케팅 실행 및 상거래에 손쉽게 통합하여 고객 참여도와 전환율을 향상시키는 방법을 알아봅니다.
 

@@ -8,7 +8,7 @@ duration: 3592
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 6%
+ht-degree: 4%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 6%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25674/)
 
-*2018년 12월 5일에 게재됨*
+*18/12/5 배달됨*
 
-**제공 주체:**
+**제공:**
 
 Gabriel Walt, 제품 관리자, Adobe
 

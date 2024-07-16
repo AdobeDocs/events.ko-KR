@@ -25,8 +25,8 @@ ht-degree: 0%
 
 사용자 정의 기능 테스트 덕분에 코드를 프로덕션에 안전하게 배포하는 방법에 대해 알아봅니다. 바쁜 금요일 오후라도 품질이 어렵지 않을 것입니다.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**.
+**[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332309/?quality=12&learn=on&hidetitle=true)
 
-클릭 **[여기](/help/adobe-developers-live/assets/custom-functional-tests-cicd.pdf)** ( 세션 슬라이드 참조)
+세션 슬라이드를 보려면 **[여기](/help/adobe-developers-live/assets/custom-functional-tests-cicd.pdf)**&#x200B;를 클릭하십시오.

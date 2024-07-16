@@ -8,7 +8,7 @@ duration: 4329
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 7%
+ht-degree: 5%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 7%
 
 *2014년 6월 11일에 게재됨*
 
-**제공 주체:**
+**제공:**
 
 Peter Klassen, 제품 관리자, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/aem6-platform-whatsnew.pdf)
 
@@ -32,4 +32,4 @@ Peter Klassen, 제품 관리자, Adobe
 
 * [AEM 6.0 릴리스 정보](https://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
 * [AEM 6.0 관리](https://docs.adobe.com/docs/en/aem/6-0/manage.html)
-* [AEM 6.0으로의 업그레이드 계획](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)
+* [AEM 6.0으로 업그레이드 계획 중](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)

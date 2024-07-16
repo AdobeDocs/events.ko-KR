@@ -26,6 +26,6 @@ ht-degree: 0%
 
 조쉬 워즈워스는 Adobe Developers Live의 이번 계몽세션에서 Adobe Experience Manager의 Edge Delivery Services과 BambooHR의 변혁적 경험에 대한 이야기를 나눈다. 2023년 11월 6일에 기록되어 의사 결정 프로세스, 사이트 성능에 미치는 영향 및 개발자가 얻을 수 있는 효율성에 대해 알아봅니다. 이 세션은 AEM의 혁신적인 솔루션이 어떻게 비즈니스 관행을 혁신할 수 있는지 보여주는 실제 사례입니다.
 
-에서 대화 계속 [Experience League 커뮤니티](https://adobe.ly/3rD9rMV).
+[Experience League 커뮤니티](https://adobe.ly/3rD9rMV)에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425634/?learn=on)

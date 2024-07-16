@@ -1,7 +1,8 @@
 ---
 title: Acrobat Sign 웨비나
 description: Acrobat Sign에서 새로운 전자 서명 워크플로를 마스터하는 방법을 Adobe 전문가로부터 알아보십시오.
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: e5912c6e-65a1-471b-9a5d-83ac7eaccb90
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%

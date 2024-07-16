@@ -8,7 +8,7 @@ duration: 3474
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19654/?quality=9)
 
-*2017년 9월 6일에 게재됨*
+*2017년 9월 6일에 배달됨*
 
-**제공 주체:**
+**제공:**
 
 Carsten Ziegeler, 수석 과학자, Adobe
 
@@ -29,11 +29,11 @@ Karl Pauls, 컴퓨터 과학자, Adobe
 채팅 전문가:\
 David Bosschaert, 수석 소프트웨어 엔지니어, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/aem-gems-osgi-best-practices-090617.pdf)
 
 ## 관련 링크 {#related-links}
 
-* [OSGi 작업(pdf)](https://manning-content.s3.amazonaws.com/download/9/86fba2b-2ea2-48cc-855d-39e06df49ceb/OSGIiAsamplech1.pdf)
+* [작업 중인 OSGi(pdf)](https://manning-content.s3.amazonaws.com/download/9/86fba2b-2ea2-48cc-855d-39e06df49ceb/OSGIiAsamplech1.pdf)
 * [OSGi 구성 요소](https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-i/)

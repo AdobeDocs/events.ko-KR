@@ -17,7 +17,7 @@ duration: 3674
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 5%
+ht-degree: 2%
 
 ---
 
@@ -32,9 +32,9 @@ Asset Link는 Adobe Creative Cloud에 대한 기본 연결입니다.
 ## 리소스
 
 * [Adobe Asset Link 비디오](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html)
-* [Adobe XD용 Asset Link](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/adobe-asset-link-for-xd.ug.html)
-* [Adobe 에셋 링크에 대한 AEM Assets 6.5 및 6.4 구성](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
-* [Adobe 에셋 링크에 대한 AEM as a Cloud Service 구성](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
+* [Adobe XD에 대한 자산 링크](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/adobe-asset-link-for-xd.ug.html)
+* [Adobe 자산 링크에 대한 AEM Assets 6.5 및 6.4 구성](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
+* [Adobe 자산 링크에 대한 AEM as a Cloud Service 구성](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
 
 ## 시리즈 녹화
 

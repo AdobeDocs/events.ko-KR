@@ -9,13 +9,13 @@ duration: 4068
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '1658'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # 전문가에게 문의 - API 탐색기를 사용하여 기본 텍스트 모드 보고
 
-에 대해 알아보기 [[!UICONTROL API 탐색기]](https://developer.adobe.com/workfront/api-explorer/), 사용 방법 및 기본 텍스트 모드를 활용하여 보고서를 향상시키는 방법에 대해 설명합니다. 이 웨비나는 2020년 1월 22일에 녹화되었습니다.
+[[!UICONTROL API 탐색기]](https://developer.adobe.com/workfront/api-explorer/), 사용 방법 및 기본 텍스트 모드를 활용하여 보고서를 향상시키는 방법에 대해 알아봅니다. 이 웨비나는 2020년 1월 22일에 녹화되었습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341124/?quality=12)
 
@@ -37,7 +37,7 @@ valueexpression=IF({user}.{roleID}={role}.{ID},CONCAT("Primary = ",{role}.{name}
 valueformat=HTML
 ```
 
-**&quot;모든 팀&quot; 열의 텍스트 모드**
+**모든 팀 열의 텍스트 모드**
 
 ```
 displayname=All Teams
@@ -49,7 +49,7 @@ valueexpression={name}
 valueformat=HTML
 ```
 
-**&quot;모든 그룹&quot; 열의 텍스트 모드**
+**모든 그룹 열의 텍스트 모드**
 
 ```
 displayname=All Groups
@@ -61,7 +61,7 @@ valuefield=group:name
 valueformat=HTML
 ```
 
-**&quot;부하 직원&quot; 열의 텍스트 모드**
+**부하 직원 열의 텍스트 모드**
 
 ```
 displayname=Direct Reports
@@ -101,11 +101,11 @@ valueformat=HTML
 
 **질문**
 
-텍스트 형식([!DNL CSS]) 예?
+텍스트 형식([!DNL CSS])의 예제를 공유할 수 있습니까?
 
 **답변**
 
-Workfront은 을 지원하지 않습니다. [!DNL CSS] 텍스트 모드에서.
+Workfront은 텍스트 모드에서 [!DNL CSS]을(를) 지원하지 않습니다.
 
 **질문**
 
@@ -135,7 +135,8 @@ UI에서 필드를 선택한 다음 텍스트 모드로 전환하고 필드 이�
 valuefield=project:name
 ```
 
-그러나 문제의 경우 API 탐색기에서 opTasks라고 합니다. 따라서 시간 보고서를 실행하고 문제 이름에 대한 열을 추가하려는 경우 valuefield는 다음과 같습니다.
+그러나 문제의 경우 API 탐색기에서 opTasks라고 합니다. 따라서 시간 보고서를 실행하고 문제 이름에 대한 열을 추가하려는 경우 valuefield는
+다음과 같이 표시됩니다.
 
 ```
 valuefield=opTask:name

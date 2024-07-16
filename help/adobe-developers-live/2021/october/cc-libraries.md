@@ -1,6 +1,6 @@
 ---
-title: Creative Cloud 라이브러리 및 에셋 브라우저 API 소개
-description: Creative Cloud 라이브러리 API 및 Asset Browser SDK를 통해 웹 애플리케이션에서 Creative Cloud 라이브러리를 통합하는 방법을 알아봅니다
+title: Creative Cloud Libraries 및 에셋 브라우저 API 소개
+description: Creative Cloud Libraries API 및 Asset Browser SDK를 통해 웹 애플리케이션에 Creative Cloud Libraries을 통합하는 방법을 알아봅니다
 solution: Creative Cloud
 feature: Developer Tools
 topic: Development
@@ -13,13 +13,13 @@ duration: 1485
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 17%
+ht-degree: 16%
 
 ---
 
-# Creative Cloud 라이브러리 및 에셋 브라우저 API 소개
+# Creative Cloud Libraries 및 에셋 브라우저 API 소개
 
-Creative Cloud 라이브러리 API 및 Asset Browser SDK를 통해 웹 애플리케이션에서 Creative Cloud 라이브러리를 통합하는 방법을 알아봅니다
+Creative Cloud Libraries API 및 Asset Browser SDK를 통해 웹 애플리케이션에 Creative Cloud Libraries을 통합하는 방법을 알아봅니다
 
 >[!VIDEO](https://video.tv.adobe.com/v/337592/?quality=12&learn=on&hidetitle=true)
 

@@ -24,8 +24,8 @@ ht-degree: 0%
 
 최신 콘텐츠 조각 개선 사항을 통해 새로운 Headless 기능에 대해 알아봅니다. 이 세션은 Adobe Experience Manager Cloud Service을 위한 GraphQL API에 중점을 둡니다.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**.
+**[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331280/?quality=12&learn=on&hidetitle=true)
 
-클릭 **[여기](/help/adobe-developers-live/assets/headless-graphql-content-fragments.pdf)** ( 세션 슬라이드 참조)
+세션 슬라이드를 보려면 **[여기](/help/adobe-developers-live/assets/headless-graphql-content-fragments.pdf)**&#x200B;를 클릭하십시오.

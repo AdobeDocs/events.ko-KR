@@ -16,7 +16,7 @@ duration: 875
 source-git-commit: 07a0a88da92652a6f07f65ba369e17cfe85fdafd
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 14%
+ht-degree: 0%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 14%
 
 클라우드에서 Adobe Experience Manager을 둘러싼 전략 및 혁신에 대한 통찰력을 공유하는 동시에 오늘날의 위치로 이어지는 주요 변경 사항을 설명하는 뒷면을 살펴봅니다.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**.
+**[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331278/?quality=12&learn=on&hidetitle=true)
 
-클릭 **[여기](/help/adobe-developers-live/assets/experience-manager-as-cloud-service.pdf)** ( 세션 슬라이드 참조)
+세션 슬라이드를 보려면 **[여기](/help/adobe-developers-live/assets/experience-manager-as-cloud-service.pdf)**&#x200B;를 클릭하십시오.

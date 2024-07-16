@@ -8,7 +8,7 @@ duration: 2907
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,13 +18,13 @@ AEM DAM이 에셋의 메타데이터를 관리하는 방법에 대해 알아봅�
 
 >[!VIDEO](https://video.tv.adobe.com/v/19524/?quality=9)
 
-*2013년 11월 20일에 게재됨*
+*2013년 11월 20일에 배달됨*
 
-**제공 주체:**
+**제공:**
 
 Ugo Cei, 개발자 기술 마케팅 관리자, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/metadata-management-in-aem-dam.pdf)
 

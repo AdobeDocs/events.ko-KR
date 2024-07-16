@@ -18,21 +18,21 @@ Adobe CS 엔지니어인 Sham Hassan Chikkegowda 및 수석 개발자인 Timothe
 
 >[!VIDEO](https://video.tv.adobe.com/v/19299/?quality=9)
 
-*2016년 7월 20일 게재됨*
+*2016년 7월 20일에 게재됨*
 
-**제공 주체:**
+**제공:**
 
 * Sham Hassan Chikkegowda, CS 엔지니어, Adobe
 * Timothe Maret, 수석 개발자, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/aem-gems-072016-saml.pdf)
 
 ## 관련 링크 {#related-links}
 
-* [SAML 2.0 인증 핸들러](https://docs.adobe.com/docs/en/aem/6-2/administer/security/saml-2-0-authenticationhandler.html)
-* [OASIS SAML(Security Assertion Markup Language) V2.0용 [SAMLProf] 프로필](https://docs.oasis-open.org/security/saml/v2.0/saml-profiles-2.0-os.pdf)
-* [OASIS SAML(Security Assertion Markup Language) V2.0에 대한 [SAMLBind] 바인딩](https://docs.oasis-open.org/security/saml/v2.0/saml-bindings-2.0-os.pdf)
+* [SAML 2.0 인증 처리기](https://docs.adobe.com/docs/en/aem/6-2/administer/security/saml-2-0-authenticationhandler.html)
+* OASIS SAML(Security Assertion Markup Language) V2.0용 [[SAMLProf] 프로필](https://docs.oasis-open.org/security/saml/v2.0/saml-profiles-2.0-os.pdf)
+* OASIS SAML(Security Assertion Markup Language) V2.0에 대한 [[SAMLBind] 바인딩](https://docs.oasis-open.org/security/saml/v2.0/saml-bindings-2.0-os.pdf)
 * [[SAMLech] SAML(Security Assertion Markup Language) V2.0 기술 개요](https://www.oasis-open.org/committees/download.php/27819/sstc-saml-tech-overview-2.0-cd-02.pdf)
 * [SAML V2.0 경영진 개요](https://www.oasis-open.org/committees/download.php/13525/sstc-saml-exec-overview-2.0-cd-01-2col.pdf)

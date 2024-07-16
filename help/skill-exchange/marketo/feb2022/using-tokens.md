@@ -1,6 +1,6 @@
 ---
-title: 에서 토큰을 사용한 확장성 및 효율성 [!DNL Marketo Engage]
-description: 에서 프로그램을 보다 효율적으로 구축하고 운영할 수 있도록 개인화를 넘어 토큰을 사용하는 방법을 알아봅니다. [!DNL Marketo Engage].
+title: ' [!DNL Marketo Engage]에서 토큰을 사용한 확장성 및 효율성'
+description: ' [!DNL Marketo Engage]에서 프로그램 빌드 및 작업을 보다 효율적으로 수행하기 위해 개인화를 넘어 토큰을 사용하는 방법을 알아봅니다.'
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ---
 
-# 에서 토큰을 사용한 확장성 및 효율성 [!DNL Marketo Engage]
+# [!DNL Marketo Engage]에서 토큰을 사용한 확장성 및 효율성
 
-에서 프로그램을 보다 효율적으로 구축하고 운영할 수 있도록 개인화를 넘어 토큰을 사용하는 방법을 알아봅니다. [!DNL Marketo Engage].
+[!DNL Marketo Engage]에서 프로그램 빌드 및 작업을 보다 효율적으로 수행하기 위해 개인화를 넘어 토큰을 사용하는 방법을 알아봅니다.
 
-**주요 개선 사항**
+**주요 방법**
 
 * 다양한 유형의 토큰과 토큰을 사용할 수 있는 위치를 이해합니다
 * 토큰 전략 문서화 방법에 대한 아이디어 얻기

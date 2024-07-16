@@ -9,13 +9,13 @@ duration: 2428
 last-substantial-update: 2024-01-22T00:00:00Z
 jira: KT-14816
 thumbnail: 3426914.jpeg
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+exl-id: 673a6d3a-1a8e-4a2e-b2df-528ace76d743
+source-git-commit: e3eb0d9e8c3de2c56b12e10bcbf3cb1ecaf2a6f3
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
 
 ---
-
 
 # Marketo Engage을 통한 개인 채점 숙달: 글로벌 프레임워크에 현지화된 뉘앙스
 
@@ -34,8 +34,8 @@ Marketo Engage 챔피언 Katja Keesom이 채점 모델에 로컬 유연성을 �
 ## 웨비나에서 공유된 리소스
 
 * 마케팅 국가 커뮤니티 웨비나 스레드 - [토론](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
-* 로컬 영향 연습을 통한 개인/잠재 고객 점수 책정 - [워크시트 다운로드](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
+* 로컬 영향 연습으로 개인/잠재 고객 점수 책정 - [워크시트 다운로드](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
 * 잠재 고객 점수 규칙의 주요 목록 - [워크시트 보기](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
 * Marketo Engage 프로그램 가져오기 라이브러리 - [설명서](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
-* 리드 점수 지정 전, 중, 후 프로세스에 대해 알아야 할 모든 사항 - [온디맨드 웨비나](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
-* 챔피언 주도 점수 - [블로그](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}
+* 리드 점수 지정 전, 중, 후 프로세스에 대해 알 수 있는 모든 항목 - [온디맨드 웨비나](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
+* 우승자가 리드 채점을 담당함 - [블로그](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}

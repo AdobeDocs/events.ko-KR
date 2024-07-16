@@ -24,5 +24,5 @@ ht-degree: 37%
 
 >[!VIDEO](https://video.tv.adobe.com/v/337219/?quality=12&learn=on)
 
-이 세션에 대해 논의하려면 다음을 방문하십시오. [Experience League 커뮤니티에서의 토론](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/questions-and-discussion-for-experience-league-live-ep-3-expert/td-p/425205){target="_blank"}.
+이 세션에 대해 논의하려면 Experience League 커뮤니티의 [토론](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/questions-and-discussion-for-experience-league-live-ep-3-expert/td-p/425205){target="_blank"}을 방문하세요.
 

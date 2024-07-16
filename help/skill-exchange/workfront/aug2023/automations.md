@@ -22,10 +22,12 @@ ht-degree: 0%
 
 자동화를 활용하면 사용자가 번거로운 일상적이고 반복적인 작업 대신 고유한 기술과 전문 지식이 필요한 작업에 집중할 수 있으므로 효율성의 엄청난 잠재력을 발휘할 수 있습니다.
 
-이 세션 동안 짐머만 광고의 Jennafer Higgs, Jonathan Cabre 및 Malcom Benites는 보다 효율적인 워크플로를 생성하는 것으로 입증된 자동화의 실용적인 예를 공유할 것입니다.
+이 세션에서는 짐머만 Advertising의 Jennafer Higgs, Jonathan Cabre 및 Malcom Benites가 보다 효율적인 워크플로를 생성하는 것으로 입증된 자동화 사례를 공유할 것입니다.
 
 Fusion 및 non-Fusion 자동화를 공유하게 됩니다.
 
-· 프로젝트 자동 종료 방법 · 하위 템플릿 생성 · 통합 승인 에셋 검토
+· 프로젝트를 자동으로 종료하는 방법
+· 하위 템플릿 생성
+· 통합된 승인된 자산 검토
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425812/?learn=on)

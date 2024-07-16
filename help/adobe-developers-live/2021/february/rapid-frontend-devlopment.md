@@ -25,8 +25,8 @@ ht-degree: 0%
 
 사이트 템플릿을 사용하여 몇 번의 클릭으로 새로운 사이트를 만들고 CSS 및 JS와 같은 프론트엔드 에셋의 빠른 배포로 프론트엔드 개발의 재미를 다시 가져올 수 있습니다.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**.
+**[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331737/?quality=12&learn=on&hidetitle=true)
 
-클릭 **[여기](/help/adobe-developers-live/assets/rapid-frontend-devlopment.pdf)** ( 세션 슬라이드 참조)
+세션 슬라이드를 보려면 **[여기](/help/adobe-developers-live/assets/rapid-frontend-devlopment.pdf)**&#x200B;를 클릭하십시오.

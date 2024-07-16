@@ -19,6 +19,6 @@ ht-degree: 0%
 
 브라우저/장치/앱 및 여러 채널을 넘나드는 사용자 행동을 분석하기 위해 Adobe Analytics 및 Customer Journey Analytics을 사용하는 방법에 대해 자세히 알아보십시오.
 
-*소니아 찰스* 솔루션 컨설턴트, 데이터 및 통찰력 / Adobe
+*Sonia Charles* 솔루션 컨설턴트, 데이터 및 통찰력 / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343820/?quality=12&learn=on)

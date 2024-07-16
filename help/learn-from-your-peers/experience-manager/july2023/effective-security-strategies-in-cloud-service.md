@@ -28,8 +28,8 @@ ht-degree: 0%
 * IMS를 사용하여 사용자 생성 및 다양한 역할 및 책임 할당
 * 배포 및 저장소 액세스를 위한 Cloud Manager 액세스 설정
 * IMS 및 AEM 그룹을 사용한 Adobe Experience Manager 액세스
-* Cloud Manager를 사용하여 AEM 환경 보호
+* Cloud Manager을 사용하여 AEM 환경 보호.
 
-프레젠테이션 슬라이드에 액세스할 수 있습니다 [여기](../../assets/experience-manager/july2023/effective-security-strategies-in-cloud-service/AEM-CloudManager-Security_Webinar_July_18.pdf).
+프레젠테이션 슬라이드 [여기](../../assets/experience-manager/july2023/effective-security-strategies-in-cloud-service/AEM-CloudManager-Security_Webinar_July_18.pdf)에 액세스할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421772/?learn=on)

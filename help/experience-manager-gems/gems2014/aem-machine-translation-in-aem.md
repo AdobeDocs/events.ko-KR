@@ -8,7 +8,7 @@ duration: 3062
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '211'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ Adobe Experience Manager을 사용하면 Microsoft Translator를 사용하여 �
 
 >[!VIDEO](https://video.tv.adobe.com/v/19383/?quality=9)
 
-*2014년 12월 3일 제공*
+*2014년 12월 3일에 배달됨*
 
-**제공 주체:**
+**제공:**
 
 * Akshay Madan, 수석 제품 관리자 다국어 제품 관리 및 솔루션, Adobe
 * Chris Wendt, Microsoft Microsoft Translator, 수석 그룹 프로그램 관리자

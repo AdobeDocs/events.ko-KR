@@ -1,6 +1,6 @@
 ---
-title: Workfront 증명 활용 (2021년 11월 9일)
-description: Workfront Proof를 활용하여 작업 방식을 향상시키는 다양한 방법에 대해 알아보십시오.
+title: Workfront Proof 활용 (2021년 11월 9일)
+description: Workfront Proof을 활용하여 작업 방식을 향상시키는 다양한 방법을 살펴보십시오.
 role: Admin, User
 level: Beginner, Intermediate
 kt: 10002
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Workfront 증명 활용 (2021년 11월 9일)
+# Workfront Proof 활용 (2021년 11월 9일)
 
-Workfront Proof를 활용하여 작업 방식을 향상시키는 다양한 방법에 대해 알아보십시오.
+Workfront Proof을 활용하여 작업 방식을 향상시키는 다양한 방법을 살펴보십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341217/?quality=12&learn=on)

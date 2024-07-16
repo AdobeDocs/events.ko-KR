@@ -21,6 +21,6 @@ ht-degree: 0%
 
 HTTP 프로토콜의 공동저자이자 REST의 발명가인 Roy Fielding과의 인터뷰로 초창기부터 QUIC &amp; HTTP/3에 대한 최신 작업까지 HTTP의 진화에 대해 알아봅니다.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**.
+**[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331738/?quality=12&learn=on&hidetitle=true)

@@ -1,6 +1,6 @@
 ---
 title: Adobe 클라이언트 데이터 레이어 - 방문자 데이터 추적
-description: ACDL의 이벤트 기반 API를 이해합니다. 상거래 예제는 핵심 구성 요소가 하이드레이션되고 Launch 확장이 AA 및 AT와 상호 작용하는 방법을 보여 줍니다. 이 세션은 Adobe Developers Live 컨텐츠 이벤트의 일부로 전달되었습니다.
+description: ACDL의 이벤트 기반 API를 이해합니다. Commerce 예는 코어 구성 요소가 하이드레이션되고 Launch 확장이 AA 및 AT와 상호 작용하는 방법을 보여줍니다. 이 세션은 Adobe Developers Live 컨텐츠 이벤트의 일부로 전달되었습니다.
 solution: Experience Manager, Experience Manager Sites, Analytics, Target
 product: experience manager
 sub-product: sites
@@ -23,10 +23,10 @@ ht-degree: 0%
 
 # Adobe 클라이언트 데이터 레이어 - 방문자 데이터 추적
 
-ACDL의 이벤트 기반 API를 이해합니다. 상거래 예제는 핵심 구성 요소가 하이드레이션되고 Launch 확장이 AA 및 AT와 상호 작용하는 방법을 보여 줍니다.
+ACDL의 이벤트 기반 API를 이해합니다. Commerce 예는 코어 구성 요소가 하이드레이션되고 Launch 확장이 AA 및 AT와 상호 작용하는 방법을 보여줍니다.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**.
+**[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331733/?quality=12&learn=on&hidetitle=true)
 
-클릭 **[여기](/help/adobe-developers-live/assets/adobe-client-data-layer.pdf)** ( 세션 슬라이드 참조)
+세션 슬라이드를 보려면 **[여기](/help/adobe-developers-live/assets/adobe-client-data-layer.pdf)**&#x200B;를 클릭하십시오.

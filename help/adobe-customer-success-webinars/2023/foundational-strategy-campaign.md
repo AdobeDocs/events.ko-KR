@@ -1,6 +1,6 @@
 ---
 title: 점 연결 - Campaign Orchestration의 기본 전략
-description: Campaign Orchestration의 기초 개인화 @ 확장 기초 및 안내 원칙 오케스트레이션 측정 모범 사례 공통 과제 및 솔루션 내에서 Campaign Orchestration의 역할
+description: Campaign Orchestration의 기초 Personalization 내에서 Campaign Orchestration의 역할 @ 기초 규모 및 원칙 지침 오케스트레이션 측정 모범 사례 공통 과제 및 솔루션
 solution: Campaign
 feature-set: Campaign
 feature: Personalization
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 *Campaign Orchestration 기초*
 
-* 개인화 @ 규모 내에서 Campaign 오케스트레이션의 역할
+* Personalization @ Scale 내에서 Campaign 오케스트레이션의 역할
 * 기본 기둥 및 지침 원칙
 * 오케스트레이션 측정 모범 사례
 * 일반적인 과제 및 솔루션

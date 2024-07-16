@@ -49,7 +49,7 @@ ht-degree: 0%
       <img alt="마케팅 애자일" src="assets/agile-in-marketing.png"/>
       </a>
       <div>
-         <a href="user-groups/agile-in-marketing.md"><strong>마케팅 애자일</strong></a>
+         <a href="user-groups/agile-in-marketing.md"><strong>마케팅의 애자일</strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>

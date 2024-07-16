@@ -14,7 +14,7 @@ ht-degree: 14%
 
 + [운영 시간 Adobe](overview.md)
 + 2024 {#2024}
-   + Marketo Adobe {#adobe-marketo-office-hours-2024}
+   + Marketo {#adobe-marketo-office-hours-2024} Adobe
       + [챔피언 운영 시간 - 5월](2024/champion-office-hours.md)
 + 2023 {#2023}
    + Adobe Analytics {#adobe-analytics}
@@ -30,7 +30,7 @@ ht-degree: 14%
       + [AEM Forms 헤드리스 아키텍처](2023/aem-forms-headless-architecture.md)
       + [AEM Cloud Service으로 마이그레이션](2023/migration-aemcs.md)
       + [인덱스 최적화 기반](2023/optimize-indexes-aemcs.md)
-   + Marketo Adobe {#adobe-marketo-office-hours}
+   + Marketo {#adobe-marketo-office-hours} Adobe
       + [고급 스마트 목록 논리 및 일반적인 위험](2023/marketo-common-pitfalls.md)
    + Adobe Target {#adobe-target-office-hours}
       + [JavaScript 라이브러리 개요, 디버깅 팁 및 요령](2023/target-debugging-tips-and-tricks.md)

@@ -42,5 +42,5 @@ AEM Best Practices Analyzer는 AEM as a Cloud Service 환경에 적용할 수 �
 
 >[!NOTE]
 >
->* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 다음을 방문하십시오. [컨텍스트 기반 스레드](https://bit.ly/3Z6AyM1)
->* 웨비나와 관련된 자동 알림을 받으려면 다음 위치에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
+>* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 이 [컨텍스트 스레드](https://bit.ly/3Z6AyM1)를 참조하십시오.
+>* 웨비나에 대한 자동 알림을 받으려면 [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/)에 등록하세요.

@@ -1,6 +1,6 @@
 ---
 title: 맺음말
-description: 제품 관리자인 Chris Hedge와 Adobe Developers Live Director Commerce를 닫으십시오.
+description: Director, 제품 관리 부문 Chris Hedge와 Adobe Developers Live Commerce을 자세히 살펴보십시오.
 role: User
 level: Beginner
 kt: 9787
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 맺음말
 
-제품 관리자인 Chris Hedge와 Adobe Developers Live Director Commerce를 닫으십시오.
+Director, 제품 관리 부문 Chris Hedge와 Adobe Developers Live Commerce을 자세히 살펴보십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340625/?quality=12&learn=on)

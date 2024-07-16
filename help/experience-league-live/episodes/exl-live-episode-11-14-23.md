@@ -26,5 +26,5 @@ ht-degree: 0%
 
 이 Experience League 라이브 세션에서는 제품 전문가가 Real-Time CDP 및 Journey Optimizer의 &quot;연산 속성&quot;을 통해 간단한 UI를 사용하여 행동 합계를 프로필 속성으로 만들어 향상된 세그멘테이션 및 개인화에 사용할 수 있는 방법을 보여줍니다.
 
-**프로그램의 이 주제에 대한 토론을 계속합니다. [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-get-the-most-from/m-p/633722#M5){target="_blank"}**.
+**쇼의 [Experience League 커뮤니티 Post](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-get-the-most-from/m-p/633722#M5){target="_blank"}**&#x200B;에서 이 주제에 대한 토론을 계속합니다.
 

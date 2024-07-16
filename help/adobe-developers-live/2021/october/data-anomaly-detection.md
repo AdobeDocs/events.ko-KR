@@ -1,6 +1,6 @@
 ---
 title: DataFacts - App Builder에 구축된 AEP의 첫 번째 데이터 예외 항목 탐지 도구
-description: Softcrylic은 Adobe의 App Builder를 사용하여 Adobe Experience Platform(AEP) 내에서 데이터 불일치를 식별하는 데 도움이 되는 애플리케이션을 개발합니다
+description: Softcrylic은 Adobe의 App Builder을 사용하여 Adobe Experience Platform(AEP) 내의 데이터 불일치를 식별하는 데 도움이 되는 애플리케이션을 개발합니다
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -12,13 +12,13 @@ duration: 1885
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 16%
+ht-degree: 15%
 
 ---
 
 # DataFacts - App Builder에 구축된 AEP의 첫 번째 데이터 예외 항목 탐지 도구
 
-Softcrylic은 Adobe의 App Builder를 사용하여 Adobe Experience Platform(AEP) 내에서 데이터 불일치를 식별하는 데 도움이 되는 애플리케이션을 개발합니다
+Softcrylic은 Adobe의 App Builder을 사용하여 Adobe Experience Platform(AEP) 내의 데이터 불일치를 식별하는 데 도움이 되는 애플리케이션을 개발합니다
 
 >[!VIDEO](https://video.tv.adobe.com/v/337710/?quality=12&learn=on&hidetitle=true)
 

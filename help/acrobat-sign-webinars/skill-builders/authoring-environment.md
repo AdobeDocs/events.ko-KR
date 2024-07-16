@@ -7,13 +7,13 @@ doc-type: Event
 duration: 1790
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15298
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: fc9f03e9-09ec-43b5-8afe-6b7866e49489
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
-
 
 # 작성 환경에 대한 고급 교육
 
@@ -28,4 +28,3 @@ Acrobat Sign 작성 환경에서 사용할 수 있는 옵션에 대해 자세히
 * 첨부 파일 필드, 하이퍼링크 필드 및 거래 ID 필드와 같은 추가 옵션을 살펴봅니다.
 * 참가자에게 양식 필드를 할당하고 사용자 지정을 위한 템플릿 속성을 설정할 수 있습니다.
 * 재사용 가능한 문서 템플릿을 만들고 템플릿을 관리하며 서명된 계약을 내보내는 프로세스도 다룹니다.
-

@@ -6,7 +6,7 @@ event-series: The Skill Exchange
 source-git-commit: 76b246f4b6b43632cf07b17ee1ec9b2d581e1e08
 workflow-type: tm+mt
 source-wordcount: '496'
-ht-degree: 8%
+ht-degree: 5%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 8%
       + [시작하기](analytics/aug2023/getting-started.md)
       + [고객 경험 개선](analytics/aug2023/anti-conversion.md)
       + [Keynote](analytics/aug2023/keynote.md)
-      + [결합하기](analytics/aug2023/putting-together.md)
+      + [모두 합치기](analytics/aug2023/putting-together.md)
    + 2023년 5월 {#may2023}
       + [Adobe Analytics 팁 및 요령](analytics/may2023/tips-and-tricks.md)
       + [EDDL/WebSDK로 마이그레이션](analytics/may2023/migrate.md)
@@ -35,14 +35,14 @@ ht-degree: 8%
    + 2022년 10월 {#oct2022}
       + [시작하기](analytics/oct2022/getting-started.md)
       + [데이터 분석](analytics/oct2022/analyzing-the-data.md)
-      + [결합하기](analytics/oct2022/putting-it-all-together.md)
+      + [모두 합치기](analytics/oct2022/putting-it-all-together.md)
       + [Analytics ROI](analytics/oct2022/analytics-roi.md)
       + [Analytics 학습 Experience Makers Spotlight](analytics/oct2022/spotlight.md)
       + [Adobe Analytics 도구 벨트 마스터하기](analytics/oct2022/toolbelt.md)
    + 2022년 9월 {#sept2022}
       + [시작하기](analytics/sept2022/getting-started.md)
       + [데이터 분석](analytics/sept2022/analyzing-the-data.md)
-      + [결합하기](analytics/sept2022/putting-it-all-together.md)
+      + [모두 합치기](analytics/sept2022/putting-it-all-together.md)
       + [자신만의 Adobe Analytics 만들기](analytics/sept2022/making-analytics-your-own.md)
       + [Analytics Experience Makers Spotlight](analytics/sept2022/grow-spotlight.md)
       + [Analytics 학습 Experience Makers Spotlight](analytics/sept2022/learn-spotlight.md)
@@ -93,33 +93,33 @@ ht-degree: 8%
          + [Experience Makers Spotlight](aem/aug2022/spotlight.md)
          + [AEM 챔피언 세션 다중 임차인](aem/aug2022/multi-tenancy.md)
          + [AEM 핵심 구성 요소 및 스타일 시스템](aem/aug2022/core-components.md)
-         + [App Builder를 사용하여 AEM Headless 확장](aem/aug2022/app-builder.md)
-      + 마케터/웹 프로듀서 {#marketer}
+         + [App Builder을 사용하여 AEM Headless 확장](aem/aug2022/app-builder.md)
+      + 마케터/웹 제작자 {#marketer}
          + [재사용성의 힘](aem/aug2022/reusability.md)
          + [AEM의 콘텐츠 개인화를 통해 비즈니스 가치 촉진](aem/aug2022/personalization.md)
          + [AEM 구현 최대화](aem/aug2022/implementation.md)
 + Marketo {#marketo}
    + 2022년 2월 {#feb2022}
       + [데이터 유지 관리](marketo/feb2022/data-maintenance.md)
-      + [다이내믹 콘텐츠 및 개인화 기능](marketo/feb2022/dynamic-content.md)
+      + [다이내믹 콘텐츠 및 Personalization의 기능](marketo/feb2022/dynamic-content.md)
       + [Experience Makers Spotlight](marketo/feb2022/experience-makers-spotlight.md)
       + [데이터베이스에 숨겨진 보석 - 다시 참여하는 레코드](marketo/feb2022/hidden-gems.md)
-      + [규모에 맞는 개인화](marketo/feb2022/personalization-at-scale.md)
+      + [규모에 맞는 Personalization](marketo/feb2022/personalization-at-scale.md)
       + [토큰을 사용한 확장성 및 효율성](marketo/feb2022/using-tokens.md)
       + [고객 참여를 위한 참여 프로그램 활용](marketo/feb2022/utilize-engagement-programs.md)
    + 2021년 8월 {#aug2021}
-      + [내에서 프로그램 만들기 [!DNL Marketo Engage]](marketo/aug2021/create-programs.md)
-      + [[!DNL Marketo Engage] 록스타스](marketo/aug2021/engage-rockstars.md)
+      + [ [!DNL Marketo Engage] 내에서 프로그램을 만드는 중](marketo/aug2021/create-programs.md)
+      + [[!DNL Marketo Engage] 록스타](marketo/aug2021/engage-rockstars.md)
       + [스마트 캠페인의 기능](marketo/aug2021/smart-campaign.md)
       + [프로그램 멤버 사용자 정의 필드](marketo/aug2021/program-member-custom-fields.md)
-      + [다음 범위 내 보고 [!DNL Marketo Engage]](marketo/aug2021/reporting.md)
+      + [ [!DNL Marketo Engage] 내 보고](marketo/aug2021/reporting.md)
       + [Marketo 로드맵](marketo/aug2021/marketo-roadmap.md)
    + 2021년 2월 {#feb2021}
       + [사용자 정의 객체 및 속도에 대한 톱 로프](marketo/feb2021/custom-objects.md)
       + [Adobe [!DNL Marketo Engage] Rockstar 세그먼트](marketo/feb2021/rockstar.md)
-      + [Adobe 내에서 프로그램 만들기 [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
+      + [ [!DNL Marketo Engage] Adobe 내에서 프로그램을 만드는 중](marketo/feb2021/create-programs.md)
       + [스마트 캠페인의 기능](marketo/feb2021/power-of-smart-campaign.md)
-      + [다음 범위 내 보고 [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
+      + [ [!DNL Marketo Engage] 내 보고](marketo/feb2021/reporting-within-marketo.md)
       + [Forms을 위한 최고의 팁 및 요령](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + 2023년 8월 {#aug2023}

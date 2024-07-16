@@ -1,5 +1,5 @@
 ---
-title: Commerce 및 Coffee - AI 및 자동화
+title: Commerce 및 커피 - AI 및 자동화
 description: 이 세션은 Adobe Commerce의 AI 기능에 대해 자세히 설명합니다. AI와 자동화가 무엇인지, 고객이 무엇을 기대하게 되었는지, 기업이 이를 무시할 수 없는 이유는 무엇인지에 대해 논의합니다. 그런 다음 Corey는 Adobe Commerce 플랫폼 내에서 제품 Recommendations 및 라이브 검색에 대한 철저한 데모를 수행합니다. 프레젠테이션과 데모에는 Corey와의 라이브 Q&A가 함께 제공됩니다.
 solution: Commerce
 topic: Commerce
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Commerce 및 Coffee - AI 및 자동화
+# Commerce 및 커피 - AI 및 자동화
 
 이 세션은 Adobe Commerce의 AI 기능에 대해 자세히 설명합니다. AI와 자동화가 무엇인지, 고객이 무엇을 기대하게 되었는지, 기업이 이를 무시할 수 없는 이유는 무엇인지에 대해 논의합니다. 그런 다음 Corey는 Adobe Commerce 플랫폼 내에서 제품 Recommendations 및 라이브 검색에 대한 철저한 데모를 수행합니다. 프레젠테이션과 데모에는 Corey와의 라이브 Q&amp;A가 함께 제공됩니다.
 

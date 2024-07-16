@@ -28,4 +28,4 @@ ht-degree: 0%
 
 이 라이브 스트림 이벤트에서 Adobe 제품 전문가가 최신 지능형 오퍼 순위 기능을 소개하고 Adobe Journey Optimizer의 여정 및 캠페인에 오퍼를 추가하는 방법을 보여 주었습니다.  또한 이메일, SMS 및 모바일 앱과 같은 기본 Journey Optimizer 채널뿐만 아니라 Adobe Target과 같은 외부 시스템 및 통합 애플리케이션에 오퍼를 배치할 수 있는 방법을 보여 주었습니다.
 
-Adobe Experience League에서 이 주제에 대한 토론 계속 [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55).
+Adobe Experience League [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55)에서 이 주제에 대한 토론을 계속합니다.

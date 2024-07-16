@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Adobe Commerce 로드맵 주요 내용
 
-Adobe Commerce의 수석 제품 마케팅 관리자인 Ed Kennedy와 함께 Adobe Experience Platform Connector for Adobe Commerce, Intelligent Categories, API Mesh, App Builder, Blue/Green Deployment, Autoscaling을 비롯한 주요 Adobe Commerce 제품 투자와 관련된 최신 업데이트를 알아보십시오.
+Adobe Commerce의 수석 제품 마케팅 관리자인 Ed Kennedy와 함께 Adobe Commerce용 Adobe Experience Platform Connector, Intelligent Categories, API Mesh, App Builder, 파란색/녹색 배포 및 자동 크기 조정을 비롯한 주요 Adobe Commerce 제품 투자와 관련된 최신 업데이트를 알아보십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410838/?quality=12&learn=on)

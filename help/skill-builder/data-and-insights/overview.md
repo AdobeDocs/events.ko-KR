@@ -28,7 +28,7 @@ ht-degree: 1%
       </a>
     </div>
     <p>
-    <em>이 세션에 참여하여 자동 타겟 및 자동 개인화를 사용하여 Adobe Target 기능 자동화 및 최적화에 대한 핵심 개념을 알아보십시오.</em>
+    <em>이 세션에 참여하여 자동 타겟팅 및 자동 개인화를 사용하여 Adobe Target 기능 자동화 및 최적화에 대한 핵심 개념을 알아보십시오.</em>
     <p>
   </td>
   <td>
@@ -37,11 +37,11 @@ ht-degree: 1%
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/innovations.html">
-        <strong>2022년 혁신 및 추세</strong>
+        <strong>2022 혁신 및 추세</strong>
       </a>
     </div>
     <p>
-    <em>이 기조 세션에서는 D&amp;I의 주요 트렌드에 대해 알아봅니다. 참여하여 Experience Cloud 투자를 극대화하여 데이터를 적절하게 사용하는 방법을 알아보고 새로운 혁신을 엿보십시오.</em>
+    <em>이 기조 세션에서는 D&amp;I의 주요 트렌드에 대해 알아봅니다. Experience Cloud 투자를 극대화하여 데이터를 적절하게 사용하고 새로운 혁신을 엿볼 수 있는 방법에 대해 함께 알아보십시오.</em>
     <p>
   </td>  
   <td>
@@ -50,11 +50,11 @@ ht-degree: 1%
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/mobile-and-apps.html">
-        <strong>모바일 및 앱용 Analytics 및 Target 애플리케이션</strong>
+        <strong>모바일 및 앱용 Analytics 및 Target 응용 프로그램</strong>
       </a>
     </div>
     <p>
-    <em>이 세션에서는 모바일 디바이스에서 Analytics 대시보드를 사용하는 방법과 Target을 통해 앱을 개인화하는 방법에 대한 모범 사례에 대해 알아봅니다.</em>
+    <em>이 세션에서는 모바일 장치에서 Analytics 대시보드를 사용하는 방법과 Target을 통해 앱을 개인화하는 방법에 대한 모범 사례를 배웁니다.</em>
     <p>
   </td>
 </tr>

@@ -8,13 +8,13 @@ doc-type: Event
 duration: 1109
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15303
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: 72fc12aa-05fe-4856-9c34-bb61f6f3a295
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
 
 ---
-
 
 # Microsoft Power Automate 기반의 워크플로 자동화
 
@@ -29,5 +29,3 @@ Adobe Acrobat Sign에서 직접 Microsoft의 로우 코드/노 코드 솔루션�
 * 또한 &#x200B; Power Automate를 통해 사용자는 IT 직원을 참여시키지 않고도 Adobe Acrobat Sign 내에서 자동화된 워크플로를 만들고 사용할 수 있습니다.
 * 이러한 자동화된 워크플로우는 효율성, 생산성을 높이고 오류를 줄일 수 있습니다.
 * 또한 Power Automate는 관리자가 아닌 사용자가 워크플로우를 만들 수 있도록 함으로써 사용자가 다양한 애플리케이션과 서비스를 연결하는 플로우를 만들어 작업 및 프로세스를 자동화할 수 있는 플랫폼을 제공합니다. 특정 비즈니스 요구 사항에 따라 사용자 지정된 워크플로우를 빌드하는 데 사용할 수 있는 다양한 트리거와 작업을 제공합니다.
-
-

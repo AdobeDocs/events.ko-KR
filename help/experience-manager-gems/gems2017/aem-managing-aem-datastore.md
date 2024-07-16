@@ -8,7 +8,7 @@ duration: 2780
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,13 +18,13 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/20422/?quality=9)
 
-*2017년 10월 11일에 게재됨*
+*2017년 10월 11일에 배달됨*
 
-**제공 주체:**
+**제공:**
 
 Amit Jain, 수석 컴퓨터 과학자, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/managing-aem-datastoreoct17.pdf)
 <!--

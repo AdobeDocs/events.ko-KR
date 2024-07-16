@@ -1,6 +1,6 @@
 ---
 title: 콘텐츠를 다시 찾는 데 시간을 낭비하지 마십시오.
-description: 일상적인 효율성을 높이는 팁과 요령으로 AEM Sites 및 Media Library 관리 UI에 대해 깊이 있게 살펴봄으로써 숙련된 작성자가 되십시오
+description: 일상적인 효율성을 높이는 팁과 요령으로 AEM의 사이트 및 Media Library 관리 UI에 대해 깊이 있게 살펴봄으로써 숙련된 작성자가 되십시오
 solution: Experience Manager, Experience Manager Sites
 feature-set: Experience Manager Assets
 product: experience manager
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336983/?quality=12&learn=on&hidetitle=true)
 
-일상적인 효율성을 높이는 팁과 요령으로 AEM Sites 및 Media Library 관리 UI에 대해 깊이 있게 살펴봄으로써 숙련된 작성자가 되십시오.
+일상적인 효율성을 높이는 팁과 요령으로 AEM의 Sites 및 Media Library 관리 UI에 대해 깊이 있게 살펴봄으로써 숙련된 작성자가 되십시오.
 
 ## 시리즈 녹화
 

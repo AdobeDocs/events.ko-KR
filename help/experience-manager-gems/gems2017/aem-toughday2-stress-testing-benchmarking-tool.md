@@ -8,7 +8,7 @@ duration: 3141
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 1%
 
 *2017년 6월 21일에 게재됨*
 
-**제공 주체:**
+**제공:**
 
 * Catalin Luta , QE 개발자 , Adobe
 * Andrei Stefan Tuicu , QE 개발자 , Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/aem-gems-toughday2.pdf)
 <!--

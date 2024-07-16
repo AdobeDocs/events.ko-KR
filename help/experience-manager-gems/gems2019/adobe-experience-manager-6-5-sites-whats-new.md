@@ -8,7 +8,7 @@ duration: 3893
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,13 +18,13 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/26368/?quality=9)
 
-*2019/03/06 게재됨*
+*배달 03/06/19*
 
-**제공 주체:**
+**제공:**
 
 * Cedric Huesler, Director 제품 관리, Adobe
 * Gabriel Walt, 제품 관리자, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/aem65-whatsnewgem-march6.pdf)

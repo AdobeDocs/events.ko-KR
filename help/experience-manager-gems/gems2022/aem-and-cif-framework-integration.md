@@ -30,9 +30,9 @@ ht-degree: 9%
 >
 >* [해당 Adobe Experience Manager 사용자 그룹 이벤트 페이지](https://adobe.ly/3O0uXl5/)
 >* [해당 컨텍스트 스레드](https://adobe.ly/3jorz5r)
->* 다음 위치에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/) 예정된 웨비나에 대한 알림을 받으려면.
+>* 예정된 웨비나에 대한 알림을 받으려면 [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/)에 등록하십시오.
 
-**고위급 의제:**
+**높은 수준의 주제:**
 
 * CIF이란 무엇이며 CIF을 사용하는 이유는 무엇입니까?
 

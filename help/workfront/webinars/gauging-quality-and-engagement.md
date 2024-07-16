@@ -57,7 +57,7 @@ QA Engineer
 **Designer**
 ```
 
-여기서 Designer는 이 사용자의 기본 역할입니다.
+여기서 Designer은 이 사용자의 기본 역할입니다.
 
 **질문**
 

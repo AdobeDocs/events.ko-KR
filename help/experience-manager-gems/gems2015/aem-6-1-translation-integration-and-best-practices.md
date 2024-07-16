@@ -8,7 +8,7 @@ duration: 3807
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,14 +18,14 @@ Cristine과 Mathias는 AEM의 향상된 번역 통합 기능과 다국어 웹 �
 
 >[!VIDEO](https://video.tv.adobe.com/v/19371/?quality=9)
 
-*2015년 9월 30일에 게재됨*
+*2015년 9월 30일에 배달됨*
 
-**제공 주체:**
+**제공:**
 
 * Christine Duran, Sr Translation Technologies, Adobe 관리자
 * Mathias Siegel, Sr 제품 관리자, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/09302015-aem-gems-translation-integration-and-best-practices.pdf)
 

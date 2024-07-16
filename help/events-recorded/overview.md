@@ -15,7 +15,7 @@ ht-degree: 3%
 
 ## Experience League을 사용할 때 학습은 이벤트입니다.
 
-독점 이벤트 및 웨비나에 대한 루프에 머물며 학습을 확장하십시오. 이 스페이스를 자주 방문하여 Experience League 라이브, Skill Builders, Developers Live 등과 같은 이전 이벤트 녹화본을 볼 수 있습니다. 예정된 이벤트에 등록하려면 다음을 살펴보십시오. [예정된 이벤트](https://%65xperienceleague.adobe.com/events/?lang=en) Experience League.
+독점 이벤트 및 웨비나에 대한 루프에 머물며 학습을 확장하십시오. 이 스페이스를 자주 방문하여 Experience League 라이브, Skill Builders, Developers Live 등과 같은 이전 이벤트 녹화본을 볼 수 있습니다. 예정된 이벤트를 등록하려면 Experience League에서 [예정된 이벤트](https://%65xperienceleague.adobe.com/events/?lang=en)를 확인하세요.
 
 ## 이벤트 시리즈
 
@@ -143,7 +143,7 @@ ht-degree: 3%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" title="AEM Champion 운영 시간">AEM Champion 운영 시간</a>
+              <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" title="AEM Champion 운영 시간">AEM 챔피언 운영 시간</a>
           </p>
           <p class="is-size-6">
          Adobe Experience Manager의 지식 및 사용을 발전시키고, Experience Manager 사고 리더와 상호 작용하고, 독점 기술 습득에 관심이 있다면 바로 AEM Champion Office Hours 사용자 그룹에 참여하십시오!</p>
@@ -297,7 +297,7 @@ ht-degree: 3%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="EXPERIENCE MANAGER GEMS">EXPERIENCE MANAGER GEMS</a>
+              <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="EXPERIENCE MANAGER GEMS">GEMS Experience Manager</a>
           </p>
           <p class="is-size-6">
          Adobe 전문가가 제공하는 기술 Adobe Experience Manager 딥 다이브. 이 시리즈는 제품 설명서와 Adobe Experience Manager에 대한 다른 모든 기술 채널을 보완한 것으로, 개발자가 특정 주제를 선택하여 자세히 알아볼 수 있습니다.</p>
@@ -385,7 +385,7 @@ ht-degree: 3%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" title="오피스 아워">오피스 아워</a>
+              <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" title="오피스 아워">운영 시간</a>
           </p>
           <p class="is-size-6">
          오피스 아워(Office Hours)는 솔루션별 웨비나를 제공하여 사례 변경에 대한 사전 예방적 접근 방식입니다.</p>
@@ -399,18 +399,18 @@ ht-degree: 3%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="Adobe Commerce 인텔리전스" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-intelligence-webinars.png" alt="Adobe Commerce 인텔리전스">
+        <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="Adobe Commerce Intelligence" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-intelligence-webinars.png" alt="Adobe Commerce Intelligence">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="Adobe Commerce 인텔리전스">Adobe Commerce 인텔리전스</a>
+              <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="Adobe Commerce Intelligence">Adobe Commerce Intelligence</a>
           </p>
           <p class="is-size-6">
-         Adobe Commerce Intelligence(MBI) 웨비나 시리즈는 Adobe Commerce Intelligence 고객을 위한 정기 이벤트입니다. 웨비나는 Adobe Commerce Intelligence를 최대한 활용하기 위한 다양한 주제와 모범 사례를 다룹니다.</p>
+         Adobe Commerce Intelligence(MBI) 웨비나 시리즈는 Adobe Commerce Intelligence 고객을 위한 주기적인 이벤트입니다. 웨비나는 Adobe Commerce Intelligence을 최대한 활용하기 위한 다양한 주제와 모범 사례를 다룹니다.</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>

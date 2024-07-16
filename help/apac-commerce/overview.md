@@ -24,11 +24,11 @@ APAC Commerce 웨비나 시리즈는 모범 사례부터 제품 로드맵 및 �
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html">
-        <strong>Adobe Commerce 가속기의 날</strong>
+        <strong>Adobe Commerce Accelerator Day</strong>
       </a>
     </div>
     <p>
-    <em>Adobe과 CBA(Commonwealth Bank of Australia)는 상거래, 클라우드 및 결제 솔루션의 혁신을 선보입니다.</em>
+    <em>Adobe 및 CBA(Commonwealth Bank of Australia)는 상거래, 클라우드 및 결제 솔루션에서 혁신적인 기능을 제공합니다.</em>
     <p>
   </td>
   <td>
@@ -50,11 +50,11 @@ APAC Commerce 웨비나 시리즈는 모범 사례부터 제품 로드맵 및 �
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/visionary-thinking.html">
-        <strong>크리에이티브 엣지 - 비전적 사고가 Commerce을 변화시키는 방법</strong>
+        <strong>Creative Edge - Visionary Thinking이 Commerce을 변화시키는 방법</strong>
       </a>
     </div>
     <p>
-    <em>창의성과 상업의 통합을 살펴봅니다.</em>
+    <em>창의성과 상업의 통합을 살펴보십시오.</em>
     <p>
   </td>
 </tr>

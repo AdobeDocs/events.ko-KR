@@ -48,7 +48,7 @@ APAC Commerce 웨비나 시리즈 6월 분량에서는 Adobe Digital Experience�
 
 * 보안 취약점을 해결하고 규정 준수를 보장하려면 최신 릴리스로 업그레이드하십시오.
 
-**Fastly 차세대 WAF 통합**
+**빠른 차세대 WAF 통합**
 
 * 보안 조치를 강화하기 위해 진행 중입니다.
 * Collaboration과 Fastly 규칙을 구현하여 악의적인 요청을 차단하는 지원 전문가

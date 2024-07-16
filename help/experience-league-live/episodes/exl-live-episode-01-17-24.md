@@ -23,13 +23,13 @@ Bryan, Eric 및 Doug와 함께 CJA(Customer Journey Analytics)를 사용하여 �
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426778/?quality=12&learn=on)
 
->[!BEGINSHADEBOX 질문이 있습니까?]
+>[!BEGINSHADEBOX &quot;질문이 있습니까?&quot;]
 
-다음에 대한 토론 계속 [Experience League 커뮤니티 포럼 토론](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
+[Experience League 커뮤니티 포럼 토론](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582)에 대한 토론을 계속합니다.
 
 >[!ENDSHADEBOX]
 
-## 핵심 사항
+## 주요 개선 사항
 
 * Adobe Analytics에서 Customer Journey Analytics으로 데이터를 가져오는 방법에는 ADC(Analytics Data Connector)와 웹 SDK의 두 가지가 있습니다.
 * ADC를 사용하면 보고서 세트의 데이터를 분석을 위해 Adobe Experience Platform에 복사할 수 있지만, Web SDK는 데이터를 Adobe Experience Platform으로 직접 전송합니다.

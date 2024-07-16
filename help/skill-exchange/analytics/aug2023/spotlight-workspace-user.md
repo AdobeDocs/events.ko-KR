@@ -1,6 +1,6 @@
 ---
 title: 2023년 8월 성장 트랙 - Experience Makers Spotlight
-description: 레벨링 업 - 캐주얼 Workspace 사용자 교육
+description: 평준화 - 캐주얼 Workspace 사용자 교육
 feature-set: Analytics
 feature: Workspace Basics
 role: User
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 2023년 8월 스킬 교환 이벤트 - Grow Track - Experience Makers Spotlight
 
-레벨링 업 - 캐주얼 Workspace 사용자 교육
+평준화 - 캐주얼 Workspace 사용자 교육
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425993/?learn=on)

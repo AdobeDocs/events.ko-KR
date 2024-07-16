@@ -8,7 +8,7 @@ duration: 3580
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
@@ -18,13 +18,13 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19571/?quality=9)
 
-*2013년 10월 2일에 게재됨*
+*2013년 10월 2일에 배달됨*
 
-**제공 주체:**
+**제공:**
 
 Thierry Yge, 수석 지원 엔지니어, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/gems-cq-troubleshoot-ppt-2.pdf)
 

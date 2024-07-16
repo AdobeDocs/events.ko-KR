@@ -25,8 +25,8 @@ ht-degree: 0%
 
 페이지 편집기에서 기존 React 또는 Angular SPA을 로드하고, 작성자가 최소한의 개입으로 컨텍스트 내에서 편집하는 콘텐츠를 삽입할 수 있습니다.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**.
+**[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331743/?quality=12&learn=on&hidetitle=true)
 
-클릭 **[여기](/help/adobe-developers-live/assets/spa-editor-2-0.pdf)** ( 세션 슬라이드 참조)
+세션 슬라이드를 보려면 **[여기](/help/adobe-developers-live/assets/spa-editor-2-0.pdf)**&#x200B;를 클릭하십시오.

@@ -8,7 +8,7 @@ duration: 3601
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,14 +18,14 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19519/?quality=9)
 
-*2014년 5월 7일에 게재됨*
+*2014년 5월 7일에 배달됨*
 
-**제공 주체:**
+**제공:**
 
 * Gilles Knobloch, 엔지니어링 관리자, Adobe
 * Damien Antipa, 수석 UX 엔지니어, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/user-interface-customization-for-aem6.pdf)
 

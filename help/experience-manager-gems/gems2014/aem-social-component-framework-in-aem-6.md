@@ -8,7 +8,7 @@ duration: 3581
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,17 +18,17 @@ SCF(소셜 구성 요소 프레임워크)는 CQ 5.6.1용 기능 팩으로 사용
 
 >[!VIDEO](https://video.tv.adobe.com/v/19464/?quality=9)
 
-*2014년 8월 13일 게재됨*
+*2014년 8월 13일에 게재됨*
 
-**제공 주체:**
+**제공:**
 
 Siddharth Palaniswami, 소프트웨어 엔지니어링 담당 수석, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/scf-gems.pdf)
 
 ## 관련 링크 {#related-links}
 
-* [코드 샘플에 대한 Github 링크](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
+* 코드 샘플에 대한 [Github 링크](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
 * [소셜 구성 요소 프레임워크](https://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)

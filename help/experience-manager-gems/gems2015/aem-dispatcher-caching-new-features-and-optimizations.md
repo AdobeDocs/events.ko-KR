@@ -8,7 +8,7 @@ duration: 2777
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -18,18 +18,18 @@ AEM 경험을 극대화하려면 AEM Dispatcher 캐시를 미세 조정하는 �
 
 >[!VIDEO](https://video.tv.adobe.com/v/19378/?quality=9)
 
-*2015년 1월 28일 게재됨*
+*2015년 1월 28일 배달됨*
 
-**제공 주체:**
+**제공:**
 
 * Dominique Pfister, 수석 컴퓨터 과학자, Adobe
 * Andrew Khoury, CS 엔지니어, Adobe
 
-**발표자 슬라이드 - 1부**
+**발표자 슬라이드 - 파트1**
 
 [파일 가져오기](assets/aemgems-dispatcher-caching-part1-jan-28-2015.pdf)
 
-**발표자 슬라이드 - 2부**
+**발표자 슬라이드 - 파트2**
 
 [파일 가져오기](assets/aemgems-dispatcher-caching-part2-jan-28-2015.pdf)
 <!--

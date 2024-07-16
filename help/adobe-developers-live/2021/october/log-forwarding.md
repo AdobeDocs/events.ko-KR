@@ -12,7 +12,7 @@ duration: 1738
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 11%
+ht-degree: 10%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 11%
 
 선택한 지원되는 로그 관리 솔루션에서 모든 App Builder 애플리케이션 로그에 액세스합니다. 이 세션에서는 향후 로그 전달 기능 및 이를 일찍 사용해 볼 수 있는 방법에 대한 독점 미리보기를 제공합니다.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/3zXM3rp)**.
+**[Experience League 커뮤니티](https://adobe.ly/3zXM3rp)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337568/?quality=12&learn=on&hidetitle=true)
 

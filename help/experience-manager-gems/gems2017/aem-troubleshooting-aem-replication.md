@@ -10,7 +10,7 @@ duration: 3644
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19282/?quality=9)
 
-*2017년 7월 26일 게재됨*
+*2017년 7월 26일에 게재됨*
 
 **Tommaso Teofili, 개발자, Adobe**
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/aem-gems-troubleshooting-aem-replication.pdf)
 

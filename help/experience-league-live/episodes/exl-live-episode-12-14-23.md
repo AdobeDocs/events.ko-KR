@@ -23,9 +23,9 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425754/?quality=12&learn=on)
 
->[!BEGINSHADEBOX 질문이 있습니까?]
+>[!BEGINSHADEBOX &quot;질문이 있습니까?&quot;]
 
-Adobe Experience League에서 이 주제에 대한 토론 계속 [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14){target="_blank"}.
+Adobe Experience League [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14){target="_blank"}에서 이 주제에 대한 토론을 계속합니다.
 
 >[!ENDSHADEBOX]
 
@@ -33,7 +33,7 @@ Adobe Experience League에서 이 주제에 대한 토론 계속 [커뮤니티 �
 
 현재 Real-Time CDP 전문가로서 제품의 새로운 기능, 중요한 이유 및 Adobe이 고객 데이터 관리 전략을 개선하는 데 어떻게 도움이 될 수 있는지에 대한 통찰력을 찾고 계십니까? 더 이상 보지 마세요. 당신은 올바른 곳에 와 있습니다! 이 시리즈에서는 Real-Time CDP에서 최근 출시된 기능을 자세히 살펴봄으로써 새로운 기능을 바로 활용하고 조직에 영향을 미칠 수 있도록 합니다.
 
-## 핵심 사항
+## 주요 개선 사항
 
 이 세션에서는 지난 몇 달 동안 출시된 5가지 새로운 기능에 대해 논의하고 보여줍니다.
 

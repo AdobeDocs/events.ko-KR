@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Adobe Experience Manager Dev Console의 새로운 메커니즘을 통해 개발자와 타사 애플리케이션 모두에서 클라우드에 있는 Adobe Experience Manager 인스턴스에 인증을 허용하는 방법.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**.
+**[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331768/?quality=12&learn=on&hidetitle=true)
 
-클릭 **[여기](/help/adobe-developers-live/assets/api-authentication.pdf)** ( 세션 슬라이드 참조)
+세션 슬라이드를 보려면 **[여기](/help/adobe-developers-live/assets/api-authentication.pdf)**&#x200B;를 클릭하십시오.

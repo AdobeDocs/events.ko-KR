@@ -1,6 +1,6 @@
 ---
 title: AEM 챔피언 운영 시간 - 4월 에디션
-description: Adobe의 AEM 챔피언 오피스 아워 4월 에디션에 참여하십시오. Adobe Experience Manager AEM 챔피언 패널은 모범 사례에 대해 논의하고, 팁을 공유하며, as a Cloud Service을 둘러싼 라이브 Q&A에 참여하십시오. AEM을 처음 사용하든, Cloud Service AEM 전환에 대해 질문이 있거나, as a Cloud Service으로 전환하는 것이 조직의 요구 사항을 어떻게 충족하는지 이해하고자 한다면 Adobe Experience Manager 챔피언을 통해 몇 가지 중요한 통찰력을 얻으실 수 있을 것입니다.
+description: Adobe의 AEM 챔피언 오피스 아워 4월 에디션에 참여하십시오. Adobe Experience Manager 챔피언 패널은 모범 사례에 대해 논의하고, 팁을 공유하며, AEM as a Cloud Service을 둘러싼 라이브 Q&A에 참여하십시오. AEM을 처음 사용하든, Cloud Service 전환에 대해 질문이 있거나, AEM as a Cloud Service으로 전환하면 조직의 요구 사항을 충족할 수 있는 방법을 이해하고자 하든 Adobe Experience Manager 챔피언을 통해 몇 가지 중요한 통찰력을 얻을 수 있습니다.
 solution: Experience Manager
 feature-set: Experience Manager
 feature: Cloud Manager
@@ -21,8 +21,8 @@ ht-degree: 0%
 
 # AEM 챔피언 운영 시간 - 4월 에디션
 
-Adobe의 AEM 챔피언 오피스 아워 4월 에디션에 참여하십시오. [Adobe Experience Manager 챔피언스 |https://business.adobe.com/blog/the-latest/introducing-the-very-first-adobe-experience-manager-champion-class]모범 사례에 대해 토론하고, 팁을 공유하고, AEMas a Cloud Service 를 둘러싼 라이브 Q&amp;A에 참여하십시오.
+[Adobe Experience Manager 챔피언의 패널로 4월 Adobe의 AEM 챔피언 운영 시간 에디션에 참여하십시오. |https://business.adobe.com/blog/the-latest/introducing-the-very-first-adobe-experience-manager-champion-class]모범 사례에 대해 논의하고 팁을 공유하며 AEM as a Cloud Service을 둘러싼 실시간 Q&amp;A에 참여하십시오.
 
-AEM을 처음 사용하든, Cloud Service AEM 전환에 대해 질문이 있거나, as a Cloud Service으로 전환하는 것이 조직의 요구 사항을 어떻게 충족하는지 이해하고자 한다면 Adobe Experience Manager 챔피언을 통해 몇 가지 중요한 통찰력을 얻으실 수 있을 것입니다.
+AEM을 처음 사용하든, Cloud Service 전환에 대해 질문이 있거나, AEM as a Cloud Service으로 전환하면 조직의 요구 사항을 충족할 수 있는 방법을 이해하고자 하든 Adobe Experience Manager 챔피언을 통해 몇 가지 중요한 통찰력을 얻을 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419001/?learn=on)

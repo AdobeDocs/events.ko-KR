@@ -22,12 +22,12 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27088/?quality=9)
 
-*2019년 4월 16일 배송*
+*19/04/16 배달됨*
 
-**제공 주체:**
+**제공:**
 
 * Amol Anand, 수석 컨설턴트, 기술 설계자, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/headless-omnichannelwebinar04162019.pdf)

@@ -8,7 +8,7 @@ duration: 3482
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -16,16 +16,16 @@ ht-degree: 3%
 
 이 세션에서는 다국어 웹 사이트 관리를 위한 최신 AEM 번역 기능 및 모범 사례를 제공합니다. 전역 웹 사이트를 구성하고 언어 사본, 라이브 카피 및 MSM을 사용하는 방법을 알아봅니다. 또한 이 세션에서는 고급 기능을 사용하여 보다 쉽고 빠르며 관리가 용이한 콘텐츠 번역을 수행하는 방법에 대해 다룹니다.
 
-**제공 주체:**
+**제공:**
 
 * Ankur Sial, 컴퓨터 과학자, Adobe
 * Harpreet Neelu, 프로그램 관리자, Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/31153?quality=9)
 
-*2020/01/22 배달됨*
+*2020년 1월 22일에 배달됨*
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/gems-2020-translations.pdf)
 

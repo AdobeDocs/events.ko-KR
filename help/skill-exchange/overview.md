@@ -67,7 +67,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
       <img alt="당신의 Workfront을 와우 10 팁" src="./assets/workfront-10-tips.png"/>
       </a>
       <div>
-         <a href="workfront/apr2022/ten-tips.md"><strong>당신의 Workfront을 와우 10 팁</strong></a>
+         <a href="workfront/apr2022/ten-tips.md"><strong>Workfront을 감상하는 10가지 팁</strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>

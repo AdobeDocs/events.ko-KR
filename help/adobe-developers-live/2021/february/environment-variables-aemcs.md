@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Adobe Experience Manager as a Cloud Service을 사용하여 환경 변수를 관리하고 빌드 프로세스 또는 OSGI 구성 변수의 컨텍스트에서 사용하는 방법에 대해 알아봅니다.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**.
+**[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332304/?quality=12&learn=on&hidetitle=true)
 
-클릭 **[여기](/help/adobe-developers-live/assets/environment-variables-aemcs.pdf)** ( 세션 슬라이드 참조)
+세션 슬라이드를 보려면 **[여기](/help/adobe-developers-live/assets/environment-variables-aemcs.pdf)**&#x200B;를 클릭하십시오.

@@ -14,7 +14,7 @@ duration: 1165
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 15%
+ht-degree: 14%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 15%
 
 언어 사본, 라이브 카피 및 대량의 이동 또는 복사 작업을 처리할 때 개발자를 위한 몇 가지 모범 사례에 대한 자세한 개요입니다.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/39DoIQT)**.
+**[Experience League 커뮤니티](https://adobe.ly/39DoIQT)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337723/?quality=12&learn=on&hidetitle=true)
 

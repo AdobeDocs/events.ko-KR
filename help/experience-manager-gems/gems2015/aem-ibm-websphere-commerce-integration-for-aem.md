@@ -8,7 +8,7 @@ duration: 3336
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,12 +20,12 @@ Commerce integration framework(CIF)는 문서화된 통합 패턴, 참조 코드
 
 *2015년 9월 9일에 게재됨*
 
-**제공 주체:**
+**제공:**
 
 * Martin Buergi, 제품 관리자, Adobe
 * Markus Haack, 수석 개발자, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/150909-aem-gems-ibm-websphere-commerce-integration.pdf)
 <!--

@@ -1,5 +1,5 @@
 ---
-title: Cloud Manager를 사용한 모범 사례 테스트 - 2019년 9월
+title: Cloud Manager을 사용한 모범 사례 테스트 - 2019년 9월
 description: 여기에 설명
 sub-product: cloud-manager
 feature-set: Experience Manager
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 ---
 
-# Cloud Manager를 사용한 모범 사례 테스트 - 2019년 9월
+# Cloud Manager을 사용한 모범 사례 테스트 - 2019년 9월
 
 >[!VIDEO](https://video.tv.adobe.com/v/329028/?quality=9&learn=on)
 

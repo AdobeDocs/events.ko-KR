@@ -8,7 +8,7 @@ duration: 2883
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
@@ -18,17 +18,17 @@ AEM 애플리케이션 플랫폼 아키텍처의 발전에 대해 알아봅니�
 
 >[!VIDEO](https://video.tv.adobe.com/v/19575/?quality=9)
 
-*2013년 5월 8일에 게재됨*
+*2013년 5월 8일에 배달됨*
 
-**제공 주체:**
+**제공:**
 
 Felix Meschberger, Adobe 수석 과학자
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/20130508-aem56-architecture.pdf)
 
-**세션 질문 및 답변**
+**세션 질문과 대답**
 
 [파일 가져오기](assets/questionsanswers-aem56-architecture.pdf)
 

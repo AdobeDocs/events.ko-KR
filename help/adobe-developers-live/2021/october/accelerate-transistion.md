@@ -28,12 +28,12 @@ Adobe Experience Manager as a Cloud Service를 활용하여 자동화를 통해 
 
 실제 Adobe Experience Manager 고객 코드 기반에서 도구 실행을 보여줌으로써 코드 리팩터링 도구 사용에 대한 모범 사례를 사람들이 이해하는 데 도움이 되기를 바랍니다.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/3ETr7FI)**.
+**[Experience League 커뮤니티](https://adobe.ly/3ETr7FI)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338036/?quality=12&learn=on&hidetitle=true)
 
 ## 추가 리소스
 
-- [Adobe Experience Manager 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ko-KR)
+- [Adobe Experience Manager 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 - [Adobe Experience Manager Cloud Service 개요](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager 자습서](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

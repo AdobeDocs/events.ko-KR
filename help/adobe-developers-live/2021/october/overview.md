@@ -33,7 +33,7 @@ Adobe Experience Cloud, Document Cloud 및 Creative Cloud의 Adobe 제품 팀은
       </a>
       <div>
          <a href="headless.md"><strong>헤드리스 사이트</strong></a>         
-         <br/><em>AEM Sites의 수석 제품 관리자인 Mathias Siegel과 함께</em>
+         <br/><em>Mathias Siegel, AEM Sites 제품 관리자</em>
       </div>
       <p>
         <br/>
@@ -46,7 +46,7 @@ Adobe Experience Cloud, Document Cloud 및 Creative Cloud의 Adobe 제품 팀은
       </a>
       <div>
          <a href="aep-integration.md"><strong>Adobe Experience Platform 통합 개요</strong></a>
-         <br/><em>주요 엔터프라이즈 솔루션 설계자인 Eric Knee와 함께</em>
+         <br/><em>Eric Knee, 주요 엔터프라이즈 솔루션 설계자</em>
       </div>
       <p>
         <br/>
@@ -60,7 +60,7 @@ Adobe Experience Cloud, Document Cloud 및 Creative Cloud의 Adobe 제품 팀은
       </a>
       <div>
          <a href="pdf-services-api.md"><strong>Adobe Sign API를 사용하여 앱에서 문서 생성 및 전자 서명 캡처</strong></a>
-         <br/><em>수석 개발자 Evangelist인 Ben Vanderberg와 함께</em>
+         <br/><em>Ben Vanderberg, 수석 개발자 Evangelist와 함께</em>
       </div>
       <p>
         <br/>
@@ -72,7 +72,7 @@ Adobe Experience Cloud, Document Cloud 및 Creative Cloud의 Adobe 제품 팀은
 
 >[!TIP]
 >
->**모든 세션이 왼쪽의 탐색에 나열됩니다.**.
+>**모든 세션이 왼쪽의 탐색에 나열됩니다**.
 
 ## 추가 리소스
 
@@ -83,7 +83,7 @@ Adobe Experience Cloud, Document Cloud 및 Creative Cloud의 Adobe 제품 팀은
 * [AEM Sites 개발 설명서](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
 * [AEM Sites 관리 설명서](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
 * [AEM Sites 배포 설명서](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
-* [AEM as a Cloud Service Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html)
+* [AEM as a Cloud Service Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=ko-KR)
 * [AEM Assets 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html)
 * [AEM Forms 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
 * [AEM Foundation 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
@@ -98,4 +98,4 @@ Adobe Experience Cloud, Document Cloud 및 Creative Cloud의 Adobe 제품 팀은
 
 * [App Builder 개요](https://adobe.ly/aem-appbuilder)
 * [App Builder 개발자 안내서](https://adobe.ly/appbuilder)
-* [App Builder 체험판 프로그램 등록](https://adobe.ly/appbuilder-trial)
+* [App Builder 평가판 프로그램 등록](https://adobe.ly/appbuilder-trial)

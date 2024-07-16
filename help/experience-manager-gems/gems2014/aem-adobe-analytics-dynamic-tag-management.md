@@ -9,7 +9,7 @@ duration: 2846
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -19,13 +19,13 @@ AEM 6에는 Adobe이 웹 사이트에 Adobe Analytics(및 Marketing Cloud의 다
 
 >[!VIDEO](https://video.tv.adobe.com/v/19401/?quality=9)
 
-*2014년 10월 1일에 게재됨*
+*2014년 10월 1일에 배달됨*
 
-**제공 주체:**
+**제공:**
 
 Sandro Looser, 솔루션 설계자, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/dtm-10-1-2014.pdf)
 
@@ -35,7 +35,7 @@ Sandro Looser, 솔루션 설계자, Adobe
 
 [DTM 도움말](https://experienceleague.adobe.com/docs/data-collection.html?lang=en)
 
-[DTM에 대한 액세스 권한 요청](https://dtm.adobe.com/request_access)
+[DTM에 대한 액세스 요청](https://dtm.adobe.com/request_access)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

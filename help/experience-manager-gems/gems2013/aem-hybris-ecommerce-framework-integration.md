@@ -8,7 +8,7 @@ duration: 1878
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,13 +18,13 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19578/?quality=9)
 
-*2013년 5월 13일에 게재됨*
+*2013년 5월 13일에 배달됨*
 
-**제공 주체:**
+**제공:**
 
 Felix Oghina, Adobe 제품 개발자
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/hybris-aem-5-6-ecommerce-framework-integration.pdf)
 

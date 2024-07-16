@@ -1,6 +1,6 @@
 ---
 title: 전문가에게 문의 - 속도 측정
-description: 다음을 사용하여 속도를 측정하고 추적하는 방법에 대해 알아보기 [!DNL Workfront] 보고. 이 워크숍은 2019년 8월 14일에 녹화되었습니다.
+description: ' [!DNL Workfront] 보고를 사용하여 속도를 측정하고 추적하는 방법에 대해 알아봅니다. 이 워크숍은 2019년 8월 14일에 녹화되었습니다.'
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
@@ -10,13 +10,13 @@ duration: 4630
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '3967'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # 전문가에게 문의 - 속도 측정
 
-다음을 사용하여 속도를 측정하고 추적하는 방법에 대해 알아보기 [!DNL Workfront] 보고. 이 워크숍은 2019년 8월 14일에 녹화되었습니다.
+[!DNL Workfront] 보고를 사용하여 속도를 측정하고 추적하는 방법에 대해 알아봅니다. 이 워크숍은 2019년 8월 14일에 녹화되었습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341057/?quality=12)
 
@@ -59,7 +59,7 @@ IF(ISBLANK({DE:First Duration}),{defaultBaseline}.{durationMinutes},{DE:First Du
 ROUND(DIV({actualDurationMinutes},{DE:First Duration}),1)
 ```
 
-**작업-커밋 비율 상태**
+**Work-to-Commit 비율 상태**
 
 형식:텍스트
 
@@ -99,7 +99,7 @@ IF({DE:Adjusted Velocity}>2,"Terrible",IF({DE:Adjusted Velocity}>1.6,"Poor",IF({
 
 이와 같은 상황에서는 필터링 및 벌크 편집을 사용하여 상태 사용자 정의 필드를 기반으로 조건 필드를 채우는 작업을 반자동화할 수 있습니다.
 
-단계는 다음과 같습니다.
+다음은 단계입니다.
 
 1. 조건 값에 매핑할 상태 값을 결정합니다. 예를 들어 상태 값이 &quot;지연&quot; 및 &quot;매우 지연&quot;이고 둘 다 &quot;문제 발생&quot;이라는 상태 값에 매핑된다고 가정해 보겠습니다.
 1. 상태 값이 &quot;지연&quot; 및 &quot;매우 지연&quot;인 모든 프로젝트를 표시하는 프로젝트 보고서 만들기
@@ -413,7 +413,7 @@ COLUMN 레벨에서 아무 것도 계산할 수 있습니까? 사용자 정의 �
 
 **질문**
 
-보고서에서 값이 열로 사용 가능하지만 선택 또는 그룹화에는 사용할 수 없는 이유는 무엇입니까? 예: 문제 소스.
+보고서에서 값이 열로 사용 가능하지만 선택 또는 그룹화에는 사용할 수 없는 이유는 무엇입니까? 예: 문제 Source.
 
 **답변**
 

@@ -8,7 +8,7 @@ duration: 3968
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -20,12 +20,12 @@ Oak의 쿼리 엔진에 대해 알아보고 Jackrabbit 2.x와 어떻게 비교�
 
 *2014년 11월 19일에 게재됨*
 
-**제공 주체:**
+**제공:**
 
 * Thomas Mueller, 수석 소프트웨어 엔지니어
 * Marcel Reutegger, 수석 소프트웨어 엔지니어
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/aem-6-oak-mongomk-and-queries.pdf)
 

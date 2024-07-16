@@ -27,8 +27,9 @@ Adobe Experience Manager 고객 챔피언 Kartik Sharma와 함께 핵심 구성 
 
 * WCM(Web Content Management) 핵심 구성 요소를 통해 웹 사이트 개발 가속화 및 유지 관리 비용 절감
 * 티저 구성 요소를 여러 디자인 변형을 가진 카드 스타일 구성 요소로 변환하는 방법을 보여 주는 라이브 데모입니다
-* 스타일 시스템 최적화를 위한 모범 사례 *프론트엔드 파이프라인을 사용하여 UI 변경 사항을 효율적으로 배포하는 단계별 데모
+* 스타일 시스템 최적화를 위한 모범 사례
+*프론트엔드 파이프라인을 사용하여 UI 변경 사항을 효율적으로 배포하는 단계별 데모
 
-프레젠테이션 슬라이드에 액세스할 수 있습니다 [여기](/help/learn-from-your-peers/assets/experience-manager/sept2023/aem-core-components.pdf).
+프레젠테이션 슬라이드 [여기](/help/learn-from-your-peers/assets/experience-manager/sept2023/aem-core-components.pdf)에 액세스할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425841/?learn=on)

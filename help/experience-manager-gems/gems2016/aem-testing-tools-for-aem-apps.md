@@ -8,7 +8,7 @@ duration: 3351
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 37%
+ht-degree: 36%
 
 ---
 
@@ -18,11 +18,11 @@ Experience Manager의 단위 테스트부터 통합 테스트까지 애플리케
 
 >[!VIDEO](https://video.tv.adobe.com/v/19302/?quality=9)
 
-*2016년 12월 14일 발표*
+*2016년 12월 14일에 발표됨*
 
-**로버트 문테아누와 카르스텐 지겔러**
+**Robert Munteanu 및 Carsten Ziegeler**
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/aem-gems-tools-for-testing-12-14-16.pdf)
 <!--

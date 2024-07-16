@@ -1,6 +1,6 @@
 ---
-title: Adobe App Builder를 사용하여 Adobe Experience Manager Headless 확장
-description: 이벤트 기반 통합, 확장 가능한 서버리스 처리에서 단일 페이지 애플리케이션(SPA)에 이르기까지 App Builder는 Headless 방식으로 Adobe Experience Manager과 타사 시스템을 통합하는 강력한 기능을 제공합니다. App Builder가 Adobe Experience Manager을 확장하는 데 사용된 실제 사용 사례 및 일반적인 패턴을 살펴봅니다.
+title: Adobe App Builder을 사용하여 Adobe Experience Manager Headless 확장
+description: 이벤트 기반 통합, 확장 가능한 서버리스 처리에서 단일 페이지 애플리케이션(SPA)에 이르기까지 App Builder은 헤드리스 방식으로 Adobe Experience Manager과 타사 시스템을 통합하는 강력한 기능을 제공합니다. Adobe Experience Manager을 확장하는 데 App Builder이 사용된 실제 사용 사례 및 일반적인 패턴을 살펴봅니다.
 solution: Experience Manager
 topic: Headless
 role: User
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe App Builder를 사용하여 Adobe Experience Manager Headless 확장
+# Adobe App Builder을 사용하여 Adobe Experience Manager Headless 확장
 
-이벤트 기반 통합, 확장 가능한 서버리스 처리에서 단일 페이지 애플리케이션(SPA)에 이르기까지 App Builder는 Headless 방식으로 Adobe Experience Manager과 타사 시스템을 통합하는 강력한 기능을 제공합니다. App Builder가 Adobe Experience Manager을 확장하는 데 사용된 실제 사용 사례 및 일반적인 패턴을 살펴봅니다.
+이벤트 기반 통합, 확장 가능한 서버리스 처리에서 단일 페이지 애플리케이션(SPA)에 이르기까지 App Builder은 헤드리스 방식으로 Adobe Experience Manager과 타사 시스템을 통합하는 강력한 기능을 제공합니다. Adobe Experience Manager을 확장하는 데 App Builder이 사용된 실제 사용 사례 및 일반적인 패턴을 살펴봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346385/?quality=12&learn=on)

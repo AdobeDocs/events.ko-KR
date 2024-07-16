@@ -1,6 +1,6 @@
 ---
-title: Adobe 앱 빌더, Adobe IO, 웹후크 및 관리 UI SDK에 대해 알아보기
-description: Adobe 앱 빌더, Adobe IO, 웹후크, 관리 UI SDK에 대해 알아봅니다.  다음은 일반적인 사용 사례를 이해하는 데 도움이 되는 각각의 새로운 기능에 대한 소개입니다.
+title: App Builder Adobe, IO Adobe, 웹후크 및 관리 UI SDK에 대해 알아보기
+description: App Builder Adobe, IO Adobe, 웹후크, 관리 UI SDK에 대해 알아봅니다.  다음은 일반적인 사용 사례를 이해하는 데 도움이 되는 각각의 새로운 기능에 대한 소개입니다.
 solution: Commerce
 feature: App Builder
 topic: Development
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe 앱 빌더, Adobe IO, 웹후크 및 관리 UI SDK에 대해 알아보기
+# App Builder Adobe, IO Adobe, 웹후크 및 관리 UI SDK에 대해 알아보기
 
-Adobe 앱 빌더, Adobe IO, 웹후크, 관리 UI SDK에 대해 알아봅니다.  다음은 일반적인 사용 사례를 이해하는 데 도움이 되는 각각의 새로운 기능에 대한 소개입니다.
+App Builder Adobe, IO Adobe, 웹후크, 관리 UI SDK에 대해 알아봅니다.  다음은 일반적인 사용 사례를 이해하는 데 도움이 되는 각각의 새로운 기능에 대한 소개입니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425805/?learn=on)

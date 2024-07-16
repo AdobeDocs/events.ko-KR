@@ -20,7 +20,7 @@ ht-degree: 0%
 
 준비는 성공의 열쇠입니다. 이 웨비나에서는 Adobe Commerce을 활용하여 이 중요한 거래 기간(또는 귀하의 비즈니스가 1년 동안 경험할 수 있는 다른 모든 판매 이벤트) 동안 판매 및 성과를 극대화하기 위한 모범 사례를 안내합니다.
 
-Commerce Solutions Consulting APAC의 Jason Ford 관리자와 수석 커머스 계정 관리자인 Sophia Gray가 다음 주제를 다룹니다.
+Commerce 솔루션 컨설팅 APAC 관리자인 Jason Ford와 수석 Commerce 계정 관리자인 Sophia Gray가 다음 주제를 다룹니다.
 
 * 캠페인 준비
 * 성능 고려 사항

@@ -12,7 +12,7 @@ duration: 2740
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 19%
+ht-degree: 17%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 19%
 
 Adobe Creative Cloud, Document Cloud 및 Experience Cloud에서 사용할 수 있는 최신 기술 발전 및 개발자 도구 업데이트에 대해 알아봅니다.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/3F2g1ym)**.
+**[Experience League 커뮤니티](https://adobe.ly/3F2g1ym)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337490/?quality=12&learn=on&hidetitle=true)
 

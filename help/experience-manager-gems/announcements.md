@@ -22,4 +22,4 @@ ht-degree: 0%
 >[!NOTE]
 >
 >* 예정된 세션에 대한 정보는 2022년 11월 초에 제공됩니다.
->* 다음 위치에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/) 예정된 웨비나에 대해 자동으로 알림을 받습니다.
+>* 예정된 웨비나에 대한 알림을 자동으로 받으려면 [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/)에 등록하십시오.

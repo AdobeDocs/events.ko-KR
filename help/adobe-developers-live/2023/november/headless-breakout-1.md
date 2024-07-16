@@ -24,6 +24,6 @@ ht-degree: 0%
 
 Catalina Dumitru가 Adobe Developers Live에서 라이브로 녹음한 이 세션에서 Adobe Experience Manager의 헤드리스 API의 잠재력을 알아보십시오. 태그 지정, 버전 관리 및 끝점 검색을 포함하여 이러한 API의 확장된 기능에 대해 알아봅니다. 디지털 채널 전반에서 앱과 유사한 경험을 위한 효율적인 콘텐츠 검색을 용이하게 하는 방법에 대해 알아보고 이러한 API의 실제 애플리케이션을 확인해 보십시오. 이 세션은 혁신적인 솔루션에 Headless 기술을 활용하려는 개발자에게 매우 유용한 리소스입니다.
 
-에서 대화 계속 [Experience League 커뮤니티](https://adobe.ly/3rJfZcN).
+[Experience League 커뮤니티](https://adobe.ly/3rJfZcN)에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425627/?learn=on)

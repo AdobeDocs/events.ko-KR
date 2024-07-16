@@ -1,7 +1,7 @@
 ---
 user-guide-title: Commerce Intelligence 이벤트
 breadcrumb-title: Commerce Intelligence 이벤트
-user-guide-description: Commerce Intelligence Events는 전문가 및 동료가 Adobe Commerce Intelligence에 대한 생각과 아이디어를 공유한 비디오 라이브러리입니다.
+user-guide-description: Commerce Intelligence 이벤트는 전문가와 동료가 Adobe Commerce Intelligence에 대한 생각과 아이디어를 공유한 비디오 라이브러리입니다.
 source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
 source-wordcount: '77'
@@ -22,8 +22,8 @@ ht-degree: 5%
 + 2021 {#2021}
    + [Commerce Intelligence Data Warehouse 최적화](2021-22/optimize-data-warehouse.md)
    + [Commerce Intelligence 대시보드 심층 분석](2021-22/dashboards-deep-dive.md)
-   + [Commerce Intelligence를 통한 휴일 준비](2021-22/holiday-readiness.md)
-   + [Commerce 인텔리전스 - 전문가에게 문의](2021-22/ask-expert.md)
+   + [Commerce Intelligence으로 휴일 준비](2021-22/holiday-readiness.md)
+   + [Commerce Intelligence - 전문가에게 문의](2021-22/ask-expert.md)
 
 <!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)

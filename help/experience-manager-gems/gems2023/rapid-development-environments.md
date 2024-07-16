@@ -44,6 +44,6 @@ RDE를 사용하면 개발자가 변경 사항을 신속하게 배포하고 검�
 
 >[!NOTE]
 >
->* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 다음을 방문하십시오. [컨텍스트 기반 스레드](http://bit.ly/3x1Cl8x)
+>* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 이 [컨텍스트 스레드](http://bit.ly/3x1Cl8x)를 참조하십시오.
 >
->* 예정된 웨비나에 대한 알림을 받으려면 다음 위치에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
+>* 예정된 웨비나에 대한 알림을 받으려면 [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/)에 등록하십시오.

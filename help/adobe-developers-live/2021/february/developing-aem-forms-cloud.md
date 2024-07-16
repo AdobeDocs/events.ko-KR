@@ -24,8 +24,8 @@ ht-degree: 0%
 
 이 세션은 개발자가 Adobe Experience Manager as a Cloud Service의 로컬 설정에서 사용자 지정에 대한 Forms을 Adobe Experience Manager Forms에서 시작할 수 있도록 지원합니다.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**.
+**[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332306/?quality=12&learn=on&hidetitle=true)
 
-클릭 **[여기](/help/adobe-developers-live/assets/developing-aem-forms-cloud.pdf)** ( 세션 슬라이드 참조)
+세션 슬라이드를 보려면 **[여기](/help/adobe-developers-live/assets/developing-aem-forms-cloud.pdf)**&#x200B;를 클릭하십시오.

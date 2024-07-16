@@ -12,7 +12,7 @@ duration: 1843
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 12%
+ht-degree: 11%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 12%
 
 Adobe Experience Manager 현대화 도구 세트에서 사용할 수 있는 기능을 보여 줍니다. 개발 팀이 이를 사용하여 구성 요소 라이브러리가 발전함에 따라 작성자의 부담을 줄이기 위해 콘텐츠를 통합, 변환 또는 업그레이드하는 방법에 대해 알아봅니다.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/3zJuUBH)**.
+**[Experience League 커뮤니티](https://adobe.ly/3zJuUBH)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337577/?quality=12&learn=on&hidetitle=true)
 

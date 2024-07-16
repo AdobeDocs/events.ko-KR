@@ -19,6 +19,6 @@ ht-degree: 0%
 
 이 기조 세션에서는 B2B 및 B2C에서 고객 여정 관리의 최신 트렌드에 대해 알아봅니다. 또한 주요 여정 애플리케이션과 광범위한 Adobe Experience Cloud 및 Platform의 최신 혁신 기술을 공유합니다. 놓치지 마세요!
 
-*티모 콜베르크* 수석 관리자 및 EMEA 리드 제품 마케팅/Adobe
+*Timo Kohlberg* 수석 관리자 및 EMEA 리드 제품 마케팅/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343822/?quality=12&learn=on)

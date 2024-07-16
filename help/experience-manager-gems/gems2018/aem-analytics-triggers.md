@@ -9,7 +9,7 @@ duration: 2746
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 1%
 
 *2018년 6월 27일에 게재됨*
 
-**제공 주체:**
+**제공:**
 
 Sarah Xu, 개발자 전도사, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/gems+6+27+18+adobe+io+analytics+triggers.pdf)
 
@@ -35,7 +35,7 @@ Sarah Xu, 개발자 전도사, Adobe
 
 >[!MORELIKETHIS]
 >
->* [Solr as a Oak index for AEM](solr-as-an-oak-index-for-aem.md)
+>* [AEM용 Oak 색인으로 Solr](solr-as-an-oak-index-for-aem.md)
 >* [AEM 6.4를 사용하여 더 강력한 Asset Analytics 잠금 해제](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
 
 <!-- this link is broken: >* [Getting the most out of digital interactions with AEM and Analytics](https://helpx.adobe.com/experience-manager/kt/eseminars/ask-the-expert/aem-getting-the-most-out-of-digital-interactions-with-aem-and-analytics.html) 

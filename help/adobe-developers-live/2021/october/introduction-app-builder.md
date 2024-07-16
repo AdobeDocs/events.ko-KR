@@ -1,6 +1,6 @@
 ---
 title: App Builder 소개 - 비즈니스 요구 사항을 충족하는 사용자 정의 클라우드 앱을 빌드하는 데 필요한 모든 사항
-description: App Builder의 기능을 살펴보고 알고 싶은 모든 것을 질문하십시오. App Builder를 통해 Adobe Experience Manager 및 기타 Adobe 제품의 기본 기능을 확장하기 위해 클라우드 네이티브 애플리케이션을 구축하는 방법에 대해 자세히 알아보십시오. 일반적인 사용 사례에 대해 알아보고 App Builder 구축을 시작하는 방법을 살펴봅니다.
+description: App Builder에서 가능한 사항을 살펴보고 알고 싶은 모든 것을 질문하십시오. App Builder을 통해 Adobe Experience Manager 및 기타 Adobe 제품의 기본 기능을 확장하기 위해 클라우드 네이티브 애플리케이션을 구축하는 방법에 대해 자세히 알아보십시오. 일반적인 사용 사례에 대해 알아보고 App Builder 빌드를 시작하는 방법을 살펴봅니다.
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -12,15 +12,15 @@ duration: 1829
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 7%
+ht-degree: 6%
 
 ---
 
 # App Builder 소개 - 비즈니스 요구 사항을 충족하는 사용자 정의 클라우드 앱을 빌드하는 데 필요한 모든 사항
 
-App Builder의 기능을 살펴보고 알고 싶은 모든 것을 질문하십시오. App Builder를 통해 Adobe Experience Manager 및 기타 Adobe 제품의 기본 기능을 확장하기 위해 클라우드 네이티브 애플리케이션을 구축하는 방법에 대해 자세히 알아보십시오. 일반적인 사용 사례에 대해 알아보고 App Builder 구축을 시작하는 방법을 살펴봅니다.
+App Builder에서 가능한 사항을 살펴보고 알고 싶은 모든 것을 질문하십시오. App Builder을 통해 Adobe Experience Manager 및 기타 Adobe 제품의 기본 기능을 확장하기 위해 클라우드 네이티브 애플리케이션을 구축하는 방법에 대해 자세히 알아보십시오. 일반적인 사용 사례에 대해 알아보고 App Builder 빌드를 시작하는 방법을 살펴봅니다.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/3AYeJlv)**.
+**[Experience League 커뮤니티](https://adobe.ly/3AYeJlv)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337767/?quality=12&learn=on&hidetitle=true)
 

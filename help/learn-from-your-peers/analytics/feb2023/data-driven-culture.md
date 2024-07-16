@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Adobe Analytics] 데이터 기반 문화 구축'
-description: 가입 [!DNL Adobe Analytics] 챔피언 Gitai Ben-Ammi는 데이터 기반 문화가 어떤 모습인지에 대해 논의하고 사용 전략을 공유합니다 [!DNL Adobe Analytics] 하나를 만듭니다.
+title: '[!DNL Adobe Analytics] 데이터 기반 Culture 구축'
+description: Gitai Ben-Ammi가 데이터 기반 문화의 모양에 대해 토론하고  [!DNL Adobe Analytics] 을(를) 사용하여 하나의 문화를 구축하기 위한 전략을 공유하면서  [!DNL Adobe Analytics] 챔피언 Gitai Ben-Ammi에 참여하십시오.
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 데이터 기반 문화 구축
 
-가입 [!DNL Adobe Analytics] 챔피언 Gitai Ben-Ammi는 데이터 기반 문화가 어떤 모습인지에 대해 논의하고 사용 전략을 공유합니다 [!DNL Adobe Analytics] 하나를 만듭니다.
+[!DNL Adobe Analytics] 챔피언 Gitai Ben-Ammi와 함께 데이터 기반 문화가 어떻게 생겼는지에 대해 논의하고 [!DNL Adobe Analytics]을(를) 사용하여 하나의 문화를 구축하기 위한 전략을 공유하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414131/?quality=12&learn=on)

@@ -24,6 +24,6 @@ ht-degree: 0%
 
 Ian Boston, Tomek Rekawek 및 Carlos Sanchez와 함께 Adobe Experience Manager을 클라우드로 성공적으로 옮긴 방법에 대한 패널.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**.
+**[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331739/?quality=12&learn=on&hidetitle=true)

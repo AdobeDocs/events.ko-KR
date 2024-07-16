@@ -17,7 +17,7 @@ duration: 3317
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
@@ -34,9 +34,9 @@ DAM 설정 및 사용의 기본 사항.
 * [AEM Assets 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html)
 * [AEM Assets 폴더 구조 설정](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
 * [AEM Assets 폴더 권한 설정](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html)
-* [컬렉션을 사용하여 에셋 구성 및 공유](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
-* [머신 러닝을 통해 시각적으로 유사한 에셋 찾기](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [동적 검색 패싯을 사용하여 정확하고 정확한 검색 결과 얻기](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
+* [컬렉션을 사용하여 자산 구성 및 공유](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
+* [기계 학습으로 시각적으로 유사한 자산 찾기](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
+* [동적 검색 패싯을 사용하여 정확하고 정확한 검색 결과를 얻으십시오](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
 * [고급 전체 텍스트 검색 구문](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
 
 ## 시리즈 녹화

@@ -1,6 +1,6 @@
 ---
 title: Marketo 및 Mochas - 전달성(2부)
-description: 이 Marketo & Mochas 세션에서는 Marketo Deliverability Manager인 Sean Wirt가 Gmail로의 전달성, Apple Mail Privacy 및 공유 및 전용 IP에 대한 리캡을 강조하는 전달성 모범 사례를 검토합니다. Sean은 의 전달성 도구에 대한 제품 시연에서 긴 시간을 거쳤습니다. [!DNL Marketo Engage] 시드 목록을 가져오고 스마트 목록, 보고서 등을 만드는 방법도 알아보십시오. 이 행사는 Sean이 등록자와 참석자의 질문에 답변하는 확장된 Q&A 세션으로 마무리됩니다.
+description: 이 Marketo & Mochas 세션에서는 Marketo Deliverability Manager인 Sean Wirt가 Gmail로의 전달성, Apple Mail Privacy 및 공유 및 전용 IP에 대한 리캡을 강조하는 전달성 모범 사례를 검토합니다. Sean은  [!DNL Marketo Engage] 에서 게재 기능 도구에 대한 제품 데모뿐만 아니라 시드 목록을 가져오고 스마트 목록, 보고서를 만드는 방법 등에 대해 오랫동안 연습합니다. 이 행사는 Sean이 등록자와 참석자의 질문에 답변하는 확장된 Q&A 세션으로 마무리됩니다.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Marketo 및 Mochas - 전달성(2부)
 
-이 Marketo &amp; Mochas 세션에서는 Marketo Deliverability Manager인 Sean Wirt가 Gmail로의 전달성, Apple Mail Privacy 및 공유 및 전용 IP에 대한 리캡을 강조하는 전달성 모범 사례를 검토합니다. Sean은 의 전달성 도구에 대한 제품 시연에서 긴 시간을 거쳤습니다. [!DNL Marketo Engage] 시드 목록을 가져오고 스마트 목록, 보고서 등을 만드는 방법도 알아보십시오. 이 행사는 Sean이 등록자와 참석자의 질문에 답변하는 확장된 Q&amp;A 세션으로 마무리됩니다.
+이 Marketo &amp; Mochas 세션에서는 Marketo Deliverability Manager인 Sean Wirt가 Gmail로의 전달성, Apple Mail Privacy 및 공유 및 전용 IP에 대한 리캡을 강조하는 전달성 모범 사례를 검토합니다. Sean은 [!DNL Marketo Engage]에서 게재 기능 도구에 대한 제품 데모뿐만 아니라 시드 목록을 가져오고 스마트 목록, 보고서를 만드는 방법 등에 대해 오랫동안 연습합니다. 이 행사는 Sean이 등록자와 참석자의 질문에 답변하는 확장된 Q&amp;A 세션으로 마무리됩니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418668/?learn=on)

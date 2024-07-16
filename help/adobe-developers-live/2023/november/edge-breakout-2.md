@@ -26,6 +26,6 @@ ht-degree: 0%
 
 Ekrem Dogan은 이 세션에서 Adobe Developers Live의 웹 사이트 성능을 최적화하는 중요한 측면을 다룹니다. 2023년 11월 6일에 라이브로 녹화된 Adobe Experience Manager을 통해 효율적이고 사용자 친화적인 웹 사이트를 보장하고 최상위 Lighthouse 점수를 달성하고 유지하기 위한 전략을 알아보십시오. 이 강의는 실용적인 팁과 실제 사례로 구성되어 있으므로 웹 성능 최적화에 중점을 둔 개발자가 반드시 참석해야 하는 주제입니다.
 
-에서 대화 계속 [Experience League 커뮤니티](https://adobe.ly/3rC7TTm).
+[Experience League 커뮤니티](https://adobe.ly/3rC7TTm)에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425625/?learn=on)

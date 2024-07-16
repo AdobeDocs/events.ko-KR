@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# 전자 상거래 간소화: 애자일 SDLC의 커뮤니케이션, 요구 사항 및 테스트에 대한 중점 접근 방식
+# E-Commerce 능률화: 애자일 SDLC의 커뮤니케이션, 요구 사항 및 테스트에 대한 중점 접근 방식
 
 Adobe Commerce 전문가인 Tyler Granlund가 SDLC(Agile Software Development Life Cycle) 사례를 통해 전자 상거래를 간소화하는 데 동참합니다.
 
@@ -30,6 +30,6 @@ Adobe Commerce 전문가인 Tyler Granlund가 SDLC(Agile Software Development Li
 * 테스트 우수 사례 - 다양한 단계에 적용 가능한 테스트 절차를 위한 팁으로, 강력하고 안정적인 전자 상거래 웹 사이트의 개발을 보장합니다.
 * 관련자 및 팀 커뮤니케이션 - 효과적인 커뮤니케이션을 육성하기 위한 팁 성공적인 프로젝트 수행을 위한 핵심 동인으로 투명성과 책임성을 강조한다.
 
-슬라이드에 액세스할 수 있습니다 [여기](../../assets/commerce/agile-sldc-slides.pdf){target="_blank"}.
+슬라이드 [여기](../../assets/commerce/agile-sldc-slides.pdf){target="_blank"}에 액세스할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427501/?learn=on)

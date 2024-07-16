@@ -8,7 +8,7 @@ duration: 3816
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -25,15 +25,15 @@ AEM 6에는 향상된 성능과 확장성을 위해 설계된 새로운 저장�
 
 *2014년 6월 18일에 게재됨*
 
-**제공 주체:**
+**제공:**
 
 Jukka Zitting, 수석 개발자, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/technical-deep-dive-of-the-aem-6-platform.pdf)
 
 ## 관련 링크 {#related-links}
 
 * [AEM 업그레이드 설명서](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade.html)
-* [ApacheCon의 프레젠테이션 &quot;Oak, the architecture of Apache Jackrabbit 3&quot;](https://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)
+* [ApacheCon의 프레젠테이션 &quot;Oak, Apache Jackrabbit 3의 아키텍처&quot;](https://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)

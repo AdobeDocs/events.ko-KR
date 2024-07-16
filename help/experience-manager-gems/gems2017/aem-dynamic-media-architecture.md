@@ -8,7 +8,7 @@ duration: 4076
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -22,9 +22,9 @@ Adobe 디지털 마케팅 수석 제품 관리자인 Cynthia Tillo와 함께 다
 
 >[!VIDEO](https://video.tv.adobe.com/v/19570/?quality=9)
 
-*2017년 8월 30일 게재됨*
+*2017년 8월 30일에 배달됨*
 
-**제공 주체:**
+**제공:**
 
 * Cynthia Tillo, Adobe 수석 제품 관리자
 * Herbert Wolfram, Director of Engineering, Adobe
@@ -32,7 +32,7 @@ Adobe 디지털 마케팅 수석 제품 관리자인 Cynthia Tillo와 함께 다
 * Peter Ciszak, 컴퓨터 과학자, Adobe
 * Kirk Jones, 컴퓨터 과학자, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/dynamicmedia83017.pdf)
 <!--

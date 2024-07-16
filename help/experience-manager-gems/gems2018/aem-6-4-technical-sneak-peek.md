@@ -8,7 +8,7 @@ duration: 3717
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '157'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,15 +18,15 @@ Experience Manager은 웹, 모바일 및 고객 여정의 모든 종단점에서
 
 >[!VIDEO](https://video.tv.adobe.com/v/21749/?quality=9)
 
-*2018년 3월 14일에 게재됨*
+*2018년 3월 14일 제공*
 
-**제공 주체:**
+**제공:**
 
 Gabriel Walt, 제품 관리자, Adobe
 
 Cedric Huesler, Director 제품 관리, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/aem64-developerupdate31418.pdf)
 

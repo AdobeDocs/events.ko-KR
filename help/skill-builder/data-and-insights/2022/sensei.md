@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Adobe이 제공하는 인공 지능 프레임워크 Sensei을 활용하여 고객 및 대상 세그먼트를 지능적으로 분석하여 의미 있는 차이점을 찾고, 전환 요인을 기여하고, 향후 행동을 예측하는 방법을 알아봅니다.
 
-*마티아스 콜리치* 선임 멀티 솔루션 트레이너 EMEA/Adobe
+*Matthias Kolitsch* 고급 멀티 솔루션 트레이너 EMEA / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343830/?quality=12&learn=on)

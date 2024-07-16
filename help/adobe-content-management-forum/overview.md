@@ -19,8 +19,8 @@ ht-degree: 0%
 * 콘텐츠 작성을 대중화하고, 옴니채널 제공을 용이하게 하고, 모든 경험을 카운트할 수 있도록 개인화 수준을 확장하는 경험 관리를 현대화하는 방법입니다.
 * 개인화에 맞게 확장되는 콘텐츠 공급망을 구축하는 방법
 * 새로운 사이트 생성을 위한 시장 출시 시간을 단축하고 기술 리소스에 대한 의존도를 줄이는 방법
-* 을 위한 최신 혁신 기능 [!DNL Experience Manager] 클라우드 네이티브 서비스로 제공되며 지속적으로 변화하는 시장의 기대에 어떻게 적응하는지 알아보십시오.
-* Adobe을 사용하여 보다 빠르게 사이트를 구축하는 방법 [!DNL Experience Manager] as a Headless CMS, GraphQL 및 콘텐츠 조각 사용
+* [!DNL Experience Manager]을(를) 위한 최신 혁신 기술은 클라우드 네이티브 서비스로 제공되었으며, 앞을 지켜 나가면서 끊임없이 변화하는 시장의 기대에 적응하는 방법입니다
+* GraphQL 및 콘텐츠 조각을 사용하여 Adobe [!DNL Experience Manager]을(를) Headless CMS로 사용하여 보다 빠르게 사이트를 빌드하는 방법
 * Adobe Experience Manager Sites의 시장 출시 시간을 단축하는 개발자 우수 사례
 
 >[!TIP]
@@ -35,7 +35,7 @@ ht-degree: 0%
       </a>
       <div>
          <a href="2022/welcome.md"><strong>시작 주소 및 AEM 개요</strong></a>         
-         <br/><em>엘리엇 세데가와 하레쉬 쿠마르, 그리고 커트 벤커트가</em>
+         <br/><em>Elliot Sedegah, Haresh Kumar 및 Kurt Benkert와 함께</em>
       </div>
       <p>
         <br/>
@@ -44,15 +44,15 @@ ht-degree: 0%
    </td>
    <td>
       <a href="2022/assets-for-all.md">
-      <img alt="모든 에셋" src="assets/assets-for-all.png" >
+      <img alt="Assets for All" src="assets/assets-for-all.png" >
       </a>
       <div>
-         <a href="2022/assets-for-all.md"><strong>Adobe 확장 [!DNL Experience Manager] 헤드리스(Adobe 포함) [!DNL App Builder]</strong></a>         
+         <a href="2022/assets-for-all.md"><strong>Adobe [!DNL App Builder]</strong></a>을(를) 사용하여 Adobe [!DNL Experience Manager] Headless 확장         
          <br/><em>Purnima Rachoor Roy와 함께</em>
       </div>
       <p>
         <br/>
-          방법에 대해 알아보기 [!DNL Assets Essentials] 새로운 항목 [!DNL Digital Asset Management] 부서 및 중견기업을 위한 시스템.
+          [!DNL Assets Essentials]이(가) 부서 및 중견기업을 위한 새로운 [!DNL Digital Asset Management] 시스템인 방법에 대해 알아봅니다.
       </p>
    </td>
    <td>
@@ -60,8 +60,8 @@ ht-degree: 0%
       <img alt="확장 가능한 콘텐츠 공급망 구축" src="assets/supply-chain.png" />
       </a>
       <div>
-         <a href="2022/supply-chain.md"><strong>확장 가능한 콘텐츠 공급망 구축</strong></a>         
-         <br/><em>마크 안젤리노비치</em>
+         <a href="2022/supply-chain.md"><strong>확장할 수 있는 콘텐츠 공급망 구축</strong></a>         
+         <br/><em>마크 안젤리노비치와 함께</em>
       </div>
       <p>
         <br/>

@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Digital Foundation 블루프린트 프레임워크를 통해 OOTB 기능과 최소한의 사용자 지정으로 디자인을 빠르게 구현하는 방법에 대해 알아봅니다.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**.
+**[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331735/?quality=12&learn=on&hidetitle=true)
 
-클릭 **[여기](/help/adobe-developers-live/assets/time-to-value-aem-sites.pdf)** ( 세션 슬라이드 참조)
+세션 슬라이드를 보려면 **[여기](/help/adobe-developers-live/assets/time-to-value-aem-sites.pdf)**&#x200B;를 클릭하십시오.

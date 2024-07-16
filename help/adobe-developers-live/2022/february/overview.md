@@ -15,7 +15,7 @@ ht-degree: 7%
 
 <img alt="Adobe Developers Live" src="./../../assets/adl.png" />
 
-Adobe Developers Live: Commerce 2022는 다양한 배경과 하나의 목적을 가진 개발자와 경험 빌더를 한데 모아 놀라운 통합 경험을 만듭니다. 이 하루 동안의 가상 컨퍼런스에서는 중요한 Commerce 및 오픈 소스 개발자 업데이트, 기술 세션, 커뮤니티 네트워킹 기회 등을 제공합니다.
+Adobe Developers Live: Commerce 2022는 다양한 배경과 하나의 목적을 가진 개발자와 경험 빌더를 한데 모아 놀라운 통합 경험을 만듭니다. 이 하루 동안의 가상 컨퍼런스에서는 중요한 Commerce 및 Open Source 개발자 업데이트, 기술 세션, 커뮤니티 네트워킹 기회 등이 제공됩니다.
 
 <!-- 
 ## Highlights
@@ -68,4 +68,4 @@ Adobe Developers Live: Commerce 2022는 다양한 배경과 하나의 목적을 
 
 >[!TIP]
 >
->**모든 세션이 왼쪽의 탐색에 나열됩니다.**.
+>**모든 세션이 왼쪽의 탐색에 나열됩니다**.

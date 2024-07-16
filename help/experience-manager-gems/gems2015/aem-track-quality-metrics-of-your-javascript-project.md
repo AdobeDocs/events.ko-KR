@@ -8,7 +8,7 @@ duration: 4834
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 7%
+ht-degree: 2%
 
 ---
 
@@ -24,11 +24,11 @@ Javascript 프로젝트에 sonarqube 분석을 통합하여 다음에 액세스�
 
 *2015년 12월 9일에 게재됨*
 
-**제공 주체:**
+**제공:**
 
 * David Catalan, 수석 QE 개발자, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/aem-gems-js-quality-metrics-12-9-15.pdf)
 

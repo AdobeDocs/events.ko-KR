@@ -34,16 +34,16 @@ ht-degree: 0%
 + 리소스 관리 {#resource-management}
    + [리소스 및 용량 계획](user-groups/resource-and-capacity-planning.md)
    + [리소스 관리](user-groups/resource-management.md)
-+ 작업 검토 및 승인 {#review-and-approve-work}
++ {#review-and-approve-work} 작업 검토 및 승인
    + [마케팅 워크플로우 및 승인](user-groups/marketing-workflows-and-approvals.md)
    + [IT 워크플로 및 승인](user-groups/it-workflows-and-approvals.md)
 + 타임시트 {#timesheets}
    + [Workfront에서 타임시트 활용](user-groups/utilizing-timesheets-in-workfront.md)
-+ Workfront 증명 {#workfront-proof}
-   + [Workfront 증명을 최대화하는 우수 사례](webinars/best-practices-to-maximize-workfront-proof.md)
-   + [Workfront 증명 모범 사례 후속](webinars/follow-up-to-workfront-proof-best-practices.md)
++ Workfront Proof {#workfront-proof}
+   + [Workfront Proof을 극대화하는 우수 사례](webinars/best-practices-to-maximize-workfront-proof.md)
+   + [Workfront Proof 모범 사례 후속](webinars/follow-up-to-workfront-proof-best-practices.md)
    + [크리에이티브 에이전시: Workfront Proof](user-groups/creative-agencies-workfront-proof.md)
-   + [Workfront 증명 활용](user-groups/leveraging-workfront-proof.md)
+   + [Workfront Proof 활용](user-groups/leveraging-workfront-proof.md)
 + 요청 큐 및 접수 {#request-queues-and-intake}
    + [요청 대기열 및 접수 Forms](user-groups/request-queues-and-intake-forms.md)
 + 릴리스 {#releases}

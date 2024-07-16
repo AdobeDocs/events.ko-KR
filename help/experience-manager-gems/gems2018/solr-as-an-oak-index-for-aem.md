@@ -1,6 +1,6 @@
 ---
 title: Solr as a Oak index for AEM
-description: AEM 전체 텍스트 검색 기능은 기본적으로 Oak Lucene 색인에서 제공됩니다. 그러나 AEM은 Oak Solr 색인을 통해 색인화 및 검색을 Solr 서버/클러스터로 오프로드할 수도 있습니다. 이 Gem 세션에서는 AEM용 Oak 색인으로 Solr을 사용하는 것이 성능 및 색인 지정/검색 기능 측면에서 유용한 몇 가지 실제 시나리오에 대해 알아봅니다.
+description: AEM 전체 텍스트 검색 기능은 기본적으로 Oak Lucene 색인에서 제공됩니다. 그러나 AEM은 Oak Solr 인덱스를 통해 Solr 서버/클러스터로 인덱싱 및 검색을 오프로드할 수도 있습니다. 이 Gem 세션에서는 Solr을 AEM용 Oak 색인으로 사용하는 것이 성능 및 색인 지정/검색 기능 측면에서 유용한 몇 가지 실제 시나리오에 대해 알아봅니다.
 topic-tags: analytics
 discoiquuid: 84a24cd3-1420-48e0-ae7a-dfa4a68ce657
 targetaudience: target-audience advanced
@@ -9,19 +9,19 @@ duration: 3474
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Solr as a Oak index for AEM{#solr-as-an-oak-index-for-aem}
 
-AEM 전체 텍스트 검색 기능은에서 제공합니다. [!DNL Oak Lucene] 기본적으로 색인입니다. 그러나 AEM은 색인 지정 및 검색을 다음으로 오프로드할 수도 있습니다. [!DNL Solr] 다음을 통해 서버 / 클러스터: [!DNL Oak Solr] 색인입니다. 이 Gem 세션에서는 을 사용하는 몇 가지 실제 실제 생활 시나리오에 대해 알아봅니다. [!DNL Solr] as a Oak index for AEM은 성능 및 색인화/검색 기능에서 의미가 있습니다.
+AEM 전체 텍스트 검색 기능은 기본적으로 [!DNL Oak Lucene] 색인에 의해 제공됩니다. 그러나 AEM은 [!DNL Oak Solr]개의 인덱스를 통해 [!DNL Solr]개의 서버/클러스터로 인덱싱 및 검색을 오프로드할 수도 있습니다. 이 Gem 세션에서는 [!DNL Solr]을(를) AEM용 Oak 색인으로 사용하는 것이 성능 및 색인화/검색 기능 측면에서 유용한 몇 가지 실제 상황에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23023/?quality=9)
 
-*2018/07/18 게재됨*
+*배달 07/18/2018*
 
-**제공 주체:**
+**제공:**
 
 Tommaso Teofili, 컴퓨터 과학자, Adobe
 

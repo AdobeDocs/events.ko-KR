@@ -8,7 +8,7 @@ duration: 3325
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '227'
-ht-degree: 6%
+ht-degree: 0%
 
 ---
 
@@ -18,13 +18,13 @@ AEM Developer Tools for Eclipse는 AEM 애플리케이션 개발을 더 쉽고, 
 
 >[!VIDEO](https://video.tv.adobe.com/v/19465/?quality=9)
 
-*2014년 8월 20일 게재됨*
+*2014년 8월 20일에 배달됨*
 
-**제공 주체:**
+**제공:**
 
 Stefan Egli, 개발자, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/aem-dev-tools-cq-gems.pdf)
 

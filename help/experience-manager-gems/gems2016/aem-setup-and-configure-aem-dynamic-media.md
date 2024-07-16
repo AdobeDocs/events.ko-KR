@@ -8,7 +8,7 @@ duration: 3537
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -18,14 +18,14 @@ AEM Dynamic Media을 통해 고객은 단일 마스터 이미지 또는 비디�
 
 >[!VIDEO](https://video.tv.adobe.com/v/19297/?quality=9)
 
-*2016년 8월 17일 게재됨*
+*2016년 8월 17일에 게재됨*
 
-**제공 주체:**
+**제공:**
 
 * Cynthia Tillo, Adobe 수석 제품 관리자
 * Bob van Manen, 엔지니어링 관리자, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/aemgems-081716-dynamic-media-configuration.pdf)
 

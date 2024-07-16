@@ -1,6 +1,6 @@
 ---
 title: 템플릿, 토큰 및 팀워크 - 확장 가능한 콘텐츠 만들기
-description: 에서 토큰 및 템플릿 사용에 대해 알아보기 [!DNL Marketo Engage]. 기존 콘텐츠 라이브러리를 최대한 활용하는 방법에 대한 팁을 살펴보십시오.
+description: ' [!DNL Marketo Engage]에서 토큰 및 템플릿을 사용하는 방법에 대해 알아봅니다. 기존 콘텐츠 라이브러리를 최대한 활용하는 방법에 대한 팁을 살펴보십시오.'
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# 템플릿, 토큰 및 팀워크 - Adobe 만들기 [!DNL Marketo Engage] 콘텐츠 확장 가능
+# 템플릿, 토큰 및 팀워크 - Adobe [!DNL Marketo Engage] 컨텐츠의 확장 가능
 
-마케팅 프로그램을 위한 콘텐츠를 만드는 것은 긴 시간이 소요됩니다. 템플릿과 토큰을 적용하면 팀 간에 확장 가능한 프로세스를 구축하고 더 적은 비용으로 더 많은 성과를 얻을 수 있습니다. [!DNL Marketo Engage]. 수상 경력에 빛나는 마케팅 리더이자 Adobe 2배인 Lauren McCormack의 이야기를 들어보십시오 [!DNL Marketo Engage] 챔피언 - 그녀가 수년간의 지혜를 공유하여 [!DNL Marketo Engage] 컨텐츠 확장 가능.
+마케팅 프로그램을 위한 콘텐츠를 만드는 것은 긴 시간이 소요됩니다. 템플릿 및 토큰을 적용하면 팀 간에 확장 가능한 프로세스를 구축하고 [!DNL Marketo Engage]에서 더 적은 비용으로 더 많은 성과를 얻을 수 있습니다. 수상 경력에 빛나는 마케팅 리더이자 2x Adobe [!DNL Marketo Engage] 챔피언인 Lauren McCormack이 [!DNL Marketo Engage] 컨텐츠의 확장성을 높이는 데 있어 다년간의 지혜를 공유합니다.
 
 자세히 알아보기:
 

@@ -22,21 +22,21 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426930/?quality=12&learn=on)
 
->[!BEGINSHADEBOX 질문이 있습니까?]
+>[!BEGINSHADEBOX &quot;질문이 있습니까?&quot;]
 
-Adobe Experience League에서 이 주제에 대한 토론 계속 [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488).
+Adobe Experience League [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488)에서 이 주제에 대한 토론을 계속합니다.
 
 >[!ENDSHADEBOX]
 
 사용 사례 플레이북은 두 가지 주요 문제를 해결하기 위해 빌드되었습니다.
 
-1. **빈 페이지 증후군** - 많은 고객, 특히 새로운 고객은 Adobe Experience 플랫폼에 처음 액세스하면 압도감을 느끼고 어디서부터 시작해야 할지 또는 기능을 활용하는 방법을 알지 못합니다. 사용 사례 플레이북은 고객이 특정 마케팅 목표를 구현하는 프로세스를 안내하는 선별된 사용 사례 템플릿을 제공하여 이 초기 장애를 극복하는 데 도움이 됩니다.
+1. **빈 페이지 증후군** - 많은 고객, 특히 새로운 고객은 처음 Adobe Experience 플랫폼에 액세스할 때 압도감을 느끼고 어디서부터 시작해야 할지 또는 기능을 활용하는 방법을 알지 못합니다. 사용 사례 플레이북은 고객이 특정 마케팅 목표를 구현하는 프로세스를 안내하는 선별된 사용 사례 템플릿을 제공하여 이 초기 장애를 극복하는 데 도움이 됩니다.
 
-1. **더욱 향상된 채택 및 참여** - 플레이북은 사전 제작된 템플릿과 기술 지침을 제공하여 고객이 Adobe 제품에 대한 투자 속도를 높이고 투자를 최대한 활용할 수 있도록 지원하는 것을 목표로 합니다.  이를 통해 고객은 사용 사례를 보다 신속하게 구현하고, 이해 당사자에게 가치를 입증하며, IT 팀과 마케팅 팀 간의 협업을 강화할 수 있습니다.  궁극적으로 이 플레이북은 고객이 Adobe 경험 플랫폼에서 얻을 수 있는 채택과 가치를 극대화하는 것을 목표로 합니다.
+1. **더 나은 채택과 참여** - 플레이북은 고객이 사전 제작된 템플릿과 기술 지침을 제공하여 Adobe 제품에 대한 투자 속도를 높이고 속도를 높이는 데 도움을 주는 것을 목표로 합니다.  이를 통해 고객은 사용 사례를 보다 신속하게 구현하고, 이해 당사자에게 가치를 입증하며, IT 팀과 마케팅 팀 간의 협업을 강화할 수 있습니다.  궁극적으로 이 플레이북은 고객이 Adobe 경험 플랫폼에서 얻을 수 있는 채택과 가치를 극대화하는 것을 목표로 합니다.
 
 이 세션에서 논의되는 사용 사례의 예는 구매하지 않은 브라우징 및 상품 사용 사례입니다. 이 사용 사례는 고객이 구매하기 전에 탐색 세션을 포기하는 문제를 해결하는 데 목적이 있습니다. 이 사용 사례의 결과 대상 세그먼트는 구매를 완료하지 않고 브라우징 세션을 포기한 고객입니다. 그런 다음 이 세그먼트를 개인화된 메시지 또는 오퍼로 타겟팅하여 재구매를 유도할 수 있습니다.
 
-## 핵심 사항
+## 주요 개선 사항
 
 * 사용 사례 플레이북은 고객이 Adobe Experience 플랫폼의 기능을 활용하고 발견할 수 있도록 도와주는 선별된 사용 사례 템플릿 세트입니다.
 * 사용 사례 플레이북이 해결하고자 하는 주요 과제는 &quot;빈 페이지 신드롬&quot;과 도구 전반에서 더 많은 채택과 참여의 필요성입니다.
@@ -52,10 +52,10 @@ Adobe Experience League에서 이 주제에 대한 토론 계속 [커뮤니티 �
 ## 추가 리소스
 
 * **[사용 사례 플레이북 개요](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html){target="_blank"}**
-  *사용 사례 플레이북을 사용하면 Real-Time CDP 또는 Adobe Journey Optimizer을 시작할 때 원하는 사용 사례를 달성하기 위해 무엇을 시작해야 하는지 또는 올바른 에셋을 만드는 방법을 정확히 모를 수 있는 문제를 극복하는 데 도움이 될 수 있습니다.*
+  *사용 사례 플레이북을 통해 Real-Time CDP 또는 Adobe Journey Optimizer을 시작할 때 원하는 사용 사례를 달성하기 위해 무엇을 시작해야 하는지 또는 올바른 자산을 만드는 방법을 정확히 알 수 없는 경우 문제를 해결할 수 있습니다.*
 
-* **[사용 사례 플레이북 시작하기](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=ko){target="_blank"}**
+* **[사용 사례 플레이북 시작](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=ko){target="_blank"}**
   *Real-time Customer Data Platform 및 Adobe Journey Optimizer용으로 설계된 사용 사례 플레이북에 대한 계정을 설정하는 방법을 알아봅니다.*
 
-* **[사용 가능한 사용 사례 플레이북](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/playbooks-list.html?lang=ko){target="_blank"}**
-  *Real-time Customer Data Platform 및 Adobe Journey Optimizer에서 검색하고 사용할 수 있는 모든 플레이북에 대한 개요를 살펴보려면 이 페이지를 참조하십시오.*
+* **[사용 사례 플레이북](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/playbooks-list.html?lang=ko){target="_blank"}**
+  *이 페이지를 읽고 Real-time Customer Data Platform 및 Adobe Journey Optimizer에서 검색하고 사용할 수 있는 모든 플레이북에 대한 개요를 살펴보십시오.*

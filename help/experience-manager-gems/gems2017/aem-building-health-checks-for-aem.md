@@ -8,7 +8,7 @@ duration: 2968
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,17 +18,17 @@ AEM 인스턴스가 정상인지 확인하는 것은 간단한 작업이 아닙�
 
 >[!VIDEO](https://video.tv.adobe.com/v/19026/?quality=9)
 
-*2017년 7월 12일 게재됨*
+*2017년 7월 12일에 게재됨*
 
 **Ana Vinatoru, 소프트웨어 엔지니어, Adobe**
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/aem-gems-health-checks-for-aem.pdf)
 
 >[!WARNING]
 >
->AEM 버전 6.4 및 이전 버전은 단종되어 더 이상 Adobe에서 판매하지 않습니다.  Adobe 최신 버전으로 업그레이드하는 것이 좋습니다. - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ko-KR).  보관된 버전의 설명서는 여기에서 액세스할 수 있습니다. [페이지](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM 버전 6.4 및 이전 버전은 단종되어 더 이상 Adobe에서 판매하지 않습니다.  Adobe은 최신 버전인 [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)(으)로 업그레이드할 것을 권장합니다.  보관된 버전의 설명서는 이 [페이지](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)에서 액세스할 수 있습니다.
 
 ## 관련 링크 {#related-links}
 

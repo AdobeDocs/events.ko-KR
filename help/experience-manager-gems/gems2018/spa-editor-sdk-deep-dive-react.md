@@ -8,7 +8,7 @@ duration: 3218
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -26,21 +26,21 @@ AEM 페이지 편집기를 사용하여 작성할 수 있는 단일 페이지 �
 
 >[!VIDEO](https://video.tv.adobe.com/v/25194/?quality=9)
 
-*2018년 10월 31일 배송*
+*18/10/31 배달됨*
 
 제공: Patrick Fauchere, 엔지니어링 관리자, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/aem-gems-spa-editordeepdive-react-10312018.pdf)
 
 ## 관련 링크 {#related-links}
 
-[주말 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
+[주말 자습서](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
 
 [설명서](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
 
-[샘플 - 당사 소매 저널](https://github.com/adobe/aem-sample-we-retail-journal)
+[샘플 - We retail 저널](https://github.com/adobe/aem-sample-we-retail-journal)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

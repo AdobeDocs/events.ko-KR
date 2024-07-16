@@ -22,8 +22,8 @@ ht-degree: 0%
 
 Experience Cloud 개발자 경험의 Director Jonathan Roeder와 함께 Adobe Experience Cloud 전반에 걸친 최신 개발자 업데이트에 대해 알아보십시오.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**.
+**[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331770/?quality=12&learn=on&hidetitle=true)
 
-클릭 **[여기](/help/adobe-developers-live/assets/developer-experience.pdf)** ( 세션 슬라이드 참조)
+세션 슬라이드를 보려면 **[여기](/help/adobe-developers-live/assets/developer-experience.pdf)**&#x200B;를 클릭하십시오.

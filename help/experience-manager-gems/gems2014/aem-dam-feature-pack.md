@@ -26,7 +26,7 @@ AEM 5.6.1용 DAM FP2는 Creative Projects 기능을 활용하여 AEM 사용자�
 
 *2014년 3월 5일 제공*
 
-**제공 주체:**
+**제공:**
 
 Varun Nagpal, 컴퓨터 과학자, Adobe
 

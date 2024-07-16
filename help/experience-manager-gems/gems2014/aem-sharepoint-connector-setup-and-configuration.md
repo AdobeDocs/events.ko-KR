@@ -8,7 +8,7 @@ duration: 3478
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -25,11 +25,11 @@ Adobe의 SharePoint Connector는 표준 JCR 인터페이스를 통해 콘텐츠�
 
 *2014년 1월 29일에 게재됨*
 
-**제공 주체:**
+**제공:**
 
 Tarun Aggarwal, 수석 소프트웨어 엔지니어, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/cq-gems-sharepoint-connector.pdf)
 <!--

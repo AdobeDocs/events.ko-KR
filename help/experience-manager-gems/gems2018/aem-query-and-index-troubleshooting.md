@@ -10,7 +10,7 @@ duration: 2935
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23270/?quality=9)
 
-*2018/08/08 게재됨*
+*배달 08/08/2018*
 
-**제공 주체:**
+**제공:**
 
 Thomas Mueller, 수석 소프트웨어 엔지니어, Adobe
 

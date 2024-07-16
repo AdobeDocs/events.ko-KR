@@ -1,19 +1,19 @@
 ---
 title: Commerce 및 컴포저빌리티를 통해 다양한 비즈니스 모델 활성화
-description: 이 모임은 주로 Adobe Commerce의 다양한 비즈니스 모델 활성화, B2B 상거래 성장 추세 강조, 원활한 업그레이드를 위한 통합 간소화의 중요성 강조, 데모를 통해 개인화된 B2B와 B2C의 상호 작용 소개, 옴니채널 지원 및 API 메쉬 통합과 같은 Adobe Commerce 기능에 대한 토론, 구성 가능한 상거래 서비스의 이점 강조, 플랫폼 내에서 확장 가능한 사용자 정의 및 구독 관리를 위한 App Builder 소개 등에 초점을 맞췄습니다.
+description: 이 모임은 주로 Adobe Commerce의 다양한 비즈니스 모델 활성화, B2B 상거래 성장 추세 강조, 원활한 업그레이드를 위한 통합 간소화의 중요성 강조, 데모를 통해 개인화된 B2B와 B2C의 상호 작용 소개, 옴니채널 지원 및 API 메쉬 통합과 같은 Adobe Commerce 기능에 대한 토론, 구성 가능한 상거래 서비스의 이점 강조, 플랫폼 내에서의 확장 가능한 사용자 정의 및 구독 관리를 위한 App Builder 소개 등에 초점을 맞췄습니다.
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3594
 last-substantial-update: 2024-06-15T00:00:00Z
 jira: KT-15741
-source-git-commit: e2beb9336151eddc3cb29470fab12e77a4f8ffb0
+exl-id: 2be2bcd3-b595-4362-a7f8-91b1001da874
+source-git-commit: 74f9d5e2e3f3a5830e96422b58222d3c3a9b7acc
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
 
 ---
-
 
 # Commerce 및 컴포저빌리티를 통해 다양한 비즈니스 모델 활성화
 
@@ -46,7 +46,7 @@ APAC Commerce 웨비나 시리즈의 5월 정기 릴리스에서는 솔루션 �
 
 * 옴니채널 지원
 * 개인화된 경험
-* API Mesh 및 App Builder를 통해 서드파티 시스템과 통합
+* API mesh 및 App Builder을 통해 서드파티 시스템과 통합
 
 ### 기술적 측면 논의
 

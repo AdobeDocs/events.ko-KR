@@ -8,7 +8,7 @@ duration: 3581
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,13 +18,13 @@ AEM 작업이 매우 독자적이지만 AEM과 함께 작업하는 AT/AAM/AA 컨
 
 >[!VIDEO](https://video.tv.adobe.com/v/19833/?quality=9)
 
-*2017년 9월 27일에 게재됨*
+*2017년 9월 27일에 배달됨*
 
-**제공 주체:**
+**제공:**
 
 얀 엑스너, 관리자 관리 컨설턴트, Adobe
 
-**발표자 슬라이드**
+발표자 슬라이드 **개**
 
 [파일 가져오기](assets/170927-aem-gems-integrations.pdf)
 

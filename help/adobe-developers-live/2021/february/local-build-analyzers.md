@@ -23,10 +23,10 @@ ht-degree: 0%
 
 # Adobe Experience Manager as a Cloud Service을 사용한 로컬 빌드 분석기
 
-ACDL의 이벤트 기반 API를 이해합니다. 상거래 예제는 핵심 구성 요소가 하이드레이션되고 Launch 확장이 AA 및 AT와 상호 작용하는 방법을 보여 줍니다.
+ACDL의 이벤트 기반 API를 이해합니다. Commerce 예는 코어 구성 요소가 하이드레이션되고 Launch 확장이 AA 및 AT와 상호 작용하는 방법을 보여줍니다.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**.
+**[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332307/?quality=12&learn=on&hidetitle=true)
 
-클릭 **[여기](/help/adobe-developers-live/assets/local-build-analyzers-aemcs.pdf)** ( 세션 슬라이드 참조)
+세션 슬라이드를 보려면 **[여기](/help/adobe-developers-live/assets/local-build-analyzers-aemcs.pdf)**&#x200B;를 클릭하십시오.

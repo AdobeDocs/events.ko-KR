@@ -24,6 +24,6 @@ ht-degree: 0%
 
 Carsten Ziegeler, Karl Pauls 및 David Bosschaert가 참여한 패널로서 OSGi를 사용하는 이유, 클라우드에서 OSGi가 관련성이 있는 이유 및 Adobe Experience Manager 개발자가 OSGi에 대해 알아야 하는 사항에 대해 설명합니다.
 
-에서 대화 계속 **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**.
+**[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**&#x200B;에서 대화를 계속합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331740/?quality=12&learn=on&hidetitle=true)
