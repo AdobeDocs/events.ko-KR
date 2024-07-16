@@ -1,6 +1,6 @@
 ---
-title: Adobe Admin Console 마이그레이션
-description: 예정된 Adobe Admin Console 마이그레이션에 대한 독점 MUG 리더 교육입니다. 이 회의는 "트레이너 교육" 형식으로 진행되며, 이를 통해 학습한 내용을 학습하고 향후 변화될 사항에 대해 챕터를 교육할 수 있습니다.
+title: Adobe ID Marketo Engage 준비
+description: 예정된 Adobe Admin Console 마이그레이션에 대한 독점 교육입니다. 이 회의는 "트레이너 교육" 형식으로 진행되며, 이를 통해 학습한 내용을 학습하고 향후 변화될 사항에 대해 챕터를 교육할 수 있습니다.
 solution: Marketo
 feature: Administration
 role: Admin, Developer, Leader, User
@@ -9,17 +9,17 @@ doc-type: Event
 duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
-source-git-commit: 7582ea084cdfe20cfc5bd4c62a5a1234b5c3bcac
+source-git-commit: 06283989c8d9da03fca8af3d8ceec65097732be4
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
 
-# MUG 리더 교육: Adobe Admin Console 마이그레이션
+# Adobe ID Marketo Engage 준비
 
-예정된 Adobe Admin Console 마이그레이션에 대한 독점 MUG 리더 교육입니다. 이 회의는 &quot;트레이너 교육&quot; 형식으로 진행되며, 이를 통해 학습한 내용을 학습하고 향후 변화될 사항에 대해 챕터를 교육할 수 있습니다.
+예정된 Adobe Admin Console 마이그레이션에 대한 독점 교육입니다. 이 회의는 &quot;트레이너 교육&quot; 형식으로 진행되며, 이를 통해 학습한 내용을 학습하고 향후 변화될 사항에 대해 챕터를 교육할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
