@@ -2,9 +2,9 @@
 user-guide-title: 운영 시간 Adobe
 user-guide-breadcrumb: Adobe Office Hours
 user-guide-description: 오피스 아워(Office Hours)는 솔루션별 웨비나를 제공하여 사례 변경에 대한 사전 예방적 접근 방식입니다.
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+source-git-commit: 3853bd9eb1464cf41b54d09ffb7c5b6a466a5dcd
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '98'
 ht-degree: 14%
 
 ---
@@ -36,3 +36,6 @@ ht-degree: 14%
       + [JavaScript 라이브러리 개요, 디버깅 팁 및 요령](2023/target-debugging-tips-and-tricks.md)
    + Workfront {#workfront-office-hours}
       + [중복 연락처 수정](2023/workfront-fix-duplicate-contacts.md)
+      + [증명 승인 보고서](2023/workfront-proof-approval-reports.md)
+
+
