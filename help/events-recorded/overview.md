@@ -4,9 +4,9 @@ description: Adobe의 엔터프라이즈 제품 사용에 초점을 맞춘 이�
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
 duration: 334
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1050'
 ht-degree: 3%
 
 ---
@@ -373,24 +373,24 @@ ht-degree: 3%
       </a>
     </div>
   </div>
-</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Office Hours" tabIndex="15">
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Experience Cloud Tech Sessions" tabIndex="15">
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" title="오피스 아워" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png" alt="오피스 아워">
+        <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html" title="Experience Cloud 기술 세션" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-cloud-tech-sessions.png" alt="Experience Cloud 기술 세션">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" title="오피스 아워">운영 시간</a>
+              <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html" title="Experience Cloud 기술 세션">Experience Cloud 기술 세션</a>
           </p>
           <p class="is-size-6">
-         오피스 아워(Office Hours)는 솔루션별 웨비나를 제공하여 사례 변경에 대한 사전 예방적 접근 방식입니다.</p>
+            원활한 학습을 위해 라이브 및 온디맨드로 이용할 수 있는 Adobe 전문가가 주도하는 기술 세션으로 Adobe Experience Cloud의 기능을 발휘합니다.</p>
       </div>
-      <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+      <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
       </a>
     </div>
