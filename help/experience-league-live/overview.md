@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 33de0c8d1af0afe68c602cc566f9fb91a148a302
+source-git-commit: 4382796f5fa84ca4ceecd49b8138a45a3da16a8d
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '176'
 ht-degree: 3%
 
 ---
@@ -51,39 +51,39 @@ Experience League 라이브는 Experience League 팀이 제작하는 라이브 �
 <table style="max-width: 1214px;">
 
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-21-22.md">
-      <img alt="Experience League LIVE 4월 21일" src="assets/youtube-thumbnails/april-21-yt.jpg">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
+      <img alt="Experience League LIVE 4월 21일" src="episodes/assets/WebBanner-June26-2024.jpg">
     </a>
     <div>
-      <a href="/help/experience-league-live/episodes/exl-live-episode-04-21-22.md">
-        <strong>Headful에서 Headless로 AEM</strong>
+      <a href="episodes/exl-live-episode-06-26-24.md">
+        <strong>최신 Adobe Real-Time CDP 릴리스를 통해 비즈니스에 도움이 되는 방법</strong>
       </a>
-      <br/><em>Danny Gordon, Amol Anand, Sachin Mali 및 Sean Steimer와 함께</em>
-      <br/><em>2022년 4월 21일</em>
+      <br/><em>Nina Caruso, Rudi Shumpert 및 Doug Moore와 함께</em>
+      <br/><em>2024년 6월 26일</em>
     </div>
   </td>
 
 <td style="vertical-align: top;">
-    <a href="episodes/exl-live-episode-08.md">
-      <img alt="Experience League LIVE ep8" src="./assets/youtube-thumbnails/jan-25-yt.jpg">
+    <a href="episodes/exl-live-episode-05-16-24.md">
+      <img alt="Experience League LIVE ep8" src="episodes/assets/WebBanner-May16-2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics - Inside Scoop</strong></a>
-      <br/><em>Trevor Paulsen, Rohit Gossain, Alex Strawn과 함께</em>
-      <br/><em>2021년 1월 25일</em>
+      <a href="episodes/exl-live-episode-05-16-24.md"><strong>Analytics를 Web SDK로 마이그레이션하는 방법</strong></a>
+      <br/><em>Mitch Rice, Joe Koury 및 Doug Moore와 함께</em>
+      <br/><em>2024년 5월 16일</em>
     </div>
   </td>
 
 <td style="vertical-align: top;">
     <a href="episodes/exl-live-episode-05-26-22.md">
-      <img alt="Experience League 라이브 5월 26일" src="assets/May26_exl_live_banner_web_1920_WebBanner.png">
+      <img alt="Experience League 라이브 5월 26일" src="episodes/assets/WebBanner-Apr24-2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-05-26-22.md">
-        <strong>전문가에게 문의: Web SDK 기본 사항</strong>
+      <a href="episodes/exl-live-episode-04-24-24.md">
+        <strong>Journey Optimizer의 새 코드 기반 경험 채널</strong>
       </a>
-      <br/><em>Rudi Shumpert, Jeff Chasin 및 Eric Matisoff와 함께</em>
-      <br/><em>2022년 5월 26일</em>
+      <br/><em>Sandra Hausmann, Robert Calangiu 및 Brent Kostak과 함께</em>
+      <br/><em>2024년 4월 24일</em>
     </div>
   </td>
   </tr>
