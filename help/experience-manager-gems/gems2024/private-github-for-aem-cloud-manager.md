@@ -9,16 +9,17 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 658be21bfe19a3070d0dafbb753fc3292610e989
+exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
+source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
 # 웨비나 날짜: 2024년 7월 31일
 
-본 웨비나는 7월 31일 수요일~오후 5시(CEST)/오전 8시(PDT)/오후 8시 30분(IST)에 진행될 예정입니다. 이 웨비나는 등록만 필요합니다. [여기](https://adobe.ly/3LmXfGk)에서 등록하십시오.
+이 웨비나는 완료되었습니다. 아래 기록을 확인하십시오.
 
 ## AEM Cloud Manager에서 개인 GitHub 저장소 통합
 
@@ -34,12 +35,14 @@ ht-degree: 0%
 * Shankari Panchapakesan, Adobe의 수석 제품 관리자
 * Florin Stancu, 소프트웨어 개발 엔지니어, Adobe
 
-## 웨비나 등록
+## 웨비나 녹화
+
+>[!VIDEO](https://video.tv.adobe.com/v/3432350)
+
+## 웨비나 커뮤니티 인터랙션
 
 >[!NOTE]
-> 
->* 이 웨비나는 무료이며, 등록만 하면 됩니다. [여기](https://adobe.ly/3LmXfGk)에서 등록하십시오.
 >
->* Experience League에서 이 웨비나에 대한 웨비나/주제별 커뮤니티 인터랙션을 보려면 해당 [컨텍스트 스레드](https://adobe.ly/4f1jhMo)를 방문하십시오.
+>* Experience League에서 이 웨비나에 대한 웨비나/주제별 커뮤니티 인터랙션을 보려면 해당 [컨텍스트 스레드](tbd)를 방문하십시오.
 >
 >* 예정된 웨비나에 대한 알림을 받으려면 [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/)에 등록하십시오.
