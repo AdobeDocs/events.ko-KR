@@ -12,7 +12,7 @@ type: Event
 user-guide-description: AEM GEM 세션
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
+source-git-commit: 7f41b655c6e0509084fdacf3f33a382727bf9157
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## 예정된 AEM GEM 웨비나 - AEM Assets과 Edge Delivery Services 통합
 
-이번 웨비나는 8월 21일 수요일~오후 5시(CEST)/오전 8시(PDT)/오후 8시 30분(IST)에 진행된다. 이 웨비나는 등록만 필요합니다. [여기](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-integrating-aem-assets-with-edge-delivery-services/)에서 등록하십시오.
+이번 웨비나는 8월 21일 수요일~오후 5시(CEST)/오전 8시(PDT)/오후 8시 30분(IST)에 진행된다. 이 웨비나는 등록만 필요합니다. [여기](https://adobe.ly/3LTT3hg)에서 등록하십시오.
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 

@@ -9,9 +9,9 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
+source-git-commit: 7f41b655c6e0509084fdacf3f33a382727bf9157
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 본 웨비나는 2024년 8월 21일 부터 오후 5시 CEST / 오전 8시 PDT / 오후 8시 30분 IST로 진행됩니다.
 웨비나는 무료이며, 등록만 하면 됩니다.
-가입하려면 [여기](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-integrating-aem-assets-with-edge-delivery-services/)에서 등록하십시오.
+가입하려면 [여기](https://adobe.ly/3LTT3hg)에서 등록하십시오.
 
 ## AEM Assets과 Edge Delivery Services 통합
 
@@ -34,5 +34,7 @@ ht-degree: 0%
 ## 웨비나 커뮤니티 인터랙션
 
 >[!NOTE]
+>
+>* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 해당 [컨텍스트 스레드](https://adobe.ly/4aCz0OE)를 방문하십시오.
 >
 >* 예정된 웨비나에 대한 알림을 받으려면 [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/)에 등록하십시오.
