@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 4382796f5fa84ca4ceecd49b8138a45a3da16a8d
+source-git-commit: d692337e230540fe667072bd12351fd62c5aa4d2
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '177'
 ht-degree: 3%
 
 ---
@@ -26,8 +26,16 @@ Experience League 라이브는 Experience League 팀이 제작하는 라이브 �
 <table>
 <tr>
 
-<td style="vertical-align: top;">
-      <b>곧 다시 돌아와 새로운 프로그램에 대해 알아보세요! 그동안 아래 또는 왼쪽 탐색에서 링크를 클릭하여 이전 에피소드를 봅니다.</b>
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-08-28-24.md">
+      <img alt="Experience League 라이브 8월 28일" src="episodes/assets/WebBanner-aug-28-2024.png">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-08-28-24.md">
+        <strong>여름 스포트라이트 - Adobe Journey Optimizer의 기능을 사용해 보십시오.</strong>
+      </a>
+      <br/><em>Sandra Hausmann, Keara Fausett, Aaron Forrest 및 Justin Grover와 함께</em>
+      <br/><em>2024년 8월 28일</em>
+    </div>
   </td>
 </tr>
 </table>
