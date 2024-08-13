@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM 세션
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 7f41b655c6e0509084fdacf3f33a382727bf9157
+source-git-commit: 5ea58365068d0e97175bde8b27e9bf995c1b46a9
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,8 @@ Adobe 전문가가 Adobe Experience Manager에서 제공하는 **AEM GEM** - 기
 
 웨비나는 다음을 포함하여 정기적으로 수행됩니다.
 
-* 최대 60분
-* 웨비나 전체에서 Q&amp;A 및 채팅 전문가 제공
+* 웨비나당 최대 60분
+* 웨비나 전체에서 Q&amp;A와 채팅 전문가가 15분 이내 제공됩니다.
 * 각 웨비나 후에 사용할 수 있는 레코딩
 * 모든 AEM GEM 웨비나는 무료로 진행되며 사실상 등록만 하면 된다.
 
