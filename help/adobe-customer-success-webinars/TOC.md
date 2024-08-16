@@ -2,9 +2,9 @@
 user-guide-title: Adobe 고객 성공 웨비나
 breadcrumb-title: Adobe 고객 성공 웨비나
 user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+source-git-commit: 32b9aa55a48d744e695ca23b88f927c9fc538bb0
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '163'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,9 @@ ht-degree: 1%
    + [전략적 리더십](2024/strategic-leadership.md)
    + [솔루션 기능에 대한 사용 사례 매핑](2024/use-case-mapping.md)
    + [웹 SDK 마이그레이션 핵심 사항](2024/web-sdk-migration.md)
+   + [고객 사용 사례를 위한 AEP 앱 서비스 통합](2024/aep-apps-services-integrations.md)
+   + [Commerce &amp; 커피: B2B 전자 상거래를 위한 전략](2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md)
+   + [Marketo Measure 및 Mochas: 활동 및 사용자 지정 모델](2024/marketo-measure-and-mochas-activities-and-custom-models.md)
 + 2023 {#2023}
    + [규모에 맞는 Personalization 기반 구축](2023/personalization-at-scale.md)
    + [변경 관리](2023/change-management.md)
