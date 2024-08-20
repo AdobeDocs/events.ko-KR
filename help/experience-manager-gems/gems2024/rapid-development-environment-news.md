@@ -9,9 +9,9 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 75e71817dd313f37d258b0edc8b66dab95f70cbd
+source-git-commit: 2566ab3bb8dbb6d240dba157bbcb8dadb1c0b43a
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 이 웨비나는 2024년 9월 4일 ~ 오후 5시(CEST) / 오전 8시(PDT) / 오후 8시 30분(IST)에 진행될 예정입니다.
 웨비나는 무료이며, 등록만 하면 됩니다.
-가입하려면 [여기](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-whats-new-in-rapid-development-environments/)에서 등록하십시오.
+가입하려면 [여기](https://adobe.ly/4cwc5W4)에서 등록하십시오.
 
 ## 신속한 개발 환경의 새로운 기능
 
@@ -37,6 +37,6 @@ RDE를 사용하면 개발자가 변경 사항을 신속하게 배포하고 검�
 
 >[!NOTE]
 >
->* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 8월 23일에 사용할 수 있는 해당 컨텍스트 스레드를 참조하십시오.
+>* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 해당 [컨텍스트 스레드](https://adobe.ly/3M8MFTE)를 참조하십시오.
 >
 >* 예정된 웨비나에 대한 알림을 받으려면 [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/)에 등록하십시오.
