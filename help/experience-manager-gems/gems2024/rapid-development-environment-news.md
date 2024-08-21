@@ -1,5 +1,5 @@
 ---
-title: 신속한 개발 환경의 새로운 기능
+title: AEM용 신속한 개발 환경의 새로운 기능
 description: RDE를 사용하면 개발자가 변경 사항을 신속하게 배포하고 검토할 수 있으므로 로컬 개발 환경에서 작동하는 것으로 입증된 기능을 테스트하는 데 필요한 시간을 최소화할 수 있습니다. 이 세션에서는 RDE를 사용하여 개발 중 반환 시간을 줄이고 코드 변경에 대한 즉각적인 피드백을 얻는 방법을 보여 줍니다. 또한 개선된 로깅 및 프론트엔드 지원과 같은 최신 기능도 소개합니다. RDE로 수행할 수 있는 작업에 대해 자세히 알아보고 다음에 추가되기를 원하는 내용을 알려주십시오.
 solution: Experience Manager
 version: Cloud Service
@@ -9,9 +9,9 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 2566ab3bb8dbb6d240dba157bbcb8dadb1c0b43a
+source-git-commit: 06d87b13be213513469f77fd44782f6ae27ffc30
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 웨비나는 무료이며, 등록만 하면 됩니다.
 가입하려면 [여기](https://adobe.ly/4cwc5W4)에서 등록하십시오.
 
-## 신속한 개발 환경의 새로운 기능
+## AEM용 신속한 개발 환경의 새로운 기능
 
 RDE를 사용하면 개발자가 변경 사항을 신속하게 배포하고 검토할 수 있으므로 로컬 개발 환경에서 작동하는 것으로 입증된 기능을 테스트하는 데 필요한 시간을 최소화할 수 있습니다. 이 세션에서는 RDE를 사용하여 개발 중 반환 시간을 줄이고 코드 변경에 대한 즉각적인 피드백을 얻는 방법을 보여 줍니다. 또한 개선된 로깅 및 프론트엔드 지원과 같은 최신 기능도 소개합니다. RDE로 수행할 수 있는 작업에 대해 자세히 알아보고 다음에 추가되기를 원하는 내용을 알려주십시오.
 
