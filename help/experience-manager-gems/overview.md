@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM 세션
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 5ea58365068d0e97175bde8b27e9bf995c1b46a9
+source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,10 @@ ht-degree: 0%
 
 <img alt="디지털 환경" src="./assets/ADX_Gems.png"/>
 
-## 예정된 AEM GEM 웨비나 - AEM Assets과 Edge Delivery Services 통합
+## 예정된 AEM GEM 웨비나 - AEM용 신속한 개발 환경의 새로운 기능
 
-이번 웨비나는 8월 21일 수요일~오후 5시(CEST)/오전 8시(PDT)/오후 8시 30분(IST)에 진행된다. 이 웨비나는 등록만 필요합니다. [여기](https://adobe.ly/3LTT3hg)에서 등록하십시오.
+이번 웨비나는 9월 4일 수요일~오후 5시(CEST)/오전 8시(PDT)/오후 8시 30분(IST)에 진행된다. 이 웨비나는 등록만 하면 됩니다.
+참가하려면 [여기](https://adobe.ly/3LTT3hg)에서 등록하십시오.
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -50,9 +51,9 @@ ht-degree: 0%
 
 ## 이전 AEM GEM 웨비나
 
-**AEM Cloud Manager에서 개인 GitHub 저장소 통합**&#x200B;에 대한 최신 AEM GEM 웨비나는 *2024년 7월 31일*에 진행되었습니다.
+**AEM Assets과 Edge Delivery Services 통합**&#x200B;에 대한 최신 AEM GEM 웨비나는 *2024년 8월 21일*에 진행되었습니다.
 **기록**은(는) 여기에서 찾을 수 있습니다.
-[AEM Cloud Manager에서 개인 GitHub 저장소 통합](gems2024/private-github-for-aem-cloud-manager.md)
+[Edge Delivery Services과 AEM Assets 통합](gems2024/edge-delivery-for-aem-assets.md)
 
 >[!NOTE]
 >
