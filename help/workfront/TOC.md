@@ -2,9 +2,9 @@
 user-guide-title: Workfront 이벤트
 breadcrumb-title: Workfront 이벤트
 user-guide-description: Workfront 이벤트
-source-git-commit: e5c41210809983e9b6d2854f6ecf75e44976d019
+source-git-commit: 02ca017c96958afecfa431513997e22e830f0c4e
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,6 @@ ht-degree: 0%
 + 애자일 {#agile}
    + [마케팅 애자일](user-groups/agile-in-marketing.md)
 + 보고 및 대시보드 {#reporting-and-dashboards}
-   + [고급 보고](user-groups/advanced-reporting.md)
    + [Creative Agents: 보고 및 대시보드](user-groups/creative-agencies-reporting-and-dashboards.md)
    + [품질 및 참여 평가](webinars/gauging-quality-and-engagement.md)
    + [텍스트 모드 보고 소개](webinars/introduction-to-text-mode-reporting.md)
