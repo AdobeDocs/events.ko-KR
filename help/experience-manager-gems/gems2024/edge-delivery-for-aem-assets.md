@@ -9,7 +9,7 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
+source-git-commit: 9dc54b9034ffa5e533df2c026b9d6518f50c6531
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -35,6 +35,6 @@ ht-degree: 0%
 >
 >[!NOTE]
 >
->* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 해당 [컨텍스트 스레드](https://adobe.ly/4aCz0OE)를 방문하십시오.
+>* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 해당 [컨텍스트 스레드](https://adobe.ly/3LSCVfX)를 방문하십시오.
 >
 >* 예정된 웨비나에 대한 알림을 받으려면 [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/)에 등록하십시오.
