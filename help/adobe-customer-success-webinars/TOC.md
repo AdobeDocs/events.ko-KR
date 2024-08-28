@@ -2,9 +2,9 @@
 user-guide-title: Adobe 고객 성공 웨비나
 breadcrumb-title: Adobe 고객 성공 웨비나
 user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+source-git-commit: 87a01d0a4002a35bf538c6ac32ee6631c38f25c0
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '178'
 ht-degree: 1%
 
 ---
@@ -16,12 +16,15 @@ ht-degree: 1%
 + 2024 {#2024}
    + [고객 사용 사례를 위한 AEP 앱 서비스 통합](2024/aep-apps-services-integrations.md)
    + [AEP 사용 사례 계획](2024/aep-use-case-planning.md)
+   + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Workfront - 린 팀](2024/workfront-lean-teams.md)
    + [데이터 스트림 우선 순위 지정](2024/data-stream-prioritization.md)
    + [효과적인 변경 관리](2024/effective-change-management.md)
    + [Lean 팀 지원](2024/empowering-lean-teams.md)
    + [Expedia가 Adobe Analytics에서 Customer Journey Analytics으로 이동](2024/expedia-aa-to-cja.md)
    + [Workfront 시스템 및 그룹 관리 후견의 기본 사항](2024/workfront-admin-guardianship.md)
+   + [Lean 팀 및 Customer Journey Analytics](2024/lean-teams-cja.md)
+   + [Target Personalization](2024/target-personalization.md)
    + [개인화 과잉](2024/hyperpersonalization.md)
    + [Journey Optimizer Mobile 기능](2024/journey-optimizer-mobile-capabilities.md)
    + [전략적 리더십](2024/strategic-leadership.md)
