@@ -2,9 +2,9 @@
 user-guide-title: Adobe 고객 성공 웨비나
 breadcrumb-title: Adobe 고객 성공 웨비나
 user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: 87a01d0a4002a35bf538c6ac32ee6631c38f25c0
+source-git-commit: 12447442bb31bec89d2c82b45cf15a8c99bd34ce
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '196'
 ht-degree: 1%
 
 ---
@@ -23,10 +23,13 @@ ht-degree: 1%
    + [Lean 팀 지원](2024/empowering-lean-teams.md)
    + [Expedia가 Adobe Analytics에서 Customer Journey Analytics으로 이동](2024/expedia-aa-to-cja.md)
    + [Workfront 시스템 및 그룹 관리 후견의 기본 사항](2024/workfront-admin-guardianship.md)
+   + [Adobe Journey Optimizer Analysis 시작하기](2024/getting-started-ajo-analysis.md)
    + [Lean 팀 및 Customer Journey Analytics](2024/lean-teams-cja.md)
+   + [쿠키 및 데이터 개인 정보 보호 마스터링](2024/mastering-cookies-data-privacy.md)
    + [Target Personalization](2024/target-personalization.md)
    + [개인화 과잉](2024/hyperpersonalization.md)
    + [Journey Optimizer Mobile 기능](2024/journey-optimizer-mobile-capabilities.md)
+   + [Real-time Customer Data Platform 마이그레이션 준비](2024/rtcdp-migration-readiness.md)
    + [전략적 리더십](2024/strategic-leadership.md)
    + [솔루션 기능에 대한 사용 사례 매핑](2024/use-case-mapping.md)
    + [웹 SDK 마이그레이션 핵심 사항](2024/web-sdk-migration.md)
