@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: d692337e230540fe667072bd12351fd62c5aa4d2
+source-git-commit: 4d3f85437e3f1c27684be89186f9cd6dad74e859
 workflow-type: tm+mt
-source-wordcount: '432'
-ht-degree: 5%
+source-wordcount: '444'
+ht-degree: 4%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 5%
 
 + [개요](overview.md)
 + 에피소드 {#episodes}
+   + [Ep. 39: 모바일 분석 앱을 업그레이드할 준비가 되셨습니까?](episodes/exl-live-episode-09-18-24.md)
    + [Ep. 38: Summer Spotlight - Adobe Journey Optimizer에서 세 가지 기능을 시도해야 함](episodes/exl-live-episode-08-28-24.md)
    + [Ep. 37: 최신 Adobe Real-Time CDP 릴리스가 비즈니스에 바늘을 옮기는 방법](episodes/exl-live-episode-06-26-24.md)
    + [Ep. 36: 이렇게 하면 Analytics를 웹 SDK로 마이그레이션할 수 있습니다](episodes/exl-live-episode-05-16-24.md)
