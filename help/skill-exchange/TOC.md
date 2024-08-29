@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange의 녹화본 컬렉션
 event-series: The Skill Exchange
-source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
+source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
 workflow-type: tm+mt
-source-wordcount: '526'
+source-wordcount: '581'
 ht-degree: 5%
 
 ---
@@ -14,7 +14,16 @@ ht-degree: 5%
 # The Skill Exchange {#the-skill-exchange-recordings}
 
 + [개요](overview.md)
++ Adobe Commerce {#commerce}
+   + 2024년 8월 {#aug2024}
+      + [Adobe Commerce 성능 향상](commerce/aug2024/commerce-performance.md)
+      + [마이그레이션 워크플로 전체에서 SEO 최대화](commerce/aug2024/seo-migration-workflows.md)
 + Analytics {#analytics}
+   + 2024년 8월 {#aug2024}
+      + [높은 수준 속성 개념](analytics/aug2024/attribution-concepts.md)
+      + [중요한 통찰력 발견](analytics/aug2024/uncover-valuable-insights.md)
+      + [계산된 지표 사용](analytics/aug2024/calculated-metrics.md)
+      + [Analysis Workspace을 사용한 시각화](analytics/aug2024/spotlight-visualizations.md)
    + 2023년 8월 {#aug2023}
       + [세그먼트 정보](analytics/aug2023/spotlight-segments.md)
       + [데이터 분석](analytics/aug2023/analyze-the-data.md)
@@ -77,6 +86,10 @@ ht-degree: 5%
       + [마케팅 채널, 책임 있게 사용하십시오.](analytics/jun2021/marketing-channels.md)
       + [모두 합치기](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
+   + 2024년 8월 {#aug2024}
+      + [범용 편집기가 있는 AEM Sites](aem/aug2024/universal-editor.md)
+      + [기본 헤드리스 및 SPA 편집기 접근 방식](aem/aug2024/headless-spa-editor.md)
+      + [디지털 자산 관리 전략](aem/aug2024/spotlight-dam-strategies.md)
    + 2023년 8월 {#aug2023}
       + 개발자 트랙 {#developer-track}
          + [AEM 개발자 스타터 키트](aem/aug2023/deploy-new-project.md)
@@ -125,10 +138,13 @@ ht-degree: 5%
    + 2024년 8월 {#aug2024}
       + [Keynote 열기](workfront/aug2024/keynote.md)
       + [업무 균형자 사용자 정의](workfront/aug2024/workload-balancer.md)
+      + [데이터 품질](workfront/aug2024/data-quality.md)
       + [승인 경험 개선](workfront/aug2024/approval-experience.md)
+      + [Workfront Fusion 및 보드](workfront/aug2024/fusion-boards.md)
       + [마케팅 콘텐츠 공급망](workfront/aug2024/content-supply-chain.md)
       + [프로세스 개선 및 운영 효율성 향상](workfront/aug2024/spotlight-process-operations.md)
       + [유지 및 참여 여정](workfront/aug2024/retention-engagement-journey.md)
+      + [Workfront 홈 페이지 맞춤화](workfront/aug2024/tailoring-homepages.md)
       + [Workfront Wins로 프로세스 흐름 변환](workfront/aug2024/spotlight-process-flows.md)
    + 2023년 8월 {#aug2023}
       + [보드 소개](workfront/aug2023/introduction-to-boards.md)
