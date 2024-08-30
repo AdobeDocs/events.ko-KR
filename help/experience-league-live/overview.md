@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 4d3f85437e3f1c27684be89186f9cd6dad74e859
+source-git-commit: 3481a7e4b34febb1d570e87d789ada6d1550be4b
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 3%
+source-wordcount: '213'
+ht-degree: 2%
 
 ---
 
@@ -35,6 +35,22 @@ Experience League 라이브는 Experience League 팀이 제작하는 라이브 �
       </a>
       <br/><em>다니엘 라이트, 미치 라이스, 케빈 린드와 함께</em>
       <br/><em>2024년 9월 18일 오후 8시 30분</em>
+    </div>
+  </td>
+</tr>
+</table>
+<table>
+<tr>
+
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-26-24.md">
+      <img alt="Experience League 라이브 8월 28일" src="episodes/assets/WebBanner-09-26-2024.png">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-09-18-24.md">
+        <strong>AI Assistant를 통해 Adobe Experience Cloud 애플리케이션 및 Adobe Campaign에서 고객 상호 작용을 개선하고 생산성을 높이는 방법을 살펴봅니다. </strong>
+      </a>
+      <br/><em>레이첼 하네시안, 아마르나스 반나라스, 아서 라크로와 함께</em>
+      <br/><em>2024년 9월 26일 오후 8시 30분</em>
     </div>
   </td>
 </tr>
