@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange의 녹화본 컬렉션
 event-series: The Skill Exchange
-source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
+source-git-commit: 28a55b5e5e6716f970585d721edd5ab411d3aa45
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '613'
 ht-degree: 4%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 4%
 + [개요](overview.md)
 + Adobe Commerce {#commerce}
    + 2024년 8월 {#aug2024}
-      + [Keynote 열기](workfront/aug2024/keynote.md)
+      + [Keynote 열기](commerce/aug2024/keynote.md)
       + [Adobe Commerce 성능 향상](commerce/aug2024/commerce-performance.md)
       + [효과적인 확장성](commerce/aug2024/extensibility.md)
       + [마이그레이션 워크플로 전체에서 SEO 최대화](commerce/aug2024/seo-migration-workflows.md)
@@ -94,7 +94,6 @@ ht-degree: 4%
       + [범용 편집기가 있는 AEM Sites](aem/aug2024/universal-editor.md)
       + [Dynamic Media Classic 자산 관리](aem/aug2024/dmc-asset-management.md)
       + [AEM 사용자 정의 및 거버넌스를 통한 통합 경험](aem/aug2024/customize-elements.md)
-      + [요소 사용자 지정](aem/aug2024/customize-elements.md)
       + [기본 헤드리스 및 SPA 편집기 접근 방식](aem/aug2024/headless-spa-editor.md)
       + [디지털 자산 관리 전략](aem/aug2024/spotlight-dam-strategies.md)
    + 2023년 8월 {#aug2023}
