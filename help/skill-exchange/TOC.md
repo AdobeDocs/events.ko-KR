@@ -3,10 +3,10 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange의 녹화본 컬렉션
 event-series: The Skill Exchange
-source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
+source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 5%
+source-wordcount: '615'
+ht-degree: 4%
 
 ---
 
@@ -16,10 +16,13 @@ ht-degree: 5%
 + [개요](overview.md)
 + Adobe Commerce {#commerce}
    + 2024년 8월 {#aug2024}
+      + [Keynote 열기](workfront/aug2024/keynote.md)
       + [Adobe Commerce 성능 향상](commerce/aug2024/commerce-performance.md)
+      + [효과적인 확장성](commerce/aug2024/extensibility.md)
       + [마이그레이션 워크플로 전체에서 SEO 최대화](commerce/aug2024/seo-migration-workflows.md)
 + Analytics {#analytics}
    + 2024년 8월 {#aug2024}
+      + [Keynote 열기](analytics/aug2024/keynote.md)
       + [높은 수준 속성 개념](analytics/aug2024/attribution-concepts.md)
       + [중요한 통찰력 발견](analytics/aug2024/uncover-valuable-insights.md)
       + [계산된 지표 사용](analytics/aug2024/calculated-metrics.md)
@@ -87,7 +90,11 @@ ht-degree: 5%
       + [모두 합치기](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
    + 2024년 8월 {#aug2024}
+      + [Keynote 열기](aem/aug2024/keynote.md)
       + [범용 편집기가 있는 AEM Sites](aem/aug2024/universal-editor.md)
+      + [Dynamic Media Classic 자산 관리](aem/aug2024/dmc-asset-management.md)
+      + [AEM 사용자 정의 및 거버넌스를 통한 통합 경험](aem/aug2024/customize-elements.md)
+      + [요소 사용자 지정](aem/aug2024/customize-elements.md)
       + [기본 헤드리스 및 SPA 편집기 접근 방식](aem/aug2024/headless-spa-editor.md)
       + [디지털 자산 관리 전략](aem/aug2024/spotlight-dam-strategies.md)
    + 2023년 8월 {#aug2023}
@@ -112,6 +119,11 @@ ht-degree: 5%
          + [AEM의 콘텐츠 개인화를 통해 비즈니스 가치 촉진](aem/aug2022/personalization.md)
          + [AEM 구현 최대화](aem/aug2022/implementation.md)
 + Marketo {#marketo}
+   + 2024년 8월 {#aug2024}
+      + [Keynote 열기](marketo/aug2024/keynote.md)
+      + [참여 프로그램의 고급 응용 프로그램](marketo/aug2024/advanced-applications-engagment-programs.md)
+      + [유지 및 참여 여정](marketo/aug2024/retention-engagement-journey.md)
+      + [스마트 목록 논리](marketo/aug2024/smart-list-logic.md)
    + 2022년 2월 {#feb2022}
       + [데이터 유지 관리](marketo/feb2022/data-maintenance.md)
       + [다이내믹 콘텐츠 및 Personalization의 기능](marketo/feb2022/dynamic-content.md)
@@ -143,7 +155,6 @@ ht-degree: 5%
       + [Workfront Fusion 및 보드](workfront/aug2024/fusion-boards.md)
       + [마케팅 콘텐츠 공급망](workfront/aug2024/content-supply-chain.md)
       + [프로세스 개선 및 운영 효율성 향상](workfront/aug2024/spotlight-process-operations.md)
-      + [유지 및 참여 여정](workfront/aug2024/retention-engagement-journey.md)
       + [Workfront 홈 페이지 맞춤화](workfront/aug2024/tailoring-homepages.md)
       + [Workfront Wins로 프로세스 흐름 변환](workfront/aug2024/spotlight-process-flows.md)
    + 2023년 8월 {#aug2023}
