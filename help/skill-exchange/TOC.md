@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange의 녹화본 컬렉션
 event-series: The Skill Exchange
-source-git-commit: 28a55b5e5e6716f970585d721edd5ab411d3aa45
+source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '658'
 ht-degree: 4%
 
 ---
@@ -20,10 +20,15 @@ ht-degree: 4%
       + [Adobe Commerce 성능 향상](commerce/aug2024/commerce-performance.md)
       + [효과적인 확장성](commerce/aug2024/extensibility.md)
       + [마이그레이션 워크플로 전체에서 SEO 최대화](commerce/aug2024/seo-migration-workflows.md)
+      + [고객 경험 개인화](commerce/aug2024/personalization.md)
 + Analytics {#analytics}
    + 2024년 8월 {#aug2024}
       + [Keynote 열기](analytics/aug2024/keynote.md)
+      + [경고 및 주석](analytics/aug2024/alerts-annotations.md)
+      + [Experience Makers Spotlight](analytics/aug2024/spotlight-reporting-analysis.md)
       + [높은 수준 속성 개념](analytics/aug2024/attribution-concepts.md)
+      + [세분화 살펴보기](analytics/aug2024/segmentation.md)
+      + [마케팅 채널 및 속성](analytics/aug2024/marketing-channels-attribution.md)
       + [중요한 통찰력 발견](analytics/aug2024/uncover-valuable-insights.md)
       + [계산된 지표 사용](analytics/aug2024/calculated-metrics.md)
       + [Analysis Workspace을 사용한 시각화](analytics/aug2024/spotlight-visualizations.md)
@@ -92,10 +97,12 @@ ht-degree: 4%
    + 2024년 8월 {#aug2024}
       + [Keynote 열기](aem/aug2024/keynote.md)
       + [범용 편집기가 있는 AEM Sites](aem/aug2024/universal-editor.md)
-      + [Dynamic Media Classic 자산 관리](aem/aug2024/dmc-asset-management.md)
       + [AEM 사용자 정의 및 거버넌스를 통한 통합 경험](aem/aug2024/customize-elements.md)
-      + [기본 헤드리스 및 SPA 편집기 접근 방식](aem/aug2024/headless-spa-editor.md)
       + [디지털 자산 관리 전략](aem/aug2024/spotlight-dam-strategies.md)
+      + [Dynamic Media Classic 자산 관리](aem/aug2024/dmc-asset-management.md)
+      + [콘텐츠 공급망 개선](aem/aug2024/spotlight-content-supply-chain.md)
+      + [기본 헤드리스 및 SPA 편집기 접근 방식](aem/aug2024/headless-spa-editor.md)
+      + [Print Production](aem/aug2024/print-production.md)
    + 2023년 8월 {#aug2023}
       + 개발자 트랙 {#developer-track}
          + [AEM 개발자 스타터 키트](aem/aug2023/deploy-new-project.md)
@@ -121,8 +128,13 @@ ht-degree: 4%
    + 2024년 8월 {#aug2024}
       + [Keynote 열기](marketo/aug2024/keynote.md)
       + [참여 프로그램의 고급 응용 프로그램](marketo/aug2024/advanced-applications-engagment-programs.md)
+      + [A/B 테스트로 성능 향상](marketo/aug2024/a-b-testing.md)
+      + [라이프사이클 관리 및 분석](marketo/aug2024/lifecycle-management-analytics.md)
+      + [마케팅 운영 효율성](marketo/aug2024/spotlight-marketing-ops-efficiency.md)
       + [유지 및 참여 여정](marketo/aug2024/retention-engagement-journey.md)
       + [스마트 목록 논리](marketo/aug2024/smart-list-logic.md)
+      + [Spotlight - 대화형 웨비나](marketo/aug2024/spotlight-interactive-webinars.md)
+      + [감사 추적 및 캠페인 검사기 사용](marketo/aug2024/audit-trail-campaign-inspector.md)
    + 2022년 2월 {#feb2022}
       + [데이터 유지 관리](marketo/feb2022/data-maintenance.md)
       + [다이내믹 콘텐츠 및 Personalization의 기능](marketo/feb2022/dynamic-content.md)
