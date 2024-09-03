@@ -12,7 +12,7 @@ type: Event
 user-guide-description: AEM GEM 세션
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
+source-git-commit: 3b55664ebc35de2657158bc0d7f365753cbb28eb
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 ## 예정된 AEM GEM 웨비나 - AEM용 신속한 개발 환경의 새로운 기능
 
 이번 웨비나는 9월 4일 수요일~오후 5시(CEST)/오전 8시(PDT)/오후 8시 30분(IST)에 진행된다. 이 웨비나는 등록만 하면 됩니다.
-참가하려면 [여기](https://adobe.ly/3LTT3hg)에서 등록하십시오.
+참가하려면 [여기](https://adobe.ly/3yWr9OY)에서 등록하십시오.
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
