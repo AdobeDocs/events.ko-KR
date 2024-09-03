@@ -2,9 +2,9 @@
 user-guide-title: Adobe Experience Manager GEMS 이벤트
 user-guide-description: Adobe Experience Manager 전문가가 제공하는 일련의 기술적인 분석인 AEM Gems에 대해 알아봅니다.
 breadcrumb-title: AEM GEM 이벤트
-source-git-commit: 06d87b13be213513469f77fd44782f6ae27ffc30
+source-git-commit: 8727d2d86d807d31ca35e3951fd65da78acd9cbd
 workflow-type: tm+mt
-source-wordcount: '741'
+source-wordcount: '752'
 ht-degree: 1%
 
 ---
@@ -14,6 +14,7 @@ ht-degree: 1%
 
 + [개요](overview.md)
 + 2024 {#gems2024}
+   + [AEM Sites의 강력한 기능 잠금 해제: 콘텐츠 관리 API 기본](gems2024/aem-sites-and-apis.md)
    + [AEM용 신속한 개발 환경의 새로운 기능](gems2024/rapid-development-environment-news.md)
    + [AEM Assets과 Edge Delivery Services 통합](gems2024/edge-delivery-for-aem-assets.md)
    + [AEM Cloud Manager에서 개인 GitHub 저장소 통합](gems2024/private-github-for-aem-cloud-manager.md)

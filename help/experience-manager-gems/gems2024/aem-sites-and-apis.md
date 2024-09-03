@@ -9,7 +9,7 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 3b55664ebc35de2657158bc0d7f365753cbb28eb
+source-git-commit: 8727d2d86d807d31ca35e3951fd65da78acd9cbd
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -24,8 +24,7 @@ ht-degree: 0%
 
 ## AEM Sites의 강력한 기능 잠금 해제: 콘텐츠 관리 API 기본
 
-AEM Sites을 사용하는 방법은 빠르게 발전하면서 기존 사용자 상호 작용에 API 우선 패턴을 추가하고 있습니다. 운영 효율화 또는 자동화 향상을 원하는 고객이라면 이러한 추세를 앞세우는 것이 중요합니다. AEM Sites의 관련 최신 업데이트와 컨텐츠 관리 전략을 강화하는 방법을 살펴보는 심층적인 세션에 참여하십시오.
-이 세션에서는 다음을 확인할 수 있습니다.
+AEM Sites을 사용하는 방법은 빠르게 발전하면서 기존 사용자 상호 작용에 API 우선 패턴을 추가하고 있습니다. 운영 효율화 또는 자동화 향상을 원하는 고객이라면 이러한 추세를 앞세우는 것이 중요합니다. AEM Sites의 관련 최신 업데이트와 컨텐츠 관리 전략을 강화하는 방법을 살펴보는 심층적인 세션에 참여하십시오. 이 세션에서는 다음을 확인할 수 있습니다.
 * 고급 OpenAPI 표준: AEM 구조화된 컨텐츠에서 원활한 CRUD 운영을 위해 최신 OpenAPI 구현을 살펴봅니다.
 * 이벤트 및 웹후크: Adobe I/O의 이벤트 및 웹후크 기능이 AEM의 컨텐츠 및 상태 변경에 따라 프로세스를 자동화하는 방법에 대해 알아봅니다.
 * 번역 자동화를 위한 새로운 REST API: AEM에서 콘텐츠 번역 워크플로를 간소화하고 간소화하는 새로운 REST API에 대해 알아봅니다.
