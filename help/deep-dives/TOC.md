@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 7f5998a03b576b2b50f0e44507a81187fac10919
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '56'
 ht-degree: 5%
 
 ---
@@ -31,4 +31,5 @@ ht-degree: 5%
    + [확장성을 위한 PMCF 필드 활용](pmcf-fields.md)
    + [소규모 팀으로 인스턴스 최대화](small-team-instance.md)
    + [작업 로그에 복잡한 프로세스 알림](activity-log.md)
+   + [글로벌 마케팅 잠금 해제](global-marketing.md)
    + [웹후크를 사용하여 데이터 전송](webhooks.md)
