@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange의 녹화본 컬렉션
 event-series: The Skill Exchange
-source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
+source-git-commit: e3f251f2b3030f4d9fdf072aee05be25f06d89b4
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '663'
 ht-degree: 4%
 
 ---
@@ -102,6 +102,7 @@ ht-degree: 4%
       + [Dynamic Media Classic 자산 관리](aem/aug2024/dmc-asset-management.md)
       + [콘텐츠 공급망 개선](aem/aug2024/spotlight-content-supply-chain.md)
       + [기본 헤드리스 및 SPA 편집기 접근 방식](aem/aug2024/headless-spa-editor.md)
+      + [메타데이터, 콘텐츠 구조 및 분류 체계](aem/aug2024/dam-performance.md)
       + [Print Production](aem/aug2024/print-production.md)
    + 2023년 8월 {#aug2023}
       + 개발자 트랙 {#developer-track}
