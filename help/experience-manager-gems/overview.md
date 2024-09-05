@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM 세션
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 3b55664ebc35de2657158bc0d7f365753cbb28eb
+source-git-commit: 7c5e261cf6ee05ea1dbe425b015f9ad33f4a20a4
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -23,10 +23,10 @@ ht-degree: 0%
 
 <img alt="디지털 환경" src="./assets/ADX_Gems.png"/>
 
-## 예정된 AEM GEM 웨비나 - AEM용 신속한 개발 환경의 새로운 기능
+## 예정된 AEM GEM 웨비나 - AEM Sites의 강력한 기능 잠금 해제: 기본 콘텐츠 관리 API
 
-이번 웨비나는 9월 4일 수요일~오후 5시(CEST)/오전 8시(PDT)/오후 8시 30분(IST)에 진행된다. 이 웨비나는 등록만 하면 됩니다.
-참가하려면 [여기](https://adobe.ly/3yWr9OY)에서 등록하십시오.
+이번 웨비나는 10월 9일 수요일~오후 5시(CEST)/오전 8시(PDT)/오후 8시 30분(IST)에 진행된다. 이 웨비나는 등록만 하면 됩니다.
+참가하려면 [**여기**](https://adobe.ly/4g6TYck)에서 등록하십시오.
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -51,9 +51,12 @@ ht-degree: 0%
 
 ## 이전 AEM GEM 웨비나
 
-**AEM Assets과 Edge Delivery Services 통합**&#x200B;에 대한 최신 AEM GEM 웨비나는 *2024년 8월 21일*에 진행되었습니다.
-**기록**은(는) 여기에서 찾을 수 있습니다.
-[Edge Delivery Services과 AEM Assets 통합](gems2024/edge-delivery-for-aem-assets.md)
+AEM **AEM용 빠른 개발 환경의 새로운 기능**&#x200B;은(는) *2024년 9월 4일*에 수행되었습니다.
+**기록**&#x200B;을 곧 사용할 수 있습니다...
+
+<!--
+[What's new in Rapid Development Environments for AEM?](gems2024/rapid-development-environment-news.md)
+-->
 
 >[!NOTE]
 >
