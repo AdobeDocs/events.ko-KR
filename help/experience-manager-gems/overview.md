@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM 세션
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 7c5e261cf6ee05ea1dbe425b015f9ad33f4a20a4
+source-git-commit: 3e9a442e67fab387b886d57bebcc1940631c6ffe
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 <img alt="디지털 환경" src="./assets/ADX_Gems.png"/>
 
-## 예정된 AEM GEM 웨비나 - AEM Sites의 강력한 기능 잠금 해제: 기본 콘텐츠 관리 API
+## 예정된 AEM GEM 웨비나 - AEM Sites: 기본 콘텐츠 관리 API
 
 이번 웨비나는 10월 9일 수요일~오후 5시(CEST)/오전 8시(PDT)/오후 8시 30분(IST)에 진행된다. 이 웨비나는 등록만 하면 됩니다.
 참가하려면 [**여기**](https://adobe.ly/4g6TYck)에서 등록하십시오.
