@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM 세션
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 3e9a442e67fab387b886d57bebcc1940631c6ffe
+source-git-commit: 1bdf2039e9b44f8f2f938ddf6443bf4888e26d7f
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -52,11 +52,8 @@ ht-degree: 0%
 ## 이전 AEM GEM 웨비나
 
 AEM **AEM용 빠른 개발 환경의 새로운 기능**&#x200B;은(는) *2024년 9월 4일*에 수행되었습니다.
-**기록**&#x200B;을 곧 사용할 수 있습니다...
-
-<!--
-[What's new in Rapid Development Environments for AEM?](gems2024/rapid-development-environment-news.md)
--->
+**기록**은(는) 여기에서 볼 수 있습니다.
+[AEM용 신속한 개발 환경의 새로운 기능](gems2024/rapid-development-environment-news.md)
 
 >[!NOTE]
 >
