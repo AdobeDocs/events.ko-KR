@@ -8,9 +8,10 @@ event-cta-url-live: https://www.youtube.com/live/QKz1slMT36Y
 event-start-time: 2024-09-18 08:30-7
 event-guests: Daniel Wright,Mitch Rice,Kevin Lind
 duration: 25
-source-git-commit: 4d3f85437e3f1c27684be89186f9cd6dad74e859
+exl-id: e97232c7-fa04-4d68-83eb-792ac140332e
+source-git-commit: 7209eb186bbe64d0b9d221b5d11a686e493f088f
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -19,9 +20,9 @@ ht-degree: 0%
 
 이 세션에서는 Edge Bridge 확장을 사용하여 마이그레이션에 대한 차이를 메우는 방법에 대해 알아봅니다. Edge Bridge을 사용하도록 모바일 속성을 구성하고 클라이언트측 구현을 업데이트하는 방법에 대한 단계별 지침을 제공합니다.
 
-[![ExL LIVE 2024년 8월 28일](assets/WebBanner-09-18-2024.jpg)](https://www.youtube.com/live/QKz1slMT36Y)
+[!VIDEO](https://video.tv.adobe.com/v/3434575)
 
-**[YouTube에 표시할 알림 메시지 설정](https://www.youtube.com/live/QKz1slMT36Y){target="_blank"}**
+**토론을 계속하려면 Experience League 커뮤니티에 대한 [토론](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}을 참조하세요.**
 
 **세부 정보 표시**:
 모바일 앱에서 Adobe Analytics을 사용하여 디지털 비즈니스에 대한 통찰력을 얻고 고객이 앱을 사용하는 방법을 이해했습니다.
