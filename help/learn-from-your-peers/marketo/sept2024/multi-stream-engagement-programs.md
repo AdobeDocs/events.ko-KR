@@ -8,9 +8,9 @@ doc-type: Event
 duration: 2477
 last-substantial-update: 2024-09-18T00:00:00Z
 jira: KT-16216
-source-git-commit: ac811378b605024bc49232b84932b029fe783c45
+source-git-commit: 933d52ea829b18ee287631c8701c7e4494c5379b
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -33,3 +33,11 @@ ht-degree: 0%
 * 전환 전략: 참여 프로그램 내에서 스트림 간 전환에 스마트 캠페인을 사용하면 제어와 자동화가 가능합니다. &#x200B; 라이프사이클 단계나 콘텐츠 소진 등의 요소를 기반으로 리드를 전환하는 시기와 방법에 대한 이해는 효과적인 리드 육성을 위해 필수적입니다.
 
 * 프로그램 성공 지표: 참여 프로그램에 대한 명확한 성공 지표를 정의하는 것은 효과를 측정하는 데 필수적입니다. &#x200B; 이메일 클릭, 웹 사이트 방문 또는 기타 작업 등 성공 기준을 정의한 경우 참여 프로그램의 성능과 영향을 정확하게 평가하는 데 도움이 됩니다. &#x200B;
+
+## 이 프레젠테이션에서 참조된 리소스
+
+* [참여 프로그램 이해](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
+* [참여 점수 이해](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
+* [참여 프로그램 스트림에 프로그램 추가](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
+* [프로그램 가져오기 라이브러리 개요](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
+* [마케팅 국가 커뮤니티 토론 스레드](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)
