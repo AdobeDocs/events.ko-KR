@@ -9,7 +9,7 @@ event-start-time: 2024-09-18 08:30-7
 event-guests: Daniel Wright,Mitch Rice,Kevin Lind
 duration: 25
 exl-id: e97232c7-fa04-4d68-83eb-792ac140332e
-source-git-commit: 7209eb186bbe64d0b9d221b5d11a686e493f088f
+source-git-commit: facc08465a1a13b3b4ca1bfaa8f993bdbeff8c6b
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -20,7 +20,8 @@ ht-degree: 0%
 
 이 세션에서는 Edge Bridge 확장을 사용하여 마이그레이션에 대한 차이를 메우는 방법에 대해 알아봅니다. Edge Bridge을 사용하도록 모바일 속성을 구성하고 클라이언트측 구현을 업데이트하는 방법에 대한 단계별 지침을 제공합니다.
 
-[!VIDEO](https://video.tv.adobe.com/v/3434575)
+>[!VIDEO](https://video.tv.adobe.com/v/3434575/?quality=12&learn=on)
+
 
 **토론을 계속하려면 Experience League 커뮤니티에 대한 [토론](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}을 참조하세요.**
 
