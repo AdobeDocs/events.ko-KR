@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+source-git-commit: d5584d9714f046ed32853edb7602123487ad9ac9
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '66'
 ht-degree: 6%
 
 ---
@@ -22,6 +22,7 @@ ht-degree: 6%
 + [개요](overview.md)
 + 2024 {#2024}
    + [완성도 1부 - 기초 마련](2024/maturity-part1-foundation.md)
+   + [완성도 2부 - Marketo 사용 최적화](2024/optimize-marketo-usage.md)
    + [리드 육성 성공](2024/lead-nurture-success.md)
    + [새 대시보드 검색](2024/new-discover-dashboard.md)
    + [기여도 분석 대시보드 기록](2024/attribution-dashboard-recording.md)
