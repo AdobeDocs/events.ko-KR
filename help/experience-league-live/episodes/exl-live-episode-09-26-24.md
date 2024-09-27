@@ -9,10 +9,10 @@ event-start-time: 2024-09-26 08:30-7
 event-guests: Sandra Hausmann, Rachel Hanessian, Amarnath Vannararth, Arthur Lacroix
 duration: 25
 exl-id: 063a829a-219b-4d7a-b2f5-034630557dbe
-source-git-commit: 75b66226013b6f0600126a17fc0c15cb14cecbed
+source-git-commit: 3a6ff9e5501ee2db3ede3bccd8c96391731b9bcc
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 0%
+source-wordcount: '178'
+ht-degree: 1%
 
 ---
 
@@ -22,8 +22,15 @@ AI Assistant가 Adobe Experience Cloud 애플리케이션 및 Adobe Campaign에�
 
 [![ExL LIVE 2024년 9월 26일](/help/experience-league-live/episodes/assets/WebBanner-09-26-2024.png)](https://www.youtube.com/watch?v=J48CNmcV7wc)
 
-**[지금 등록](https://engage.adobe.com/ExpLeagueLive-240926.html){target="_blank"}**
-
 **세부 정보 표시**:
 
 AI 기반 도구는 고객 참여를 유도하고 워크플로를 간소화하는 방식을 혁신하고 있습니다. AI 테마의 Experience League 라이브 쇼에 참여하여 혁신의 속도를 유지하고 Adobe의 기능이 생산성을 어떻게 가속화하는지 알아보십시오.
+
+Campaign과 Journey Optimizer Coffee Break 동안 대화를 계속합니다.
+
+* [Adobe Campaign 커뮤니티 Q&amp;A 커피 브레이크, 2024년 9월 30일, 월요일 오전 8시(PT)](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fexperienceleaguecommunities.adobe.com%2Ft5%2Fcampaign-classic-events%2Fcommunity-q-amp-a-coffee-break-september-30th-with-adobe%2Fev-p%2F703121&amp;data=05%7C02%7Chausmann%40adobe.com%7C7189a987b4f74e95126b08dcd70c74ee%7Cfa7b1b5a7b34438794aed2c178decee1%7C0%7C0%7C638621695970863600%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=2HQwN%2BqCPtffUggjzyJWxZutYbYbOTQU4buQKHSux70%3D&amp;reserved=0)
+* [2024년 10월 1일, 화요일 오전 8시(PT) Adobe Journey Optimizer 커뮤니티 Q&amp;A 커피 브레이크](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fexperienceleaguecommunities.adobe.com%2Ft5%2Fjourney-optimizer-events%2Fcommunity-q-amp-a-coffee-break-october-1st-with-adobe-journey%2Fev-p%2F703114&amp;data=05%7C02%7Chausmann%40adobe.com%7C9eaaed2924ce4bcfc40508dcd70cd9f9%7Cfa7b1b5a7b34438794aed2c178decee1%7C0%7C0%7C638621697420749077%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=B5NeQ57TAnjf7MiSYQ%2B%2Bj0aP2dsidIsz5aAVjY9o9A0%3D&amp;reserved=0)
+
+## 추가 리소스
+
+[보안 팩트시트](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-ai-assistant-in-aep-security-fact-sheet.pdf)
