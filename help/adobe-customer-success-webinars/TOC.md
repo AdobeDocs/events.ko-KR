@@ -2,9 +2,9 @@
 user-guide-title: Adobe 고객 성공 웨비나
 breadcrumb-title: Adobe 고객 성공 웨비나
 user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: 3ccafeec70790d62407a06e8dde89ae7ed5fd826
+source-git-commit: 2552636b85de07bec762083103a50b207798d71f
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,7 @@ ht-degree: 0%
    + [Workfront 시스템 및 그룹 관리 후견의 기본 사항](2024/workfront-admin-guardianship.md)
    + [Adobe Journey Optimizer Analysis 시작하기](2024/getting-started-ajo-analysis.md)
    + [Real-time Customer Data Platform 시작하기](2024/getting-started-rtcdp.md)
+   + [고객 경험을 위한 AI 활용](2024/ai-customer-experience.md)
    + [Lean 팀 및 Customer Journey Analytics](2024/lean-teams-cja.md)
    + [쿠키 및 데이터 개인 정보 보호 마스터링](2024/mastering-cookies-data-privacy.md)
    + [Target Personalization](2024/target-personalization.md)
