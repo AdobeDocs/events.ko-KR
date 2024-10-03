@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: eacc80e3015303ec35d1a3d115b3117b11fb868e
+source-git-commit: a738e2b749e1dc7511cb613539f3e3b675e3fe12
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '472'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [개요](overview.md)
 + 에피소드 {#episodes}
+   + [Ep. 41: Experience Platform에서 Federated Audience Composition을 사용하여 대상 조화](episodes/exl-live-episode-40-2024-10-24.md)
    + [Ep. 40: AI Bash - Adobe Experience Platform 애플리케이션 및 캠페인에서 AI Assistant의 강력한 기능](episodes/exl-live-episode-09-26-24.md)
    + [Ep. 39: 모바일 분석 앱을 업그레이드할 준비가 되셨습니까?](episodes/exl-live-episode-09-18-24.md)
    + [Ep. 38: Summer Spotlight - Adobe Journey Optimizer에서 세 가지 기능을 시도해야 함](episodes/exl-live-episode-08-28-24.md)
