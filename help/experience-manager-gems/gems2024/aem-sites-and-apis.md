@@ -9,9 +9,10 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 8727d2d86d807d31ca35e3951fd65da78acd9cbd
+exl-id: 0ab0c446-ca60-434d-b4b1-bf31d49dbedb
+source-git-commit: 45924639f31734623b37ced70e1800d114e96c41
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -33,8 +34,8 @@ AEM Sites을 사용하는 방법은 빠르게 발전하면서 기존 사용자 �
 ## 발표자
 
 * Mathias Siegel, 수석 제품 관리자, Adobe
-* Gilles Knobloch, Director of Engineering, Adobe
-* Andreea Miluna Moise, 엔지니어링 관리자, Adobe
+* Catalina Dumitru, 소프트웨어 개발 엔지니어, Adobe
+* Lénárd Palkó, 수석 소프트웨어 개발 엔지니어, Adobe
 * Prashant Kumar Singh, 컴퓨터 과학자, Adobe
 
 ## 웨비나 커뮤니티 인터랙션
