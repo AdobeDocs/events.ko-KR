@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 5475b8048816bfded3e1fdfc9483553d29bed43a
+source-git-commit: aeef8e994a4c54f6884e3090fba028a9888abe4d
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '194'
 ht-degree: 3%
 
 ---
@@ -30,10 +30,10 @@ Experience League 라이브는 Experience League 팀이 제작하는 라이브 �
       <img alt="10월 24일 Experience League 라이브" src="episodes/assets/ep41-web-banner.png">
     </a>
     <div>
-      <strong>Federated Audience Composition이 Real-Time CDP 및 Journey Optimizer을 통해 대상 큐레이션 및 활성화에 대한 포괄적인 접근 방식을 제공하는 방법에 대해 알아봅니다. </strong>
+      <a href="episodes/exl-live-episode-40-2024-10-24.md"><strong>Federated Audience Composition이 Real-Time CDP 및 Journey Optimizer을 통해 대상 큐레이션 및 활성화에 대한 포괄적인 접근 방식을 제공하는 방법에 대해 알아봅니다. </strong></a>
       <br/><em>알리사 에스피리투, 아브히짓 고쉬, 아서 라크루와 함께</em>
       <br/><em>2024년 10월 24일 오후 8시 30분</em>
-      <br/><br/><a href="https://youtube.com/live/ghN-XWdBLvg">YouTube에서 쇼를 책갈피로 지정</a>
+      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241024.html">이 이벤트에 등록</a>
     </div>
   </td>
 </tr>

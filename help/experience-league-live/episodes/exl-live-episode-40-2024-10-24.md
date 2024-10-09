@@ -7,9 +7,9 @@ feature: Audiences
 event-cta-url-live: https://youtube.com/live/ghN-XWdBLvg
 event-start-time: 2024-10-24 08:30-7
 event-guests: Doug Moore,Alyssa Espiritu,Abhijit Ghosh,Arthur Lacroix
-source-git-commit: 5475b8048816bfded3e1fdfc9483553d29bed43a
+source-git-commit: aeef8e994a4c54f6884e3090fba028a9888abe4d
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Federated Audience Composition이 Real-Time CDP 및 Journey Optimizer을 통해 
 
 <img alt="Experience League 라이브 2024년 10월 24일" src="../episodes/assets/ep41-web-banner.png">
 
-[YouTube에서 쇼를 책갈피로 지정](https://youtube.com/live/ghN-XWdBLvg)
+[이 이벤트에 등록](https://engage.adobe.com/ExpLeagueLive-241024.html)
 
 **세부 정보 표시**:
 엔터프라이즈 데이터 웨어하우스에 대한 확장된 액세스 권한을 통해 대상자를 구성하고 브랜드에서 시작한 즉각적인 경험을 강화할 수 있습니다.
