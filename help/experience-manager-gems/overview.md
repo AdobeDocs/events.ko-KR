@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM 세션
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 1bdf2039e9b44f8f2f938ddf6443bf4888e26d7f
+source-git-commit: 670b69aea8b574567487f169579d7c81db7550ad
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -23,12 +23,16 @@ ht-degree: 0%
 
 <img alt="디지털 환경" src="./assets/ADX_Gems.png"/>
 
-## 예정된 AEM GEM 웨비나 - AEM Sites: 기본 콘텐츠 관리 API
+## 예정된 AEM GEM 웨비나는 곧 발표될 예정입니다
 
-이번 웨비나는 10월 9일 수요일~오후 5시(CEST)/오전 8시(PDT)/오후 8시 30분(IST)에 진행된다. 이 웨비나는 등록만 하면 됩니다.
-참가하려면 [**여기**](https://adobe.ly/4g6TYck)에서 등록하십시오.
+알림을 받으려면 [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/)에 등록하십시오.
 
-<!--  Remove the comment marks, and put the upcoming event in the below table
+<!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
+
+This webinar will be conducted on Wednesday, October 9th - 5pm CEST / 8am PDT / 8.30pm IST. Note, that only registration is required for this webinar. 
+If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
+
+
 
 <table style="max-width: 1214px;">
 <tr>
@@ -51,9 +55,9 @@ ht-degree: 0%
 
 ## 이전 AEM GEM 웨비나
 
-AEM **AEM용 빠른 개발 환경의 새로운 기능**&#x200B;은(는) *2024년 9월 4일*에 수행되었습니다.
+**AEM Sites의 기능 잠금 해제 - 기본 콘텐츠 관리 API**&#x200B;에 대한 최신 AEM GEM 웨비나는 *2024년 10월 9일*에 진행되었습니다.
 **기록**은(는) 여기에서 볼 수 있습니다.
-[AEM용 신속한 개발 환경의 새로운 기능](gems2024/rapid-development-environment-news.md)
+[AEM Sites 기능 잠금 해제 - 콘텐츠 관리 API 기본](gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
