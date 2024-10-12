@@ -4,7 +4,7 @@ description: Adobe의 엔터프라이즈 제품 사용에 초점을 맞춘 이�
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
 duration: 334
-source-git-commit: 628e6811e60c0157d268acbd70435dff0ff0daf0
+source-git-commit: ac867e3983725543f7a63bcf7e0db1598e1de6c9
 workflow-type: tm+mt
 source-wordcount: '1091'
 ht-degree: 3%
@@ -346,7 +346,7 @@ ht-degree: 3%
           <p class="is-size-6">
          Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 방법을 알아보십시오. 실무자가 실무자를 위해 선택한 주제를 사용하여 이러한 대화형 세션은 "가능한 기술" 사용 사례, 모범 사례 및 팁과 요령을 공유합니다.</p>
       </div>
-      <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+      <a href="https://experienceleague.adobe.com/en/docs/events/genstudio-for-performance-marketing-events/overview" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
       </a>
     </div>
@@ -355,7 +355,7 @@ ht-degree: 3%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html" title="GenStudio for Performance Marketing 이벤트" tabindex="-1">
+        <a href="https://experienceleague.adobe.com/en/docs/events/genstudio-for-performance-marketing-events/overview" title="GenStudio for Performance Marketing 이벤트" tabindex="-1">
           <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-genstudio-for-performance-marketing-events.png" alt="GenStudio for Performance Marketing 이벤트">
         </a>
       </figure>
