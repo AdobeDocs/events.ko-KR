@@ -4,9 +4,9 @@ description: Adobe의 엔터프라이즈 제품 사용에 초점을 맞춘 이�
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
 duration: 334
-source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
+source-git-commit: 628e6811e60c0157d268acbd70435dff0ff0daf0
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '1091'
 ht-degree: 3%
 
 ---
@@ -347,6 +347,28 @@ ht-degree: 3%
          Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 방법을 알아보십시오. 실무자가 실무자를 위해 선택한 주제를 사용하여 이러한 대화형 세션은 "가능한 기술" 사용 사례, 모범 사례 및 팁과 요령을 공유합니다.</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
+      </a>
+    </div>
+  </div>
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="GenStudio for Performance Marketing Events" tabIndex="13">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html" title="GenStudio for Performance Marketing 이벤트" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-genstudio-for-performance-marketing-events.png" alt="GenStudio for Performance Marketing 이벤트">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html" title="GenStudio for Performance Marketing 이벤트">GenStudio for Performance Marketing 이벤트</a>
+          </p>
+          <p class="is-size-6">
+         GenStudio for Performance Marketing을 마스터하는 데 도움이 되도록 설계된 예정된 웨비나와 이전 웨비나 및 이벤트를 살펴보십시오.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
       </a>
     </div>
