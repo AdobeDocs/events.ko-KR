@@ -2,7 +2,7 @@
 user-guide-title: Adobe Experience League 이벤트 레코딩
 user-guide-breadcrumb: Event Recordings
 user-guide-description: Adobe 엔터프라이즈 제품 사용에 초점을 맞춘 이벤트 녹화본 컬렉션
-source-git-commit: 628e6811e60c0157d268acbd70435dff0ff0daf0
+source-git-commit: d2b255e29737bb6bd878108daa4d75906618b2ab
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 11%
@@ -29,7 +29,7 @@ ht-degree: 11%
    + [Experience League LIVE](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
    + [GEMS Experience Manager](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
    + [Experience Manager 릴리스 개요](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=ko-KR)
-   + [GenStudio for Performance Marketing 이벤트](https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html)
+   + [GenStudio for Performance Marketing 이벤트](https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html)
    + [동료로부터 학습](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
    + [Marketo 및 Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
    + [Experience Cloud 기술 세션](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
@@ -83,7 +83,7 @@ ht-degree: 11%
       + [라이브 Experience League](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [Experience Cloud 기술 세션](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
    + Adobe GenStudio for Performance Marketing {#agspm}
-      + [Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html)
+      + [Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html)
    + Marketo {#am} Adobe
       + [깊이 들어가기](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
       + [동료로부터 학습](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
