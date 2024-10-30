@@ -2,10 +2,10 @@
 user-guide-title: Experience Cloud 기술 세션
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloud 기술 세션은 솔루션별 웨비나를 제공하여 사례 변경에 대한 사전 예방적 접근 방식입니다.
-source-git-commit: d76e08a224c8416bbe79a0fc82d2cb9937b2827e
+source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 14%
+source-wordcount: '119'
+ht-degree: 15%
 
 ---
 
@@ -15,6 +15,7 @@ ht-degree: 14%
 + [Experience Cloud 기술 세션](overview.md)
 + 2024 {#2024}
    + 실시간 콘텐츠 데이터 플랫폼 {#rtcdp-office-hours-2024}
+      + [AI 어시스턴트](2024/ai-assistant.md)
       + [실시간 컨텐츠 데이터 플랫폼 시간](2024/rtcdp-timings.md)
    + Adobe Experience Manager {#aem-office-hours-2024}
       + [방문자 추적](2024/tracking-visitors.md)
