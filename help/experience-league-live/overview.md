@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 637f0256c1033c6ad016c5289103b09304ae5002
+source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 3%
+source-wordcount: '214'
+ht-degree: 2%
 
 ---
 
@@ -26,14 +26,14 @@ Experience League 라이브는 Experience League 팀이 제작하는 라이브 �
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-24.md">
-      <img alt="10월 24일 Experience League 라이브" src="assets/WebBanner-Nov-6-2024.jpg">
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-11-13-24.md">
+      <img alt="10월 24일 Experience League 라이브" src="episodes/assets/WebBanner_nov13_2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-10-30-24.md"><strong>사용자 참여를 향상시키고 모바일 및 웹 응용 프로그램 간의 대화를 활성화하기 위해 고안된 Adobe Journey Optimizer의 새로운 다목적 메시징 채널인 Content Cards에 대해 알아봅니다. </strong></a>
-      <br/><em>돈 후인, 프라빈 쿠마르와 함께</em>
-      <br/><em>2024년 11월 6일 오후 8시 30분</em>
-      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241030.html?s_rtid=7015Y0000048hxzQAA&amp;s_iid=&amp;sfid=&amp;acctid=&amp;ecp=">이 이벤트에 등록</a>
+      <a href="episodes/exl-live-episode-11-13-24.md"><strong>Adobe 제품 및 엔지니어링 전문가가 혁신적인 최신 혁신(대상자를 위한 AI Assistant)을 흥미진진하게 엿볼 수 있는 신나는 라이브 세션에 참여하십시오. Adobe Real-Time CDP으로 곧 이동하여 대상자의 통찰력과 작업을 미리 부과할 예정입니다. </strong></a>
+      <br/><em>Shivakumar Vaithyanathan, Ali Nazer 및 Horia Galatanu와 함께</em>
+      <br/><em>2024년 11월 13일 오전 9시</em>
+      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241113.html">이 이벤트에 등록</a>
     </div>
   </td>
 </tr>

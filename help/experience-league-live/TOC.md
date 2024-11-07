@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: d45de3bc6cb4ad657cdb29566e2d206641e1532d
+source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '493'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [개요](overview.md)
 + 에피소드 {#episodes}
+   + [Ep. 43: Real-Time CDP에서 마케터를 위한 Audiences용 AI Assistant 소개](episodes/exl-live-episode-11-13-24.md)
    + [Ep. 42: Adobe Journey Optimizer용 컨텐츠 카드 공개](episodes/exl-live-episode-10-30-24.md)
    + [Ep. 41: Experience Platform에서 Federated Audience Composition을 사용하여 대상 조화](episodes/exl-live-episode-40-2024-10-24.md)
    + [Ep. 40: AI Bash - Adobe Experience Platform 애플리케이션 및 캠페인에서 AI Assistant의 강력한 기능](episodes/exl-live-episode-09-26-24.md)
