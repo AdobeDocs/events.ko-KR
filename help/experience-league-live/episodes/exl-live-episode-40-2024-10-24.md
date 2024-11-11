@@ -8,7 +8,7 @@ event-cta-url-live: https://youtube.com/live/ghN-XWdBLvg
 event-start-time: 2024-10-24 08:30-7
 event-guests: Doug Moore,Alyssa Espiritu,Abhijit Ghosh,Arthur Lacroix
 exl-id: bfaacf49-a7a1-48a4-b3e4-52b9346b9f1b
-source-git-commit: 88f711a66ac62d97590d27adf5df1c7c5f6ebfef
+source-git-commit: bd9ad0e45591576dda38452e40abee08e4b490b2
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Federated Audience Composition이 Real-Time CDP 및 Journey Optimizer을 통해 대상 큐레이션 및 활성화에 대한 포괄적인 접근 방식을 제공하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3436457/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3436457?quality=12&learn=on)
 
 **토론을 계속하려면 Experience League 커뮤니티에 대한 [토론](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976#M636){target="_blank"}을 참조하세요.**
 
