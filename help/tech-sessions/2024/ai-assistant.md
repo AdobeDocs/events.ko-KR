@@ -7,13 +7,13 @@ doc-type: Event
 duration: 2813
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16367
-source-git-commit: 3f245f71cd4db5097b5a9e712114112451d899e4
+exl-id: 29400794-7b24-41e8-a3b5-e15337ecb62f
+source-git-commit: 745121bd9c9a88634a54c0bff67d913035378e83
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Experience Platform의 AI Assistant를 사용하여 생산성 향상
 
@@ -28,10 +28,10 @@ Real-Time CDP, Journey Optimizer 및 Customer Journey Analytics의 생산성을 
 
 ## 웨비나 주제
 
-AI 및 AI 지원 개요.
-Rachel의 프롬프트 및 데모 예시.
-신뢰 및 데이터 사용에 대한 토론.
-AI Assistant 액세스
+* AI 및 AI 지원 개요.
+* 프롬프트 및 데모 예시.
+* 신뢰 및 데이터 사용에 대한 토론.
+* AI Assistant 액세스
 
 ## 주요 사항
 
