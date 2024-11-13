@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM 세션
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 670b69aea8b574567487f169579d7c81db7550ad
+source-git-commit: e9206a4e6fe5e866affdc298cf7f32fe7cb29752
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '1343'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,224 @@ ht-degree: 0%
 
 <img alt="디지털 환경" src="./assets/ADX_Gems.png"/>
 
-## 예정된 AEM GEM 웨비나는 곧 발표될 예정입니다
+**AEM GEM** - Adobe AEM 전문가가 제공하는 기술 제품 딥 다이브에 중점을 둔 Adobe Experience Manager 웨비나 시리즈입니다. 이 시리즈는 제품 설명서와 Adobe Experience Manager에 대한 다른 모든 기술 채널을 보완하는 것으로, 개발자가 다양한 AEM 관련 주제에 대해 자세히 알아보고 배울 수 있도록 합니다.
 
-알림을 받으려면 [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/)에 등록하십시오.
+웨비나는 정기적으로 실시됩니다.  중요한 팁,
+
+* 모든 AEM GEM은 무료입니다
+* 등록 필요
+* 세션을 놓친 경우 녹화를 위해 여기에서 다시 확인하십시오.
+* AEM GEM은 일반적으로 1시간 길이이며 15분 동안의 Q&amp;A가 있습니다
+
+## 2024년의 AEM GEM
+
+<!-- CARDS
+* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery
+* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis
+* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-assets
+* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-forms
+* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events
+* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/private-github-for-aem-cloud-manager
+* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/rapid-development-environment-news
+* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/storefronts-on-edge-delivery-with-adobe-commerce
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Getting started with AEM Authoring and Edge Delivery Services">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery" title="AEM 제작 및 Edge Delivery Services 시작하기">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427919/?format=jpeg&nocache=1731455287876" alt="AEM 제작 및 Edge Delivery Services 시작하기"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery" title="AEM 제작 및 Edge Delivery Services 시작하기">AEM 제작 및 Edge Delivery Services 시작</a>
+                    </p>
+                    <p class="is-size-6">이 AEM GEM 웨비나에는 AEM 작성이 Edge Delivery Services과 함께 작동하는 방식을 보여 주는 프레젠테이션 및 데모가 포함되어 있습니다. AEM Cloud Service을 컨텐츠 소스로 사용하여 AEM 작성에 사용할 수 있는 새 Edge Delivery Services 프로젝트를 만드는 과정을 안내하고 Edge Delivery Services과 함께 제공되는 린 앤 애자일 개발 경험의 혜택을 누리면서도 실습가를 위해 WYSIWYG 작성 경험을 보존할 수 있는 방법을 보여 줍니다.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 녹화 보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AEM GEMs - Unlocking the Power of AEM Sites - Master the Content Management APIs">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis" title="AEM GEM - AEM Sites의 강력한 기능 잠금 해제 - 기본 콘텐츠 관리 API">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435036/?format=jpeg&nocache=1731455287892" alt="AEM GEM - AEM Sites의 강력한 기능 잠금 해제 - 기본 콘텐츠 관리 API"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis" title="AEM GEM - AEM Sites의 강력한 기능 잠금 해제 - 기본 콘텐츠 관리 API">AEM GEM - AEM Sites 기능 잠금 해제 - 기본 콘텐츠 관리 API</a>
+                    </p>
+                    <p class="is-size-6">Adobe Experience Manager(AEM) 콘텐츠 API에 대한 웨비나에는 향상된 콘텐츠 관리 및 전달을 위한 새롭고 현대화된 API가 도입되었습니다. ​Matthias, Catalina, Leonard, Prashant 등의 주요 발표자는 구조화된 컨텐츠 관리, 최적화된 컨텐츠 제공, 자동화된 번역 프로세스 등 이러한 API의 기능을 선보였다. ​주요 기능에는 새로운 UI 스키마 기능, 향상된 참조 처리, 일괄 요청 기능 및 더 빠른 컨텐츠 전달 API가 포함되어 있습니다​.참석자는 Adobe의 개발자 설명서를 통해 이러한 API를 살펴보고 얼리 어답터 프로그램에 참여하여 얼리 액세스 및 직접 엔지니어링 지원을 받는 것이 좋습니다.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 녹화 보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Integrating AEM Assets with Edge Delivery Services">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-assets" title="AEM Assets과 Edge Delivery Services 통합">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433046/?quality=12&format=jpeg&nocache=1731455287893" alt="AEM Assets과 Edge Delivery Services 통합"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-assets" title="AEM Assets과 Edge Delivery Services 통합">Edge Delivery Services과 AEM Assets 통합</a>
+                    </p>
+                    <p class="is-size-6">이 AEM GEM 웨비나를 진행하는 동안 AEM Edge Delivery Services에 빌드된 사이트에서 AEM Assets을 사용하는 방법을 보여 줍니다.  먼저 개발자가 AEM Assets 저장소를 사이트 작성 플로우에 통합할 수 있는 통합 단계로 시작합니다. 그런 다음 개발자가 사이트별 작성 요구 사항에 따라 통합을 사용자 정의하는 방법을 보여 줍니다. 또한 Dynamic Media Open API 기능을 활용할 수 있도록 Open API가 포함된 AEM Dynamic Media을 사용하여 에셋을 게재하는 방법을 보여 줍니다. 또한 이 통합이 사이트 작성 흐름에서 에셋 관리 솔루션을 활용하는 데 어떻게 도움이 되는지에 대해 포괄적으로 이해하는 실용적인 사용 사례 및 모범 사례에 대해 알아봅니다.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-assets" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 녹화 보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Getting started with Edge Delivery Services for AEM Forms">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-forms" title="AEM Forms용 Edge Delivery Services 시작하기">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428434/?format=jpeg&nocache=1731455287893" alt="AEM Forms용 Edge Delivery Services 시작하기"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-forms" title="AEM Forms용 Edge Delivery Services 시작하기">AEM Forms용 Edge Delivery Services 시작</a>
+                    </p>
+                    <p class="is-size-6">Edge Delivery Services을 사용하여 AEM Forms을 만들고 게시하고 Edge를 통해 탁월한 경험으로 제공하는 방법에 대해 알아봅니다. 이러한 양식을 작성하는 방법에는 문서 기반 작성과 AEM 기반 작성을 사용하는 두 가지가 있습니다. Forms 블록 및 구성 요소를 사용자 정의하고 Server Side 확장을 사용하기 위해 AEM Forms Edge Delivery Services 프로젝트를 설정하는 방법에 대해 알아봅니다. 제출 후 Forms의 백엔드 처리에 AEM Forms as a Cloud Service 를 활용하는 방법도 알아봅니다.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-forms" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 녹화 보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Improving the developer experience for AEM Assets with our new APIs and Events">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events" title="새로운 API 및 이벤트를 사용하여 AEM Assets에 대한 개발자 경험 개선">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430198?format=jpeg&nocache=1731455287900" alt="새로운 API 및 이벤트를 사용하여 AEM Assets에 대한 개발자 경험 개선"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events" title="새로운 API 및 이벤트를 사용하여 AEM Assets에 대한 개발자 경험 개선">새 API 및 이벤트를 사용하여 AEM Assets의 개발자 경험 개선</a>
+                    </p>
+                    <p class="is-size-6">AEM 개발자는 새로 도입된 Assets Open API와 당사가 제공하는 클라우드 기반 I/O 이벤트를 살펴볼 수 있습니다. 이러한 향상된 기능을 통해 out-of-process AEM 확장을 만들 수 있습니다. 이 세션에서는 이러한 도구를 효과적으로 구현하는 방법에 대해 설명하겠습니다. 이 데모에서는 개발자가 워크플로우를 간소화하고 개발 속도를 높이며 지속적인 유지 관리 노력을 줄이는 방법을 보여줍니다. 또한 개발 프로세스를 최적화하기 위해 이러한 혁신적인 기능을 활용하는 방법에 대한 포괄적인 이해를 제공하는 실용적인 사용 사례 및 모범 사례에 대해 살펴볼 것입니다.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 녹화 보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Integrating Private GitHub Repositories in AEM Cloud Manager">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/private-github-for-aem-cloud-manager" title="AEM Cloud Manager에서 개인 GitHub 저장소 통합">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432350?format=jpeg&nocache=1731455287891" alt="AEM Cloud Manager에서 개인 GitHub 저장소 통합"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/private-github-for-aem-cloud-manager" title="AEM Cloud Manager에서 개인 GitHub 저장소 통합">AEM Cloud Manager에서 개인 GitHub 저장소 통합</a>
+                    </p>
+                    <p class="is-size-6">이 AEM GEM 웨비나를 통해 Cloud Manager에서 고유한 개인 GitHub 저장소를 최대한 활용하는 방법을 보여 드리겠습니다. 이제 Adobe 온보딩으로 시작하여 GitHub 저장소를 Cloud Manager 파이프라인에 직접 연결하여 코드를 저장소 저장소와 일관되게 동기화할 필요가 없습니다. 그런 다음 이 기능을 사용하여 테스트 프로세스를 왼쪽으로 이동하여 코드를 병합하기 전에 가져오기 요청 수준에서 Cloud Manager 코드 품질 검사를 가져오는 방법을 보여 드리겠습니다. 이렇게 하면 AEM 개발자가 개발 주기에서 더 빨리 Cloud Manager 빌드에 실패했을 수 있는 문제를 식별할 수 있습니다.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/private-github-for-aem-cloud-manager" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 녹화 보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="What's new in Rapid Development Environments for AEM?">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/rapid-development-environment-news" title="AEM용 신속한 개발 환경의 새로운 기능">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433337/?format=jpeg&nocache=1731455287900" alt="AEM용 신속한 개발 환경의 새로운 기능"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/rapid-development-environment-news" title="AEM용 신속한 개발 환경의 새로운 기능">AEM용 신속한 개발 환경의 새로운 기능</a>
+                    </p>
+                    <p class="is-size-6">RDE를 사용하면 개발자가 변경 사항을 신속하게 배포하고 검토할 수 있으므로 로컬 개발 환경에서 작동하는 것으로 입증된 기능을 테스트하는 데 필요한 시간을 최소화할 수 있습니다. 이 세션에서는 RDE를 사용하여 개발 중 반환 시간을 줄이고 코드 변경에 대한 즉각적인 피드백을 얻는 방법을 보여 줍니다. 또한 개선된 로깅 및 프론트엔드 지원과 같은 최신 기능도 소개합니다. RDE로 수행할 수 있는 작업에 대해 자세히 알아보고 다음에 추가되기를 원하는 내용을 알려주십시오.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/rapid-development-environment-news" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 녹화 보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Building Storefronts on Edge Delivery Services with Adobe Commerce">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/storefronts-on-edge-delivery-with-adobe-commerce" title="Adobe Commerce을 사용하여 Edge Delivery Services에 상점 구축">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427729?format=jpeg&nocache=1731455287892" alt="Adobe Commerce을 사용하여 Edge Delivery Services에 상점 구축"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/storefronts-on-edge-delivery-with-adobe-commerce" title="Adobe Commerce을 사용하여 Edge Delivery Services에 상점 구축">Adobe Commerce을 사용하여 Edge Delivery Services에 대한 상점 만들기</a>
+                    </p>
+                    <p class="is-size-6">이 AEM GEM 웨비나는 Adobe Commerce용 Edge Delivery Services에 고성능 상점을 구축하는 방법을 알려줍니다. 빠른 속도와 Sensei UI가 향상된 제품 카탈로그 통합을 위해 Commerce 보일러플레이트를 사용한 프로젝트의 설정 프로세스와 새로운 Commerce SaaS 서비스와 연결하는 방법을 안내합니다. Storefront 개발을 가속화하는 맞춤형 프론트엔드 구성 요소인 드롭인 구성 요소를 소개합니다. 확장 및 스타일 지정 방법에 대한 모범 사례를 학습하게 됩니다. 마지막으로 새로운 Edge Delivery 작성 기능을 강조하여 작성된 콘텐츠로 Commerce 경험을 보강하겠습니다.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/storefronts-on-edge-delivery-with-adobe-commerce" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 녹화 보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+
+## 자세히 알아보기
+
+다음 AEM GEM이 언제가 될 것인지 알고 싶으신가요?  알림을 받으려면 [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/)에 등록하십시오.
+
+## 토의를 계속하세요.
+
+[Experience Manager 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)에서 다른 개발자와 연결하여 AEM 토론을 계속 진행할 수 있습니다.  구현에서부터 제품 사용 확장에 이르기까지 지침과 모범 사례를 찾기 위해 피어 및 Adobe 직원과 네트워크를 형성할 수 있습니다.  질문에 대한 빠른 답변을 얻고 제품 아이디어와 중요한 피드백에 대한 Adobe을 제공하십시오.
 
 <!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
 
@@ -51,33 +266,33 @@ If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
 </tr>
 </table>
 
--->
+## Previous AEM GEMs webinar
 
-## 이전 AEM GEM 웨비나
-
-**AEM Sites의 기능 잠금 해제 - 기본 콘텐츠 관리 API**&#x200B;에 대한 최신 AEM GEM 웨비나는 *2024년 10월 9일*에 진행되었습니다.
-**기록**은(는) 여기에서 볼 수 있습니다.
-[AEM Sites 기능 잠금 해제 - 콘텐츠 관리 API 기본](gems2024/content-management-apis.md)
+Our latest AEM GEMs webinar on **Unlocking the Power of AEM Sites - Master the Content Management APIs** has been conducted on *October 9th, 2024*.
+The **recording** can be viewed here:
+[Unlocking the Power of AEM Sites - Master the Content Management APIs](* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
-> 예정된 AEM GEM 웨비나 및 기타 AEM 관련 이벤트([Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/))에 대한 알림을 받으려면 등록하십시오.
+> Sign up to be notified about upcoming AEM GEMs webinars and other AEM related events - [Adobe's AEM User Group](https://aem-augs.adobe.com/).
 
-## AEM GEM - AEM에 대한 기술 웨비나 - 개발자가 제공한 개발자용
+## AEM GEMs - technical webinars around AEM - for developers delivered by developers
 
-Adobe 전문가가 Adobe Experience Manager에서 제공하는 **AEM GEM** - 기술적인 심도 있는 다이빙 웨비나 시리즈입니다. 이 시리즈는 제품 설명서와 Adobe Experience Manager에 대한 다른 모든 기술 채널을 보완하는 것으로, 개발자가 특정 주제를 선택하여 자세히 알아볼 수 있도록 합니다.
+Welcome to **AEM GEMs** - our webinar series of technical deep dives on Adobe Experience Manager, delivered by Adobe experts. This series is a complement of the product documentation and of all other technical channels regarding Adobe Experience Manager, allowing developers to get in touch and go deep on a specific topic. 
 
-웨비나는 다음을 포함하여 정기적으로 수행됩니다.
+The webinars will be conducted regularly, including the following:
 
-* 웨비나당 최대 60분
-* 웨비나 전체에서 Q&amp;A와 채팅 전문가가 15분 이내 제공됩니다.
-* 각 웨비나 후에 사용할 수 있는 레코딩
-* 모든 AEM GEM 웨비나는 무료로 진행되며 사실상 등록만 하면 된다.
+* A maximum duration of 60 minutes per webinar
+* < 15 mins of Q&A at the end and chat experts available throughout the webinar
+* Recording available after each webinar
+* All AEM GEMs webinars are free of charge and conducted virtually, only registration is required.
 
-## Experience League 커뮤니티
+## Experience League Community
 
-[Experience Manager 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)는 제품 채택과 고객 성공을 지원하는 데 중요한 역할을 합니다.
+Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) play a critical role in supporting product adoption and customer success.
 
-* 연결: 구현부터 제품 사용 확장까지 지침 및 모범 사례를 위한 피어 및 Adobe 담당자와 네트워크
-* 빠른 답변: Adobe 솔루션의 성공적인 활성 사용을 지원하기 위한 광범위한 실제 사용 사례 답변 풀
-* 관념화 및 피드백: 고객 제품 아이디어를 수집하고 제품 팀에 가치 있는 VoC 피드백을 제공
+* Connection: Network with peers and Adobe personnel for guidance and best practices from implementation to expanding product use
+* Quick Answers: Extensive pool of real-world use case answers to support successful active use of Adobe solutions
+* Ideation & Feedback: Intake customer product ideas and provide valuable VoC feedback to product teams
+
+-->
