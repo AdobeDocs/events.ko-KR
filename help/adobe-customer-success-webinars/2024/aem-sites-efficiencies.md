@@ -1,6 +1,6 @@
 ---
 title: AEM Sites 효율성 - 성능 최적화, 구성 및 문제 해결
-description: Adobe Experience Manager(AEM) 사이트 문제 해결의 핵심 사항. 성능 문제에 직면하거나 복잡한 구성을 처리하는 경우 이 세션은 AEM 환경을 유지 관리하고 최적화하는 실용적인 기술을 제공합니다. 슬라이드보다는 라이브 데모를 우선시하며 실제 문제를 해결하는 데 실무 경험을 제공합니다​.주요 논의 사항:- 가상 호스트 구성 및 도메인 매핑- 성능 문제- 인증, 식별, 사용자 권한
+description: 이 세션에서는 성능 문제, 복잡한 구성 및 사용자 권한에 대한 실용적인 실습 솔루션에 중점을 둔 Adobe Experience Manager(AEM) Sites의 필수 문제 해결 기술을 다룹니다.
 solution: Experience Manager
 version: Cloud Service
 role: Admin, Developer, Leader, User
@@ -9,13 +9,13 @@ doc-type: Event
 duration: 3452
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16353
-source-git-commit: 3f245f71cd4db5097b5a9e712114112451d899e4
+exl-id: 55f7c1d8-7c2c-4392-894a-2aa9b3cc0e4a
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
-
 
 # AEM Sites 효율성: 성능 최적화, 구성 및 문제 해결
 

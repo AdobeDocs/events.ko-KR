@@ -1,6 +1,6 @@
 ---
 title: 웹 SDK 마이그레이션 핵심 사항
-description: 앱 Measurement/AT.js과 Web SDK의 차이점, 마이그레이션 방법, 마이그레이션 타이밍 고려 사항, 마이그레이션 옵션 및 예상 데이터 차이점을 이해합니다.주요 논의 사항 - Web SDK란 무엇입니까? 마이그레이션 단계 및 고려 사항 마이그레이션 시기 일반적인 실수 및 위험 방지
+description: 앱 Measurement/AT.js과 Web SDK의 차이점, 마이그레이션 방법, 마이그레이션 타이밍 고려 사항, 마이그레이션 옵션 및 예상 데이터 차이점을 이해합니다.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3280
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15561
 exl-id: 862e7cf3-079e-4a43-a4c2-3f7157e8efe9
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---

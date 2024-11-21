@@ -1,6 +1,6 @@
 ---
 title: Real-Time CDP - 솔루션 기능에 대한 사용 사례 매핑
-description: 이 웨비나에서는 사용 사례를 탐색하고 우선 순위를 지정한 후 특정 RTCDP 기능에 매핑하고 비즈니스 결과와 가치에 맞게 조정하는 주요 방법을 살펴봅니다. 주요 논의 사항 - RT-CDP가 비즈니스 성과에 맞게 해결하는 사용 사례 및 우선 순위 지정​우선 순위가 지정된 사용 사례에 맞게 RT-CDP 기능 조정
+description: 이 웨비나에서는 사용 사례를 탐색하고 우선 순위를 지정한 후 특정 Real-Time CDP 기능에 매핑하고 비즈니스 결과와 가치에 맞게 조정하는 주요 방법을 살펴봅니다.
 solution: Real-Time Customer Data Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -9,9 +9,9 @@ duration: 2421
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15560
 exl-id: ebc38b82-52a7-4f8c-8ac7-f6e9f3fd2c55
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 * 유료 미디어 리타겟팅 및 개인화와 같은 사용 사례에 미치는 영향
 
-**DMP Audience Manager과 실시간 CDP 비교**
+**실시간 CDP와 DMP Audience Manager 비교**
 
 * 데이터 수집, 고객 관리 및 데이터 출력 구조에 주력
 

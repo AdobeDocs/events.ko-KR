@@ -1,6 +1,6 @@
 ---
 title: Adobe Workfront으로 효율성 극대화 - Lean Teams 웨비나
-description: 효율적인 운영을 도모하고 효율적인 방법론을 통해 생산성을 향상시키려는 조직에 대한 통찰력 있는 전략과 실용적인 접근 방식 업계 전문가들이 주최하는 웨비나는 린 사고의 핵심 원리와 Adobe Workfront 내 적용 방법에 대해 자세히 설명합니다.주요 논의 사항 - 린 프로젝트 관리를 지원하기 위해 ​ Workfront을 사용한 린 원리 이해 지속적인 학습 및 적응
+description: 업계 전문가가 제시한 Adobe Workfront을 통한 린 방법론을 사용하여 생산성을 높이고 운영을 효율화하기 위한 전략과 실용적인 접근 방식을 탐색합니다.
 solution: Workfront
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -9,9 +9,9 @@ duration: 2148
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15558
 exl-id: 1ab0e81c-50eb-4416-baa1-e80572ffe783
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---

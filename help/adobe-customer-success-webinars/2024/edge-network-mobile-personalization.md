@@ -1,23 +1,23 @@
 ---
 title: Adobe 솔루션을 사용한 Edge Network 및 모바일 Personalization에 대한 통찰력
-description: Assurance를 사용하여 Edge 아키텍처의 작동 방식과 구현을 디버깅하는 방법을 이해모바일 SDK를 설정 및 구성하는 방법에 대한 기술 안내Target 및 AJO을 사용하여 개인화된 경험을 제공하는 방법
+description: Adobe 솔루션을 사용하여 모바일 전략을 향상시키고, 사용자 참여를 개선하며, 개인화된 경험을 효과적으로 전달하는 방법을 이해할 수 있습니다.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3460
 last-substantial-update: 2024-09-04T00:00:00Z
 jira: KT-16137
-source-git-commit: 3ccafeec70790d62407a06e8dde89ae7ed5fd826
+exl-id: 235124fa-ff68-44d7-8e8e-70ce67a19134
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
-
 # Adobe 솔루션을 사용한 Edge Network 및 모바일 Personalization에 대한 통찰력
 
-Edge 아키텍처의 작동 방식과 Assurance를 사용하여 구현을 디버깅하는 방법을 이해합니다
+Edge 아키텍처의 작동 방식과 Assurance을 사용하여 구현을 디버깅하는 방법을 이해합니다
 Mobile SDK 설정 및 구성 방법에 대한 기술 지침
 Target 및 AJO을 사용하여 개인화된 경험을 제공하는 방법
 
@@ -41,6 +41,6 @@ Target 및 AJO을 사용하여 개인화된 경험을 제공하는 방법
 
 * 맞춤화된 기능을 위해 동의, ID 및 분석과 같은 특정 확장 구현.
 * Campaign Classic 및 미디어 메시징을 위한 확장 구성.
-* 데이터 수집 프로세스의 디버깅, 유효성 검사 및 시뮬레이션에 대한 보장 을 활용합니다.
+* Assurance을 활용하여 데이터 수집 프로세스의 디버깅, 유효성 검사 및 시뮬레이션
 
 이러한 주요 개선 사항에 집중함으로써 기업은 Adobe 솔루션을 사용하여 모바일 전략을 향상시키고, 사용자 참여를 개선하며, 개인화된 경험을 효과적으로 제공할 수 있습니다.

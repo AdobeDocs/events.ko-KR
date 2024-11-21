@@ -1,6 +1,6 @@
 ---
 title: Workfront 시스템 및 그룹 관리 후견의 기본 사항
-description: Workfront 인스턴스의 시스템 관리자 대 그룹 관리자 적절한 비율을 올바르게 확인하는 방법과 몇 가지 키를 하늘나라에서 해제하는 것이 처음에 인식하는 것만큼 위험하거나 두렵지 않을 수 있는 이유에 대해 알아봅니다. 이 기록에서는 관리 인력 배치, 관리 워크로드 분배, 엔터프라이즈 인스턴스의 데이터 무결성 및 확장성 유지와 관련된 모범 사례를 개괄적으로 설명하고 일부 노력도 공유합니다.
+description: Workfront 시스템 및 그룹 관리자의 올바른 균형을 결정하고 워크로드를 배포하며 데이터 무결성을 유지하여 기업을 효율적이고 안전하게 확장하기 위한 모범 사례를 살펴봅니다.
 solution: Workfront
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3455
 last-substantial-update: 2024-08-27T00:00:00Z
 jira: KT-16037
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: b5997fdf-7e5c-4a96-8968-0898dd8f1ab7
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
-
 
 # Workfront 시스템 및 그룹 관리 후견의 기본 사항
 
