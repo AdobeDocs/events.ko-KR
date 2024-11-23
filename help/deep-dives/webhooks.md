@@ -1,6 +1,6 @@
 ---
 title: Adobe Marketo Engage 챔피언 딥 다이브 - 웹후크를 사용하여 데이터 전송
-description: 경우에 따라 API를 만들고, 테스트하고, 배포하는 전체 과정이 필요하지 않습니다. 대신 웹후크를 사용하여 셀프서비스를 통해 CRM 또는 기타 통합 시스템으로 다양한 데이터 전송을 실행할 수 있습니다. 이 기능을 사용하는 방법을 배우고 효율성을 빠르게 향상시키려면 Darshil Shah와 Josh Arrington과 함께 하십시오! 존 그런디가 중재했습니다.
+description: Dashil Shah 및 Josh Arrington과 함께 Marketo에서 웹후크를 사용하여 데이터를 효율적으로 전송하는 방법에 대해 알아봅니다. 이 방법에서는 구조화된 데이터 처리, 오류 관리, 인증 방법, 그리고 John Grundy가 중재하는 CRM 통합 및 전자 상거래와 같은 실용적인 사용 사례를 다룹니다.
 feature: Webhooks, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -9,9 +9,9 @@ duration: 3185
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15385
 exl-id: d8e22e01-724a-4b0c-855b-0adb29e98d30
-source-git-commit: 0dfaa269fd25df0845c4eeee442fb2859492b543
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---

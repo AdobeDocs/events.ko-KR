@@ -1,6 +1,6 @@
 ---
 title: Commerce & 커피 - 성수기 준비
-description: 매년 성수기에 사이트를 제대로 준비하기 위해 알아야 할 모든 사항. 경쟁력을 유지할 뿐만 아니라 경쟁보다 앞서 나갈 수 있는 효과적인 전략. 웹 사이트 성능을 최적화하고, 인벤토리를 관리하고, 고객 지원을 적극적으로 확장하는 방법을 알아봅니다. 또한 Corey는 전환을 유도하는 효과적인 마케팅 캠페인을 계획하고, 주문을 이행하고, 분석 및 사후 피크 시즌 보고를 통해 캠페인을 분석하는 모범 사례도 다룹니다.
+description: Corey Gelato의 세션은 웹 사이트 성능을 최적화하고, 인벤토리를 관리하고, AI 도구로 고객 참여를 높이고, 시즌 후 분석을 활용하여 유지 및 충성도를 개선함으로써 성수기에 전자 상거래 비즈니스가 성공할 수 있는 전략을 제공합니다.
 solution: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3436
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16235
-source-git-commit: d5584d9714f046ed32853edb7602123487ad9ac9
+exl-id: 8dc72811-74db-485a-ac25-e2647d0848f7
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
-
 
 # Commerce &amp; 커피 : 성수기 준비
 

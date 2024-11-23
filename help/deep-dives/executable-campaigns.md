@@ -1,6 +1,6 @@
 ---
 title: 실행 가능한 캠페인 - 실행 파일이 효율성 및 영향을 주는 방법에 대해 알아봅니다.
-description: 이 세션은 Marketo 관리자 및 캠페인 운영 ​​전문가를 위해 맞춤화되었으며 캠페인 및 프로그램에 가치를 더하고 효율성을 창출하며 성장을 촉진하기 위해 실행 가능한 캠페인을 이해하고 배포하는 데 중점을 둡니다.
+description: 이 Adobe 챔피언 딥 다이빙에서 Chris Willis, Courtny Edwards-Jones, Jane Musatova와 함께 Marketo의 실행 가능한 캠페인으로 프로세스를 간소화하고 데이터의 정확성을 보장하며 복잡한 워크플로우를 자동화하는 방법을 알아보십시오. 또한, 실제 사례를 통해 오류와 백로그를 최소화하는 데 중점을 둡니다.
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,10 +9,10 @@ last-substantial-update: 2024-03-07T00:00:00Z
 jira: KT-15098
 thumbnail: 3427704.jpeg
 exl-id: cfea1a1a-2d29-4cf6-b633-aa2a2523114e
-source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 6%
+source-wordcount: '479'
+ht-degree: 0%
 
 ---
 

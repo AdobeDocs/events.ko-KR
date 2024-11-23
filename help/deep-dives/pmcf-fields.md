@@ -1,8 +1,8 @@
 ---
 title: 확장성을 위한 PMCF 필드 활용
-description: 확장성을 위해 Marketo의 PMCF(Program Member Custom Fields) 사용에 대해 설명합니다. 이 세션에서는 PMCF의 정의, 목적, 규칙 및 사용 사례를 다룹니다. PMCF를 사용하여 데이터를 변경하고, 정보를 참조하며, 웨비나에 대한 UTM 매개 변수와 같은 고유한 이벤트 데이터를 추적하는 모범 사례입니다. 전반적으로 PMCF는 Marketo에서 복잡한 마케팅 프로그램을 관리하고 확장하려는 마케터에게 유용한 도구입니다.
+description: Adobe Marketo Engage Champion Deep Dive 비디오에서 설명한 대로 데이터 관리, 개인화된 커뮤니케이션 및 정확한 보고를 위한 모범 사례를 포함하여 확장성을 위해 Marketo의 PMCF(Program Member Custom Field)를 활용하는 방법에 대해 알아봅니다.
 solution: Marketo Engage
-feature-set: "Marketo Engage"
+feature-set: Marketo Engage
 feature: Field Management
 role: Admin, Developer, User
 level: Intermediate, Experienced
@@ -10,13 +10,13 @@ doc-type: Event
 duration: 3059
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15784
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+exl-id: 9fd094c3-d6ad-410e-aeae-1b6bf3f012bd
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
-
 
 # 확장성을 위한 PMCF 필드 활용
 

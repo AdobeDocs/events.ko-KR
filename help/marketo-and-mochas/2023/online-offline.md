@@ -1,6 +1,6 @@
 ---
 title: 온라인 및 오프라인 채널
-description: 이 세션에서는 채널 및 하위 채널의 전략적 구성, 온라인 및 오프라인 채널 관리에 대한 교육 개요, 작동 방식 을 자세히 살펴보고 제품 내 데모를 보여주며 속성 전문가가 사용하는 모범 사례를 검토합니다
+description: Marketo Measure Attribution을 통한 온라인 및 오프라인 채널 최적화에 대한 심층적인 90분 세션인 Adobe의 마케팅 자동화 비즈니스 어드바이저, Kate Colbert 및 Elizabeth Lundberg와 함께 전략적 구성, 모범 사례 및 라이브 Q&A를 살펴보십시오.
 solution: Marketo Measure
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -10,9 +10,9 @@ jira: KT-13750
 thumbnail: 3422363.jpeg
 exl-id: d11e2351-81d3-42ae-baf2-dc9b487cc9b5
 duration: 5434
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Marketo 및 Mochas - 프로그램 관리 우수 사례
-description: 프로그램은 Marketo에서 가장 중요한 요소 중 하나입니다. 폴더 설정, 이름 지정 규칙 작업, 멤버 검색, 프로그램 상태 확인 또는 모범 사례 관리에 관심 있는 경우  프로그램 라이브러리 템플릿 및 크리에이티브 자산에 대한 최신 업데이트와 프로그램 관리 모범 사례 및 데모 공유.
+description: 프로그램 라이브러리 템플릿, 크리에이티브 에셋 및 모범 사례 데모에 대한 최신 업데이트를 통해 폴더 설정, 이름 지정 규칙, 멤버 검색 및 프로그램 상태 검사를 비롯한 Marketo 프로그램의 필수 요소를 살펴봅니다.
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Programs, Templates
@@ -12,9 +12,9 @@ jira: KT-14226
 thumbnail: 3425070.jpeg
 exl-id: d3147987-3250-4d5c-a96a-e0bc41001528
 duration: 3501
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---

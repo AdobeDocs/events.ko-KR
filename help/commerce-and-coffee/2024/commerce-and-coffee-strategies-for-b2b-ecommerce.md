@@ -1,19 +1,19 @@
 ---
 title: B2B eCommerce를 위한 Commerce 및 커피 전략
-description: 이 세션에서는 Commerce 전략 컨설턴트 Correy Gelato가 Adobe Commerce의 기본 B2B 기능을 최대한 활용하기 위한 전략을 살펴봅니다.
+description: Corey Gelato는 셀프서비스 옵션, 공유 카탈로그, 견적 및 빠른 주문을 포함한 Adobe Commerce의 기본 B2B 기능을 최대화하는 전략을 강조하는 동시에 성장을 촉진하고 B2B 비즈니스를 성공적으로 포지셔닝하기 위한 주요 전자 상거래 트렌드를 살펴봅니다.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3568
 last-substantial-update: 2024-08-16T00:00:00Z
 jira: KT-15908
-source-git-commit: 332855765dd58d837ae0daaf73a5227ee44153ec
+exl-id: 3b43fbb1-cc8f-4ac7-85bb-e1f410722edc
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
-
 
 # Commerce &amp; 커피: B2B 전자 상거래를 위한 전략
 

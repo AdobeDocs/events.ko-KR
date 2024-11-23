@@ -1,6 +1,6 @@
 ---
 title: Adobe Journey Optimizer을 사용한 푸시 알림
-description: 푸시 알림을 통해 모바일 앱 사용자에게 언제든지 연락할 수 있습니다. 특히 해당 사용자가 앱을 사용하고 있지 않을 때 유용합니다. Journey Optimizer에서 푸시할 수 없음... (설명은 60~160자 사이여야 함)
+description: 이 Experience League 라이브 에피소드에서는 Adobe Journey Optimizer의 푸시 알림에 대한 일반적인 사용 사례에 대해 알아보고 Adobe Experience Platform에서 제공하는 푸시용 앱을 구성하는 방법에 대한 기술적인 세부 정보를 살펴봅니다.
 solution: Journey Optimizer
 kt: 10407
 feature: Push
@@ -9,10 +9,10 @@ event-start-time: 2022-05-12 09:30-7
 event-guests: Sandra Hausmann,Archana Chaudhary,Don Huynh
 exl-id: 3e813ced-154d-4ec6-b7a3-6800b814f123
 duration: 2963
-source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
+source-git-commit: 1f64d5c4388bbcb13256e188b540a7f932b4c9e6
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 25%
+source-wordcount: '169'
+ht-degree: 12%
 
 ---
 

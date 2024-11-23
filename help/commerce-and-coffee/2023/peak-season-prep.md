@@ -1,6 +1,6 @@
 ---
 title: 성수기 준비
-description: Corey Gelato는 성수기 모범 사례 및 전략에 대해 자세히 알아보고, 사이트에서 상품 및/또는 서비스를 성공적이고 효과적으로 홍보하고 성수기 동안 매년 언제든지 경쟁력을 유지하는 방법을 알아봅니다. 콘텐츠 스테이징 및 미리보기, 프로모션, 카탈로그 및 장바구니 가격 규칙 등을 포함한 기능에 대한 데모에 이어 Corey는 라이브 Q&A 세션 도중 질문에 답변합니다.
+description: Corey Gelato와 함께 eCommerce 사이트의 연중 경쟁력을 유지할 수 있도록 라이브 데모와 전문가 팁을 통해 프로모션, 콘텐츠 스테이징, 가격 규칙 등 성수기 전략에 대해 알아보십시오.
 solution: Commerce
 feature-set: Commerce
 feature: Promotions/Events, Catalog Management, Catalog Service, Checkout, Best Practices, Price Rules
@@ -12,9 +12,9 @@ jira: KT-13992
 thumbnail: 3424390.jpeg
 exl-id: 48986967-b794-4dc9-8a17-d38800ae90aa
 duration: 3580
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---

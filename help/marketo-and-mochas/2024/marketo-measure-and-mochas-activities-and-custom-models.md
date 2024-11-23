@@ -1,19 +1,19 @@
 ---
 title: Marketo Measure 및 Mochas 활동 및 사용자 지정 모델
-description: 사용자 지정 속성 모델 및 활동 속성을 사용하여 Adobe Marketo Measure을 극대화하기 위한 전략에 대해 알아봅니다. Kate Colbert 및 James Leedom Adobe 전문가와 함께 속성 가중치를 조정하고, CRM 활동에서 접점을 만들고, 판매 및 마케팅 데이터를 조정하는 방법을 보여 줍니다. 라이브 Q&A 세션에서 실제 사례를 살펴보고 질문에 대한 답변을 얻을 수 있습니다.
+description: Adobe 비즈니스 고문인 Kate Colbert와 고객 기술 고문인 James Leedom과 함께 Adobe Marketo Measure에서 사용자 정의 속성 모델 및 활동 속성 을 활용하기 위한 전략을 살펴보고 실제 사례를 보여주고 라이브 Q&A 세션을 통해 결론을 맺습니다.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 4080
 last-substantial-update: 2024-08-16T00:00:00Z
 jira: KT-15926
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: 21a6d921-abe4-4787-b51f-f57faf669c1f
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # Marketo Measure 및 Mochas: 활동 및 사용자 지정 모델
 

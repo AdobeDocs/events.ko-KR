@@ -1,6 +1,6 @@
 ---
 title: Marketo 및 Mochas - 완성도 2부 - Marketo 사용 최적화
-description: Marketo 성숙도에 대한 3가지 부분으로 구성된 시리즈 중 2부에서 Marketo 사용을 최적화하는 방법에 대한 통찰력입니다. 이 세션은 데이터 표준화와 레코드 관리를 향상시키기 위한 데이터 사전 및 시스템 스마트 목록과 같은 도구에 중점을 둔 데이터 관리에 대한 우수 사례로 시작합니다. 그런 다음 기본 CRM 통합 및 서드파티 플러그인을 모두 강조하여 통합 모범 사례에 대한 개요를 제공합니다. 또한 비즈니스 관리자는 개인화를 개선하고 타겟 대상을 확장하기 위한 프로그램 최적화에 대한 팁을 공유합니다.
+description: 라이브 Q&A를 통해 데이터 관리, CRM 통합 및 Marketo 사용 개선을 위한 캠페인 최적화에 중점을 둔 Marketo Maturity 시리즈의 2부에 해당하는 Adobe의 비즈니스 고문인 Cynthia Chang 및 Carly Gaver와 함께하십시오.
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3562
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16234
-source-git-commit: d5584d9714f046ed32853edb7602123487ad9ac9
+exl-id: 06e58ede-e2bd-4b48-b335-f91a818246cd
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
-
 
 # Marketo 및 Mochas: 성숙도 2부 - Marketo 사용 최적화
 

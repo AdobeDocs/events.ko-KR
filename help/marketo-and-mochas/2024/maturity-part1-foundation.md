@@ -1,19 +1,19 @@
 ---
 title: Marketo & Mochas - 완성도 1부 - 기초 마련
-description: Adobe의 비즈니스 고문인 Cynthia Chang 및 Carly Gaver와 함께 Marketo 성숙도 곡선에 대한 유용한 통찰력을 공유하여 조직의 Marketo 사용 확장을 안내합니다.
+description: Adobe의 비즈니스 고문인 Cynthia Chang 및 Carly Gaver와 함께 Marketo 성숙도 곡선을 탐색하여 프로그램 템플릿 라이브러리에 대한 실시간 데모와 함께 기술 설정 최적화, 모범 사례 구현, 효과적인 설명서 및 플랫폼 거버넌스 유지에 대한 통찰력을 제공합니다.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3512
 last-substantial-update: 2024-08-06T00:00:00Z
 jira: KT-15907
-source-git-commit: 6c14ae9f4f638b202afa922fe814429a8742160e
+exl-id: fc39cc75-a8b9-4398-a059-7a5fe947e296
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
-
 
 # Marketo &amp; Mochas: 성숙도 파트 1 - 기초 마련
 

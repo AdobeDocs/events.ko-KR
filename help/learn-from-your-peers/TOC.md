@@ -2,9 +2,9 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: " [!DNL Experience Makers Learn from your peers]의 녹음/녹화 컬렉션"
-source-git-commit: ac811378b605024bc49232b84932b029fe783c45
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '302'
 ht-degree: 2%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 + [Experience Maker](overview.md)
 + Analytics {#analytics}
-   + 2023 {#2023}
+   + 2023년 {#2023}
       + {#nov2023}년 11월
          + [효과적인 데이터 시각화](analytics/nov2023/impactful-data-visualizations.md)
       + {#aug2023}년 8월
@@ -22,7 +22,7 @@ ht-degree: 2%
       + {#feb2023}년 2월
          + [데이터 기반 문화 구축](analytics/feb2023/data-driven-culture.md)
          + [데이터 기반 문화 구축 후속 Q&amp;A](analytics/feb2023/data-driven-culture-q-and-a.md)
-   + 2022 {#2022}
+   + 2022년 {#2022}
       + {#nov2022}년 11월
          + [팁과 트릭](analytics/nov2022/tips-and-tricks.md)
          + [챔피언 팁 및 요령 후속 Q&amp;A](analytics/nov2022/tips-and-tricks-q-and-a.md)
@@ -45,6 +45,8 @@ ht-degree: 2%
    + {#may2023}년 5월
       + [컨텐츠 및 경험 조각 마스터](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
+   + 2024년 11월 {#nov2024}
+      + [고급 세분화 감사](marketo/nov2024/advanced-segmentation.md)
    + 2024년 9월 {#sept2024}
       + [다중 스트림 참여 프로그램](marketo/sept2024/multi-stream-engagement-programs.md)
    + 2024년 7월 {#july2024}
@@ -64,10 +66,10 @@ ht-degree: 2%
    + 2023년 3월 {#mar2023}
       + [ [!DNL Adobe Marketo Engage] 콘텐츠를 확장 가능하게 하는 방법](marketo/mar2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
-   + 2024 {#2024}
+   + 2024년 {#2024}
       + {#april2024}년 4월
          + [Workfront 시스템 관리 사례 인력 배치](workfront/2024/04/staffing-your-workfront-system-admin-practice.md)
-   + 2023 {#2023}
+   + 2023년 {#2023}
       + {#november}년 11월
          + [교육 및 활성화를 위해 Workfront 사용](workfront/2023/11/using-workfront-for-training-and-enablement.md)
       + {#july}년 7월
@@ -82,7 +84,7 @@ ht-degree: 2%
          + [인터페이스 디자인으로 사용자 경험 개선](workfront/2023/03/improving-user-experience-with-interface-design.md)
       + {#february}년 2월
          + [기존 Workfront 인스턴스 인수에 대한 팁](workfront/2023/02/tips-for-taking-over-an-existing-workfront-instance.md)
-   + 2022 {#2022}
+   + 2022년 {#2022}
       + {#december}년 12월
          + [Workfront에서 변경 관리 탐색](workfront/2022/12/navigating-change-management.md)
       + {#november}년 11월

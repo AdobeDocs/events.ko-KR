@@ -1,6 +1,6 @@
 ---
 title: 고객 여정 관리 - 라이프사이클 모델링
-description: 처음부터 라이프사이클을 올바로 설정하는 방법, 구매 여정의 사용자를 올바르게 세그먼트화하는 방법, 라이프사이클 모델러의 제품 내 데모, 고객 세그먼트의 효과를 분석하는 데 도움이 되는 다양한 보고 및 분석에 대해 다룹니다.
+description: Cynthia Chang과 James Leedom이 라이프사이클 설정, 여정 세그멘테이션 전략을 공유하고 Marketo Engage의 라이프사이클 모델러, 보고 및 분석 도구를 시연하면서 투명성이 마케팅 신뢰성을 구축하는 방법을 살펴봅니다.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +10,9 @@ thumbnail: 3420763.jpeg
 event-start-time: 2023-6-30 08:30-8
 exl-id: e31120ae-3bdd-4974-953b-1f007c6962a8
 duration: 3772
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---

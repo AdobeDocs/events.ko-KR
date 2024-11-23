@@ -1,6 +1,6 @@
 ---
 title: Marketo Engage으로 글로벌 마케팅 잠금 해제 - Adobe 챔피언 딥 다이브 - 2024년 8월
-description: 조직은 Marketo Engage을 활용하여 여러 언어, 국가, 사업부 및/또는 제품을 지원할 준비가 되었으며 올바른 방향으로 이러한 전환을 시작하고자 합니다. 글로벌 마케팅 이니셔티브의 출시, 유지 관리 및 보고의 복잡성에 대한 포괄적인 가이드를 보려면 8월 딥 다이빙에 참여하십시오. 작업 공간 및 파티션을 사용하여 데이터 및 인스턴스를 구성하는 방법, 전 세계의 다양한 법적 요구 사항을 준수하는 방법, 세분화, 코드 조각, 다이내믹 콘텐츠 등을 통해 캠페인을 지원하는 방법에 대해 설명합니다.
+description: 8월 딥 다이빙에 참여하여 데이터 구조, 법적 규정 준수, 세분화, 코드 조각, 다이내믹 콘텐츠 등을 다루는 Marketo Engage과 여러 브랜드 및 인스턴스에 대한 작업 공간 및 파티션 최적화에 대한 통찰력을 통해 글로벌 마케팅을 잠금 해제할 수 있습니다.
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3351
 last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-16119
-source-git-commit: 6109b20829c1e50664eafb5bc674b781ec26611a
+exl-id: 297b9baf-95c9-4154-be96-75455100b4d8
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
-
 
 # Marketo Engage으로 글로벌 마케팅 잠금 해제 - Adobe 챔피언 딥 다이브 - 2024년 8월
 

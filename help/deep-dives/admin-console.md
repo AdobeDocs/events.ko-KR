@@ -1,6 +1,6 @@
 ---
 title: Adobe ID Marketo Engage 준비
-description: 예정된 Adobe Admin Console 마이그레이션에 대한 독점 교육입니다. 이 회의는 "트레이너 교육" 형식으로 진행되며, 이를 통해 학습한 내용을 학습하고 향후 변화될 사항에 대해 챕터를 교육할 수 있습니다.
+description: 이 교육 세션에 참여하여 사용자 마이그레이션, 주요 작업 및 관리자를 위한 필수 리소스에 중점을 두고, 마이그레이션 콘솔 탐색 및 각 이정표의 변경 사항 이해에 대한 지침과 함께 Adobe ID에 대한 Marketo Engage 구독 마이그레이션을 준비하십시오.
 solution: Marketo
 feature: Administration
 role: Admin, Developer, Leader, User
@@ -10,9 +10,9 @@ duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
 exl-id: 811852d0-9900-43cc-b6d8-29c8b2fef40c
-source-git-commit: 7358d62eee1468e65b4ec073de1344a54dac41ce
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
