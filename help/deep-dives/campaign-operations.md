@@ -1,5 +1,5 @@
 ---
-title: Adobe Marketo Engage 챔피언 심층 분석 - Marketo API를 사용하여 캠페인 작업 자동화 및 능률화
+title: Marketo API를 사용한 캠페인 작업 자동화 및 능률화
 description: 이 심층적 분석에서는 Marketo API를 사용하여 마케팅 운영을 간소화하는 방법을 알아봅니다. 여기에서는 이메일 뉴스레터 만들기, 프로그램 추적, 중복 항목 병합, 프로그램 비용 업데이트, 프로그램 복제와 같은 반복적인 작업을 자동화하여 전략적 이니셔티브에 집중할 수 있는 방법을 보여 줍니다.
 role: Admin, Developer, User
 level: Intermediate, Experienced
@@ -7,9 +7,9 @@ doc-type: Event
 duration: 4370
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16520
-source-git-commit: 27c53f62fe63e9b166b46cefa04abcdcc7823556
+source-git-commit: e54e738d55d4037f500d68597d2d29334ddddae9
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '339'
 ht-degree: 1%
 
 ---

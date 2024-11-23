@@ -3,9 +3,9 @@ title: '[!DNL Experience Makers - Learn from your peers]'
 description: Adobe 솔루션을 최대한 활용하는 방법을 Adobe 전문가 및 동료로부터 알아보십시오. [!DNL Experience Makers - Learn from your peers] 은(는) 가상 고객 학습 이벤트의 글로벌 시리즈로,  [!DNL Adobe Experience Cloud] 솔루션에 대해 자세히 살펴보는 데 중점을 둡니다.
 exl-id: 006da2ec-77f0-43fb-a653-1b5f4942d692
 duration: 20
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: e54e738d55d4037f500d68597d2d29334ddddae9
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: '644'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
 ### Commerce
 
 <!-- CARDS
-* commerce/2024/agile-sdlc.md
+* commerce/2024/agile-sdlc.md {cta  = Watch event}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -28,7 +28,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="commerce/2024/agile-sdlc.md" title="애자일 SDLC의 커뮤니케이션, 요구 사항 및 테스트에 대한 중점 접근 방식" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1732311562555" alt="애자일 SDLC의 커뮤니케이션, 요구 사항 및 테스트에 대한 중점 접근 방식"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1732325316536" alt="애자일 SDLC의 커뮤니케이션, 요구 사항 및 테스트에 대한 중점 접근 방식"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -41,7 +41,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
                     <p class="is-size-6">요구 사항 분석, 백로그 관리, 프로젝트 계획, 테스트 전략, 투명한 책임 있는 커뮤니케이션을 통해 성공적인 실행을 위해 Agile SDLC Practice를 사용하여 전자 상거래 개발을 간소화합니다.</p>
                 </div>
                 <a href="commerce/2024/agile-sdlc.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 보기</span>
                 </a>
             </div>
         </div>
@@ -52,19 +52,43 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
 ### Marketo
 
 <!-- CARDS
-* marketo/sept2024/multi-stream-engagement-programs.md
-* marketo/july2024/marketers-map-marketo-campaigns.md
-* marketo/april2024/practical-applications-of-marketo-engage-rest-api.md
-* marketo/jan2024/person-scoring-mastery.md
+* marketo/nov2024/advanced-segmentation.md {cta  = Watch event}
+* marketo/sept2024/multi-stream-engagement-programs.md {cta  = Watch event}
+* marketo/july2024/marketers-map-marketo-campaigns.md {cta  = Watch event}
+* marketo/april2024/practical-applications-of-marketo-engage-rest-api.md {cta  = Watch event}
+* marketo/jan2024/person-scoring-mastery.md {cta  = Watch event}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Advanced Segmentation Audits - Ensuring Precision and Performance in Marketo Engage">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="marketo/nov2024/advanced-segmentation.md" title="고급 세그멘테이션 감사 - Marketo Engage의 정밀도 및 성능 보장" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439383/?format=jpeg&nocache=1732325316991" alt="고급 세그멘테이션 감사 - Marketo Engage의 정밀도 및 성능 보장"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="marketo/nov2024/advanced-segmentation.md" target="_blank" rel="referrer" title="고급 세그멘테이션 감사 - Marketo Engage의 정밀도 및 성능 보장">고급 세분화 감사 - Marketo Engage의 정밀도 및 성능 보장</a>
+                    </p>
+                    <p class="is-size-6">Adobe Marketo Engage Champion Darshil Shah에 참여하여 고급 세그먼테이션 감사를 숙지하고, 세그먼테이션 전략을 최적화하는 방법을 배우고, 고객 행동에 맞게 조정하고, GDPR 준수를 유지하고, 모범 사례 및 실시간 업데이트를 통해 마케팅 성능을 향상시킵니다.</p>
+                </div>
+                <a href="marketo/nov2024/advanced-segmentation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Master complex customer journeys with Multi-Stream Engagement Programs">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/sept2024/multi-stream-engagement-programs.md" title="멀티 스트림 참여 프로그램을 통한 복잡한 고객 여정 기본" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1732311562876" alt="멀티 스트림 참여 프로그램을 통한 복잡한 고객 여정 기본"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1732325316984" alt="멀티 스트림 참여 프로그램을 통한 복잡한 고객 여정 기본"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -77,7 +101,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
                     <p class="is-size-6">여정의 모든 단계에서 멀티 터치, 멀티 스트림 참여 프로그램을 통해 고객 관계를 체계적으로 관계를 맺고 육성하는 방법을 살펴보십시오. 참여 프로그램은 고객의 요구 사항과 행동에 귀를 기울이고 관련 여정과 필요한 콘텐츠를 제공할 수 있는 기능을 제공합니다.</p>
                 </div>
                 <a href="marketo/sept2024/multi-stream-engagement-programs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 보기</span>
                 </a>
             </div>
         </div>
@@ -87,7 +111,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/july2024/marketers-map-marketo-campaigns.md" title="마케터 맵 - Marketo 캠페인 전략, 빌드 및 분석에 대한 포괄적인 안내서" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1732311562878" alt="마케터 맵 - Marketo 캠페인 전략, 빌드 및 분석에 대한 포괄적인 안내서"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1732325316975" alt="마케터 맵 - Marketo 캠페인 전략, 빌드 및 분석에 대한 포괄적인 안내서"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -100,7 +124,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
                     <p class="is-size-6">가져오기, 복제 및 처음부터 빌드하기 등 Marketo Engage 프로그램을 효율적으로 만드는 방법에 대해 알아봅니다. 브랜드 표준에 맞게 Marketo Engage 템플릿을 사용자 정의하고 에셋 및 기간 비용을 관리합니다.</p>
                 </div>
                 <a href="marketo/july2024/marketers-map-marketo-campaigns.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 보기</span>
                 </a>
             </div>
         </div>
@@ -110,7 +134,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/april2024/practical-applications-of-marketo-engage-rest-api.md" title="강력한 워크플로 자동화 잠금 해제 - Marketo Engage REST API의 실용적인 응용 프로그램" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1732311562886" alt="강력한 워크플로 자동화 잠금 해제 - Marketo Engage REST API의 실용적인 응용 프로그램"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1732325316995" alt="강력한 워크플로 자동화 잠금 해제 - Marketo Engage REST API의 실용적인 응용 프로그램"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -123,7 +147,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
                     <p class="is-size-6">Marketo Engage REST API의 잠재력을 활용하여 마케팅 워크플로우를 자동화하고, Zapier와 같은 도구를 통합하고, Python을 대량 작업에 활용하고, 리드 병합, UTM 추적 및 활동 데이터 추출과 같은 작업을 간소화합니다.</p>
                 </div>
                 <a href="marketo/april2024/practical-applications-of-marketo-engage-rest-api.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 보기</span>
                 </a>
             </div>
         </div>
@@ -133,7 +157,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/jan2024/person-scoring-mastery.md" title="Marketo Engage을 통한 개인 채점 숙달 - 글로벌 프레임워크의 현지화된 뉘앙스" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1732311562883" alt="Marketo Engage을 통한 개인 채점 숙달 - 글로벌 프레임워크의 현지화된 뉘앙스"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1732325316999" alt="Marketo Engage을 통한 개인 채점 숙달 - 글로벌 프레임워크의 현지화된 뉘앙스"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -146,7 +170,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
                     <p class="is-size-6">관리자는 서로 비교한 채점 요소의 실제 비즈니스 가치를 기반으로 Marketo Engage 개인 채점 모델을 개발합니다. 그러나 다른 시장에서 그 비즈니스 가치가 달라진다면 어떻게 될까요? 조직 전반에서 일관성을 잃지 않고 어떻게 지역에 영향을 미칠 수 있습니까? 채점 모델에 로컬 유연성을 구축하여 균형을 찾는 방법에 대해 알아봅니다.</p>
                 </div>
                 <a href="marketo/jan2024/person-scoring-mastery.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 보기</span>
                 </a>
             </div>
         </div>
@@ -157,7 +181,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
 ### Workfront
 
 <!-- CARDS
-* workfront/2024/04/staffing-your-workfront-system-admin-practice.md
+* workfront/2024/04/staffing-your-workfront-system-admin-practice.md {cta  = Watch event}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -166,7 +190,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2024/04/staffing-your-workfront-system-admin-practice.md" title="Workfront 시스템 관리 실무 웨비나 직원 채용" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1732311563219" alt="Workfront 시스템 관리 실무 웨비나 직원 채용"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1732325318283" alt="Workfront 시스템 관리 실무 웨비나 직원 채용"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,7 +203,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
                     <p class="is-size-6">Dell 및 Adobe Workfront 전문가로부터 온디맨드 웨비나에서 시스템 관리자의 전략적 중요성에 대해 알아보십시오. Adobe Workfront의 효과적인 설정 및 확장성을 위해 전체 직원 수 보안, 그룹 관리자 역할 활용 및 역할 프로필 정의에 대한 팁을 알아봅니다.</p>
                 </div>
                 <a href="workfront/2024/04/staffing-your-workfront-system-admin-practice.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 보기</span>
                 </a>
             </div>
         </div>
