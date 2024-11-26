@@ -2,9 +2,9 @@
 user-guide-title: Adobe Developers Live 이벤트
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Adobe Developer Live 콘텐츠 이벤트의 녹화본 컬렉션
-source-git-commit: c50f4241e22bc858473156a3e7cd32052177a5e1
+source-git-commit: 8770c8172ee90524079efc65aec7e129f1d1d031
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '801'
 ht-degree: 4%
 
 ---
@@ -13,7 +13,13 @@ ht-degree: 4%
 # Adobe Developers Live 이벤트 {#adobe-developers-live-recordings}
 
 + [개요](overview.md)
-+ 2023 {#2023}
++ 2024년 {#2024}
+   + {#nov2024}년 11월
+      + [AEM EDS로 AI 및 Personalization 가져오기](2024/nov/ai-and-personalization.md)
+      + [AEM Sites Extension Manager](2024/nov/extension-manager.md)
+      + [웹 구성 요소로 HTML](2024/nov/html-and-web-components.md)
+      + [Headless 구현을 위한 Commerce API 오케스트레이션](2024/nov/commerce-api-headless.md)
++ 2023년 {#2023}
    + {#nov2023}년 11월
       + [Keynote 열기](2023/november/keynote.md)
       + [Keynote(APAC) 열기](2023/november/keynote-apac.md)
@@ -56,7 +62,7 @@ ht-degree: 4%
       + [AEM Assets과 애플리케이션의 원활한 통합](2023/may/seamless-intergration.md)
       + [GraphQL API 이해](2023/may/graphql.md)
       + [Universal Editor](2023/may/universal-editor.md)
-+ 2022 {#2022}
++ 2022년 {#2022}
    + 2월 - Commerce {#feb2022}
       + [개요](2022/february/overview.md)
       + [Keynote 열기](2022/february/opening-keynote.md)
