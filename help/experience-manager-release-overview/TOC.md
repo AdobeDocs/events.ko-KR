@@ -3,9 +3,9 @@ user-guide-title: Adobe Experience Manager as a Cloud Service 릴리스 개요
 user-guide-breadcrumb: AEMCS Release Events
 user-guide-description: Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한 개요 보기
 breadcrumb-title: AEM CS 릴리스 업데이트
-source-git-commit: a4eae8c4a4176ced8b34be1e521f3beaac1ca8e4
+source-git-commit: a5b6c2c3150fcc98686fe74d68f186bfe4e1befa
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '111'
 ht-degree: 4%
 
 ---
@@ -14,7 +14,8 @@ ht-degree: 4%
 # Adobe Experience Manager as a Cloud Service 릴리스 업데이트 {#aemcs-release-update-recordings}
 
 + [개요](overview.md)
-+ 2024 {#2024}
++ 2024년 {#2024}
+   + [2024.10.0](2024/2024-10-0.md)
    + [2024.9.0](2024/2024-9-0.md)
    + [2024.8.0](2024/2024-8-0.md)
    + [2024.7.0](2024/2024-7-0.md)
@@ -23,7 +24,7 @@ ht-degree: 4%
    + [2024.4.0](2024/2024-4-0.md)
    + [2024.3.0](2024/2024-3-0.md)
    + [2024.1.0](2024/2024-1-0.md)
-+ 2023 {#2023}
++ 2023년 {#2023}
    + [2023.11.0](2023/2023-11-0.md)
    + [2023.10.0](2023/2023-10-0.md)
    + [2023.9.0](2023/2023-9-0.md)
@@ -33,7 +34,7 @@ ht-degree: 4%
    + [2023.4.0](2023/2023-4-0.md)
    + [2023.2.0](2023/2023-2-0.md)
    + [2023.1.0](2023/2023-1-0.md)
-+ 2022 {#2022}
++ 2022년 {#2022}
    + [2022.10.0](2022/2022-10-0.md)
    + [2022.8.0](2022/2022-8-0.md)
    + [2022.7.0](2022/2022-7-0.md)

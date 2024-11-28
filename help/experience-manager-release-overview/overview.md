@@ -4,9 +4,9 @@ description: Adobe Experience Manager as a Cloud Service의 최신 기능에 대
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
 duration: 91
-source-git-commit: a4eae8c4a4176ced8b34be1e521f3beaac1ca8e4
+source-git-commit: a5b6c2c3150fcc98686fe74d68f186bfe4e1befa
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '784'
 ht-degree: 6%
 
 ---
@@ -17,146 +17,240 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한
 
 ## 최신 업데이트
 
-<table style="max-width: 50%;">
-  <tr>
-    <td>
-      <a href="2024/2024-9-0.md">
-        <img alt="2024.9.0 릴리스" src="https://video.tv.adobe.com/v/3433381?format=jpeg" />
-      </a>
-      <div>
-        <a href="2024/2024-9-0.md">
-          <strong>릴리스 | 2024.9.0</strong>
-        </a>
-      </div>
-      <em>릴리스 날짜 2024년 9월 </em>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ko-KR">릴리스 정보</a>
-      </p>
-    </td>
-  </tr>  
-</table>
+<!-- CARDS
+{cta = Watch}
+
+* 2024/2024-10-0.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2024.10.0 AEM Release Overview Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/2024-10-0.md" title="2024.10.0 AEM 릴리스 개요 비디오" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440501/?format=jpeg&nocache=1732753737912" alt="2024.10.0 AEM 릴리스 개요 비디오"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/2024-10-0.md" target="_blank" rel="referrer" title="2024.10.0 AEM 릴리스 개요 비디오">2024.10.0 AEM 릴리스 개요 비디오</a>
+                    </p>
+                    <p class="is-size-6">이 릴리스의 기능은 Experience Manager Assets 및 Cloud Service 혁신에 초점을 맞추며, 다음과 같습니다.AEM Assets Ultimate 및 Asset PrimeAEM Cloud Service이 포함된 AEM AssetsAssets 의 새로운 가격 및 패키징 로그를 더 많은 대상으로 전달 비즈니스 사용자를 위한 파이프라인 없는 URL 리디렉션 RDE​s 지원 Config Pipeline YAMLs​ 대화형 AEM Developer Console</p>
+                </div>
+                <a href="2024/2024-10-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ## 지난 업데이트
 
-<table style="max-width: 50%;">
-  <tr>
-    <td>
-      <a href="2024/2024-8-0.md">
-        <img alt="2024.8.0 릴리스" src="https://video.tv.adobe.com/v/3433381?format=jpeg" />
-      </a>
-      <div>
-        <a href="2024/2024-8-0.md">
-          <strong>릴리스 | 2024.8.0</strong>
-        </a>
-      </div>
-      <em>릴리스 날짜: 2024년 8월 </em>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ko-KR">릴리스 정보</a>
-      </p>
-    </td>
-    <td>
-      <a href="2024/2024-7-0.md">
-        <img alt="2024.7.0 릴리스" src="https://video.tv.adobe.com/v/3431707?format=jpeg" />
-      </a>
-      <div>
-        <a href="2024/2024-7-0.md">
-          <strong>릴리스 | 2024.7.0</strong>
-        </a>
-      </div>
-      <em>릴리스 날짜: 2024년 7월 </em>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ko-KR">릴리스 정보</a>
-      </p>
-    </td> 
-     <td>
-      <a href="2024/2024-6-0.md">
-        <img alt="2024.6.0 릴리스" src="https://video.tv.adobe.com/v/3430779?format=jpeg" />
-      </a>
-      <div>
-        <a href="2024/2024-6-0.md">
-          <strong>릴리스 | 2024.6.0</strong>
-        </a>
-      </div>
-      <em>릴리스 날짜 2024년 6월 </em>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ko-KR">릴리스 정보</a>
-      </p>
-     </td>
-  </tr>
-  <tr> 
-     <td>
-      <a href="2024/2024-5-0.md">
-        <img alt="2024.5.0 릴리스" src="2024/assets/2024-5-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2024/2024-5-0.md">
-          <strong>릴리스 | 2024.5.0</strong>
-          </br>
-        </a>
-      </div>
-      <em>릴리스 날짜: 2024년 5월 </em>
-    </td>
-    <td>
-      <a href="2024/2024-4-0.md">
-        <img alt="2024.4.0 릴리스" src="2024/assets/2024-4-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2024/2024-4-0.md">
-          <strong>릴리스 | 2024.4.0</strong>
-          </br>
-        </a>
-      </div>
-      <em>릴리스 날짜 2024년 4월 </em>
-    </td>
-    <td>
-      <a href="2024/2024-3-0.md">
-        <img alt="2024.3.0 릴리스" src="2024/assets/2024-3-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2024/2024-3-0.md">
-          <strong>릴리스 | 2024.3.0</strong>
-          </br>
-        </a>
-      </div>
-      <em>릴리스 날짜 2024년 4월 </em>
-    </td>   
-  </tr>
-  <tr> 
-    <td>
-      <a href="2024/2024-1-0.md">
-        <img alt="2024.1.0 릴리스" src="2024/assets/2024-1-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2024/2024-1-0.md">
-          <strong>릴리스 | 2024.1.0</strong>
-          <br/>
-        </a>
-          <em>릴리스 날짜: 2024년 1월 </em>
-      </div>
-    </td>
-    <td>
-      <a href="2023/2023-11-0.md">
-        <img alt="2023.11.0 릴리스" src="2023/assets/2023-11-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2023/2023-11-0.md">
-          <strong>릴리스 | 2023.11.0</strong>
-          <br/>
-        </a>
-          <em>릴리스 날짜 2023년 11월 </em>
-      </div>
-    </td>
-    <td>
-      <a href="2023/2023-10-0.md">
-        <img alt="2023.10.0 릴리스" src="2023/assets/2023-10-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2023/2023-10-0.md">
-          <strong>릴리스 | 2023.10.0</strong>
-          <br/>
-        </a>
-          <em>릴리스 날짜 2023년 10월 </em>
-      </div>
-    </td>
-  </tr>
-</table>
+<!-- CARDS
+{cta = Watch}
+
+  * 2024/2024-9-0.md
+  * 2024/2024-8-0.md
+  * 2024/2024-7-0.md
+  * 2024/2024-6-0.md
+  * 2024/2024-5-0.md
+  * 2024/2024-4-0.md
+  * 2024/2024-3-0.md
+  * 2024/2024-1-0.md
+  
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2024.9.0 AEM Release Overview Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/2024-9-0.md" title="2024.9.0 AEM 릴리스 개요 비디오" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434847/?format=jpeg&nocache=1732753739303" alt="2024.9.0 AEM 릴리스 개요 비디오"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/2024-9-0.md" target="_blank" rel="referrer" title="2024.9.0 AEM 릴리스 개요 비디오">2024.9.0 AEM 릴리스 개요 비디오</a>
+                    </p>
+                    <p class="is-size-6">이 릴리스의 기능은 Experience Manager Assets 및 Cloud Service 혁신에 중점을 두며, 다음과 같습니다.AEM Assets - 컬렉션 지원을 위한 에셋 선택기 개선​Assets Content Hub - DRM(만료 및 라이센스 에셋) 지원​AEM Cloud Service - Edge Delivery​Edge에 대한 Cloud Manager 지원(ESI) ​ 기본 인증​AEM Developer Console</p>
+                </div>
+                <a href="2024/2024-9-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2024.8.0 AEM Release Overview Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/2024-8-0.md" title="2024.8.0 AEM 릴리스 개요 비디오" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433381/?format=jpeg&nocache=1732753739298" alt="2024.8.0 AEM 릴리스 개요 비디오"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/2024-8-0.md" target="_blank" rel="referrer" title="2024.8.0 AEM 릴리스 개요 비디오">2024.8.0 AEM 릴리스 개요 비디오</a>
+                    </p>
+                    <p class="is-size-6">이 릴리스의 기능은 AEM Assets 및 Dynamic Media, Forms, Sites 및 Cloud Foundation의 혁신에 중점을 두고 있으며, 여기에는 다음과 같은 사항이 포함됩니다. - 1:1 다이내믹 변형용 Dynamic Media 구성 가능한 템플릿 Forms GenAI Assistant 새 AEM 콘텐츠 구조 통합​DV 인증서의 라이프사이클 관리 및 Cloud Manager Experience Audit Dashboard를 통한 Edge Delivery Services 지원 파이프라인 성능 개선</p>
+                </div>
+                <a href="2024/2024-8-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2024.7.0 AEM Release Overview Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/2024-7-0.md" title="2024.7.0 AEM 릴리스 개요 비디오" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431707/?format=jpeg&nocache=1732753739316" alt="2024.7.0 AEM 릴리스 개요 비디오"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/2024-7-0.md" target="_blank" rel="referrer" title="2024.7.0 AEM 릴리스 개요 비디오">2024.7.0 AEM 릴리스 개요 비디오</a>
+                    </p>
+                    <p class="is-size-6">이 릴리스의 기능은 Experience Manager Assets의 혁신적인 Cloud Service과 Content Credentials의 혁신적인 기능에 초점을 맞추며, 다음과 같은 기능이 포함됩니다. AEM Assets​Asset Selector를 포함한 비디오용​AEM Assets의 Dynamic Media 기능 업로드​Cloud Manager:고객 관리 CDN 자격 증명의 셀프서비스 구성​CDN​ ​트래픽 제거 규칙 필터</p>
+                </div>
+                <a href="2024/2024-7-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2024.6.0 AEM release overview video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/2024-6-0.md" title="2024.6.0 AEM 릴리스 개요 비디오" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430779/?format=jpeg&nocache=1732753739294" alt="2024.6.0 AEM 릴리스 개요 비디오"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/2024-6-0.md" target="_blank" rel="referrer" title="2024.6.0 AEM 릴리스 개요 비디오">2024.6.0 AEM 릴리스 개요 비디오</a>
+                    </p>
+                    <p class="is-size-6">2024년 6월 릴리스의 기능은 Content Hub을 사용하는 AEM Assets, OpenAPI 기능을 사용하는 Dynamic Media, 향상된 Assets 선택기 기능, 태그 및 만료된 에셋, 콘텐츠 조각 Admin Console의 콘텐츠 조각 모델, Cloud Foundation - Cloud Manager의 개인 저장소 추가 및 Cloud Foundation - 콘텐츠 복원에 중점을 둡니다.</p>
+                </div>
+                <a href="2024/2024-6-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2024.5.0 AEM Release Overview Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/2024-5-0.md" title="2024.5.0 AEM 릴리스 개요 비디오" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429503/?format=jpeg&nocache=1732753739313" alt="2024.5.0 AEM 릴리스 개요 비디오"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/2024-5-0.md" target="_blank" rel="referrer" title="2024.5.0 AEM 릴리스 개요 비디오">2024.5.0 AEM 릴리스 개요 비디오</a>
+                    </p>
+                    <p class="is-size-6">이 릴리스의 기능은 - 새로운 AEM 및 Dynamic Media 유니버설 편집기 개선 사항 Publish 옵션 적응형 Forms Foundation 구성 요소를 핵심 구성 요소로 마이그레이션 적응형 Forms Cloud Foundation 개선 사항의 Captcha 추가 지원에 중점을 둡니다.</p>
+                </div>
+                <a href="2024/2024-5-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2024.4.0 AEM Release Overview Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/2024-4-0.md" title="2024.4.0 AEM 릴리스 개요 비디오" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429111/?format=jpeg&nocache=1732753739287" alt="2024.4.0 AEM 릴리스 개요 비디오"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/2024-4-0.md" target="_blank" rel="referrer" title="2024.4.0 AEM 릴리스 개요 비디오">2024.4.0 AEM 릴리스 개요 비디오</a>
+                    </p>
+                    <p class="is-size-6">이 릴리스의 기능은 Experience Manager Assets 및 Cloud Service의 혁신에 중점을 두며, 다음과 같습니다.AEM Assets:1 클릭 Assets 보기에서 에셋/폴더 이름 바꾸기자연어를 사용한 간소화된 검색 경험Assets에서 스마트 자르기 보기 빠른 작업으로 AEM 내 비디오 편집 등 동적 렌디션 미리 보기Cloud Manager:CDN 최적화 및 튜닝버전 제거 및 감사 로그 제거 유지 관리 작업의 셀프서비스 구성셀프서비스 전용 IP 지원을 통해 Splunk을 넘어 공급업체로 로그 스트리밍 확장ESI에 대한 CDN 지원SDII개량된 RDE용 Java 로깅 경험</p>
+                </div>
+                <a href="2024/2024-4-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2024.3.0 AEM Release Overview Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/2024-3-0.md" title="2024.3.0 AEM 릴리스 개요 비디오" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428344/?format=jpeg&nocache=1732753739309" alt="2024.3.0 AEM 릴리스 개요 비디오"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/2024-3-0.md" target="_blank" rel="referrer" title="2024.3.0 AEM 릴리스 개요 비디오">2024.3.0 AEM 릴리스 개요 비디오</a>
+                    </p>
+                    <p class="is-size-6">Forms용 Edge Delivery Services Edge Delivery Services을 사용하여 영향력 높은 경험 AEM 작성모든 유니버설 편집기 실행 가능한 인텔리전스 AEM Sites - 콘텐츠 변형 생성(GenAI) 빠른 개발 콘텐츠 조각 및 모델용 CruD OpenAPICloud Service Foundation 고급 네트워킹기타 주목할 만한 개선 사항 콘텐츠 조각 버전 비교 경험 조각에 대한 다중 사이트 관리 지원 업데이트된 콘텐츠 가져오기 v1.51.0 Sidekick 확장 v6.41.0</p>
+                </div>
+                <a href="2024/2024-3-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2024.1.0 AEM Release Overview Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/2024-1-0.md" title="2024.1.0 AEM 릴리스 개요 비디오" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427041/?format=jpeg&nocache=1732753739318" alt="2024.1.0 AEM 릴리스 개요 비디오"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/2024-1-0.md" target="_blank" rel="referrer" title="2024.1.0 AEM 릴리스 개요 비디오">2024.1.0 AEM 릴리스 개요 비디오</a>
+                    </p>
+                    <p class="is-size-6">이 릴리스의 기능은 Experience Manager Assets 및 Cloud Service의 혁신에 중점을 두며, AEM Assets - AEM Assets Cloud Service 및 Adobe Journey Optimizer 통합, 스마트 태그 차단 목록, OOTB 비디오 미리보기 렌디션, Cloud Manager - 사용자 지정 권한 등을 포함합니다</p>
+                </div>
+                <a href="2024/2024-1-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->

@@ -1,6 +1,7 @@
 ---
 title: Headless 구현을 위한 Commerce API 오케스트레이션
 description: Adobe의 소프트웨어 엔지니어인 Revanth Kumar가 API Mesh를 사용하여 향상된 보안, 성능 및 개발 간소화와 같은 이점을 통해 여러 데이터 소스를 통합하여 고성능의 Headless 상거래 경험을 관리하는 방법에 대해 알아봅니다.
+solution: Commerce
 feature: APIs, Headless
 topic: Commerce, Development, Headless
 role: Developer
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 3304
 last-substantial-update: 2024-11-26T00:00:00Z
 jira: KT-16575
-source-git-commit: 8770c8172ee90524079efc65aec7e129f1d1d031
+exl-id: d12d16c9-3696-48ac-9768-e87aad5191be
+source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
 
 ---
-
 
 # Headless 구현을 위한 Commerce API 오케스트레이션
 
