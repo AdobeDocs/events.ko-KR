@@ -2,7 +2,7 @@
 user-guide-title: Adobe Developers Live 이벤트
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Adobe Developer Live 콘텐츠 이벤트의 녹화본 컬렉션
-source-git-commit: a5b6c2c3150fcc98686fe74d68f186bfe4e1befa
+source-git-commit: a27c81e245b1dae18bb62135ed2c9e4a60bc0694
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 4%
@@ -16,13 +16,13 @@ ht-degree: 4%
 + 2024년 {#2024}
    + {#nov2024}년 11월
       + [Keynote](2024/nov/keynote.md)
-      + [AEM Cloud Service] {#aem-cloud-service}
+      + AEM Cloud Service {#aem-cloud-service}
          + [AEM API 및 이벤트](2024/nov/apis-eventing.md)
          + [AEM EDS로 AI 및 Personalization 가져오기](2024/nov/ai-and-personalization.md)
          + [AEM CS의 CDN 및 WAF 구성](2024/nov/cdn-waf-aemcs.md)
          + [매직 버튼 및 빌드 방법](2024/nov/magic-buttons.md)
          + [신속한 개발 환경](2024/nov/rapid-development-environments.md)
-      + [AEM Sites] {#aem-sites}
+      + AEM Sites {#aem-sites}
          + [Edge Delivery Services에 대한 실제 여정](2024/nov/journey-to-edge-delivery-services.md)
          + [Edge Delivery Services - 1년 후, 6가지 방법 개선](2024/nov/edge-delivery-services.md)
          + [AEM Sites Extension Manager](2024/nov/extension-manager.md)
@@ -30,15 +30,15 @@ ht-degree: 4%
          + [웹 구성 요소로 HTML](2024/nov/html-and-web-components.md)
          + [200호 참호 이야기](2024/nov/tales-200-trenches.md)
          + [범용 편집기, AEM 작성 및 Edge Delivery Services](2024/nov/universal-editor-eds.md)
-      + [AEM Assets] {#aem-assets}
+      + AEM Assets {#aem-assets}
          + [Assets 마이그레이션 블루프린트](2024/nov/asset-migration-blueprint.md)
          + [성능 향상 전달에 대한 우수 사례](2024/nov/performant-delivery.md)
          + [Open API와 함께 Dynamic Media 사용](2024/nov/dynamic-media-open-api.md)
-      + [AEM Forms] {#aem-forms}
+      + AEM Forms {#aem-forms}
          + [Edge의 Forms!](2024/nov/forms-on-the-edge.md)
-      + [Cloud Manager] {#cloud-manager}
+      + Cloud Manager {#cloud-manager}
          + [Cloud Manager을 통한 DevOps 스트리밍](2024/nov/dev-ops-cloud-manager.md)
-      + [Adobe Commerce] {#commerce}
+      + Adobe Commerce {#commerce}
          + [Adobe Commerce 및 통합 시작 키트](2024/nov/back-office-integrations.md)
          + [AEM Assets 및 GenAI가 포함된 Commerce](2024/nov/commerce-aem-assets-gen-ai.md)
          + [Edge Delivery Services 및 Adobe Commerce](2024/nov/commerce-storefront-eds.md)
