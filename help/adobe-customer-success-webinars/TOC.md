@@ -2,9 +2,9 @@
 user-guide-title: Adobe 고객 성공 웨비나
 breadcrumb-title: Adobe 고객 성공 웨비나
 user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
+source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 # Adobe 고객 성공 웨비나 {#adobe-customer-success-webinar-recordings}
 
 + [Adobe 고객 성공 웨비나](overview.md)
-+ 2024 {#2024}
++ 2024년 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Workfront - 린 팀](2024/workfront-lean-teams.md)
    + [Adobe Workfront 마스터리](2024/workfront-mastery.md)
@@ -32,6 +32,7 @@ ht-degree: 0%
    + [Real-time Customer Data Platform 시작하기](2024/getting-started-rtcdp.md)
    + [고객 경험을 위한 AI 활용](2024/ai-customer-experience.md)
    + [Lean 팀 및 Customer Journey Analytics](2024/lean-teams-cja.md)
+   + [Adobe Admin Console 마스터링](2024/adobe-admin-console.md)
    + [쿠키 및 데이터 개인 정보 보호 마스터링](2024/mastering-cookies-data-privacy.md)
    + [Target Personalization](2024/target-personalization.md)
    + [개인화 과잉](2024/hyperpersonalization.md)
@@ -39,10 +40,13 @@ ht-degree: 0%
    + [Real-time Customer Data Platform 및 Marketo 통합](2024/aep-marketo-integration.md)
    + [Real-time Customer Data Platform 마이그레이션 준비](2024/rtcdp-migration-readiness.md)
    + [전략적 리더십](2024/strategic-leadership.md)
+   + [인증 간소화](2024/streamline-authentication.md)
+   + [데이터를 작업으로 전환](2024/turning-data-into-action.md)
+   + [Edge 서비스의 기능 잠금 해제](2024/edge-delivery-services.md)
    + [솔루션 기능에 대한 사용 사례 매핑](2024/use-case-mapping.md)
    + [웹 SDK 마이그레이션 핵심 사항](2024/web-sdk-migration.md)
 
-+ 2023 {#2023}
++ 2023년 {#2023}
    + [규모에 맞는 Personalization 기반 구축](2023/personalization-at-scale.md)
    + [변경 관리](2023/change-management.md)
    + [컨텐츠 및 경험 - Personalization](2023/content-experiences-personalization.md)
