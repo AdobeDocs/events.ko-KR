@@ -5,7 +5,7 @@ user-guide-breadcrumb: AEM Release Events
 duration: 91
 hidefromtoc: true
 exl-id: eb9580ae-84c9-4c68-84c3-007e67b91a92
-source-git-commit: 49b386b6729419261265a3d022a87df77f294137
+source-git-commit: ee8aede121140f6a4ce9f5da2656b3e3cc0e0137
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops" title="2024.11.0 AEM 릴리스 개요" target="_blank" rel="referrer">
+                    <a href="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops&autoplay=true" title="2024.11.0 AEM 릴리스 개요" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="2024/assets/2024-11-play-button.png" alt="2024.11.0 AEM 릴리스 개요"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -86,7 +86,7 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-10-0.md" target="_blank" rel="referrer" title="2024.10.0 AEM 릴리스 개요">2024.10.0 AEM 릴리스 개요</a>
                     </p>
-                    <p class="is-size-6">이 릴리스의 기능은 Experience Manager Assets 및 Cloud Service 혁신에 초점을 맞추며, 다음과 같습니다.AEM Assets Ultimate 및 Asset PrimeAEM Cloud Service이 포함된 AEM AssetsAssets 의 새로운 가격 및 패키징 로그를 더 많은 대상으로 전달 비즈니스 사용자를 위한 파이프라인 없는 URL 리디렉션 RDE​s 지원 Config Pipeline YAMLs​ 대화형 AEM Developer Console</p>
+                    <p class="is-size-6">이 릴리스의 기능은 Experience Manager Assets 및 Cloud Service의 혁신에 중점을 두고 있으며, 다음과 같은 기능이 포함되어 있습니다.Assets Ultimate 및 Asset PrimeAEM Cloud Service을 통한 AEM Assets의 새로운 가격 및 패키징 로그가 더 많은 대상으로 전달 비즈니스 사용자를 위한 파이프라인 없는 URL 리디렉션 RDE​s 지원 Config Pipeline YAMLs​ Interactive AEM Developer Console AEM Assets</p>
                 </div>
                 <a href="2024/2024-10-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">추가 세부 정보</span>
