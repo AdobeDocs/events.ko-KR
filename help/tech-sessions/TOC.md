@@ -2,9 +2,9 @@
 user-guide-title: Experience Cloud 기술 세션
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloud 기술 세션은 솔루션별 웨비나를 제공하여 사례 변경에 대한 사전 예방적 접근 방식입니다.
-source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
+source-git-commit: b6f18d1a7adb683886bd08ad86998e619be24c29
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '123'
 ht-degree: 15%
 
 ---
@@ -13,15 +13,16 @@ ht-degree: 15%
 # Experience Cloud 기술 세션 {#tech-sessions}
 
 + [Experience Cloud 기술 세션](overview.md)
-+ 2024 {#2024}
++ 2024년 {#2024}
    + 실시간 콘텐츠 데이터 플랫폼 {#rtcdp-office-hours-2024}
+      + [AEP 웹 SDK 문제 해결](2024/aep-web-sdk-troubleshooting.md)
       + [AI 어시스턴트](2024/ai-assistant.md)
       + [실시간 컨텐츠 데이터 플랫폼 시간](2024/rtcdp-timings.md)
    + Adobe Experience Manager {#aem-office-hours-2024}
       + [방문자 추적](2024/tracking-visitors.md)
    + Marketo {#adobe-marketo-office-hours-2024} Adobe
       + [챔피언 기술 세션 - 5월](2024/champion-office-hours.md)
-+ 2023 {#2023}
++ 2023년 {#2023}
    + Adobe Analytics {#adobe-analytics}
       + [Launch 우수 사례](2023/launch-best-practices.md)
    + Adobe Campaign {#adobe-campaign-office-hours}
