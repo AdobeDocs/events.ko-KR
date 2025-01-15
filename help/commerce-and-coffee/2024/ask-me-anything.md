@@ -8,17 +8,18 @@ doc-type: Event
 duration: 3153
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16471
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+exl-id: 0e765a3e-9ff8-4a4a-8987-e56631adfc58
+source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%
 
 ---
 
-
 # 무엇이든 묻기
 
 Corey와 Agbi는 고객이 매년 언제든지 성공할 수 있도록 Adobe Commerce에서 모범 사례를 공유하고 기능을 시연하면서 등록뿐만 아니라 실시간으로 질문에 답변했습니다.
+
 >[!VIDEO](https://video.tv.adobe.com/v/3437034/?learn=on&enablevpops)
 
 ## 주요 사항
