@@ -2,10 +2,10 @@
 user-guide-title: Adobe Experience League 이벤트 레코딩
 user-guide-breadcrumb: Event Recordings
 user-guide-description: Adobe 엔터프라이즈 제품 사용에 초점을 맞춘 이벤트 녹화본 컬렉션
-source-git-commit: 5cfca96daa651cd2d2c8860c1217acbec1e6168e
+source-git-commit: 46f5e599ad9648498972898731f64f3c24d92c43
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 11%
+source-wordcount: '412'
+ht-degree: 10%
 
 ---
 
@@ -23,9 +23,12 @@ ht-degree: 11%
    + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
    + [AEM 챔피언 운영 시간](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
    + [APAC Commerce 이벤트](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
+   + [숨은 단계](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
    + [Commerce 및 커피](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
    + [고객 데이터 관리 음성](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=ko-KR)
+   + [데이터 드립](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
    + [깊이 들어가기](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
+   + [에스프레소 및 Experience Manager](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
    + [Experience Cloud 기술 세션](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
    + [Experience League LIVE](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
    + [GEMS Experience Manager](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
@@ -35,6 +38,7 @@ ht-degree: 11%
    + [Marketo 및 Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
    + [스킬 빌더](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + [스킬 교환](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
+   + [Workfront으로 절전 모드 해제](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
 + 솔루션 {#solution}별
    + Acrobat Sign {#as}
