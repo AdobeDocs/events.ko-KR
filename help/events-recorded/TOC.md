@@ -2,9 +2,9 @@
 user-guide-title: Adobe Experience League 이벤트 레코딩
 user-guide-breadcrumb: Event Recordings
 user-guide-description: Adobe 엔터프라이즈 제품 사용에 초점을 맞춘 이벤트 녹화본 컬렉션
-source-git-commit: 46f5e599ad9648498972898731f64f3c24d92c43
+source-git-commit: 27358919021fbca757879bbb8ed9667bd973578f
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '428'
 ht-degree: 10%
 
 ---
@@ -23,12 +23,12 @@ ht-degree: 10%
    + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
    + [AEM 챔피언 운영 시간](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
    + [APAC Commerce 이벤트](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
-   + [숨은 단계](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
+   + [숨은 단계](https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html)
    + [Commerce 및 커피](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
    + [고객 데이터 관리 음성](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=ko-KR)
-   + [데이터 드립](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
+   + [데이터 드립](https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html)
    + [깊이 들어가기](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
-   + [에스프레소 및 Experience Manager](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
+   + [에스프레소 및 Experience Manager](https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html)
    + [Experience Cloud 기술 세션](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
    + [Experience League LIVE](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
    + [GEMS Experience Manager](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
@@ -38,7 +38,7 @@ ht-degree: 10%
    + [Marketo 및 Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
    + [스킬 빌더](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + [스킬 교환](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
-   + [Workfront으로 절전 모드 해제](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
+   + [Workfront으로 절전 모드 해제](https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html)
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
 + 솔루션 {#solution}별
    + Acrobat Sign {#as}
@@ -49,6 +49,7 @@ ht-degree: 10%
       + [라이브 Experience League](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
    + Adobe Analytics {#aa}
       + [Adobe 고객 성공 웨비나](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html)
+      + [데이터 드립](https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html)
       + [Experience Cloud 기술 세션](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [라이브 Experience League](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [동료로부터 학습](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
@@ -64,6 +65,7 @@ ht-degree: 10%
       + [Adobe Commerce 제품 업데이트](https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html)
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [APAC Commerce 이벤트](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
+      + [숨은 단계](https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html)
       + [Commerce 및 커피](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
       + [Experience Cloud 기술 세션](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [스킬 빌더](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
@@ -74,6 +76,7 @@ ht-degree: 10%
       + [Adobe 컨텐츠 관리 포럼](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [AEM 챔피언 운영 시간](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
+      + [에스프레소 및 Experience Manager](https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html)
       + [Experience Cloud 기술 세션](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [라이브 Experience League](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [GEMS Experience Manager](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
@@ -111,4 +114,5 @@ ht-degree: 10%
       + [Experience Cloud 기술 세션](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [동료로부터 학습](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
       + [스킬 교환](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
+      + [Workfront으로 절전 모드 해제](https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html)
       + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
