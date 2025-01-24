@@ -2,9 +2,9 @@
 user-guide-title: Adobe Experience League 이벤트 레코딩
 user-guide-breadcrumb: Event Recordings
 user-guide-description: Adobe 엔터프라이즈 제품 사용에 초점을 맞춘 이벤트 녹화본 컬렉션
-source-git-commit: 27358919021fbca757879bbb8ed9667bd973578f
+source-git-commit: 766c04837f2ccf65813d93bed7d57522a4e17be3
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '438'
 ht-degree: 10%
 
 ---
@@ -36,6 +36,7 @@ ht-degree: 10%
    + [GenStudio for Performance Marketing 이벤트](https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html)
    + [동료로부터 학습](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
    + [Marketo 및 Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
+   + [Marketo 챔피언 운영 시간](https://experienceleague.adobe.com/docs/events/marketo-champion-office-hours/overview.html)
    + [스킬 빌더](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + [스킬 교환](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + [Workfront으로 절전 모드 해제](https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html)
@@ -96,6 +97,7 @@ ht-degree: 10%
       + [Experience Cloud 기술 세션](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [동료로부터 학습](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
       + [Marketo 및 Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
+      + [Marketo 챔피언 운영 시간](https://experienceleague.adobe.com/docs/events/marketo-champion-office-hours/overview.html)
       + [스킬 빌더](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
       + [스킬 교환](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + Adobe Journey Optimizer {#ajo}
