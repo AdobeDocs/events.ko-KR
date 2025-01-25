@@ -2,7 +2,7 @@
 user-guide-title: Experience Cloud 기술 세션
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloud 기술 세션은 솔루션별 웨비나를 제공하여 사례 변경에 대한 사전 예방적 접근 방식입니다.
-source-git-commit: b6f18d1a7adb683886bd08ad86998e619be24c29
+source-git-commit: 852eec6eccb1cf5cf99d73ffcd635f55fed846cf
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 15%
@@ -43,5 +43,3 @@ ht-degree: 15%
    + Workfront {#workfront-office-hours}
       + [중복 연락처 수정](2023/workfront-fix-duplicate-contacts.md)
       + [증명 승인 보고서](2023/workfront-proof-approval-reports.md)
-
-

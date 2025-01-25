@@ -9,16 +9,18 @@ event-background-image: exl-event-data-drip.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 46f5e599ad9648498972898731f64f3c24d92c43
+source-git-commit: 852eec6eccb1cf5cf99d73ffcd635f55fed846cf
 workflow-type: tm+mt
-source-wordcount: '14'
-ht-degree: 7%
+source-wordcount: '23'
+ht-degree: 0%
 
 ---
 
 
 # 데이터 드립 {#data-drip-recordings}
 
-+ [개요](overview.md)
-+ 데이터 드립 {#data-drip}
++ [데이터 드립](overview.md)
++ 2025년 {#2025}
+   + [Adobe Analytics 기본 사항 및 그 이상](2025/adobe-analytics-basics-beyond.md)
+   + [마케팅 채널 및 속성 모델링](2025/marketing-channel-attribution-modeling.md)
 

@@ -9,15 +9,20 @@ event-background-image: exl-event-wake-up-with-workfront.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 46f5e599ad9648498972898731f64f3c24d92c43
+solution: Workfront
+source-git-commit: 852eec6eccb1cf5cf99d73ffcd635f55fed846cf
 workflow-type: tm+mt
-source-wordcount: '21'
-ht-degree: 4%
+source-wordcount: '36'
+ht-degree: 0%
 
 ---
 
 
 # Workfront과 함께 일어나기 {#wake-up-with-workfront-recordings}
 
-+ [개요](overview.md)
-+ Workfront {#wake-up-with-workfront}(으)로 절전 모드 해제
++ [Workfront과 함께 일어나기](overview.md)
++ 2025년 {#2025}
+   + [무엇이든 묻기](2025/ask-me-anything.md)
+   + [Workfront Fusion으로 생산성 극대화](2025/maximize-productivity.md)
+   + [환경 최적화 및 유지 관리](2025/optimize-maintain-environment.md)
+   + [리소스 관리](2025/resource-management.md)
