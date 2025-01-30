@@ -1,23 +1,23 @@
 ---
-title: Adobe Analytics 및 Customer Journey Analytics에서 순차적 논리 마스터하기
-description: Andy Poweres의 세션에서 다룬 바와 같이 기본 측면, 실제 예 및 비즈니스 애플리케이션을 사용하는 Customer Journey Analytics(CJA)의 기본 순차적 논리 및 분석.
+title: Adobe Analytics 및 Customer Journey Analytics의 순차적 논리 마스터링 - 기초
+description: Andy Powers의 세션에서 다룬 바와 같이 기본 측면, 실제 예제 및 비즈니스 애플리케이션을 포함하는 AA 및 CJA의 기본 순차적 세그먼테이션 및 필터.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3259
 last-substantial-update: 2025-01-15T00:00:00Z
 jira: KT-17125
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+exl-id: db84e4aa-2585-4a08-8e85-bbf67419cc24
+source-git-commit: eba128e9c55c6f22e172b2700dae34dfbd2c16b3
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
-
 # AA 및 CJA에서 순차적 논리 마스터하기: 기초
 
-Adobe Analytics 및 Customer Journey Analytics의 THEN 및 관련 순차적 논리 연산자에 대한 기본 사항을 이해합니다. 순차적 논리는 Adobe Analytics 및 Customer Journey Analytics에서 높은 가치를 분석할 수 있지만, 활용도가 낮아 종종 오해를 받습니다. 이 웨비나는 Analysis Workspace에서 이러한 운영자가 어떻게 평가되는지에 대한 기반을 구축할 것입니다.
+Adobe Analytics(순차적 세그먼트) 및 Customer Journey Analytics(순차적 필터)의 THEN 및 관련 순차적 논리 연산자를 기본적으로 이해합니다. 순차적 논리는 Adobe Analytics 및 Customer Journey Analytics에서 높은 가치를 분석할 수 있지만, 활용도가 낮아 종종 오해를 받습니다. 이 웨비나는 Analysis Workspace에서 이러한 운영자가 어떻게 평가되는지에 대한 기반을 구축할 것입니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442925/?learn=on&enablevpops)
 
