@@ -2,9 +2,9 @@
 user-guide-title: Adobe Experience Manager GEMS 이벤트
 user-guide-description: Adobe Experience Manager 전문가가 제공하는 일련의 기술적인 분석인 AEM Gems에 대해 알아봅니다.
 breadcrumb-title: AEM GEM 이벤트
-source-git-commit: d76e08a224c8416bbe79a0fc82d2cb9937b2827e
+source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '759'
 ht-degree: 1%
 
 ---
@@ -13,7 +13,9 @@ ht-degree: 1%
 # GEMS 이벤트 Experience Manager {#experience-manager-gems-recordings}
 
 + [개요](overview.md)
-+ 2024 {#gems2024}
++ 2025년 {#gems2025}
+   + [Adobe Managed CDN 시작하기](gems2025/getting-started-adobe-managed-cdn.md)
++ 2024년 {#gems2024}
    + [AEM Sites의 기능 잠금 해제 - 콘텐츠 관리 API 기본](gems2024/content-management-apis.md)
    + [AEM용 신속한 개발 환경의 새로운 기능](gems2024/rapid-development-environment-news.md)
    + [AEM Assets과 Edge Delivery Services 통합](gems2024/edge-delivery-for-aem-assets.md)
@@ -22,12 +24,12 @@ ht-degree: 1%
    + [AEM Forms용 Edge Delivery Services 시작하기](gems2024/edge-delivery-for-aem-forms.md)
    + [AEM 제작 및 Edge Delivery Services 시작](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
    + [Adobe Commerce에서 Edge Delivery Services에 대한 상점 만들기](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
-+ 2023 {#gems2023}
++ 2023년 {#gems2023}
    + [AEM as a Cloud Service용 New Relic APM](gems2023/newrelic-apm-for-aem-cloud-service.md)
    + [AEM 인증 - 기술](gems2023/aem-certification-technical.md)
    + [신속한 개발을 통한 Experience Manager as a Cloud Service 개발 가속화](/help/experience-manager-gems/gems2023/rapid-development-environments.md)
    + [On-Premise 및 AMS 환경을 위한 AEM Best Practices Analyzer](gems2023/aem-best-practices-analyzer.md)
-+ 2022 {#gems2022}
++ 2022년 {#gems2022}
    + [고객 사용 사례 및 사용 중인 AEM Headless 구현](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [자세히 살펴보기 - Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
    + [AEM 및 CIF 프레임워크를 통합하여 풍부하고 매력적인 전자 상거래 경험 구축](gems2022/aem-and-cif-framework-integration.md)
@@ -45,7 +47,7 @@ ht-degree: 1%
 + 2018 {#gems2018}
    + [Adobe Experience Manager 6.4에 대해 자세히 알아보기](gems2018/aem-6-4-technical-sneak-peek.md)
    + [Adobe Experience Platform - Experience Cloud의 중심](gems2018/aem-acp.md)
-   + [실시간 및 경량: Adobe I/O 이벤트를 사용하여 AEM과 이벤트 기반 통합 구축](gems2018/aem-adobe-io.md)
+   + [실시간 및 경량: Adobe I/O Events을 사용하여 AEM과 이벤트 기반 통합 구축](gems2018/aem-adobe-io.md)
    + [Adobe Developer(IO) 이벤트 - Analytics 트리거](gems2018/aem-analytics-triggers.md)
    + [AEM Author 확장성의 실험](gems2018/aem-author-scalability1.md)
    + [AEM 핵심 구성 요소](gems2018/aem-core-components.md)
@@ -56,8 +58,8 @@ ht-degree: 1%
    + [AEM 쿼리 및 인덱스 문제 해결(계속)](gems2018/aem-query-and-index-troubleshooting2.md)
    + [AEM SPA 편집기](gems2018/aem-spa-editor.md)
    + [Solr as a Oak index for AEM](gems2018/solr-as-an-oak-index-for-aem.md)
-   + [SPA Editor SDK 심층 분석 - 1부 - react](gems2018/spa-editor-sdk-deep-dive-react.md)
-   + [SPA Editor SDK 심층 분석 - 2부 - angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
+   + [SPA 편집기 SDK 심층 분석 - 1부 - react](gems2018/spa-editor-sdk-deep-dive-react.md)
+   + [SPA 편집기 SDK 심층 분석 - 2부 - angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
    + [AEM에서 OSGi R7 사용](gems2018/using-osgi-r7-in-aem.md)
 + 2017 {#gems2017}
    + [자산 공유에 대한 주요 Brand Portal 릴리스 및 새로운 참조 구현](gems2017/aem-brand-portal.md)
