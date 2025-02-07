@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 2abf56d9dea80f750aa77b002ede38e9d2aa96cb
+source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '175'
 ht-degree: 3%
 
 ---
@@ -25,11 +25,16 @@ Experience League 라이브는 Experience League 팀이 제작하는 라이브 �
 
 <table>
 <tr>
-
-<td style="vertical-align: top;">
-    예정된 Experience League LIVE 에피소드를 보려면 이 페이지로 곧 돌아오십시오!
-    </br>
-    이 페이지의 왼쪽에 있는 목차에서 이전 에피소드를 선택합니다.
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-27-25.md">
+      <img alt="Experience League 라이브 2월 27일" src="episodes/assets/WebBanner-02-27-25.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-02-27-25.md">
+        <strong>Adobe Experience Platform에서 AI Assistant를 사용하여 운영 인사이트 잠금 해제</strong>
+      </a>
+      <br/><em>Rudi Shumpert, Namita Krishnan 및 Huong Vu와 함께</em>
+      <br/><em>2025년 2월 27일</em>
+    </div>
   </td>
 </tr>
 </table>
@@ -70,7 +75,7 @@ Experience League 라이브는 Experience League 팀이 제작하는 라이브 �
       <img alt="Experience League LIVE ep8" src="episodes/assets/WebBanner-May16-2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-05-16-24.md"><strong>Analytics를 Web SDK로 마이그레이션하는 방법</strong></a>
+      <a href="episodes/exl-live-episode-05-16-24.md"><strong>Analytics를 웹 SDK으로 마이그레이션하는 방법</strong></a>
       <br/><em>Mitch Rice, Joe Koury 및 Doug Moore와 함께</em>
       <br/><em>2024년 5월 16일</em>
     </div>

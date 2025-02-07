@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
+source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '505'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [개요](overview.md)
 + 에피소드 {#episodes}
+   + [Ep. 44: Adobe Experience Platform에서 AI Assistant를 사용하여 운영 인사이트 확보](episodes/exl-live-episode-02-27-25.md)
    + [Ep. 43: Real-Time CDP에서 마케터를 위한 Audiences용 AI Assistant 소개](episodes/exl-live-episode-11-13-24.md)
    + [Ep. 42: Adobe Journey Optimizer용 컨텐츠 카드 공개](episodes/exl-live-episode-10-30-24.md)
    + [Ep. 41: Experience Platform에서 Federated Audience Composition을 사용하여 대상 조화](episodes/exl-live-episode-40-2024-10-24.md)
@@ -28,7 +29,7 @@ ht-degree: 4%
    + [Ep. 39: 모바일 분석 앱을 업그레이드할 준비가 되셨습니까?](episodes/exl-live-episode-09-18-24.md)
    + [Ep. 38: Summer Spotlight - Adobe Journey Optimizer에서 세 가지 기능을 시도해야 함](episodes/exl-live-episode-08-28-24.md)
    + [Ep. 37: 최신 Adobe Real-Time CDP 릴리스가 비즈니스에 바늘을 옮기는 방법](episodes/exl-live-episode-06-26-24.md)
-   + [Ep. 36: 이렇게 하면 Analytics를 웹 SDK로 마이그레이션할 수 있습니다](episodes/exl-live-episode-05-16-24.md)
+   + [Ep. 36: 이렇게 하면 Analytics를 웹 SDK으로 마이그레이션할 수 있습니다.](episodes/exl-live-episode-05-16-24.md)
    + [Ep. 35: Journey Optimizer의 새로운 코드 기반 경험 채널](episodes/exl-live-episode-04-24-24.md)
    + [Ep. 34: Marketo Measure의 새로운 검색 대시보드](episodes/exl-live-episode-04-18-24.md)
    + [Ep. 33: 새로운 Adobe Campaign v8 UI로 한 단계 도약](episodes/exl-live-episode-02-29-24.md)
@@ -51,7 +52,7 @@ ht-degree: 4%
    + [Ep. 16: 전문가에게 문의 - Tags(Launch)의 유용한 확장 기능으로 웹 SDK 슈퍼 차지](episodes/exl-live-episode-08-23-22.md)
    + [Ep. 15: 전문가에게 문의 - 데이터스트림 및 데이터 준비](episodes/exl-live-episode-07-21-22.md)
    + [Ep. 14: 전문가에게 문의 - RTCDP 연결](episodes/exl-live-episode-06-23-22.md)
-   + [Ep. 13: 전문가에게 문의 - Web SDK 기본 사항](episodes/exl-live-episode-05-26-22.md)
+   + [Ep. 13: 전문가에게 문의 - 웹 SDK 기본 사항](episodes/exl-live-episode-05-26-22.md)
    + [Ep. 12: Journey Optimizer을 사용한 푸시 알림](episodes/exl-live-episode-05-12-22.md)
    + [Ep. 11: AAM 및 Real-Time CDP - 이러한 대상을 어떻게 처리합니까?](episodes/exl-live-episode-04-28-22.md)
    + [Ep. 10: AEM의 Headful에서 Headless까지(그리고 그 사이의 모든 것)](episodes/exl-live-episode-04-21-22.md)
