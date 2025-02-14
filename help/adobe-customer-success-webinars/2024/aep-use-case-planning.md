@@ -1,6 +1,6 @@
 ---
 title: 비전에서 값까지 - AEP 사용 사례 계획
-description: 비즈니스 성과 및 KPI에 맞는 명확한 목표와 성공 요인으로 전략을 정의하고, 실현 가능한 가치 실현을 위한 로드맵을 알리고, Adobe 솔루션 기능을 효과적으로 활용하여 효과적인 고객 경험을 제공하는 방법에 대해 알아봅니다.
+description: AEP 사용 사례 계획 세션은 가치 매핑, 전략 정렬 및 KPI를 통한 비즈니스 가치 극대화를 다룹니다. 조직이 비즈니스 결과에 따라 목표를 조정하고 Adobe 솔루션을 활용하여 효과적인 고객 경험을 제공할 수 있도록 지원합니다.
 solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -9,9 +9,9 @@ duration: 3022
 last-substantial-update: 2024-08-26T00:00:00Z
 jira: KT-16038
 exl-id: 1d30c85d-3e78-4cc1-94f5-0a5b63d20ab2
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '167'
 ht-degree: 1%
 
 ---

@@ -1,23 +1,23 @@
 ---
 title: Adobe Admin Console 마스터링
-description: Adobe Admin Console은 Adobe 엔터프라이즈 솔루션 관리를 위한 중앙 집중식 플랫폼으로, 사용자 및 라이선스 관리, 보안 및 규정 준수 기능, 지원 리소스, 관리자 역할, 확장을 위한 모범 사례, 간소화된 운영을 위한 다양한 시스템과의 통합을 제공합니다.
+description: Adobe Admin Console은 Adobe 엔터프라이즈 솔루션 관리를 위한 중앙 집중식 플랫폼으로, 사용자 및 제품 관리, 보안 및 규정 준수 기능, 지원 리소스 및 확장 가능한 Best Practice를 조직에 제공합니다.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 2767
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16630
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+exl-id: 2a604f0f-d422-4a7d-8e72-bd38dfca7bf0
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Admin Console 마스터링
 
-이 웨비나는 Adobe Experience Platform용 Adobe Admin Console 탐색에 대한 포괄적인 개요를 제공합니다. Admin Console의 주요 기능과 다른 Adobe 솔루션과의 통합을 살펴볼 것입니다. 또한 사용자 기반이 확장됨에 따라 Admin Console 작업을 조정하기 위한 모범 사례에 대해 설명하고 사용자 동기화 도구에 대한 개요를 제공합니다.
+이 웨비나는 Adobe Experience Platform용 Adobe Admin Console 탐색에 대한 포괄적인 개요를 제공합니다. Admin Console의 주요 기능과 다른 Adobe 솔루션과의 통합을 살펴볼 것입니다. 또한 사용자 기반이 확장됨에 따라 Admin Console 작업을 확장하기 위한 모범 사례에 대해 설명하고 사용자 동기화 도구에 대한 개요를 제공합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440937/?learn=on&enablevpops)
 
@@ -43,6 +43,6 @@ ht-degree: 0%
 
 * **구성 및 관리** 콘솔은 개인 정보, 보안, ID, 자산 공유, 인증 및 암호화 설정에 대한 다양한 구성을 지원합니다.
 
-* **검토 및 승인 프로세스** Global Admin Console을 변경하려면 검토 및 승인 프로세스를 영구화해야 합니다.
+* Global Admin Console에서 **검토 및 승인 프로세스**&#x200B;를 변경하려면 검토 및 승인 프로세스를 영구화해야 합니다.
 
 * **지원 및 리소스** 추가 지원을 받으려면 기술 계정 관리자 또는 고객 성공 관리자에게 문의하십시오.

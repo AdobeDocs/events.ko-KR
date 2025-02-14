@@ -1,6 +1,6 @@
 ---
-title: AEM 기본 사항 AEM 작성 소개 주요 개념 및 기능
-description: AEM이 기존 웹 페이지에서 headless CMS 설정에 이르기까지 다양한 콘텐츠 작성 방법을 지원하는 강력하고 유연한 작성 환경을 제공하는 방법을 알아봅니다.주요 토론 지점:범용 편집기를 포함한 작성콘텐츠 조각협업 기능
+title: AEM 기본 사항 AEM 소개 주요 개념 및 기능 작성
+description: AEM 작성 기본 사항 세션에서는 주요 개념, 이중 환경 모델, 콘텐츠 작성 문제, 작성 도구, 공동 작업 및 번역 기능, 에지 전달 서비스에 대해 다룹니다.
 solution: Experience Manager
 version: Cloud Service
 role: Admin, Developer, Leader, User
@@ -9,15 +9,15 @@ doc-type: Event
 duration: 3248
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16416
-source-git-commit: 3f245f71cd4db5097b5a9e712114112451d899e4
+exl-id: 5966c14a-7adb-48d8-bf20-9fb4a350745f
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '315'
 ht-degree: 1%
 
 ---
 
-
-# AEM 기본 사항 AEM 작성 소개 주요 개념 및 기능
+# AEM 기본 사항 AEM 소개 주요 개념 및 기능 작성
 
 AEM이 기존 웹 페이지에서 Headless CMS 설정에 이르기까지 다양한 콘텐츠 작성 방법을 지원하는 강력하고 유연한 작성 환경을 제공하는 방법을 알아봅니다.
 
@@ -37,7 +37,7 @@ AEM이 기존 웹 페이지에서 Headless CMS 설정에 이르기까지 다양�
 
 ### AEM 작성 모델
 
-작성 환경(콘텐츠 만들기, 편집 및 검토)과 게시 환경(콘텐츠가 라이브로 만들어지고 최종 사용자가 액세스할 수 있는 곳)을 포함하는 AEM의 이중 환경 모델 이해.
+작성 환경(콘텐츠 만들기, 편집 및 검토)과 게시 환경(콘텐츠가 라이브로 만들어지고 최종 사용자가 액세스할 수 있는 곳)을 포함하는 AEM의 이중 환경 모델을 이해합니다.
 
 ### 콘텐츠 제작 관련 문제
 
@@ -50,7 +50,7 @@ AEM 내의 다양한 작성 도구 개요,
 * **페이지 편집기** 웹 페이지를 만들고 편집하기 위한 기존 WYSIWYG 편집기입니다. &#x200B;
 * **콘텐츠 조각 편집기** 다른 채널에서 재사용할 수 있는 Headless 콘텐츠를 만들기 위한 것입니다. &#x200B;
 * **범용 편집기** AEM 콘텐츠와 적절하게 계측된 외부 콘텐츠를 모두 지원하는 콘텐츠 작성을 위한 최신 UI입니다. &#x200B;
-* **문서 기반 작성** AEM 워크플로와 통합된 Microsoft Word 또는 Google 문서와 같은 친숙한 도구를 사용하여 콘텐츠를 만들 수 있습니다. &#x200B;
+* **문서 기반 작성** AEM 워크플로와 통합된 Microsoft Word 또는 Google Docs과 같은 친숙한 도구를 사용하여 콘텐츠를 만들 수 있습니다. &#x200B;
 
 ### 공동 작업 기능
 
@@ -62,4 +62,4 @@ AEM은 번역 워크플로, 언어 사본, 현지화 도구, 여러 사이트 �
 
 ### Edge Delivery Services
 
-컨텐츠 작성 및 게시 프로세스를 향상시키는 AEM Cloud의 일부로 Edge Delivery 서비스에 대해 언급하십시오.
+컨텐츠 작성 및 게시 프로세스를 향상시키는 AEM Cloud의 일부로 Edge Delivery 서비스에 대해 언급합니다.

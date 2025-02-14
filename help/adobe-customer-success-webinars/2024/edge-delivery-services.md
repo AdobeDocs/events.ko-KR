@@ -1,6 +1,6 @@
 ---
 title: 컨텐츠 전달 최적화 - Edge 서비스의 강력한 기능 잠금 해제
-description: ATM Edge Delivery Services(EDS)는 컴포저블 서비스, 빠른 개발 주기, 높은 등대 점수를 통해 ATM 기능을 향상시켜 문서 기반 및 WYSIWYG 작성, 서버리스 아키텍처, 빠른 사이트 생성 및 광범위한 사용자 지정 옵션을 지원합니다.
+description: EDS(Edge Delivery Services) 세션에서는 아키텍처, 문서 기반 및 AEM 기반 작성과의 통합, 빠른 사이트 생성, 맞춤화 옵션, 고성능 유지 관리 모범 사례에 대해 다룹니다.
 solution: Experience Manager, Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 role: Admin, Developer, Leader, User
@@ -9,17 +9,17 @@ doc-type: Event
 duration: 3589
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16631
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+exl-id: 2057e491-9ec3-4bfe-b85a-6b74d70822bf
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
-
 # 컨텐츠 전달 최적화: Edge 서비스의 강력한 기능 잠금 해제
 
-이 세션에서는 EDS(Edge Delivery Services) 및 해당 아키텍처에 대한 개요를 제공합니다. EDS가 유니버설 편집기를 통해 문서 기반 작성 및 AEM 기반 작성과 어떻게 통합되는지 살펴보겠습니다. 라이브 데모에서는 EDS를 실제로 시연하며 이후 추가 탐색 및 Q&amp;A 세션을 위한 리소스를 소개합니다.
+이 세션에서는 EDS(Edge Delivery Services)와 그 아키텍처에 대한 개요를 제공합니다. EDS가 유니버설 편집기를 통해 문서 기반 작성 및 AEM 기반 작성과 어떻게 통합되는지 살펴보겠습니다. 라이브 데모에서는 EDS를 실제로 시연하며 이후 추가 탐색 및 Q&amp;A 세션을 위한 리소스를 소개합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440938/?learn=on&enablevpops)
 
@@ -32,8 +32,8 @@ ht-degree: 0%
 
 ### 작성 옵션
 
-* **문서 기반 작성** 콘텐츠 작성을 위해 Microsoft Word 또는 Google Docs와 같은 익숙한 도구를 사용하므로 광범위한 교육 없이 빠른 콘텐츠 작성이 가능합니다. &#x200B;
-* **범용 편집기**&#x200B;는 기존 ATM 사이트와 유사한 WYSIWYG 인터페이스를 제공하여 보다 상세하고 시각적인 콘텐츠 작성을 가능하게 합니다. &#x200B;
+* **문서 기반 작성** 콘텐츠를 만들 때 Microsoft Word 또는 Google Docs과 같은 익숙한 도구를 사용하므로 광범위한 교육 없이도 빠른 콘텐츠 작성이 가능합니다. &#x200B;
+* **범용 편집기** 기존 ATM 사이트와 유사한 WYSIWYG 인터페이스를 제공하여 보다 세밀하고 시각적인 콘텐츠 작성을 가능하게 합니다. &#x200B;
 
 ### 아키텍처
 
@@ -65,4 +65,4 @@ ht-degree: 0%
 ### 지원 및 설명서
 
 * 설정 및 사용자 지정 프로세스를 안내하는 포괄적인 설명서를 사용할 수 있습니다. &#x200B;
-* 사용자는 해결되지 않은 문제에 대한 Adobe 지원에 문의하는 것이 좋습니다. &#x200B;
+* 해결되지 않은 문제는 사용자가 Adobe 지원 팀에 문의하는 것이 좋습니다. &#x200B;

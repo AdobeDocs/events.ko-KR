@@ -1,6 +1,6 @@
 ---
 title: Adobe Analytics 및 CJA Quick Start - 기본 - 중간 분석 기능
-description: Kirsten Schaffer 박사가 이끄는 "Quickstart for Basic Intermediate Analysis Capabilities" 세션에서는 강력한 분석 기능, 거버넌스 및 분석 경로 설정, Adobe Analytics과 Customer Journey Analytics 비교, 분석 유형에 대한 논의 및 데이터 보고를 위한 단일 소스 중요성에 대한 강조를 다룹니다.
+description: 이 세션에서는 분석 기능 설정, Adobe Analytics 및 Customer Journey Analytics 비교 및 마케팅 보고서에 대한 주요 기능에 대해 다룹니다.
 solution: Customer Journey Analytics, Analytics
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,17 +8,17 @@ doc-type: Event
 duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '448'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Analytics 및 CJA: 기본 - 중간 분석 기능에 대한 빠른 시작
 
-데이터 기반 결정으로 마케팅 활동을 지원하기 위한 Adobe Analytics 및 Customer Journey Analytics(CJA)를 빠르게 시작하는 방법에 대해 알아봅니다. 강력한 분석 기능을 위해 조직을 설정하는 방법, 어느 분석 솔루션을 가장 잘 사용할 시기를 이해하는 방법, 주요 마케팅 보고서를 작성하기 위해 Analytics 및 CJA 기능을 분석 완성도 수준에 매핑하는 방법에 대해 알아봅니다.
+Adobe Analytics 및 Customer Journey Analytics(CJA)를 빠르게 시작하여 데이터 기반 결정으로 마케팅 활동을 지원하는 방법에 대해 알아봅니다. 강력한 분석 기능을 위해 조직을 설정하는 방법, 어떤 분석 솔루션을 가장 잘 사용할 시기를 이해하고, 주요 마케팅 보고서를 작성하기 위해 Analytics 및 CJA 기능을 분석 완성도 수준에 매핑하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440933/?learn=on&enablevpops)
 
@@ -40,7 +40,7 @@ ht-degree: 0%
    * 시장 변화, 개인 정보 및 거버넌스, 데이터 민주주의, 데이터 복잡성 등 디지털 분석에 영향을 미치는 **외부 및 내부 인력**.
    * **강력한 분석 기반 구축** 측정 전략, 데이터 수집, 통찰력 및 분석, 학습, 데이터 거버넌스
    * **Digital Analytics 팀 설정** 역할 및 책임, 하이브리드 팀 만들기 및 분석 요청을 효율적으로 관리합니다.
-   * **Adobe 지원 옵션** Experience League, 온디맨드 과정, 트레이너 기반 클래스, 커뮤니티 지원
+   * **Adobe 지원 옵션** Experience League, 주문형 과정, 트레이너 기반 클래스, 커뮤니티 지원.
 
 * **Adobe Analytics과 CGA(Customer Journey Analytics) 비교**
    * Adobe Analytics은 디지털 분석의 기본입니다.
@@ -61,5 +61,5 @@ ht-degree: 0%
 * **Q&amp;A 하이라이트**
    * 구성 요소 및 정적 데이터 스키마에 대한 설명입니다.
    * 오프라인 데이터에 대한 설명입니다.
-   * Adobe Analytics에서 CGA로 마이그레이션하기 위한 Recommendations.
+   * Adobe Analytics에서 CGA로의 마이그레이션에 대한 권장 사항입니다.
    * 데이터 보고를 위한 단일 소스 정의의 중요성.

@@ -1,6 +1,6 @@
 ---
 title: AEM Sites 효율성 - 성능 최적화, 구성 및 문제 해결
-description: 이 세션에서는 성능 문제, 복잡한 구성 및 사용자 권한에 대한 실용적인 실습 솔루션에 중점을 둔 Adobe Experience Manager(AEM) Sites의 필수 문제 해결 기술을 다룹니다.
+description: AMP 사이트 효율성에 대한 웨비나에서는 성능 최적화, Dispatcher 구성, 권한 관리 모범 사례 및 성능 문제 해결 전략에 대해 다룹니다.
 solution: Experience Manager
 version: Cloud Service
 role: Admin, Developer, Leader, User
@@ -10,16 +10,16 @@ duration: 3452
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16353
 exl-id: 55f7c1d8-7c2c-4392-894a-2aa9b3cc0e4a
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
 # AEM Sites 효율성: 성능 최적화, 구성 및 문제 해결
 
-이 웨비나에서는 Adobe Experience Manager(AEM) Sites 문제 해결의 필수 사항에 대해 알아봅니다. 성능 문제에 직면하거나 복잡한 구성을 처리하는 경우 이 세션은 AEM 환경을 유지 관리하고 최적화하는 실용적인 기술을 제공합니다. 슬라이드보다는 라이브 데모를 우선시하며 실제 문제를 해결하는 데 실무 경험을 제공합니다&#x200B;.
+이 웨비나에서는 Adobe Experience Manager(AEM) 사이트 문제 해결의 필수 사항에 대해 알아봅니다. 성능 문제에 직면하거나 복잡한 구성을 처리하는 경우 이 세션은 AEM 환경을 유지 관리하고 최적화하는 실용적인 기술을 제공합니다. 슬라이드보다는 라이브 데모를 우선시하며 실제 문제를 해결하는 데 실무 경험을 제공합니다&#x200B;.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435114/?learn=on)
 
