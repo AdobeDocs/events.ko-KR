@@ -1,5 +1,5 @@
 ---
-title: 라이브 이벤트 Experience League
+title: Experience League 라이브 이벤트
 description: 이전 Experience League 라이브 이벤트에 대한 링크 컬렉션
 solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
+source-git-commit: 6201fd942b87ec5e094a90c314d30dcb38a2b278
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 3%
@@ -17,22 +17,22 @@ ht-degree: 3%
 
 # Experience League LIVE
 
-Experience League 라이브는 Experience League 팀이 제작하는 라이브 스트리밍 쇼입니다.  Adobe 제품 전문가를 만나고 Adobe Experience Cloud 애플리케이션에 적용할 수 있는 유용한 팁, 요령 및 전략을 배울 수 있는 기회입니다.
+Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트리밍 쇼입니다.  Adobe 제품 전문가를 만나고 Adobe Experience Cloud 애플리케이션에 적용할 수 있는 유용한 팁, 요령 및 전략을 배울 수 있는 기회입니다.
 
 <div id="upcoming-events">
 
-## 예정된 Experience League 라이브 이벤트
+## 예정된 Experience League LIVE 이벤트
 
 <table>
 <tr>
 <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-27-25.md">
-      <img alt="Experience League 라이브 2월 27일" src="episodes/assets/WebBanner-02-27-25.jpg">
+      <img alt="Experience League LIVE 2월 27일" src="episodes/assets/WebBanner-Feb-27-2025.png">
     </a>
     <div>
       <a href="episodes/exl-live-episode-02-27-25.md">
         <strong>Adobe Experience Platform에서 AI Assistant를 사용하여 운영 인사이트 잠금 해제</strong>
       </a>
-      <br/><em>Rudi Shumpert, Namita Krishnan 및 Huong Vu와 함께</em>
+      <br/><em>다니엘 라이트, 나미타 크리쉬난, 후옹 뷰(Huong Vu)</em>
       <br/><em>2025년 2월 27일</em>
     </div>
   </td>
