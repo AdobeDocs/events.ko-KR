@@ -2,9 +2,9 @@
 user-guide-title: Adobe 고객 성공 웨비나
 breadcrumb-title: Adobe 고객 성공 웨비나
 user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: 4a4822129ced9ee1bd11374a637c09ff7f95d61f
+source-git-commit: 5d4308bd92d8285e2380725ad72e341319347cc4
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 0%
 
 + [Adobe 고객 성공 웨비나](overview.md)
 + 2025년 {#2025}
+   + [콘텐츠 공급망 기본 사항](2025/content-supply-chain-basics.md)
+   + [효과적인 측정을 위한 공작 전략](2025/impactful-insights.md)
    + [고객 참여 유도](2025/driving-customer-engagement.md)
    + [Personalization 및 데이터를 통한 로열티 프로그램 강화](2025/enhance-loyalty-programs.md)
    + [순차 논리 마스터링](2025/mastering-sequential-logic.md)
@@ -35,17 +37,17 @@ ht-degree: 0%
    + [Expedia가 Adobe Analytics에서 Customer Journey Analytics으로 이동](2024/expedia-aa-to-cja.md)
    + [Workfront 시스템 및 그룹 관리 후견의 기본 사항](2024/workfront-admin-guardianship.md)
    + [Adobe Journey Optimizer Analysis 시작하기](2024/getting-started-ajo-analysis.md)
-   + [Real-time Customer Data Platform 시작하기](2024/getting-started-rtcdp.md)
+   + [Real-Time Customer Data Platform 시작하기](2024/getting-started-rtcdp.md)
    + [고객 경험을 위한 AI 활용](2024/ai-customer-experience.md)
    + [개인화 과잉](2024/hyperpersonalization.md)
    + [Journey Optimizer Mobile 기능](2024/journey-optimizer-mobile-capabilities.md)
-   + [Lean 팀 및 Customer Journey Analytics](2024/lean-teams-cja.md)
+   + [린 팀 및 Customer Journey Analytics](2024/lean-teams-cja.md)
    + [Adobe Admin Console 마스터링](2024/adobe-admin-console.md)
    + [쿠키 및 데이터 개인 정보 보호 마스터링](2024/mastering-cookies-data-privacy.md)
    + [순차 논리 마스터링](2024/sequential-logic.md)
    + [콘텐츠 공급망에 대한 조직의 준비](2024/organizational-readiness-content-supply-chain.md)
-   + [Real-time Customer Data Platform 및 Marketo 통합](2024/aep-marketo-integration.md)
-   + [Real-time Customer Data Platform 마이그레이션 준비](2024/rtcdp-migration-readiness.md)
+   + [Real-Time Customer Data Platform 및 Marketo 통합](2024/aep-marketo-integration.md)
+   + [실시간 고객 데이터 플랫폼 마이그레이션 준비](2024/rtcdp-migration-readiness.md)
    + [전략적 리더십](2024/strategic-leadership.md)
    + [인증 간소화](2024/streamline-authentication.md)
    + [Target Personalization](2024/target-personalization.md)
@@ -59,7 +61,7 @@ ht-degree: 0%
    + [변경 관리](2023/change-management.md)
    + [컨텐츠 및 경험 - Personalization](2023/content-experiences-personalization.md)
    + [Customer Journey Analytics 마이그레이션 준비](2023/cja-migration-readiness.md)
-   + [Customer Journey Analytics 통합 Essentials](2023/cja-integration-essentials.md)
+   + [Customer Journey Analytics Integration Essentials](2023/cja-integration-essentials.md)
    + [실시간 데이터 수집 및 활성화 전략 개발](2023/data-collection-activation-strategy.md)
    + [효과적인 측정 전략](2023/measurement-strategy.md)
    + [Campaign 오케스트레이션을 위한 기본 전략](2023/foundational-strategy-campaign.md)
