@@ -2,9 +2,9 @@
 user-guide-title: Adobe 고객 성공 웨비나
 breadcrumb-title: Adobe 고객 성공 웨비나
 user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: 5d4308bd92d8285e2380725ad72e341319347cc4
+source-git-commit: 2cf84ad56c96ca9e1355aa50e60d3f15124fc5bc
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,14 @@ ht-degree: 0%
 
 + [Adobe 고객 성공 웨비나](overview.md)
 + 2025년 {#2025}
+   + [Adobe Digital Insights](2025/adobe-digital-insights.md)
+   + [효과적인 웹 페이지 구축](2025/build-effective-web-pages.md)
    + [콘텐츠 공급망 기본 사항](2025/content-supply-chain-basics.md)
    + [효과적인 측정을 위한 공작 전략](2025/impactful-insights.md)
    + [고객 참여 유도](2025/driving-customer-engagement.md)
    + [Personalization 및 데이터를 통한 로열티 프로그램 강화](2025/enhance-loyalty-programs.md)
+   + [Personalization 향상](2025/enhancing-personalization.md)
+   + [GenStudio for Performance Marketing 운영 모델](2025/genstudio-for-performance-marketing-operating-model.md)
    + [순차 논리 마스터링](2025/mastering-sequential-logic.md)
 + 2024년 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
