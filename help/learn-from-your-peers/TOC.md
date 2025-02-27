@@ -1,10 +1,10 @@
 ---
-user-guide-title: "[!DNL Experience Makers Learn from your peers]"
+user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
-user-guide-description: " [!DNL Experience Makers Learn from your peers]의 녹음/녹화 컬렉션"
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+user-guide-description: ' [!DNL Experience Makers Learn from your peers]의 녹음/녹화 컬렉션'
+source-git-commit: b93f940bfbd028349af2df86992a9e0655b7480d
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '313'
 ht-degree: 2%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 2%
       + [Agile SDLC의 통신, 요구 사항 및 테스트](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
    + {#nov2023}년 11월
-      + [AEM 핵심 구성 요소를 사용한 개발자 우수 사례](experience-manager/nov2023/core-components.md)
+      + [AEM 핵심 구성 요소로 탁월한 개발자](experience-manager/nov2023/core-components.md)
    + {#sept2023}년 9월
       + [AEM Sites용 도구에 대해 자세히 알아보기](experience-manager/sept2023/aem-sites-tools.md)
    + {#july2023}년 7월
@@ -52,7 +52,7 @@ ht-degree: 2%
    + 2024년 7월 {#july2024}
       + [마케터의 맵: Marketo 캠페인 전략, 구축 및 분석](marketo/july2024/marketers-map-marketo-campaigns.md)
    + 2024년 4월 {#april2024}
-      + [Marketo Engage REST API의 실용적인 응용](marketo/april2024/practical-applications-of-marketo-engage-rest-api.md)
+      + [Marketo Engage REST API의 실용적인 응용 프로그램](marketo/april2024/practical-applications-of-marketo-engage-rest-api.md)
    + 2024년 1월 {#jan2024}
       + [Marketo Engage으로 개인 채점 숙달](marketo/jan2024/person-scoring-mastery.md)
    + 2023년 11월 {#nov2023}
@@ -66,6 +66,9 @@ ht-degree: 2%
    + 2023년 3월 {#mar2023}
       + [ [!DNL Adobe Marketo Engage] 콘텐츠를 확장 가능하게 하는 방법](marketo/mar2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
+   + 2025년 {#2025}
+      + {#february2025}년 2월
+         + [아티큘레이션 영향 - Workfront 가치 측정 및 공유 방법](workfront/2025/how-to-measure-and-share-workfront-value.md)
    + 2024년 {#2024}
       + {#april2024}년 4월
          + [Workfront 시스템 관리 사례 인력 배치](workfront/2024/04/staffing-your-workfront-system-admin-practice.md)
