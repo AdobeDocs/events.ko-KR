@@ -1,19 +1,19 @@
 ---
 title: 환경 최적화 및 유지 관리
-description: Adobe Workfront을 통해 작업 관리 최적화 - 효율성 향상을 위한 정리 및 조정 전략
+description: 효율성, 데이터 무결성 및 확장성에 대한 전문가의 팁을 통해 Adobe Workfront을 최적화합니다. 도구, 전략 및 지속적인 개선 사례를 알아봅니다.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3655
 last-substantial-update: 2025-01-24T00:00:00Z
 jira: KT-17168
-source-git-commit: 852eec6eccb1cf5cf99d73ffcd635f55fed846cf
+exl-id: 36805420-e73f-47f7-b853-f7df9a358b3d
+source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
-
 
 # 환경 최적화 및 유지 관리
 
@@ -28,3 +28,56 @@ ht-degree: 0%
 Adobe Workfront을 통해 작업 관리 환경을 새로 고치고 업그레이드할 수 있는 이번 기회를 놓치지 마십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443024/?learn=on&enablevpops)
+
+*발표자*
+
+* Adobe의 선임 디지털 이벤트 관리자 **Alana Cohen**.
+* Adobe의 **Samantha Miller** 비즈니스 관리자
+* Adobe의 **마리안 에릭슨** 비즈니스 관리자
+* **Aaron Baker** Q&amp;A를 처리하는 프런트 전문가
+
+## 주제
+
+* Adobe Work Front 인스턴스 유지 관리의 이점
+* 각 의제 항목에 대한 데모를 수행합니다.
+* 참여자를 참여시키기 위해 질문을 투표합니다.
+
+
+## 주요 개선 사항
+
+이번 세션은 업무 환경 최적화 및 유지에 초점이 맞춰졌다.
+
+* **Work Front 유지 관리의 이점**
+
+   * 운영 효율성
+   * 데이터 무결성, 속도 및 정확성.
+   * 확장성 및 확장성
+
+* **도구 및 전략**
+
+   * 시스템 관리자 요청 큐.
+   * 시스템 관리자 대시보드입니다.
+   * 담당자별 레이아웃 템플릿.
+   * 시스템 유지 관리 및 작업 공간 사용을 위한 블루프린트.
+
+* **상속된 인스턴스 검사 목록**
+
+   * 신규 또는 현재 관리자가 인스턴스를 이해하고 최적화하는 데 도움이 되는 블루프린트입니다.
+
+* **개체 계층**
+
+   * 포트폴리오, 프로그램, 프로젝트, 작업 및 문제를 이해하고 구성하는 것이 중요합니다.
+
+* 액세스 및 공유 권한**
+
+   * 권한 설정 및 관리의 중요성.
+
+* **새 홈 환경**
+
+   * 작업, 문제, 요청 및 승인을 관리하기 위한 사용자 지정 가능한 공간입니다.
+
+* **지속적인 개선**
+
+   * 정기적인 유지 관리 및 정리 사례 구현.
+   * 시스템 감사 로그를 활용합니다.
+   * 연간 모니터링 및 유지 관리 프로젝트 만들기
