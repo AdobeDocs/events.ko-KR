@@ -3,16 +3,16 @@ title: 깊이 들어가기
 description: 딥다이브는 전문가와 동료가 Adobe Marketo을 가장 잘 사용하는 방법에 대한 생각과 아이디어를 공유한 비디오 라이브러리입니다.
 exl-id: 21242f9e-8084-4482-8461-ba8a9e2fbd26
 duration: 15
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+source-git-commit: b846c1d38ce66dd6d4223d44964eebf1ccc7144c
 workflow-type: tm+mt
-source-wordcount: '970'
+source-wordcount: '1110'
 ht-degree: 0%
 
 ---
 
 # 심도 있는 이벤트
 
-Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이러한 리소스를 Adobe Marketo [설명서](https://experienceleague.adobe.com/docs/marketo-engage.html) 및 [튜토리얼](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)과(와) 결합하여 사용하면 Marketo Adobe을 사용하여 비즈니스를 지원하는 방법을 더 잘 이해할 수 있습니다.
+Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이러한 리소스를 Adobe Marketo [설명서](https://experienceleague.adobe.com/docs/marketo-engage.html) 및 [튜토리얼](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)과(와) 결합하여 사용하면 Adobe Marketo을 사용하여 비즈니스를 지원하는 방법을 더 잘 이해할 수 있습니다.
 
 <!-- CARDS
 
@@ -29,7 +29,9 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
 * ims-migration.md
 * inheriting-an-instance.md
 * lead-lifecycles.md
-* pmcf-fields.md
+* marketo-forms-aem-forms.md
+* maximize-email-deliverability.md
+* pmcf-fields.**md**
 * small-team-instance.md
 * webhooks.md
 -->
@@ -40,7 +42,7 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="activity-log.md" title="작업 로그에 복잡한 프로세스 알림" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427149/?format=jpeg&nocache=1736980211369" alt="작업 로그에 복잡한 프로세스 알림"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427149/?format=jpeg&nocache=1741126806469" alt="작업 로그에 복잡한 프로세스 알림"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -62,8 +64,8 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="admin-console.md" title="Adobe ID Marketo Engage 준비" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1736980211378" alt="Adobe ID Marketo Engage 준비"
+                    <a href="admin-console.md" title="Adobe Identity에서 Marketo Engage 준비" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1741126806435" alt="Adobe Identity에서 Marketo Engage 준비"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -71,9 +73,9 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="admin-console.md" target="_blank" rel="referrer" title="Adobe ID Marketo Engage 준비">Adobe ID에 대한 Marketo Engage 준비 중</a>
+                        <a href="admin-console.md" target="_blank" rel="referrer" title="Adobe Identity에서 Marketo Engage 준비">Adobe Identity에서 Marketo Engage 준비 중</a>
                     </p>
-                    <p class="is-size-6">이 교육 세션에 참여하여 사용자 마이그레이션, 주요 작업 및 관리자를 위한 필수 리소스에 중점을 두고, 마이그레이션 콘솔 탐색 및 각 이정표의 변경 사항 이해에 대한 지침과 함께 Adobe ID에 대한 Marketo Engage 구독 마이그레이션을 준비하십시오.</p>
+                    <p class="is-size-6">이 교육 세션에 참여하여 사용자 마이그레이션, 주요 작업 및 관리자를 위한 필수 리소스에 중점을 두고 Adobe Identity로 Marketo Engage 구독을 마이그레이션하기 위해 준비하며, 마이그레이션 콘솔 탐색 및 각 이정표의 변경 사항에 대한 지침을 살펴보십시오.</p>
                 </div>
                 <a href="admin-console.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
@@ -86,7 +88,7 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="api.md" title="API" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1736980211382" alt="API"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1741126806441" alt="API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -96,7 +98,7 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="api.md" target="_blank" rel="referrer" title="API">API</a>
                     </p>
-                    <p class="is-size-6">Adobe 첫 번째 API 호출부터 가져오기/내보내기 작업을 위한 벌크 API 활용, 웹후크와 API 비교 탐색, 마케팅 전략을 혁신할 수 있는 무한한 가능성과 데이터 보안 및 클라우드 통합을 위한 모범 사례 학습에 이르기까지 Marketo API의 모든 잠재력을 최대한 활용하십시오.</p>
+                    <p class="is-size-6">첫 번째 API 호출부터 가져오기/내보내기 작업을 위한 벌크 API 활용, 웹후크와 API 비교 탐색, 마케팅 전략을 혁신할 수 있는 무한한 가능성과 데이터 보안 및 클라우드 통합을 위한 모범 사례 학습에 이르기까지 Adobe Marketo API의 모든 잠재력을 마음껏 활용하십시오.</p>
                 </div>
                 <a href="api.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
@@ -109,7 +111,7 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="campaign-operations.md" title="Marketo API를 사용한 캠페인 작업 자동화 및 능률화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440396/?format=jpeg&nocache=1736980211392" alt="Marketo API를 사용한 캠페인 작업 자동화 및 능률화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440396/?format=jpeg&nocache=1741126806452" alt="Marketo API를 사용한 캠페인 작업 자동화 및 능률화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -131,8 +133,8 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="certification.md" title="자신에 대한 투자 - Adobe [!DNL Marketo Engage] 인증" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416760/?format=jpeg&nocache=1736980211373" alt="자신에 대한 투자 - Adobe [!DNL Marketo Engage] 인증"
+                    <a href="certification.md" title="자기 자신에게 투자 - Adobe [!DNL Marketo Engage] 인증" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416760/?format=jpeg&nocache=1741126806461" alt="자기 자신에게 투자 - Adobe [!DNL Marketo Engage] 인증"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,7 +142,7 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="certification.md" target="_blank" rel="referrer" title="자신에 대한 투자 - Adobe [!DNL Marketo Engage] 인증">자신에게 투자 - Adobe [!DNL Marketo Engage] 인증</a>
+                        <a href="certification.md" target="_blank" rel="referrer" title="자기 자신에게 투자 - Adobe [!DNL Marketo Engage] 인증">자신에게 투자 - Adobe [!DNL Marketo Engage] 인증</a>
                     </p>
                     <p class="is-size-6">인증이 마케팅 경력을 어떻게 높일 수 있는지 궁금하십니까? Adobe Marketo Engage Champions에 참여하여 공부, 준비 및 시험 응시에 대한 경험과 팁을 공유함으로써 Marketo Certified Expert 또는 Architect가 됩니다!</p>
                 </div>
@@ -155,7 +157,7 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="email-nurture.md" title="Adobe [!DNL Marketo Engage] 챔피언 딥다이브 이메일 육성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418903/?format=jpeg&nocache=1736980211384" alt="Adobe [!DNL Marketo Engage] 챔피언 딥다이브 이메일 육성"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418903/?format=jpeg&nocache=1741126806465" alt="Adobe [!DNL Marketo Engage] 챔피언 딥다이브 이메일 육성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,7 +165,7 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="email-nurture.md" target="_blank" rel="referrer" title="Adobe [!DNL Marketo Engage] 챔피언 딥다이브 이메일 육성">Adobe [!DNL Marketo Engage] 챔피언 딥다이브 전자 메일 육성</a>
+                        <a href="email-nurture.md" target="_blank" rel="referrer" title="Adobe [!DNL Marketo Engage] 챔피언 딥다이브 이메일 육성">Adobe [!DNL Marketo Engage] 챔피언 딥다이브 이메일 육성</a>
                     </p>
                     <p class="is-size-6">이 세션에서는 리드 육성 및 드립 마케팅의 잠재력을 최대한 활용하십시오. 여기에서는 효과적인 전략을 수립하기 위한 주요 요인을 배우고, 성공적인 사례를 살펴보고, 조직 전체에 이러한 기술을 적용하여 고유한 목표를 달성하는 방법을 살펴볼 수 있습니다.</p>
                 </div>
@@ -178,7 +180,7 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="executable-campaigns.md" title="실행 가능한 캠페인 - 실행 파일이 효율성 및 영향을 주는 방법에 대해 알아봅니다." target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427704/?format=jpeg&nocache=1736980211389" alt="실행 가능한 캠페인 - 실행 파일이 효율성 및 영향을 주는 방법에 대해 알아봅니다."
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427704/?format=jpeg&nocache=1741126806478" alt="실행 가능한 캠페인 - 실행 파일이 효율성 및 영향을 주는 방법에 대해 알아봅니다."
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -188,7 +190,7 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="executable-campaigns.md" target="_blank" rel="referrer" title="실행 가능한 캠페인 - 실행 파일이 효율성 및 영향을 주는 방법에 대해 알아봅니다.">실행 가능한 캠페인 - 실행 파일이 효율성 및 영향을 주는 방법을 알아봅니다.</a>
                     </p>
-                    <p class="is-size-6">이 Adobe 챔피언 딥 다이빙에서 Chris Willis, Courtny Edwards-Jones, Jane Musatova와 함께 Marketo의 실행 가능한 캠페인으로 프로세스를 간소화하고 데이터의 정확성을 보장하며 복잡한 워크플로우를 자동화하는 방법을 알아보십시오. 또한, 실제 사례를 통해 오류와 백로그를 최소화하는 데 중점을 둡니다.</p>
+                    <p class="is-size-6">이 Adobe 챔피언 딥 다이빙에서 Chris Willis, Courtny Edwards-Jones, Jane Musatova와 함께 Marketo의 실행 가능한 캠페인으로 프로세스를 간소화하고 데이터의 정확성을 보장하며 복잡한 워크플로우를 자동화하는 방법을 알아보십시오. 또한, 실제적인 예제를 통해 오류와 백로그를 최소화하는 데 주력하고 있습니다.</p>
                 </div>
                 <a href="executable-campaigns.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
@@ -201,7 +203,7 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="global-marketing.md" title="Marketo Engage으로 글로벌 마케팅 잠금 해제 - Adobe 챔피언 딥 다이브 - 2024년 8월" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433245/?format=jpeg&nocache=1736980211395" alt="Marketo Engage으로 글로벌 마케팅 잠금 해제 - Adobe 챔피언 딥 다이브 - 2024년 8월"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433245/?format=jpeg&nocache=1741126806482" alt="Marketo Engage으로 글로벌 마케팅 잠금 해제 - Adobe 챔피언 딥 다이브 - 2024년 8월"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,9 +211,9 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="global-marketing.md" target="_blank" rel="referrer" title="Marketo Engage으로 글로벌 마케팅 잠금 해제 - Adobe 챔피언 딥 다이브 - 2024년 8월">Marketo Engage으로 글로벌 마케팅 잠금 해제 - Adobe 챔피언 심층 분석 - 2024년 8월</a>
+                        <a href="global-marketing.md" target="_blank" rel="referrer" title="Marketo Engage으로 글로벌 마케팅 잠금 해제 - Adobe 챔피언 딥 다이브 - 2024년 8월">Marketo Engage으로 글로벌 마케팅 잠금 해제 - Adobe 챔피언 딥 다이브 - 2024년 8월</a>
                     </p>
-                    <p class="is-size-6">8월 딥 다이빙에 참여하여 데이터 구조, 법적 규정 준수, 세분화, 코드 조각, 다이내믹 콘텐츠 등을 다루는 Marketo Engage과 여러 브랜드 및 인스턴스에 대한 작업 공간 및 파티션 최적화에 대한 통찰력을 통해 글로벌 마케팅을 잠금 해제할 수 있습니다.</p>
+                    <p class="is-size-6">8월 딥 다이빙에 참여하여 데이터 구조화, 법적 준수, 세분화, 코드 조각, 다이내믹 콘텐츠 등을 다루는 Marketo Engage을 통해 글로벌 마케팅을 강화하고 여러 브랜드 및 인스턴스를 위한 작업 공간 및 파티션을 최적화하는 방법에 대한 통찰력을 얻으십시오.</p>
                 </div>
                 <a href="global-marketing.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
@@ -224,7 +226,7 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="ims-migration.md" title="IMS 마이그레이션 압축 해제 - Marketo 사용자를 위한 전환 간소화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3441133/?format=jpeg&nocache=1736980211404" alt="IMS 마이그레이션 압축 해제 - Marketo 사용자를 위한 전환 간소화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3441133/?format=jpeg&nocache=1741126806496" alt="IMS 마이그레이션 압축 해제 - Marketo 사용자를 위한 전환 간소화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -234,7 +236,7 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="ims-migration.md" target="_blank" rel="referrer" title="IMS 마이그레이션 압축 해제 - Marketo 사용자를 위한 전환 간소화">IMS 마이그레이션 압축 해제됨 - Marketo 사용자에 대한 전환 간소화</a>
                     </p>
-                    <p class="is-size-6">Marketo 사용자가 Adobe 플랫폼으로 마이그레이션하는 IMS 마이그레이션에는 마이그레이션 후 변경 사항과 지원 및 예정된 이벤트에 제공되는 리소스와 함께 자세한 단계, 준비 및 커뮤니케이션이 포함됩니다.</p>
+                    <p class="is-size-6">Marketo 사용자를 Adobe 플랫폼으로 IMS 마이그레이션에는 마이그레이션 후 변경 사항과 지원 및 예정된 이벤트에 제공되는 리소스와 함께 자세한 단계, 준비 및 커뮤니케이션이 포함됩니다.</p>
                 </div>
                 <a href="ims-migration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
@@ -247,7 +249,7 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="inheriting-an-instance.md" title="인스턴스 상속" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420422/?format=jpeg&nocache=1736980211397" alt="인스턴스 상속"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420422/?format=jpeg&nocache=1741126806489" alt="인스턴스 상속"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -270,7 +272,7 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="lead-lifecycles.md" title="리드 수명 주기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421711/?format=jpeg&nocache=1736980211399" alt="리드 수명 주기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421711/?format=jpeg&nocache=1741126806501" alt="리드 수명 주기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -288,12 +290,58 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Whose form is it anyway? Deep dive on Marketo forms compared to AEM Forms">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="marketo-forms-aem-forms.md" title="그건 그렇고 누구의 양식이죠? AEM Forms과 비교하여 Marketo 양식에 대해 자세히 알아보기" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448534/?format=jpeg&nocache=1741126806492" alt="그건 그렇고 누구의 양식이죠? AEM Forms과 비교하여 Marketo 양식에 대해 자세히 알아보기"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="marketo-forms-aem-forms.md" target="_blank" rel="referrer" title="그건 그렇고 누구의 양식이죠? AEM Forms과 비교하여 Marketo 양식에 대해 자세히 알아보기">누구의 양식입니까? AEM Forms</a>과(와) 비교하여 Marketo 양식에 대해 자세히 알아보기
+                    </p>
+                    <p class="is-size-6">사용자 지정 PDF와 같은 개인화된 경험을 위해 Marketo 및 AEM Forms을 통합합니다. AEM Forms은 실시간 유효성 검사와 중앙 집중식 관리를 통해 복잡한 양식을 처리합니다.</p>
+                </div>
+                <a href="marketo-forms-aem-forms.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Maximize Email Deliverability with Marketo - Best Practices for Reaching Your Audience">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="maximize-email-deliverability.md" title="Marketo을 통해 이메일 전달성 극대화 - 대상자에게 도달하기 위한 모범 사례" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435343/?format=jpeg&nocache=1741126806555" alt="Marketo을 통해 이메일 전달성 극대화 - 대상자에게 도달하기 위한 모범 사례"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="maximize-email-deliverability.md" target="_blank" rel="referrer" title="Marketo을 통해 이메일 전달성 극대화 - 대상자에게 도달하기 위한 모범 사례">Marketo을 사용하여 이메일 전달성 극대화 - 대상자에게 도달하기 위한 모범 사례</a>
+                    </p>
+                    <p class="is-size-6">이메일이 의도한 대상자에게 도달하는지 확인하는 것은 참여를 유도하고 마케팅 목표를 달성하는 데 중요합니다.</p>
+                </div>
+                <a href="maximize-email-deliverability.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Leveraging PMCF Fields for Scalability">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="pmcf-fields.md" title="확장성을 위한 PMCF 필드 활용" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430531/?format=jpeg&nocache=1736980211407" alt="확장성을 위한 PMCF 필드 활용"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430531/?format=jpeg&nocache=1741126806486" alt="확장성을 위한 PMCF 필드 활용"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -316,7 +364,7 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="small-team-instance.md" title="소규모 팀이 Adobe [!DNL Marketo Engage] 인스턴스를 최대화하는 방법을 알아봅니다." target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3417670/?format=jpeg&nocache=1736980211412" alt="소규모 팀이 Adobe [!DNL Marketo Engage] 인스턴스를 최대화하는 방법을 알아봅니다."
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3417670/?format=jpeg&nocache=1741126806504" alt="소규모 팀이 Adobe [!DNL Marketo Engage] 인스턴스를 최대화하는 방법을 알아봅니다."
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -326,7 +374,7 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="small-team-instance.md" target="_blank" rel="referrer" title="소규모 팀이 Adobe [!DNL Marketo Engage] 인스턴스를 최대화하는 방법을 알아봅니다.">소규모 팀이 Adobe [!DNL Marketo Engage] 인스턴스를 최대화하는 방법을 알아봅니다</a>
                     </p>
-                    <p class="is-size-6">소규모 팀 또는 하나의 팀과 함께 [!DNL Marketo Engage] Adobe의 인스턴스를 지원하는 방법에 대해 논의합니다.</p>
+                    <p class="is-size-6">소규모 팀 또는 하나의 팀과 함께 Adobe [!DNL Marketo Engage]의 인스턴스를 지원하는 방법에 대해 논의합니다.</p>
                 </div>
                 <a href="small-team-instance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
@@ -339,7 +387,7 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="webhooks.md" title="Adobe Marketo Engage 챔피언 딥 다이브 - 웹후크를 사용하여 데이터 전송" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428687/?format=jpeg&nocache=1736980211409" alt="Adobe Marketo Engage 챔피언 딥 다이브 - 웹후크를 사용하여 데이터 전송"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428687/?format=jpeg&nocache=1741126806547" alt="Adobe Marketo Engage 챔피언 딥 다이브 - 웹후크를 사용하여 데이터 전송"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

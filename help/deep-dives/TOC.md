@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+source-git-commit: b846c1d38ce66dd6d4223d44964eebf1ccc7144c
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '75'
 ht-degree: 4%
 
 ---
@@ -31,6 +31,7 @@ ht-degree: 4%
    + [인스턴스 상속](inheriting-an-instance.md)
    + [리드 수명 주기](lead-lifecycles.md)
    + [확장성을 위한 PMCF 필드 활용](pmcf-fields.md)
+   + [Marketo forms 및 AEM Forms](marketo-forms-aem-forms.md)
    + [이메일 전달성 극대화](maximize-email-deliverability.md)
    + [소규모 팀으로 인스턴스 최대화](small-team-instance.md)
    + [작업 로그에 복잡한 프로세스 알림](activity-log.md)
