@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
+source-git-commit: aab3785f25043242f8eccb11e304bab7e2ab7804
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '514'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [개요](overview.md)
 + 에피소드 {#episodes}
+   + [Ep. 45: 기다리지 말고... 협력하라! Real-Time CDP Collaboration 소개](episodes/exl-live-episode-04-10-25.md)
    + [Ep. 44: Adobe Experience Platform에서 AI Assistant를 사용하여 운영 인사이트 확보](episodes/exl-live-episode-02-27-25.md)
    + [Ep. 43: Real-Time CDP에서 마케터를 위한 Audiences용 AI Assistant 소개](episodes/exl-live-episode-11-13-24.md)
    + [Ep. 42: Adobe Journey Optimizer용 컨텐츠 카드 공개](episodes/exl-live-episode-10-30-24.md)
@@ -51,18 +52,18 @@ ht-degree: 4%
    + [Ep. 17: 실시간으로 보다 개인화된 고객 경험 제공](episodes/exl-live-episode-09-20-22.md)
    + [Ep. 16: 전문가에게 문의 - Tags(Launch)의 유용한 확장 기능으로 웹 SDK 슈퍼 차지](episodes/exl-live-episode-08-23-22.md)
    + [Ep. 15: 전문가에게 문의 - 데이터스트림 및 데이터 준비](episodes/exl-live-episode-07-21-22.md)
-   + [Ep. 14: 전문가에게 문의 - RTCDP 연결](episodes/exl-live-episode-06-23-22.md)
+   + [Ep. 14: 전문가에게 문의 - RTCDP Connections](episodes/exl-live-episode-06-23-22.md)
    + [Ep. 13: 전문가에게 문의 - 웹 SDK 기본 사항](episodes/exl-live-episode-05-26-22.md)
    + [Ep. 12: Journey Optimizer을 사용한 푸시 알림](episodes/exl-live-episode-05-12-22.md)
    + [Ep. 11: AAM 및 Real-Time CDP - 이러한 대상을 어떻게 처리합니까?](episodes/exl-live-episode-04-28-22.md)
    + [Ep. 10: AEM의 Headful에서 Headless까지(그리고 그 사이의 모든 것)](episodes/exl-live-episode-04-21-22.md)
-   + [Ep. 9: AEM에서 모든 새 참조 데모 소개](episodes/exl-live-episode-02-03-22.md)
+   + [Ep. 9: AEM의 모든 새로운 참조 데모 소개](episodes/exl-live-episode-02-03-22.md)
    + [Ep. 8: Customer Journey Analytics: 인사이드 스쿠프](episodes/exl-live-episode-08.md)
-   + [Ep. 7: Adobe App Builder으로 AEM 확장](episodes/exl-live-episode-07.md)
+   + [Ep. 7: Adobe App Builder을 사용하여 AEM 확장](episodes/exl-live-episode-07.md)
    + [Ep. 6: 장치 대신 사람 측정](episodes/exl-live-episode-06.md)
    + [Ep. 5: 빠른 사이트 생성 기능으로 더 빠른 속도로 실행](episodes/exl-live-episode-05.md)
    + [Ep. 4: 누가 클릭했는가? 그리고 무엇을 했는가?](episodes/exl-live-episode-04.md)
    + [Ep. 3: 연말연시 캠페인을 돋보이게 할 수 있는 전문가의 팁](episodes/exl-live-episode-03.md)
    + [Ep. 2: 보다 스마트한 향후 대상 세그먼트 구축하기](episodes/exl-live-episode-02.md)
    + [Ep. 1: 내가 가장 좋아하는 세 가지 Adobe [!DNL Analytics] 구현 팁](episodes/exl-live-episode-01.md)
-+ [라이브 Assets Experience League](exl-live-assets.md)
++ [EXPERIENCE LEAGUE LIVE ASSETS](exl-live-assets.md)
