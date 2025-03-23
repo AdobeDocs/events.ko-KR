@@ -9,12 +9,12 @@ feature: Dynamic Media Classic
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7341
 exl-id: 01149450-8d92-4ea8-a048-86559dd323b7
 duration: 3081
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 1%
@@ -27,7 +27,7 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/332132/?quality=12&learn=on&hidetitle=true)
 
-Dynamic Media을 사용하여 모든 채널 및 화면에 대한 에셋 출력을 자동화합니다.
+Dynamic Media를 사용하여 모든 채널 및 화면에 대한 에셋 출력을 자동화합니다.
 
 ## 리소스
 

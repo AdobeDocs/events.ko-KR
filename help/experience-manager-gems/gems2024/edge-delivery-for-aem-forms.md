@@ -2,7 +2,7 @@
 title: AEM Forms용 Edge Delivery Services 시작하기
 description: Edge Delivery Services을 사용하여 AEM Forms을 만들고 게시하는 방법, 문서 기반 및 AEM 기반 작성, 맞춤화를 위한 프로젝트 설정 및 백엔드 처리를 위한 AEM Forms as a Cloud Service 활용에 대해 알아봅니다.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 topic: Development
 role: Developer
@@ -10,7 +10,7 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 0361b404-1c6c-4343-876c-ac6a200ba3b9
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%

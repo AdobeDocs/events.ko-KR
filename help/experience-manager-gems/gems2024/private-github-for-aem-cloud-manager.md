@@ -2,7 +2,7 @@
 title: AEM Cloud Manager에서 개인 GitHub 저장소 통합
 description: AEM GEM 웨비나는 Cloud Manager에서 개인 GitHub 리포지토리를 추가하고, 파이프라인에 직접 연결하고, 왼쪽 이동 테스트를 통해 코드를 병합하기 전에 가져오기 요청 수준에서 문제를 식별하는 방법을 보여 줍니다.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Developer Tools
 topic: Development
 role: Developer
@@ -10,7 +10,7 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%

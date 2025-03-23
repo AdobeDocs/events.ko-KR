@@ -2,7 +2,7 @@
 title: Adobe Commerce을 사용하여 Edge Delivery Services에서 상점 만들기
 description: AEM GEM 웨비나에서는 Commerce 경험을 개선하기 위해 프로젝트 설정, Commerce SaaS 통합, 사용자 정의 가능한 프론트엔드 구성 요소 및 새로운 작성 기능을 다루는 Edge Delivery Services for Adobe Commerce에 고성능 스토어를 구축하는 방법을 알려줍니다.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 topic: Commerce
 role: Developer
@@ -13,7 +13,7 @@ last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15066
 thumbnail: KT-15066.jpeg
 exl-id: 6294fa1b-4807-484b-ac51-f01bb1dd9656
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%

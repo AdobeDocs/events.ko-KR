@@ -2,7 +2,7 @@
 title: AEM을 위한 신속한 개발 환경의 새로운 기능
 description: 이 세션에서는 RDE가 어떻게 신속한 배포와 변경 사항 검토를 가능하게 하며, 개발 처리 시간을 단축하고 즉각적인 피드백을 제공하는지 보여줍니다. 또한 향상된 로깅 및 프론트엔드 지원과 같은 새로운 기능도 도입할 예정입니다.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 topic: Development
 role: Developer
@@ -10,7 +10,7 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 3cf88775-de57-4d1a-aa86-b6e93b47cfcf
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%

@@ -3,7 +3,7 @@ title: Cloud Manager 2022
 description: 이 AEM GEM 웨비나에는 다음과 같은 프레젠테이션과 데모가 포함됩니다. 작년에 릴리스된 새로운 기능 살펴보기, 비하인드에 대한 업데이트... (설명은 60~160자 사이여야 함)
 solution: Experience Manager
 feature-set: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Cloud Manager
 topic: Administration
 role: Developer
@@ -11,7 +11,7 @@ level: Beginner
 kt: 10470
 exl-id: 70564929-78c2-4a3d-bcf7-8708fd458812
 duration: 3289
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -33,5 +33,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 이 [컨텍스트 스레드](https://adobe.ly/3O0rdzd)를 참조하십시오.
->* 웨비나에 대한 자동 알림을 받으려면 [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/)에 등록하세요.
+>* Experience League에서의 세션별 커뮤니티 상호 작용의 경우 이 [컨텍스트 스레드](https://adobe.ly/3O0rdzd)를 참조하십시오.
+>* 웨비나에 대한 자동 알림을 받으려면 [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/)에 등록하십시오.

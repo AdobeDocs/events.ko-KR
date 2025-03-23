@@ -1,24 +1,24 @@
 ---
-title: Experience Manager CS에서 일반적인 위험을 방지하는 방법 - 프론트라인 관련 설명
+title: 최전선에 관한 이야기 - Experience Manager CS에서 일반적인 함정을 피하는 방법
 description: 다른 사람들이 저지르는 가장 흔한 실수로부터 배워서 여러분이 스스로 그것들을 피할 수 있도록 하세요! 이 세션에서는 당사의 당직자 및 지원 엔지니어가 경험한 몇 가지 일반적인 문제를 살펴보고 자체 Adobe Experience Manager as a Cloud Service 구현에서 이러한 문제를 방지할 수 있도록 하기 위한 모범 사례에 대해 논의합니다.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Beginner, Intermediate, Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9179
 type: Event
 exl-id: a96e31ec-8079-412f-818c-ebf82b512bbd
 duration: 1889
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 7%
 
 ---
 
-# Experience Manager CS에서 일반적인 위험을 방지하는 방법 - 프론트라인 관련 설명
+# 최전선에 관한 이야기 - Experience Manager CS에서 일반적인 함정을 피하는 방법
 
 다른 사람들이 저지르는 가장 흔한 실수로부터 배워서 여러분이 스스로 그것들을 피할 수 있도록 하세요! 이 세션에서는 당사의 당직자 및 지원 엔지니어가 경험한 몇 가지 일반적인 문제를 살펴보고 자체 Adobe Experience Manager as a Cloud Service 구현에서 이러한 문제를 방지할 수 있도록 하기 위한 모범 사례에 대해 논의합니다.
 

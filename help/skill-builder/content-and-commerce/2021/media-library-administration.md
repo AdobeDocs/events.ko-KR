@@ -1,6 +1,6 @@
 ---
 title: 콘텐츠를 다시 찾는 데 시간을 낭비하지 마십시오.
-description: 일상적인 효율성을 높이는 팁과 요령으로 AEM의 사이트 및 Media Library 관리 UI에 대해 깊이 있게 살펴봄으로써 숙련된 작성자가 되십시오
+description: 일상적인 효율성을 높이는 팁과 요령으로 AEM의 사이트 및 미디어 라이브러리 관리 UI에 대해 깊이 있게 살펴봄으로써 숙련된 작성자가 되십시오
 solution: Experience Manager, Experience Manager Sites
 feature-set: Experience Manager Assets
 product: experience manager
@@ -9,12 +9,12 @@ feature: Adobe Asset Link
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 8937
 exl-id: f92344ca-9c74-4205-968c-b12a58bae241
 duration: 3712
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336983/?quality=12&learn=on&hidetitle=true)
 
-일상적인 효율성을 높이는 팁과 요령으로 AEM의 Sites 및 Media Library 관리 UI에 대해 깊이 있게 살펴봄으로써 숙련된 작성자가 되십시오.
+일상적인 효율성을 높이는 팁과 요령으로 AEM의 사이트 및 미디어 라이브러리 관리 UI에 대해 깊이 있게 살펴봄으로써 숙련된 작성자가 되십시오.
 
 ## 시리즈 녹화
 

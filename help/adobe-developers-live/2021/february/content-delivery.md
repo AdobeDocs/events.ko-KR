@@ -1,5 +1,5 @@
 ---
-title: Experience Manager Cloud Service 시 컨텐츠 전달
+title: Experience Manager Cloud Service에서 컨텐츠 전달
 description: Adobe Experience Manager as a Cloud Service에는 사전 구성된 강력한 컨텐츠 전달 아키텍처가 있습니다. 최적화된 컨텐츠 전달 구성을 최대한 활용하는 방법을 보여 줍니다. 이 세션은 Adobe Developers Live 컨텐츠 이벤트의 일부로 전달되었습니다.
 solution: Experience Manager
 product: experience manager
@@ -7,20 +7,20 @@ feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Beginner, Intermediate, Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7270
 type: Event
 thumbnail: 332022.jpg
 exl-id: dd585d52-bf00-4f7f-86cb-86b6d67c5b9d
 duration: 1597
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
-# Experience Manager Cloud Service 시 컨텐츠 전달 - 빠른 경험을 게재하도록 프로젝트 설정
+# Experience Manager Cloud Service에서 컨텐츠 전달 - 빠른 경험을 게재하도록 프로젝트 설정
 
 Adobe Experience Manager as a Cloud Service에는 사전 구성된 강력한 컨텐츠 전달 아키텍처가 있습니다. 최적화된 컨텐츠 전달 구성을 최대한 활용하는 방법을 보여 줍니다.
 

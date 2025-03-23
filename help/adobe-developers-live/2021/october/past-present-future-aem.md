@@ -1,17 +1,17 @@
 ---
 title: Adobe Experience Manager의 과거, 현재 및 미래
-description: 오늘날의 디지털 세계에서 개발자는 최신 프로그래밍 언어와 프레임워크를 배우고, 이해하고, 따라가야 합니다. 중요한 것은 단순한 컨텐츠 관리 차원을 넘어서는 방법을 모색하는 것입니다. 오늘 시장의 트렌드, 개발자에게 이것이 의미하는 바는 무엇인지, Adobe Experience Manager이 개발자의 작업 방식을 어떻게 변화시키고 있는지에 대해 논의할 예정입니다. Adobe Experience Manager Jean-Michel Pittet, Cedric Huesler의 AEM 제품 관리 담당 Director 부사장과 함께 이 문제와 그 이상을 논의하십시오.
+description: 오늘날의 디지털 세계에서 개발자는 최신 프로그래밍 언어와 프레임워크를 배우고, 이해하고, 따라가야 합니다. 중요한 것은 단순한 컨텐츠 관리 차원을 넘어서는 방법을 모색하는 것입니다. 오늘 시장의 트렌드, 개발자에게 이것이 의미하는 바는 무엇인지, Adobe Experience Manager이 개발자의 작업 방식을 어떻게 변화시키고 있는지에 대해 논의할 예정입니다. Adobe Experience Manager Engineering의 VP, Jean-Michel Pitet 및 AEM 제품 관리 디렉터인 Cedric Huesler와 함께 이 문제와 그 이상을 논의합니다.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Beginner, Intermediate, Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9120
 type: Event
 exl-id: af8d404d-f47e-4704-b0e3-29beafdd7a2d
 duration: 2776
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 3%
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 # Adobe Experience Manager의 과거, 현재 및 미래
 
-오늘날의 디지털 세계에서 개발자는 최신 프로그래밍 언어와 프레임워크를 배우고, 이해하고, 따라가야 합니다. 중요한 것은 단순한 컨텐츠 관리 차원을 넘어서는 방법을 모색하는 것입니다. 오늘 시장의 트렌드, 개발자에게 이것이 의미하는 바는 무엇인지, Adobe Experience Manager이 개발자의 작업 방식을 어떻게 변화시키고 있는지에 대해 논의할 예정입니다. Adobe Experience Manager Jean-Michel Pittet, Cedric Huesler의 AEM 제품 관리 담당 Director 부사장과 함께 이 문제와 그 이상을 논의하십시오.
+오늘날의 디지털 세계에서 개발자는 최신 프로그래밍 언어와 프레임워크를 배우고, 이해하고, 따라가야 합니다. 중요한 것은 단순한 컨텐츠 관리 차원을 넘어서는 방법을 모색하는 것입니다. 오늘 시장의 트렌드, 개발자에게 이것이 의미하는 바는 무엇인지, Adobe Experience Manager이 개발자의 작업 방식을 어떻게 변화시키고 있는지에 대해 논의할 예정입니다. Adobe Experience Manager Engineering의 VP, Jean-Michel Pitet 및 AEM 제품 관리 디렉터인 Cedric Huesler와 함께 이 문제와 그 이상을 논의합니다.
 
 **[Experience League 커뮤니티](https://adobe.ly/2WrPvNj)**&#x200B;에서 대화를 계속합니다.
 

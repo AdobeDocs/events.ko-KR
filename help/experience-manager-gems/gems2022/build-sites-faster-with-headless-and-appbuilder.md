@@ -1,9 +1,9 @@
 ---
 title: AEM Headless 및 App Builder을 사용하여 보다 빠르게 웹 사이트 구축
-description: Adobe App Builder 워크플로 및 도구를 사용하여 단일 페이지 앱(SPA)을 신속하게 부트스트랩하고 배포하는 방법에 대한 프레젠테이션 및 데모를 시청하십시오.
+description: Adobe App Builder 워크플로 ant 도구를 사용하여 단일 페이지 앱(SPA)을 빠르게 부트스트랩하고 배포하는 방법에 대한 프레젠테이션 및 데모를 시청하십시오.
 solution: Experience Manager
 feature-set: Experience Manager
-version: Cloud Service, 6.5
+version: Experience Manager as a Cloud Service, Experience Manager 6.5
 feature: App Builder
 topic: Headless
 role: Developer
@@ -12,7 +12,7 @@ kt: 10053
 thumbnail: 341311.jpeg
 exl-id: 9d5b5cd4-e401-43e1-a9ed-2c992decd45b
 duration: 3399
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 # AEM Headless 및 App Builder을 사용하여 보다 빠르게 웹 사이트 구축
 
-이 AEM GEM 웨비나 녹화에는 다음에 대한 프레젠테이션 및 데모가 포함됩니다.
+이 AEM GEM 웨비나 기록에는 다음에 대한 프레젠테이션 및 데모가 포함되어 있습니다.
 
-Java 및 Sling과 같은 기존의 Experience Manager 기술 없이도 Adobe App Builder 워크플로 및 도구를 사용하여 단일 페이지 앱(SPA)을 신속하게 부트스트랩하고 배포할 수 있습니다. Experience Manager Headless를 통해 마케터와 개발자는 자신의 분야에서 전문성을 가질 수 있습니다. 개발자는 전체 애플리케이션 프레임워크를 제어하는 반면 마케터는 콘텐츠와 콘텐츠의 표시 방식을 결정합니다.
+Java 및 Sling과 같은 기존 Experience Manager 기술 없이도 Adobe App Builder 워크플로 및 도구를 사용하여 단일 페이지 앱(SPA)을 신속하게 부트스트랩하고 배포할 수 있습니다. Experience Manager Headless를 사용하면 마케터와 개발자가 자신의 분야에서 전문성을 가질 수 있습니다. 개발자는 전체 애플리케이션 프레임워크를 제어하는 반면 마케터는 콘텐츠와 콘텐츠의 표시 방식을 결정합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341311/?quality=12&learn=on)
 

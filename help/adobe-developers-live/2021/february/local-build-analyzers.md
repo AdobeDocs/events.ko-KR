@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager as a Cloud Service을 사용한 로컬 빌드 분석기
-description: AEM Archetype에 추가된 새 분석기에 초점을 맞춰 Cloud Manager 배포 파이프라인 내에서 수행되는 로컬 유효성 검사를 재현할 수 있습니다.
+description: AEM Archetype에 추가된 새로운 분석기에 초점을 맞춰 Cloud Manager 배포 파이프라인 내에서 수행되는 로컬 유효성 검사를 재현할 수 있습니다.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -8,13 +8,13 @@ feature: Core Components
 topic: Development
 role: Developer
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7406
 type: Event
 thumbnail: 332307.jpg
 exl-id: 42685f49-e67d-470a-918d-3895d723f06f
 duration: 1694
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%

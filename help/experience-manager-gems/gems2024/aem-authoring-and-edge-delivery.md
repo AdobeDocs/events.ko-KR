@@ -2,7 +2,7 @@
 title: AEM 작성 및 Edge Delivery Services 시작하기
 description: AEM GEM 웨비나는 AEM 작성이 Edge Delivery Services과 통합되어 AEM Cloud Service로 프로젝트를 만들고 WYSIWYG 제작 인터페이스를 유지 관리하는 방법을 보여 줍니다.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 topic: Development
 role: Developer
@@ -13,7 +13,7 @@ last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
 exl-id: ef0cf02c-1670-4286-bf2e-1563a5307820
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%

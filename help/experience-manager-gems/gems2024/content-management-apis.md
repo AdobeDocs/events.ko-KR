@@ -2,7 +2,7 @@
 title: AEM GEM - AEM Sites의 강력한 기능 잠금 해제 - 기본 콘텐츠 관리 API
 description: AEM GEM 세션은 Adobe 전문가의 통찰력을 통해 고급 OpenAPI 표준, 이벤트 및 웹후크, 번역 자동화를 위한 새로운 REST API를 다루는 AEM Sites의 API 우선 패턴을 살펴봅니다.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 topic: Development
 role: Developer
@@ -12,7 +12,7 @@ duration: 3325
 last-substantial-update: 2024-10-10T00:00:00Z
 jira: KT-16327
 exl-id: 9137dbbd-4e23-4a59-9f9c-d2702b56d70d
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '474'
 ht-degree: 0%

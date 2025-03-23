@@ -9,12 +9,12 @@ feature: Adobe Asset Link
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7342
 exl-id: 8b9bd020-f584-41a5-9cef-6aefdec4907b
 duration: 3674
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 2%
@@ -33,8 +33,8 @@ Asset Link는 Adobe Creative Cloud에 대한 기본 연결입니다.
 
 * [Adobe Asset Link 비디오](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html)
 * [Adobe XD에 대한 자산 링크](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/adobe-asset-link-for-xd.ug.html)
-* [Adobe 자산 링크에 대한 AEM Assets 6.5 및 6.4 구성](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
-* [Adobe 자산 링크에 대한 AEM as a Cloud Service 구성](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
+* [Adobe Asset Link에 대한 AEM Assets 6.5 및 6.4 구성](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
+* [Adobe Asset Link에 대한 AEM as a Cloud Service 구성](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
 
 ## 시리즈 녹화
 
