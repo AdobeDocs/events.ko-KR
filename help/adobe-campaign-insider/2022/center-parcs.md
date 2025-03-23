@@ -1,13 +1,13 @@
 ---
 title: Adobe Campaign Customer Spotlight - Center Parcs
 description: 이 Adobe Campaign Insider 세션은 Adobe Campaign 고객을 대상으로 문제를 극복하고 새로운 표준에 적응하는 방법을 공유합니다. (설명은 60~160자 사이여야 함)
-version: Classic v7
-solution: Campaign
+version: Campaign Classic v7
+solution: Campaign, Campaign Classic v7
 kt: 10502
 thumbnail: 343521.jpeg
 exl-id: cb22bcd6-f96c-4f9e-a3eb-ec98e4ea4615
 duration: 2961
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 19904556b6f2a6e3a9e2919f5504732f2f9b598d
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
