@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: b846c1d38ce66dd6d4223d44964eebf1ccc7144c
+source-git-commit: e1d87cd15d45ea0c9ea94bfe8063e7a5ace97214
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 4%
+source-wordcount: '83'
+ht-degree: 3%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 4%
    + [API](api.md)
    + [Marketo API를 사용한 캠페인 작업 자동화 및 능률화](campaign-operations.md)
    + [인증](certification.md)
+   + [Marketo Engage에서 새 이메일 Designer 살펴보기](email-designer.md)
    + [전자 메일 지원](email-nurture.md)
    + [실행 가능한 캠페인](executable-campaigns.md)
    + [IMS 마이그레이션 압축 해제됨](ims-migration.md)
