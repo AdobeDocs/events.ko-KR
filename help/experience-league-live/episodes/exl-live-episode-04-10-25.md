@@ -8,24 +8,28 @@ event-cta-url-live: https://www.youtube.com/live/OPRzvdLUu7E
 event-start-time: 2025-04-10 09:00-8
 event-guests: Doug Moore, Nina Caruso, Clayton Smith
 exl-id: 6376944b-eefd-4d9e-8db4-89d6d948889f
-source-git-commit: c79fce8485ff5e4584df436688bf7d0aeac5061f
+source-git-commit: ca10c0d6d26fe2348776cb92eeb306fc0511737f
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 0%
+source-wordcount: '142'
+ht-degree: 1%
 
 ---
 
 # 기다리지 말고... 공동 작업해! Real-Time CDP Collaboration 소개
 
-이제 미국 고객이 이용할 수 있는 Real-Time CDP Collaboration은 브랜드 및 게시자를 위해 특별히 빌드된 사용자 친화적인 개인정보 보호 중심 데이터 공동 작업을 제공합니다. 광고 수익을 극대화하고 유료 마케팅의 속도로 유료 미디어 활동을 강화하기 위해 고객을 찾고, 활성화하고, 측정하는 데 도움이 됩니다. 가장 중요한 부분을 알고 싶으신가요? Real-Time CDP의 고객인 경우 이미 이 놀라운 새 기능에 액세스할 수 있습니다. 우리가 네 관심을 끌었니? 자세히 알아보시겠습니까? 그렇다면...
+원래 2025년 4월 10일에 방영된 당사의 전문가들은 Real-Time CDP Collaboration이 브랜드와 게시자를 위해 사용자 친화적이고 개인정보 보호 중심의 데이터 공동 작업을 제공하는 방법에 대해 논의했습니다. 미국 고객이 사용할 수 있으며, 대상을 검색, 활성화 및 측정하여 광고 매출을 극대화하고 유료 마케팅의 속도로 유료 미디어 활동을 강화할 수 있습니다.
 
-이 세션에 참여하여 다음 작업을 수행하십시오.
+이 세션에서는 다음을 살펴보았습니다.
 
-* 우선 이 솔루션을 구축한 이유를 알아보고 고객 개인 정보 보호 문제를 해결하는 데 어떻게 도움이 된다고 생각하는지를 알아보십시오. 대상자는 간편성과 상호 운용성을 통해 문제에 직면할 수 있습니다
-* Real-Time CDP Collaboration 활용 사례, 제품 데모 보기
-* 해결해 나갈 사용 사례와 앞으로 해결해야 할 사항에 대해 알아봅니다.
-* 제품 전문가로부터 직접 들어보십시오!
+* EMC가 이 제품을 구축한 이유와 이 제품을 통해 고객의 개인 정보 보호 및 고객 문제를 해결하고 간편성과 상호 운용성을 실현하는 방법
+* Real-Time CDP Collaboration 작동 중, 제품 데모
+* 현재 지원되는 사용 사례 및 향후 과제
 
-[![ExL LIVE 2025년 4월 10일](assets/WebBanner_Apr10_2025.jpg)](https://engage.adobe.com/ExpLeagueLive-250410.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3457557/?quality=12&learn=on)
+<!-- 
+**Continue the discussion on the Experience League [Community Post.](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208){target="_blank"}** 
+-->
 
-[**지금 등록!**](https://engage.adobe.com/ExpLeagueLive-250410.html)
+## 추가 리소스
+
+[Real-Time CDP Collaboration 비디오](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-overview)
