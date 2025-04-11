@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 2838fbbcafd0454e47c069365cfc912473fbaccf
+source-git-commit: 3599290ac96cb3791f555bb8ef75ee33a44a57e3
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '161'
 ht-degree: 3%
 
 ---
@@ -24,25 +24,8 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 ## 예정된 Experience League LIVE 이벤트
 
 <div>다음 예약된 쇼에 대한 정보는 곧 다시 확인하십시오.</div>
-&lt;!— 
-<table>
 <tr>
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-10-25.md">
-      <img alt="Experience League LIVE 4월 10일" src="episodes/assets/WebBanner_Apr10_2025.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-04-10-25.md">
-        <strong>기다리지 말고 공동 작업하세요! Real-Time CDP Collaboration 소개</strong>
-      </a>
-      <br/><em>Nina Caruso, Clayton Smith 및 Doug Moore와 함께</em>
-      <br/><em>2025년 4월 10일</em>
-    </div>
-  </td>
- </tr>
-</table>
 
-</div>
---&gt;
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
 <div id="recs-overview-body-3"></div>
