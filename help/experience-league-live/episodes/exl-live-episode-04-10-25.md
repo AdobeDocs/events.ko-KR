@@ -8,7 +8,7 @@ event-cta-url-live: https://www.youtube.com/live/OPRzvdLUu7E
 event-start-time: 2025-04-10 09:00-8
 event-guests: Doug Moore, Nina Caruso, Clayton Smith
 exl-id: 6376944b-eefd-4d9e-8db4-89d6d948889f
-source-git-commit: 3599290ac96cb3791f555bb8ef75ee33a44a57e3
+source-git-commit: 67295e039205f8e84a4de2e1876ed88f5f1595d4
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 1%
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 이 세션에서는 다음을 살펴보았습니다.
 
-* EMC가 이 제품을 구축한 이유와 이 제품을 통해 고객의 개인 정보 보호 및 고객 문제를 해결하고 간편성과 상호 운용성을 실현하는 방법
+* EMC가 이 제품을 구축한 이유와 EMC가 고객 개인 정보 보호 및 고객 문제를 해결하는 데 어떻게 도움이 되는지, 그리고 간편성과 상호 운용성을 강조하여 설명하십시오.
 * Real-Time CDP Collaboration 작동 중, 제품 데모
 * 현재 지원되는 사용 사례 및 향후 과제
 
