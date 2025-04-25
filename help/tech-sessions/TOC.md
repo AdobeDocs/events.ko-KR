@@ -2,10 +2,10 @@
 user-guide-title: Experience Cloud 기술 세션
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloud 기술 세션은 솔루션별 웨비나를 제공하여 사례 변경에 대한 사전 예방적 접근 방식입니다.
-source-git-commit: 0060197dfc26604cda34f5380b9935c8e2bb791e
+source-git-commit: 373605f79b3122382e221252232a26535ff3109b
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 14%
+source-wordcount: '146'
+ht-degree: 15%
 
 ---
 
@@ -13,13 +13,14 @@ ht-degree: 14%
 # Experience Cloud 기술 세션 {#tech-sessions}
 
 + [Experience Cloud 기술 세션](overview.md)
-+ 2025년 {#2025}
++ 2025 {#2025}
+   + [Adobe Campaign Classic 게재 성능 문제 해결](2025/acc-delivery-performance.md)
    + [Marketo Measure 활용](2025/getting-most-marketo-measure.md)
-   + Adobe Admin Console {#marketo-admin-console}(으)로 Marketo 마이그레이션
+   + Adobe Admin Console으로 Marketo 마이그레이션 {#marketo-admin-console}
       + [마이그레이션 전](2025/marketo-pre-migration.md)
       + [마이그레이션 후](2025/marketo-post-migration.md)
-+ 2024년 {#2024}
-   + 실시간 콘텐츠 데이터 플랫폼 {#rtcdp-office-hours-2024}
++ 2024 {#2024}
+   + 실시간 컨텐츠 데이터 플랫폼 {#rtcdp-office-hours-2024}
       + [AEP Web SDK 문제 해결](2024/aep-web-sdk-troubleshooting.md)
       + [AI 어시스턴트](2024/ai-assistant.md)
       + [실시간 컨텐츠 데이터 플랫폼 시간](2024/rtcdp-timings.md)
@@ -27,7 +28,7 @@ ht-degree: 14%
       + [방문자 추적](2024/tracking-visitors.md)
    + Adobe Marketo {#adobe-marketo-office-hours-2024}
       + [챔피언 기술 세션 - 5월](2024/champion-office-hours.md)
-+ 2023년 {#2023}
++ 2023 {#2023}
    + Adobe Analytics {#adobe-analytics}
       + [Launch 우수 사례](2023/launch-best-practices.md)
    + Adobe Campaign {#adobe-campaign-office-hours}
