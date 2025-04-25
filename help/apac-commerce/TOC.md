@@ -2,9 +2,9 @@
 user-guide-title: APAC Commerce 이벤트
 breadcrumb-title: APAC Commerce 이벤트
 user-guide-description: Adobe Commerce 이벤트는 전문가와 동료가 Adobe Commerce 사용 방법에 대한 생각과 아이디어를 공유한 비디오 라이브러리입니다.
-source-git-commit: 888157b1ae32dcd6657ddbac51c448ac72c65933
+source-git-commit: 0019364eaad86248349d31290f25f758d762eaf4
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '147'
 ht-degree: 4%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 4%
 # APAC Commerce 이벤트 {#apac-commerce-recordings}
 
 + [개요](overview.md)
-+ 2024년 {#2024}
++ 2024 {#2024}
    + [액셀러레이터 데이](2024/accelerator-day/overview.md)
-   + 액셀러레이터 일{#accelerator-day}
+   + 액셀러레이터 데이{#accelerator-day}
       + [숨김: 내일 탐색](./2024/accelerator-day/navigating-tomorrow.md)
       + [숨김: 테두리 밖의 패널](./2024/accelerator-day/panel-beyond-borders.md)
       + [숨김: 경험 진화](./2024/accelerator-day/experience-evolution.md)
@@ -33,20 +33,19 @@ ht-degree: 4%
    + [Innovation Spotlight 웨비나](2024/innovation-spotlight.md)
    + [Adobe Commerce의 보안](2024/security-overview.md)
    + [전자 상거래 비즈니스를 유기적으로 성장시키는 7가지 방법](2024/grow-ecommerce-business.md)
-+ 2023년 {#2023}
++ 2023 {#2023}
    + [AI 기반 개인화](2023/ai-personalisation.md)
    + [Adobe의 PaaS Cloud Commerce](2023/adobes-paas-cloud-commerce.md)
    + [전자 상거래 전환 승격](2023/ecommerce-conversions.md)
    + [구성 가능한 상거래 전략](2023/composable-commerce.md)
    + [성장을 위한 힘으로서의 시장](2023/marketplaces.md)
    + [성수기 준비](2023/peak-season-prep.md)
-+ 2022년 {#2022}
++ 2022 {#2022}
    + [2022년 휴일 준비](2022/holiday.md)
    + [New Relic Masterclass](2022/new-relic.md)
    + [사이트 전체 분석 도구](2022/analysis-tool.md)
    + [MBI를 사용하여 데이터를 가치로 변환](2022/mbi.md)
    + [2.4.4로 업그레이드](2022/upgrade.md)
-+ [릴리스 로드맵 특징](release-highlights.md)
 
 <!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)
