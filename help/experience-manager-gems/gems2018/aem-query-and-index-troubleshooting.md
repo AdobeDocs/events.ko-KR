@@ -30,5 +30,5 @@ Thomas Mueller, 수석 소프트웨어 엔지니어, Adobe
 [파일 가져오기](assets/20180808-gems-adobe+cloud+platform-experience+system+of+record-1.pdf)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

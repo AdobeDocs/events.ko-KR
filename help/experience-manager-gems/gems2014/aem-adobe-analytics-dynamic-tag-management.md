@@ -33,12 +33,12 @@ Sandro Looser, 솔루션 설계자, Adobe
 
 [Adobe Dynamic Tag Management과 통합](https://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
 
-[DTM 도움말](https://experienceleague.adobe.com/docs/data-collection.html?lang=en)
+[DTM 도움말](https://experienceleague.adobe.com/docs/data-collection.html?lang=ko)
 
 [DTM에 대한 액세스 요청](https://dtm.adobe.com/request_access)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
 
 >[!MORELIKETHIS]

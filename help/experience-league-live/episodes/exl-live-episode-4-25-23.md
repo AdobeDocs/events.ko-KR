@@ -27,5 +27,5 @@ Adobe의 최신 데이터 수집 도구를 처음 사용하고 구조의 깊이�
 
 이 라이브 스트림 이벤트의 재생을 보려면 위의 비디오를 시작하십시오.
 
-질문이 있습니까? Adobe Experience League [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476)에서 이 주제에 대한 토론을 계속합니다.
+질문이 있습니까? Adobe Experience League [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754?profile.language=ko#M476)에서 이 주제에 대한 토론을 계속합니다.
 

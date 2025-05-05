@@ -51,7 +51,7 @@ _전문가에게 문의_&#x200B;는 다음 두 개의 세션으로 구성됩니�
 
 >[!TIP]
 >
->Commerce Intelligence을 처음 사용하는 경우 [시작하기 비디오 시리즈](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html)에서 데이터 집계, 분석 및 시각화를 통해 비즈니스 통찰력과 결과를 향상시킬 수 있는 전체 개요를 제공합니다.
+>Commerce Intelligence을 처음 사용하는 경우 [시작하기 비디오 시리즈](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html?lang=ko)에서 데이터 집계, 분석 및 시각화를 통해 비즈니스 통찰력과 결과를 향상시킬 수 있는 전체 개요를 제공합니다.
 
-- [Commerce Intelligence 소개](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-- [Commerce Intelligence 지원](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+- [Commerce Intelligence 소개](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html?lang=ko)
+- [Commerce Intelligence 지원](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=ko)

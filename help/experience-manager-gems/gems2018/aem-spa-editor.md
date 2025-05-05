@@ -30,8 +30,8 @@ Gabriel Walt, 제품 관리자, Adobe
 
 ## 리소스 {#resources}
 
-[설명서: AEM SPA 편집기](https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-overview.html)
+[설명서: AEM SPA 편집기](https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-overview.html?lang=ko)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

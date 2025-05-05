@@ -29,5 +29,5 @@ AEM 유지 관리 릴리스(예: 서비스 팩 및 누적 수정 팩) 배포에 
 
 [파일 가져오기](assets/aem-sustenance-best-practices-gems.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

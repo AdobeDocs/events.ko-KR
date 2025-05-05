@@ -25,6 +25,6 @@ Photoshop, Lightroom 및 InDesign의 서비스를 포함하는 Creative Cloud �
 
 ## 추가 리소스
 
-- [Adobe Experience Platform 설명서](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform 설명서](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ko)
 - [Adobe Experience Platform 개요](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ko)
-- [Adobe Experience Platform 튜토리얼](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
+- [Adobe Experience Platform 튜토리얼](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ko)

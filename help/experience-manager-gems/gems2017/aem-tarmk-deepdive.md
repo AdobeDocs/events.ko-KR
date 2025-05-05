@@ -30,5 +30,5 @@ TarMK의 tar 파일 안에 무엇이 있는지 궁금해 본 적이 있는가? �
 
 [파일 가져오기](assets/aem-gems-qandas-tarmk-deep-dive.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

@@ -30,9 +30,9 @@ Stefan Egli, 개발자, Adobe
 
 ## 관련 링크 {#related-links}
 
-* [Eclipse용 AEM 개발자 도구 - 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/eclipse.html)
+* [Eclipse용 AEM 개발자 도구 - 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/eclipse.html?lang=ko)
 * [Sling IDE 도구](https://sling.apache.org/documentation/development/ide-tooling.html)
 * [토론 및 질문을 위한 포럼](https://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html)
 * [문제 보고 및 추적](https://github.com/Adobe-Marketing-Cloud/aem-eclipse-developer-tools/issues)
 * [Hobbes.js: UI 테스트 프레임워크](https://docs.adobe.com/docs/en/aem/6-0/develop/components/hobbes.html)
-* [개요로 돌아가기](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [개요로 돌아가기](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)

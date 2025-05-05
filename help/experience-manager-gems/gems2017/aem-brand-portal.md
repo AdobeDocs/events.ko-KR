@@ -38,5 +38,5 @@ Daniel Gordon, 기술 마케팅 엔지니어 - AEM, Adobe
 
 [파일 가져오기](assets/gems+bp-asset+share+nov+8+17+.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

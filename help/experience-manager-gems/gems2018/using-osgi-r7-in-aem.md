@@ -49,5 +49,5 @@ OSGi R7 릴리스는 많은 중요한 새로운 기능과 성능을 나타내며
 [OSGi 표준 릴리스 7](https://osgi.org/specification/osgi.cmpn/7.0.0/index.html)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

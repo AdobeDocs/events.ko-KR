@@ -29,5 +29,5 @@ Commerce integration framework(CIF)는 문서화된 통합 패턴, 참조 코드
 
 [파일 가져오기](assets/150909-aem-gems-ibm-websphere-commerce-integration.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

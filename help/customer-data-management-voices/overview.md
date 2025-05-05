@@ -101,22 +101,22 @@ ht-degree: 4%
         <br/>
    </td> 
    <td>
-      <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html">
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=ko">
       <img alt="책임 있는 고객 데이터 관리를 위한 10가지 고려 사항" src="./assets/ten-considerations-for-responsible-customer-data-management.png"/>
       </a>
       <div>
-         책임 있는 고객 데이터 관리를 위한 <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong>10가지 고려 사항</strong></a>
+         책임 있는 고객 데이터 관리를 위한 <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=ko"><strong>10가지 고려 사항</strong></a>
          <br/>
       </div>
       <p>
         <br/>
     </td>
     <td>
-      <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html">
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=ko">
       <img alt="데이터 관리자로서 마케터의 역할 강화" src="./assets/elevating-the-marketers-role-as-a-data-steward.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong>데이터 관리자로서 마케터의 역할 향상</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=ko"><strong>데이터 관리자로서 마케터의 역할 향상</strong></a>
          <br/>
       </div>
       <p>

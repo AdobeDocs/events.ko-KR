@@ -31,12 +31,12 @@ ht-degree: 3%
 
 ## 리소스
 
-*[메타데이터 스키마를 사용하여 자산 메타데이터 관리](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html)
-*[메타데이터 스키마 확장](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html)
+*[메타데이터 스키마를 사용하여 자산 메타데이터 관리](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html?lang=ko)
+*[메타데이터 스키마 확장](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html?lang=ko)
 *[계단식 메타데이터를 사용하여 메타데이터 작성 최적화](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use.html?lang=ko-KR)
-*[메타데이터 프로필을 사용하여 에셋에 메타데이터 자동 적용](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html)
-*[AEM 메타데이터 스키마](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=en#administer)
-*[자산 메타데이터 관리](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=en#RegisteringacustomnamespacewithinAEM)
+*[메타데이터 프로필을 사용하여 에셋에 메타데이터 자동 적용](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html?lang=ko)
+*[AEM 메타데이터 스키마](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=ko#administer)
+*[자산 메타데이터 관리](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=ko#RegisteringacustomnamespacewithinAEM)
 
 ## 시리즈 녹화
 

@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!BEGINSHADEBOX &quot;질문이 있습니까?&quot;]
 
-Adobe Experience League [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488)에서 이 주제에 대한 토론을 계속합니다.
+Adobe Experience League [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643?profile.language=ko#M488)에서 이 주제에 대한 토론을 계속합니다.
 
 >[!ENDSHADEBOX]
 
@@ -51,7 +51,7 @@ Adobe Experience League [커뮤니티 게시물](https://experienceleaguecommuni
 
 ## 추가 리소스
 
-* **[사용 사례 플레이북 개요](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html){target="_blank"}**
+* **[사용 사례 플레이북 개요](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html?lang=ko){target="_blank"}**
   *사용 사례 플레이북을 통해 Real-Time CDP 또는 Adobe Journey Optimizer을 시작할 때 원하는 사용 사례를 달성하기 위해 무엇을 시작해야 하는지 또는 올바른 자산을 만드는 방법을 정확히 알 수 없는 경우 문제를 해결할 수 있습니다.*
 
 * **[사용 사례 플레이북 시작](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=ko){target="_blank"}**

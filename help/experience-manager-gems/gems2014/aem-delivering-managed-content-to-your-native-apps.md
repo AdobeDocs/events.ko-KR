@@ -28,5 +28,5 @@ Anthony Rumsey, 컴퓨터 과학자, Adobe
 
 [파일 가져오기](assets/9-10-2014-delivering-managed-content-to-your-native-apps.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

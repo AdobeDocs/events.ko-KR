@@ -27,6 +27,6 @@ Adobe Workfront과 Adobe Experience Manager Assets이 함께 작동하는 방식
 
 ## 추가 리소스
 
-- [Adobe Experience Manager 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Adobe Experience Manager Cloud Service 개요](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
-- [Adobe Experience Manager 자습서](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)
+- [Adobe Experience Manager 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ko)
+- [Adobe Experience Manager Cloud Service 개요](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=ko)
+- [Adobe Experience Manager 자습서](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=ko)

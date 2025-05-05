@@ -25,6 +25,6 @@ ht-degree: 0%
 * 성공을 위해 미래의 자신(및 미래의 관리자)을 설정하기 위해 모든 관리자가 오늘 수행해야 하는 작업
 * 인스턴스 감사 및 설명서 프로세스를 안내하는 질문, 리소스 및 링크가 포함된 다운로드 가능한 체크리스트입니다
 
-상속된 인스턴스 확인 목록 및 블루프린트도 체크아웃하십시오. https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
+상속된 인스턴스 확인 목록 및 블루프린트도 체크아웃하십시오. https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431014/?learn=on)

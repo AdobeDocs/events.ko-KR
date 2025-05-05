@@ -25,5 +25,5 @@ ht-degree: 7%
 ## 추가 정보
 
 * [1마일의 데이터 관리 간소화](first-mile.md)
-* [데이터 관리자로서 마케터의 역할 향상](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
-* [책임 있는 고객 데이터 관리를 위한 10가지 고려 사항](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
+* [데이터 관리자로서 마케터의 역할 향상](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=ko)
+* [책임 있는 고객 데이터 관리를 위한 10가지 고려 사항](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=ko)

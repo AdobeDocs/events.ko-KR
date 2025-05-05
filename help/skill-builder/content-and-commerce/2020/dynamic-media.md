@@ -31,7 +31,7 @@ Dynamic Media를 사용하여 모든 채널 및 화면에 대한 에셋 출력�
 
 ## 리소스
 
-*[Dynamic Media 비디오](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html#dynamic-media)
+*[Dynamic Media 비디오](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html?lang=ko#dynamic-media)
 *[리치 미디어 전략 킥스타트 안내서](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[리치 미디어 전략 이미지 사전 설정 안내서](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
 *[이미지는 모두 블로그 시리즈](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)

@@ -33,5 +33,5 @@ ht-degree: 0%
 * Gilles Knobloch, 엔지니어링 관리자, Adobe
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

@@ -29,5 +29,5 @@ Simon Mac Donald, 개발자 옹호자, Adobe
 [파일 가져오기](assets/maintaining-open-source-while-maintaining-your-sanity-gems-091218.pdf)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

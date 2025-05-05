@@ -30,7 +30,7 @@ Tommaso Teofili, 컴퓨터 과학자, Adobe
 [파일 가져오기](assets/aem-gems-solr-oakaem-071818.pdf)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
 
 >[!MORELIKETHIS]

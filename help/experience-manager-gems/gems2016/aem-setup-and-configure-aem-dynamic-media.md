@@ -34,5 +34,5 @@ AEM Dynamic Media을 통해 고객은 단일 마스터 이미지 또는 비디�
 [Dynamic Media 구성](https://docs.adobe.com/docs/en/aem/6-2/administer/content/dynamic-media/config-dynamic.html)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

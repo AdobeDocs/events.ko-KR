@@ -24,5 +24,5 @@ Journey Optimizer의 새로운 캠페인 기능을 사용하면 여러 채널을
 
 원래 2022년 9월 22일에 열렸던 이 Experience League 라이브 에피소드에서는 호스트 Sandra Hausmann과 제품 전문가 Bridgett Darling and Frederic Mary가 이 새로운 기능이 다루는 사용 사례를 논의하고 Journey Optimizer에서 캠페인을 쉽게 설정하고 실행하는 방법을 시연할 때 참조하십시오. 캠페인과 여정을 모두 사용하여 매력적인 개인화된 고객 경험을 제공하는 방법과 이 두 가지 캔버스에서 새로운 인라인 메시징 워크플로우를 활용하는 방법에 대해 알아봅니다.
 
-[커뮤니티 게시물 Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-execute-your/m-p/547896#M52)에서 이 주제에 대한 토론을 계속합니다. 우리는 당신으로부터 소식을 듣기를 바랍니다!
+[커뮤니티 게시물 Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-execute-your/m-p/547896?profile.language=ko#M52)에서 이 주제에 대한 토론을 계속합니다. 우리는 당신으로부터 소식을 듣기를 바랍니다!
 

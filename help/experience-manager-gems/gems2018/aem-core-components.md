@@ -24,7 +24,7 @@ ht-degree: 4%
 
 Gabriel Walt, 제품 관리자, Adobe
 
-[AEM 핵심 구성 요소 설명서](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
+[AEM 핵심 구성 요소 설명서](https://helpx.adobe.com/kr/experience-manager/core-components/user-guide.html)
 
 AEM Gems - AEM 핵심 구성 요소 - 날짜: 2018/12/05
 

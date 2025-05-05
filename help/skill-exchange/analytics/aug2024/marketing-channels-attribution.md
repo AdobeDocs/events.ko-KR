@@ -25,7 +25,7 @@ ht-degree: 0%
 * 마케팅 채널 소개: 다양한 마케팅 채널을 식별하고 분류하여 디지털 상태에 미치는 영향을 이해하는 것이 중요합니다.
 * Adobe Analytics 구성: 캠페인 추적 코드 설정, 관련 데이터 캡처 및 효율적인 데이터 수집을 위한 Adobe Launch 활용에 대한 실용적인 지식을 얻으십시오.
 
-  이 세션에 포함된 캠페인 추적 코드 생성기 도구를 다운로드하려면 Experience League 관점에서 [Adobe Analytics-마케팅 채널 및 속성 마스터하기](https://experienceleague.adobe.com/en/perspectives/mastering-adobe-analytics-marketing-channels-attribution)를 방문하십시오.
+  이 세션에 포함된 캠페인 추적 코드 생성기 도구를 다운로드하려면 Experience League 관점에서 [Adobe Analytics-마케팅 채널 및 속성 마스터하기](https://experienceleague.adobe.com/ko/perspectives/mastering-adobe-analytics-marketing-channels-attribution)를 방문하십시오.
 
 * 분류 및 처리 규칙: 분류 규칙 빌더를 사용하는 방법을 알아보고 정확한 트래픽 소스 분류를 위한 마케팅 채널 처리 규칙을 구성합니다.
 * 속성 모델: Adobe Analytics에서 사용할 수 있는 다양한 속성 모델과 이를 적용하여 마케팅 활동의 효과를 측정하고 최적화하는 방법을 살펴봅니다.

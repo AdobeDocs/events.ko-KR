@@ -38,5 +38,5 @@ Oak의 쿼리 엔진에 대해 알아보고 Jackrabbit 2.x와 어떻게 비교�
 [Oak 설명서](https://jackrabbit.apache.org/oak/docs/)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

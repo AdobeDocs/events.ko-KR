@@ -29,5 +29,5 @@ AEM [!DNL Forms] 기능 팩 1은 LiveCycle 배포를 위한 업그레이드 경�
 
 [파일 가져오기](assets/aem-forms-fp1-2015-0204.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

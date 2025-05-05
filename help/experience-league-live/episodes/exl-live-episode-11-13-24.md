@@ -21,4 +21,4 @@ Adobe 제품 및 엔지니어링 전문가가 혁신적인 최신 혁신을 흥�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438012/?quality=12&learn=on)
 
-[**Experience League 커뮤니티에서 토론을 계속합니다**](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/adobe-experience-league-live-introducing-ai-assistant-for/td-p/716720)
+[**Experience League 커뮤니티에서 토론을 계속합니다**](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/adobe-experience-league-live-introducing-ai-assistant-for/td-p/716720?profile.language=ko)

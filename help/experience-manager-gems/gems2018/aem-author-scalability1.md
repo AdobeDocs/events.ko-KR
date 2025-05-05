@@ -28,5 +28,5 @@ Matt Ryan, Adobe 소프트웨어 엔지니어
 
 [파일 가져오기](assets/experiments+in+aem+author+scalability+2+7+18.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

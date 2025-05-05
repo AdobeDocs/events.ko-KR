@@ -29,10 +29,10 @@ Jonas Dahl, 제품 관리자, Adobe
 
 ## 리소스 {#resources}
 
-[향상된 스마트 태그 - AEM Assets](https://helpx.adobe.com/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
+[향상된 스마트 태그 - AEM Assets](https://helpx.adobe.com/kr/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
 
 >[!MORELIKETHIS]

@@ -29,5 +29,5 @@ Francois Le Droff, 수석 컴퓨터 과학자, 클라우드 통합, Adobe
 [파일 가져오기](assets/gem-2018-05-aem-events.pdf)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

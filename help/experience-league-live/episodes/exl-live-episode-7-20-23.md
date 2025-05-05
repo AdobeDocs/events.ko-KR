@@ -23,5 +23,5 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421425/?quality=12&learn=on)
 
-이 프로그램에 대한 질문이 있습니까? Adobe Experience League [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-actionable/m-p/607073#M366)에서 이 주제에 대한 토론을 계속합니다.
+이 프로그램에 대한 질문이 있습니까? Adobe Experience League [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-actionable/m-p/607073?profile.language=ko#M366)에서 이 주제에 대한 토론을 계속합니다.
 

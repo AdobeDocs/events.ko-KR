@@ -21,8 +21,8 @@ ht-degree: 6%
    + [고객 프로필을 통해 더 나은 경험 구축](cdm/building-better-experiences-with-customer-profiles.md)
    + [마케팅 팀이 데이터 관리 전략을 향상시키는 방법](cdm/how-marketing-teams-are-improving-data-management-strategies.md)
 + 대상 및 프로필 데이터 거버넌스 및 개인 정보 보호 {#governance}
-   + [책임 있는 고객 데이터 관리를 위한 10가지 고려 사항](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
-   + [데이터 관리자로서 마케터의 역할 향상](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
+   + [책임 있는 고객 데이터 관리를 위한 10가지 고려 사항](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=ko)
+   + [데이터 관리자로서 마케터의 역할 향상](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=ko)
    + [대상 프로필 데이터 거버넌스 및 개인 정보 보호](governance/healthcare-shield.md)
 + 업계 토론 {#industry}
    + [자사 데이터를 사용하여 탁월한 경험 구축](industry/build-superb-experiences-with-your-first-party-data.md)

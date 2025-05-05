@@ -28,5 +28,5 @@ Apache Jackrabbit Oak의 새 외부 로그인 모듈을 참조하십시오. 로�
 
 [파일 가져오기](assets/oak-ldap-cqgems.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

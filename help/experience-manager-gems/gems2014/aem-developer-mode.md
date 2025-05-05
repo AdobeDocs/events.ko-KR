@@ -36,5 +36,5 @@ David Catalan, QE 개발자, Adobe
 
 [파일 가져오기](assets/q-a-developer-mode-7-16-14.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

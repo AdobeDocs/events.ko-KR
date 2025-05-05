@@ -33,5 +33,5 @@ Adobe Commerce 제품 팀에서 직접 MBI Data Warehouse Manager의 강력한 �
 
 ## 유용한 리소스
 
-[Data Warehouse 관리자 둘러보기](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
-[데이터 연결](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)
+[Data Warehouse 관리자 둘러보기](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html?lang=ko)
+[데이터 연결](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html?lang=ko)

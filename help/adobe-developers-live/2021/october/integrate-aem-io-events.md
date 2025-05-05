@@ -28,6 +28,6 @@ Adobe Experience Manager Cloud Service을 Adobe I/O 사용자 지정 이벤트�
 
 ## 추가 리소스
 
-- [Adobe Experience Manager 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Adobe Experience Manager Cloud Service 개요](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
-- [Adobe Experience Manager 자습서](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)
+- [Adobe Experience Manager 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ko)
+- [Adobe Experience Manager Cloud Service 개요](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=ko)
+- [Adobe Experience Manager 자습서](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=ko)

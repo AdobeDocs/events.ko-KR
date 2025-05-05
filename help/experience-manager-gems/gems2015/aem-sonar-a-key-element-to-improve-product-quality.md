@@ -31,4 +31,4 @@ ht-degree: 0%
 발표자 슬라이드 **개**
 
 [파일 가져오기](assets/cq-gems-on-aem-sonarqube-2015-02.pdf)
-[개요로 돌아가기](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[개요로 돌아가기](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)

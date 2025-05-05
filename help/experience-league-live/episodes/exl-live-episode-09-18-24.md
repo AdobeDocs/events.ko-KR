@@ -22,7 +22,7 @@ Edge Bridge 확장 기능을 사용하여 마이그레이션 격차를 해소하
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434575/?quality=12&learn=on)
 
-**토론을 계속하려면 Experience League 커뮤니티의 [토론](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}을 방문하세요.**
+**토론을 계속하려면 Experience League 커뮤니티의 [토론](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990?profile.language=ko#M550){target="_blank"}을 방문하세요.**
 
 
 **세부 정보 표시**:

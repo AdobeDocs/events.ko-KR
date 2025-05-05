@@ -74,12 +74,12 @@ ht-degree: 5%
 
 ## 추가 리소스
 
-* [Experience League - AEM 탐색](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
-* [AEM Sites 작성 설명서](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
-* [AEM Sites 개발 설명서](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
-* [AEM Sites 관리 설명서](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
-* [AEM Sites 배포 설명서](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
+* [Experience League - AEM 탐색](https://experienceleague.adobe.com/ko#recommended/solutions/experience-manager)
+* [AEM Sites 작성 설명서](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=ko)
+* [AEM Sites 개발 설명서](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=ko)
+* [AEM Sites 관리 설명서](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=ko)
+* [AEM Sites 배포 설명서](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=ko)
 * [AEM as a Cloud Service Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=ko-KR)
-* [AEM Assets 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html)
-* [AEM Forms 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
-* [AEM Foundation 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
+* [AEM Assets 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=ko)
+* [AEM Forms 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=ko)
+* [AEM Foundation 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=ko)

@@ -27,7 +27,7 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3448635/?quality=12&learn=on)
 
-**Experience League [커뮤니티 게시물에 대해 토론을 계속합니다.](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208){target=“_blank”}**
+**Experience League [커뮤니티 게시물에 대해 토론을 계속합니다.](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208?profile.language=ko){target=“_blank”}**
 
 ## 추가 리소스
 

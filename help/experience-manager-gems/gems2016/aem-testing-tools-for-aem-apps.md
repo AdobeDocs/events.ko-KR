@@ -26,5 +26,5 @@ Experience Manager의 단위 테스트부터 통합 테스트까지 애플리케
 
 [파일 가져오기](assets/aem-gems-tools-for-testing-12-14-16.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

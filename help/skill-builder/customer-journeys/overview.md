@@ -19,11 +19,11 @@ ht-degree: 2%
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html?lang=ko">
       <img alt="함께 사용하여 더욱 효율적인 작업 수행 - Adobe [!DNL Marketo Engage] 및 Real-Time CDP" src="assets/343824.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html?lang=ko">
         <strong>함께 개선 - Adobe [!DNL Marketo Engage] 및 Real-Time CDP</strong>
       </a>
     </div>
@@ -32,11 +32,11 @@ ht-degree: 2%
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html?lang=ko">
       <img alt="Adobe에서 데이터 모델 개발 및 사용자 지정 [!DNL Campaign Classic]" src="assets/343829.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html?lang=ko">
         <strong>Adobe [!DNL Campaign Classic]</strong>에서 데이터 모델 개발 및 사용자 지정
       </a>
     </div>
@@ -45,11 +45,11 @@ ht-degree: 2%
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html?lang=ko">
       <img alt="Adobe Campaign Standard을 위한 주요 팁 및 요령" src="https://video.tv.adobe.com/v/343828?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html?lang=ko">
         <strong>Adobe Campaign Standard을 위한 주요 팁 및 요령</strong>
       </a>
     </div>

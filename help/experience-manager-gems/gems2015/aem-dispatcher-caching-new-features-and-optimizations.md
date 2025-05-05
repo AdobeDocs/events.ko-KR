@@ -33,5 +33,5 @@ AEM 경험을 극대화하려면 AEM Dispatcher 캐시를 미세 조정하는 �
 
 [파일 가져오기](assets/aemgems-dispatcher-caching-part2-jan-28-2015.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

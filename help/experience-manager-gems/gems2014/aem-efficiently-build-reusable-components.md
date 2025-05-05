@@ -37,5 +37,5 @@ Gabriel Walt, 제품 관리자, Adobe
 [AEM HTL Brackets 확장](https://github.com/Adobe-Marketing-Cloud/aem-brackets-extension#AEM6#BeautifulMarkup)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

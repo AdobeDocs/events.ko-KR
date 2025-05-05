@@ -40,5 +40,5 @@ ht-degree: 0%
 
 ## 유용한 리소스
 
-[Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html)
-[Commerce Intelligence 지원](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=ko)
+[Commerce Intelligence 지원](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=ko)

@@ -27,5 +27,5 @@ ht-degree: 0%
 
 위의 비디오를 통해 이 라이브 스트림 이벤트를 확인하십시오. Adobe [!DNL Analytics] 전문가는 Analysis Workspace 및 [!DNL Analytics] 대시보드 앱에서 인사이트를 사용자 지정하고 액세스하는 방법에 대한 유용한 팁을 제공합니다.
 
-질문이 있습니까? Adobe Experience League [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037)에서 이 주제에 대한 토론을 계속합니다.
+질문이 있습니까? Adobe Experience League [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787?profile.language=ko#M3037)에서 이 주제에 대한 토론을 계속합니다.
 

@@ -31,9 +31,9 @@ Brand Portal을 사용하면 내부 및 외부 팀과 에셋을 쉽게 공유할
 
 ## 리소스
 
-* [Brand Portal 개요](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html)
-* [Brand Portal 비디오](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal.html)
-* [자산 소싱](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html)
+* [Brand Portal 개요](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=ko)
+* [Brand Portal 비디오](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal.html?lang=ko)
+* [자산 소싱](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=ko)
 
 ## 시리즈 녹화
 

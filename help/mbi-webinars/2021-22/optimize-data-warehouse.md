@@ -43,5 +43,5 @@ Data Warehouse 관리자를 사용하여 테이블 및 열 동기화 설정을 �
 
 ## 유용한 리소스
 
-[분석을 위해 데이터베이스 최적화](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
-[세분화 및 필터링에 권장되는 데이터 Dimension](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[분석을 위해 데이터베이스 최적화](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html?lang=ko)
+[세분화 및 필터링에 권장되는 데이터 Dimension](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html?lang=ko)

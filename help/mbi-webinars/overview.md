@@ -27,11 +27,11 @@ Commerce Intelligence 웨비나 시리즈는 Commerce Intelligence 고객을 위
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html?lang=ko">
       <img alt="Commerce Intelligence 시작하기" src="https://video.tv.adobe.com/v/3425736?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html?lang=ko">
         <strong>Commerce Intelligence 시작</strong>
       </a>
     </div>
@@ -40,11 +40,11 @@ Commerce Intelligence 웨비나 시리즈는 Commerce Intelligence 고객을 위
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html?lang=ko">
       <img alt="Adobe Commerce Intelligence에서 데이터 세트 관리" src="https://video.tv.adobe.com/v/3427547?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html?lang=ko">
         <strong>Adobe Commerce Intelligence에서 데이터 집합 관리</strong>
       </a>
     </div>
@@ -53,11 +53,11 @@ Commerce Intelligence 웨비나 시리즈는 Commerce Intelligence 고객을 위
     <p>
   </td>
    <td>
-    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html?lang=ko">
       <img alt="MBI Data Warehouse 최적화" src="https://video.tv.adobe.com/v/342562?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html?lang=ko">
         <strong>MBI Data Warehouse 최적화</strong>
       </a>
     </div>
@@ -74,5 +74,5 @@ Commerce Intelligence 웨비나 시리즈는 Commerce Intelligence 고객을 위
 
 ## 유용한 리소스
 
-- [Commerce Intelligence 비디오 및 튜토리얼](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
-- [Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html)
+- [Commerce Intelligence 비디오 및 튜토리얼](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html?lang=ko)
+- [Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=ko)

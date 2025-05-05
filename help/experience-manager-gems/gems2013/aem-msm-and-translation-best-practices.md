@@ -31,4 +31,4 @@ Christine Duran, Adobe Sr 번역 기술 그룹 관리자
 
 * [다중 사이트 관리 모범 사례](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
 * [번역 모범 사례](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
-* [개요로 돌아가기](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [개요로 돌아가기](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)

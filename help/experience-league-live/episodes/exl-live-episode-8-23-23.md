@@ -30,5 +30,5 @@ API 트리거된 캠페인을 사용하면 기업은 캠페인을 설정하고 �
 
 **쇼를 보려면 위의 이미지를 클릭하세요!**
 
-[Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132)에 대해 토론을 계속합니다.
+[Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273?profile.language=ko#M132)에 대해 토론을 계속합니다.
 

@@ -31,10 +31,10 @@ Asset Link는 Adobe Creative Cloud에 대한 기본 연결입니다.
 
 ## 리소스
 
-* [Adobe Asset Link 비디오](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html)
-* [Adobe XD에 대한 자산 링크](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/adobe-asset-link-for-xd.ug.html)
-* [Adobe Asset Link에 대한 AEM Assets 6.5 및 6.4 구성](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
-* [Adobe Asset Link에 대한 AEM as a Cloud Service 구성](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
+* [Adobe Asset Link 비디오](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html?lang=ko)
+* [Adobe XD에 대한 자산 링크](https://helpx.adobe.com/kr/enterprise/admin-guide.html/enterprise/using/adobe-asset-link-for-xd.ug.html)
+* [Adobe Asset Link에 대한 AEM Assets 6.5 및 6.4 구성](https://helpx.adobe.com/kr/enterprise/using/configure-aem-assets-6-for-asset-link.html)
+* [Adobe Asset Link에 대한 AEM as a Cloud Service 구성](https://helpx.adobe.com/kr/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
 
 ## 시리즈 녹화
 

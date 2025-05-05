@@ -28,6 +28,6 @@ Cloud Manager에 최근 도입된 새로운 프론트엔드 코드 파이프라�
 
 ## 추가 리소스
 
-- [Adobe Experience Manager 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Adobe Experience Manager Cloud Service 개요](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
-- [Adobe Experience Manager 자습서](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)
+- [Adobe Experience Manager 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ko)
+- [Adobe Experience Manager Cloud Service 개요](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=ko)
+- [Adobe Experience Manager 자습서](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=ko)

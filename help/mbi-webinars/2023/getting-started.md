@@ -31,5 +31,5 @@ ht-degree: 1%
 
 ## 추가 리소스
 
-[Commerce Intelligence 소개](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-[Commerce Intelligence 지원](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[Commerce Intelligence 소개](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html?lang=ko)
+[Commerce Intelligence 지원](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=ko)

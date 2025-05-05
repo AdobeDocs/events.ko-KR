@@ -36,5 +36,5 @@ Javascript 프로젝트에 sonarqube 분석을 통합하여 다음에 액세스�
 
 [파일 가져오기](assets/com-adobe-granite-ui-utils-timing-with-licenses.zip)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

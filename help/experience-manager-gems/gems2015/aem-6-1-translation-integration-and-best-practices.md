@@ -30,5 +30,5 @@ Cristine과 Mathias는 AEM의 향상된 번역 통합 기능과 다국어 웹 �
 [파일 가져오기](assets/09302015-aem-gems-translation-integration-and-best-practices.pdf)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

@@ -28,6 +28,6 @@ ht-degree: 0%
 
 >[!BEGINSHADEBOX &quot;질문이 있습니까?&quot;]
 
-**Adobe Experience League에서 이 주제에 대한 토론을 계속합니다. [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.**
+**Adobe Experience League에서 이 주제에 대한 토론을 계속합니다. [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305?profile.language=ko#M205){target="_blank"}.**
 
 >[!ENDSHADEBOX]

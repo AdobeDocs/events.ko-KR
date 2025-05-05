@@ -22,7 +22,7 @@ Adobe Experience Cloud의 데이터 수집에 대한 세 가지 라이브스트�
 
 >[!VIDEO](https://video.tv.adobe.com/v/344251/?quality=12&learn=on)
 
-[Experience League 커뮤니티에서 **토론을 계속합니다**](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-real-time-cdp/m-p/458195#M285){target="_blank"}!
+[Experience League 커뮤니티에서 **토론을 계속합니다**](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-real-time-cdp/m-p/458195?profile.language=ko#M285){target="_blank"}!
 
 ## 이 데이터 수집 시리즈의 추가 Experience League 라이브 세션
 

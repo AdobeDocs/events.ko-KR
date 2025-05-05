@@ -21,5 +21,5 @@ Summit 무대에서 만난 적 있는 분입니다. Adobe Insider Tours에서 �
 
 >[!VIDEO](https://video.tv.adobe.com/v/335921/?quality=12&learn=on)
 
-이 세션에 대해 논의하려면 Experience League 커뮤니티의 [토론](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/questions-and-discussion-for-experience-league-live-ep-1-my/td-p/419498){target="_blank"}을 방문하세요.
+이 세션에 대해 논의하려면 Experience League 커뮤니티의 [토론](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/questions-and-discussion-for-experience-league-live-ep-1-my/td-p/419498?profile.language=ko){target="_blank"}을 방문하세요.
 

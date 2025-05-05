@@ -96,7 +96,7 @@ ht-degree: 0%
 
 <br> 
 
-[Experience League 커뮤니티 토론](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620#M240)에서 이 주제에 대한 토론을 계속합니다.
+[Experience League 커뮤니티 토론](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620?profile.language=ko#M240)에서 이 주제에 대한 토론을 계속합니다.
 <br> 
 
 ## 이 데이터 수집 시리즈의 추가 Experience League 라이브 세션

@@ -26,7 +26,7 @@ Adobe Campaign v8은 완전히 새로운 모양과 느낌을 선사할 것입니
 
 >[!BEGINSHADEBOX &quot;질문이 있습니까?&quot;]
 
-Adobe Experience League [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}에서 이 주제에 대한 토론을 계속합니다.
+Adobe Experience League [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893?profile.language=ko#M2671){target="_blank"}에서 이 주제에 대한 토론을 계속합니다.
 
 >[!ENDSHADEBOX]
 
@@ -49,6 +49,6 @@ Adobe Experience League [커뮤니티 게시물](https://experienceleaguecommuni
 * **[Campaign 웹 사용자 인터페이스 - 주요 기능](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=ko-KR){target="_blank"}**
   *현재 Adobe Campaign 웹 사용자 인터페이스에서 사용 가능한 항목에 대한 자세한 설명서입니다.*
 
-* **[Adobe Campaign 웹 사용자 인터페이스 - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
+* **[Adobe Campaign 웹 사용자 인터페이스 - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=ko){target="_blank"}**
   *Adobe Campaign Web User Interface의 기능에 대한 비디오 및 튜토리얼을 만드는 방법*
 

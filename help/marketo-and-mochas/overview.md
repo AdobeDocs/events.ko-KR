@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Marketo 및 Mochas
 
-Marketo 및 Mochas 녹화에 오신 것을 환영합니다. 이러한 리소스를 Adobe Marketo [설명서](https://experienceleague.adobe.com/docs/marketo-engage.html) 및 [튜토리얼](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)과(와) 결합하여 사용하면 Adobe Marketo을 사용하여 비즈니스를 지원하는 방법을 더 잘 이해할 수 있습니다.
+Marketo 및 Mochas 녹화에 오신 것을 환영합니다. 이러한 리소스를 Adobe Marketo [설명서](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=ko) 및 [튜토리얼](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ko)과(와) 결합하여 사용하면 Adobe Marketo을 사용하여 비즈니스를 지원하는 방법을 더 잘 이해할 수 있습니다.
 
 ## 년 레코딩
 

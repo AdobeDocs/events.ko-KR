@@ -37,5 +37,5 @@ Gabriel Walt, 제품 관리자, Adobe
 [HTL로 개발](https://docs.adobe.com/docs/en/htl/overview.html?wcmmode=disabled)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

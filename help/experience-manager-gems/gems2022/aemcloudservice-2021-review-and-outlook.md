@@ -31,6 +31,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [해당 Adobe Experience Manager 사용자 그룹 이벤트 페이지](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266)
+>* [해당 Adobe Experience Manager 사용자 그룹 이벤트 페이지](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266?profile.language=ko)
 >* [해당 컨텍스트 스레드](https://adobe.ly/3rqbSOz)
 >* 예정된 웨비나에 대한 알림을 받으려면 [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/)에 등록하십시오.

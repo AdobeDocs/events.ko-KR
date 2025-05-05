@@ -25,7 +25,7 @@ Bryan, Eric 및 Doug와 함께 CJA(Customer Journey Analytics)를 사용하여 �
 
 >[!BEGINSHADEBOX &quot;질문이 있습니까?&quot;]
 
-[Experience League 커뮤니티 포럼 토론](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582)에 대한 토론을 계속합니다.
+[Experience League 커뮤니티 포럼 토론](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093?profile.language=ko#M3582)에 대한 토론을 계속합니다.
 
 >[!ENDSHADEBOX]
 

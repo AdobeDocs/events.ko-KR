@@ -19,11 +19,11 @@ ht-degree: 2%
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html?lang=ko">
       <img alt="Adobe Experience Manager을 통해 헤드리스 경험 제공" src="https://video.tv.adobe.com/v/343816?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html?lang=ko">
         <strong>Adobe Experience Manager을 통해 헤드리스 경험 제공</strong>
       </a>
     </div>
@@ -32,11 +32,11 @@ ht-degree: 2%
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html?lang=ko">
       <img alt="Adobe Experience Manager Assets에서 비즈니스에 적합한 메타데이터 활용" src="https://video.tv.adobe.com/v/343815?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html?lang=ko">
         <strong>Adobe Experience Manager Assets에서 비즈니스에 적합한 메타데이터 만들기</strong>
       </a>
     </div>
@@ -45,11 +45,11 @@ ht-degree: 2%
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html?lang=ko">
       <img alt="엔터프라이즈 워크플로 관리 활용" src="https://video.tv.adobe.com/v/343817?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html?lang=ko">
         <strong>Enterprise Workflow Management를 최대한 활용하십시오</strong>
       </a>
     </div>

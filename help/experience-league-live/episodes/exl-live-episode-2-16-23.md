@@ -27,5 +27,5 @@ ht-degree: 0%
 
 위 비디오를 통해 Adobe 경험 전달 전문가가 고려할 사항과 성능을 향상시키기 위해 취할 수 있는 조치에 대해 논의하는 이 라이브 스트림 이벤트를 살펴보십시오.
 
-**질문이 있습니까?** Adobe Experience League [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513#M36836)에서 이 주제에 대한 토론을 계속합니다.
+**질문이 있습니까?** Adobe Experience League [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513?profile.language=ko#M36836)에서 이 주제에 대한 토론을 계속합니다.
 

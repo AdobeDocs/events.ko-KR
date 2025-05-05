@@ -36,5 +36,5 @@ Adobe 디지털 마케팅 수석 제품 관리자인 Cynthia Tillo와 함께 다
 
 [파일 가져오기](assets/dynamicmedia83017.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

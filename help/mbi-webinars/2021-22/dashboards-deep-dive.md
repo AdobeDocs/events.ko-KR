@@ -35,5 +35,5 @@ ht-degree: 0%
 
 ## 유용한 리소스
 
-[대시보드](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html)
-[차트 데이터 내보내기](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
+[대시보드](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html?lang=ko)
+[차트 데이터 내보내기](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html?lang=ko)

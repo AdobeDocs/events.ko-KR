@@ -25,5 +25,5 @@ CQ 사용자 인터페이스를 종료하지 않고도 사용자가 작업을 �
 Keith Brazil, 기술 부사장, Translations.com
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/kr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
