@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence은 이전에 [!DNL Magento Business Intelligence (MBI)](으)로 알려져 있었습니다. 이전 이벤트의 녹화본은 이전 이름을 반영합니다.
+>Adobe Commerce Intelligence은 이전에 [!DNL Magento Business Intelligence (MBI)] (으)로 알려져 있었습니다. 이전 이벤트의 녹화본은 이전 이름을 반영합니다.
 
 Data Warehouse 관리자를 사용하여 테이블 및 열 동기화 설정을 관리하고, 테이블의 스키마를 드릴다운하며, 보고서에 사용할 계산된 열을 만들 수 있습니다.
 

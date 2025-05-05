@@ -20,7 +20,7 @@ ht-degree: 13%
 # 브루 {#behind-the-brew-recordings}
 
 + [개요](overview.md)
-+ 맥주 {#behind-the-brew} 뒤
++ 맥주 뒤 {#behind-the-brew}
 + 2025년 {#2025}
    + [Adobe Developer App Builder](2025/app-builder.md)
    + [Adobe Commerce Intelligence (fka MBI)](2025/commerce-intelligence.md)

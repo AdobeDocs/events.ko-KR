@@ -33,7 +33,7 @@ ht-degree: 0%
 + 리소스 관리 {#resource-management}
    + [리소스 및 용량 계획](user-groups/resource-and-capacity-planning.md)
    + [리소스 관리](user-groups/resource-management.md)
-+ {#review-and-approve-work} 작업 검토 및 승인
++ 작업 검토 및 승인{#review-and-approve-work}
    + [마케팅 워크플로우 및 승인](user-groups/marketing-workflows-and-approvals.md)
    + [IT 워크플로 및 승인](user-groups/it-workflows-and-approvals.md)
 + 타임시트 {#timesheets}

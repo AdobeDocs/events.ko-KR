@@ -16,7 +16,7 @@ ht-degree: 1%
 + [Adobe 컨텐츠 관리 포럼](overview.md)
 + 2022 {#2022}
    + [시작 주소 및 AEM 개요](2022/welcome.md)
-   + [ [!DNL Adobe App Builder](으)로  [!DNL Experience Manager] Headless Adobe 확장](2022/headless.md)
+   + [[!DNL Adobe App Builder] (으)로  [!DNL Experience Manager] Headless Adobe 확장](2022/headless.md)
    + [개발자 우수 사례](2022/developer-best-practices.md)
    + [콘텐츠 개인화 제공](2022/personalization.md)
    + [확장 가능한 콘텐츠 공급망 구축](2022/supply-chain.md)

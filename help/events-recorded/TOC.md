@@ -13,7 +13,7 @@ ht-degree: 9%
 # Adobe Experience League 이벤트 레코딩 {#experience-league-recorded-events}
 
 + [개요](overview.md)
-+ {#series} 계열별
++ 계열별{#series}
    + [Acrobat Sign 웨비나](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html)
    + [Adobe Campaign Insider 시리즈](https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html)
    + [Adobe Commerce Intelligence 웨비나](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
@@ -41,7 +41,7 @@ ht-degree: 9%
    + [스킬 교환](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + [Workfront으로 절전 모드 해제](https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html)
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
-+ 솔루션 {#solution}별
++ 솔루션별 {#solution}
    + Acrobat Sign {#as}
       + [Acrobat Sign 웨비나](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html)
    + Adobe Acrobat 서비스 {#aas}

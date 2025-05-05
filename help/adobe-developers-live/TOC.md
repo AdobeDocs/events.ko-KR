@@ -14,7 +14,7 @@ ht-degree: 4%
 
 + [개요](overview.md)
 + 2024년 {#2024}
-   + {#nov2024}년 11월
+   + 년 11월{#nov2024}
       + [Keynote](2024/nov/keynote.md)
       + AEM Cloud Service {#aem-cloud-service}
          + [AEM API 및 이벤트](2024/nov/apis-eventing.md)
@@ -44,7 +44,7 @@ ht-degree: 4%
          + [Edge Delivery Services 및 Adobe Commerce](2024/nov/commerce-storefront-eds.md)
          + [Headless 구현을 위한 Commerce API 오케스트레이션](2024/nov/commerce-api-headless.md)
 + 2023년 {#2023}
-   + {#nov2023}년 11월
+   + 년 11월{#nov2023}
       + [Keynote 열기](2023/november/keynote.md)
       + [Keynote(APAC) 열기](2023/november/keynote-apac.md)
       + [App Builder을 사용하여 콘텐츠 워크플로 자동화](2023/november/content-workflows.md)
@@ -74,7 +74,7 @@ ht-degree: 4%
          + [검색 및 카탈로그 서비스](2023/november/commerce-search-and-catalog-service.md)
          + [Commerce 사이트 성능을 최적화하는 전략](2023/november/commerce-site-performance.md)
          + [Adobe Commerce Cloud에서 변경 내용 추적](2023/november/commerce-cloud-track-changes.md)
-   + {#may2023}년 5월
+   + 년 5월{#may2023}
       + [Keynote 열기](2023/may/keynote.md)
       + [API 투어](2023/may/new-apis.md)
       + [이메일 및 Forms용 AEM 핵심 구성 요소에 대해 자세히 알아보기](2023/may/core-components.md)
@@ -142,7 +142,7 @@ ht-degree: 4%
       + [신속한 프론트엔드 개발](2021/february/rapid-frontend-devlopment.md)
       + [SPA 편집기 2.0](2021/february/spa-editor-2-0.md)
       + [모든 사이트를 점진적 웹 앱으로 변환](2021/february/any-site-into-pwa.md)
-   + {#oct2021}년 10월
+   + 년 10월{#oct2021}
       + [개요](2021/october/overview.md)
       + [Keynote 열기](2021/october/keynote.md)
       + [Experience Manager CS로의 전환 가속화](2021/october/accelerate-transistion.md)

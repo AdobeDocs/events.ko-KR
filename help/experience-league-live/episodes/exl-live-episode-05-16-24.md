@@ -30,4 +30,4 @@ Edge에서 데이터 스트림을 구성하고 Tags 속성에 Web SDK 확장을 
 
 추가 설명서는 [Adobe Experience Platform Web SDK를 사용하여 Adobe Analytics 구현](https://experienceleague.adobe.com/en/docs/analytics/implementation/aep-edge/web-sdk/overview)을 참조하십시오.
 
-Web SDK를 구현하기 위한 전략적 단계에 대해 예정된 **웨비나에 참여하려면**[여기](https://engage.adobe.com/step_by_step_guide_implement.html)를 등록하십시오.
+Web SDK를 구현하기 위한 전략적 단계에 대해 예정된 **웨비나에 참여하려면**&#x200B;[여기](https://engage.adobe.com/step_by_step_guide_implement.html)를 등록하십시오.

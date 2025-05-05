@@ -20,7 +20,7 @@ ht-degree: 3%
 # 깊이 들어가기 {#deep-dives-recordings}
 
 + [개요](overview.md)
-+ Marketo {#deep-dives-marketo}에서 딥 다이브
++ Marketo에서 딥 다이브 {#deep-dives-marketo}
    + [Admin Console 마이그레이션](admin-console.md)
    + [API](api.md)
    + [Marketo API를 사용한 캠페인 작업 자동화 및 능률화](campaign-operations.md)

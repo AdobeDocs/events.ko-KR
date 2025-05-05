@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence은 이전에 [!DNL Magento Business Intelligence (MBI)](으)로 알려져 있었습니다. 이전 이벤트의 녹화본은 이전 이름을 반영합니다.
+>Adobe Commerce Intelligence은 이전에 [!DNL Magento Business Intelligence (MBI)] (으)로 알려져 있었습니다. 이전 이벤트의 녹화본은 이전 이름을 반영합니다.
 
 휴가철 동안 성공을 위해 전자 상거래 데이터를 사용합니다. 이 웨비나는 다음과 같은 주요 MBI 기능을 사용하여 이를 해결하는 몇 가지 일반적인 시즌 분석 사용 사례와 방법을 강조합니다.
 

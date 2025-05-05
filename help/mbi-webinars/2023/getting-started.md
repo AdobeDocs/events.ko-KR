@@ -21,7 +21,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence은 이전에 [!DNL Magento Business Intelligence (MBI)](으)로 알려져 있었습니다. 이전 이벤트의 녹화본은 이전 이름을 반영합니다.
+>Adobe Commerce Intelligence은 이전에 [!DNL Magento Business Intelligence (MBI)] (으)로 알려져 있었습니다. 이전 이벤트의 녹화본은 이전 이름을 반영합니다.
 
 사전 구성된 대시보드 및 사용 가능한 사용자 지정 옵션에 대한 자세한 내용과 함께 Commerce Intelligence 제품 팀에서 직접 Commerce의 핵심 기능에 대해 알아보십시오.
 

@@ -19,7 +19,7 @@ ht-degree: 2%
    + [고객 추천 - [!DNL Center Parcs]](2022/center-parcs.md)
    + [결과를 도출하는 실현 가능성 모범 사례 및 전략](2022/deliverability-best-practices.md)
    + [마케팅 생태계와 통합](2022/integrations.md)
-   + [ [!DNL Campaign Classic](으)로 크로스 채널 마케팅 강화](2022/cross-channel.md)
+   + [[!DNL Campaign Classic] (으)로 크로스 채널 마케팅 강화](2022/cross-channel.md)
    + [크로스 채널 마케팅을 지원하는 데 필요한 팀, 기술 및 조직 디자인](2022/team-skills-org-design.md)
    + [전문가의 시간 절약 팁](2022/tips.md)
 + 2023 {#2023}

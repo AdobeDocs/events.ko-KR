@@ -21,7 +21,7 @@ ht-degree: 21%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence은 이전에 [!DNL Magento Business Intelligence (MBI)](으)로 알려져 있었습니다. 이전 이벤트의 녹화본은 이전 이름을 반영합니다.
+>Adobe Commerce Intelligence은 이전에 [!DNL Magento Business Intelligence (MBI)] (으)로 알려져 있었습니다. 이전 이벤트의 녹화본은 이전 이름을 반영합니다.
 
 Adobe Commerce 제품 팀에서 직접 MBI Data Warehouse Manager의 강력한 기능에 대해 알아보십시오. 기본 보고서 작성에서 벗어나 데이터로 더 많은 작업을 수행하는 방법에 대해 알아보십시오.
 
