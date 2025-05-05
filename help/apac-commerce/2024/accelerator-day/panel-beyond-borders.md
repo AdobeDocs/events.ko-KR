@@ -28,6 +28,6 @@ Allyce Trustcott이 주최한 패널 토론에서는 현재 경제 환경에서 
 + 카롤리나 데 피게리도 - 크리스피 크림
 + 후세인 무스타파
 
->[!VIDEO](https://video.tv.adobe.com/v/3429265/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457237/?learn=on&captions=kor)
 
 [&lt; Adobe Commerce Accelerator Day로 돌아가기](./overview.md)

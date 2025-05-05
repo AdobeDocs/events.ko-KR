@@ -25,4 +25,4 @@ ht-degree: 0%
 * 높은 수준의 아키텍처 개요
 * 데이터 수집 및 활성화 전략에 대한 고려 사항
 
->[!VIDEO](https://video.tv.adobe.com/v/3426006/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456231/?learn=on&captions=kor)

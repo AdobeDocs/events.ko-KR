@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Adobe Acrobat Sign에서 직접 Microsoft의 로우 코드/노 코드 솔루션인 Power Automate를 사용하여 모든 자동화 기능을 활용할 수 있습니다. 개발자가 아닌 사용자가 차세대 워크플로우를 생성할 수 있는 강력한 기능과 유연성을 갖는 방법에 대해 알아보십시오. 이 세션에서는 워크플로우 통합을 설정하여 사전 제작된 템플릿을 통해 워크플로우 제작 바로 시작하기 방대한 커넥터 에코시스템을 활용하여 Acrobat Sign을 패키지 및 사용자 정의 애플리케이션에 통합 생산성을 높이고 Acrobat Sign의 기능을 확장하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428194/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454931/?learn=on&captions=kor)
 
 ## Power Automate에 대한 자세한 정보
 

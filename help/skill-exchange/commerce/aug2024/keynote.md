@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Commerce 오프닝 키노트
 
->[!VIDEO](https://video.tv.adobe.com/v/3433144/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453954/?learn=on&captions=kor)

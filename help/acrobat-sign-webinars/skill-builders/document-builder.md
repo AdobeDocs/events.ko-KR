@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Salesforce에서 바로 데이터 기반 문서 준비와 같은 일상적인 작업을 자동화하여 몇 초 만에 미리 채워진 제안, 계약서, 청구서 등으로 영업 팀에 이점을 제공할 수 있습니다. Document Builder을 사용하면 서명을 위해 전송하기 전에 Salesforce 데이터를 사용하여 문서를 동적으로 생성할 수 있으므로 번거로운 프로세스를 보다 간소화하고 간소화합니다. 우리는 반드시 시간과 노력을 절약하는 데 도움이 될 단계별 과정을 밟을 것입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428193/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454920/?learn=on&captions=kor)
 
 ## Acrobat Sign용 Document Builder의 목적은 무엇입니까?
 

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 세그먼트에 대한 모든 정보 - 통찰력을 위해 데이터를 쪼개어 다루는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3425989/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456614/?learn=on&captions=kor)

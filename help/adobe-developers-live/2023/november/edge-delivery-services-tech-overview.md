@@ -25,4 +25,4 @@ ht-degree: 5%
 
 AEM 환경의 변화에 대해 가장 많이 언급되는 것은 AEM 제품군에 참여하는 새로운 Edge Delivery Services에 대한 자세한 기술 개요를 살펴보는 것입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426339/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455931/?learn=on&captions=kor)

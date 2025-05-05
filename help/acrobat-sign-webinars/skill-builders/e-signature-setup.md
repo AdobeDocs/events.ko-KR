@@ -20,7 +20,7 @@ ht-degree: 0%
 
 전자 서명용 문서를 설정하는 세 가지 간단한 방법에 대해 알아봅니다. PDF, Microsoft 365 파일 또는 간단한 이미지 파일이든 이 세션은 해당 문서에 서명하는 데 필요한 도구를 제공합니다. 다음 세 가지 방법을 다룹니다. Adobe Acrobat Sign의 간단한 드래그 앤 드롭 작성 환경 Adobe Acrobat에서 PDF 양식 설정 신속한 문서 작성에 텍스트 태그를 사용합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428184/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455954/?learn=on&captions=kor)
 
 ## Microsoft Word와 함께 텍스트 태그를 사용하면 어떤 이점이 있습니까?
 

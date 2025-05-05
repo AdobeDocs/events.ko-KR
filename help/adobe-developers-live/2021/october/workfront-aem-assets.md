@@ -23,7 +23,7 @@ Adobe Workfront과 Adobe Experience Manager Assets이 함께 작동하는 방식
 
 **[Experience League 커뮤니티](https://adobe.ly/3kHfJED)**&#x200B;에서 대화를 계속합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/337578/?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3457171/?quality=12&learn=on&hidetitle=true&captions=kor)
 
 ## 추가 리소스
 

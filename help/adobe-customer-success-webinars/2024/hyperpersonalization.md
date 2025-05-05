@@ -19,7 +19,7 @@ ht-degree: 0%
 
 새로운 초개인화 시대에 대해 알립니다. 개인화 성숙 모델을 기반으로 기반을 구축하고, 일반적인 차단기에 대해 논의하며, 시작을 위한 전술적 팁을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429288/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457352/?learn=on&captions=kor)
 
 ## 주요 논의 사항
 

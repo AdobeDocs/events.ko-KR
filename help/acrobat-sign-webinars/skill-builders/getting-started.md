@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Acrobat Sign의 기본 사항에 대해 알아보고 문서에 신속하게 서명합니다. 다음 방법을 보여 드리겠습니다. 전자 서명을 위해 문서 준비 및 보내기 서명자에게 표시되는 내용 보기 계약 진행 상황 관리 및 추적 서명 만들기 등.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428183/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455472/?learn=on&captions=kor)
 
 ## 주요 사항
 

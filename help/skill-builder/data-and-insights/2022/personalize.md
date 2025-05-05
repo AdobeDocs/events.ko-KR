@@ -21,4 +21,4 @@ ht-degree: 0%
 
 *Matthias Kolitsch* 고급 멀티 솔루션 트레이너 EMEA / Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/343821/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457385/?quality=12&learn=on&captions=kor)

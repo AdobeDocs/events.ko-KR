@@ -20,4 +20,4 @@ ht-degree: 0%
 
 탐색은 방문자가 사이트를 탐색하고 전환 단계를 시작하는 데 중요합니다. Adobe Analytics을 사용하여 탐색의 효과를 추적하는 방법과 개선하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425992/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457374/?learn=on&captions=kor)

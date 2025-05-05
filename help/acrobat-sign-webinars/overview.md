@@ -37,7 +37,7 @@ Acrobat Sign에서 새로운 전자 서명 워크플로를 마스터하는 방�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/acrobat-sign-webinars/advanced-reporting" title="Acrobat Sign에 대한 고급 보고">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428191/?format=jpeg&nocache=1731453823479" alt="Acrobat Sign에 대한 고급 보고"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454412/?format=jpeg&nocache=1731453823479&captions=kor" alt="Acrobat Sign에 대한 고급 보고"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -60,7 +60,7 @@ Acrobat Sign에서 새로운 전자 서명 워크플로를 마스터하는 방�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/acrobat-sign-webinars/advanced-sending-documents-signature" title="서명을 위한 문서 전송을 위한 고급 팁">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428186/?format=jpeg&nocache=1731453823460" alt="서명을 위한 문서 전송을 위한 고급 팁"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454887/?format=jpeg&nocache=1731453823460&captions=kor" alt="서명을 위한 문서 전송을 위한 고급 팁"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -83,7 +83,7 @@ Acrobat Sign에서 새로운 전자 서명 워크플로를 마스터하는 방�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/acrobat-sign-webinars/agreement-status" title="계약 관리 - 계약 상태를 실시간으로 파악">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428190/?format=jpeg&nocache=1731453823516" alt="계약 관리 - 계약 상태를 실시간으로 파악"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455008/?format=jpeg&nocache=1731453823516&captions=kor" alt="계약 관리 - 계약 상태를 실시간으로 파악"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -106,7 +106,7 @@ Acrobat Sign에서 새로운 전자 서명 워크플로를 마스터하는 방�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/acrobat-sign-webinars/authoring-environment" title="작성 환경에 대한 고급 교육">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428189/?format=jpeg&nocache=1731453823517" alt="작성 환경에 대한 고급 교육"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455909/?format=jpeg&nocache=1731453823517&captions=kor" alt="작성 환경에 대한 고급 교육"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -129,7 +129,7 @@ Acrobat Sign에서 새로운 전자 서명 워크플로를 마스터하는 방�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/acrobat-sign-webinars/collect-signatures" title="한 번의 클릭으로 많은 서명 수집">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428188/?format=jpeg&nocache=1731453823488" alt="한 번의 클릭으로 많은 서명 수집"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454898/?format=jpeg&nocache=1731453823488&captions=kor" alt="한 번의 클릭으로 많은 서명 수집"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -152,7 +152,7 @@ Acrobat Sign에서 새로운 전자 서명 워크플로를 마스터하는 방�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/acrobat-sign-webinars/create-use-workflows" title="처음부터 끝까지 워크플로우 만들기 및 사용">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428192/?format=jpeg&nocache=1731453823485" alt="처음부터 끝까지 워크플로우 만들기 및 사용"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454909/?format=jpeg&nocache=1731453823485&captions=kor" alt="처음부터 끝까지 워크플로우 만들기 및 사용"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -175,7 +175,7 @@ Acrobat Sign에서 새로운 전자 서명 워크플로를 마스터하는 방�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/acrobat-sign-webinars/document-builder" title="Adobe Acrobat Sign용 Document Builder">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428193/?format=jpeg&nocache=1731453823516" alt="Adobe Acrobat Sign용 Document Builder"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454920/?format=jpeg&nocache=1731453823516&captions=kor" alt="Adobe Acrobat Sign용 Document Builder"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -198,7 +198,7 @@ Acrobat Sign에서 새로운 전자 서명 워크플로를 마스터하는 방�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/acrobat-sign-webinars/e-signature-microsoft" title="Microsoft 앱에서 전자 서명 작업">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428185/?format=jpeg&nocache=1731453823517" alt="Microsoft 앱에서 전자 서명 작업"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455057/?format=jpeg&nocache=1731453823517&captions=kor" alt="Microsoft 앱에서 전자 서명 작업"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -221,7 +221,7 @@ Acrobat Sign에서 새로운 전자 서명 워크플로를 마스터하는 방�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/acrobat-sign-webinars/e-signature-setup" title="전자 서명 계약 준비">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428184/?format=jpeg&nocache=1731453823483" alt="전자 서명 계약 준비"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455954/?format=jpeg&nocache=1731453823483&captions=kor" alt="전자 서명 계약 준비"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -244,7 +244,7 @@ Acrobat Sign에서 새로운 전자 서명 워크플로를 마스터하는 방�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/acrobat-sign-webinars/fillable-signable-web-form" title="입력 가능한 서명 가능한 웹 양식 게시">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428187/?format=jpeg&nocache=1731453823488" alt="입력 가능한 서명 가능한 웹 양식 게시"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455455/?format=jpeg&nocache=1731453823488&captions=kor" alt="입력 가능한 서명 가능한 웹 양식 게시"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -267,7 +267,7 @@ Acrobat Sign에서 새로운 전자 서명 워크플로를 마스터하는 방�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/acrobat-sign-webinars/getting-started" title="Acrobat Sign 101 - 시작하기">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428183/?format=jpeg&nocache=1731453823457" alt="Acrobat Sign 101 - 시작하기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455472/?format=jpeg&nocache=1731453823457&captions=kor" alt="Acrobat Sign 101 - 시작하기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -290,7 +290,7 @@ Acrobat Sign에서 새로운 전자 서명 워크플로를 마스터하는 방�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/acrobat-sign-webinars/notarize" title="통합 공증">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428195/?format=jpeg&nocache=1731453823489" alt="통합 공증"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454379/?format=jpeg&nocache=1731453823489&captions=kor" alt="통합 공증"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -313,7 +313,7 @@ Acrobat Sign에서 새로운 전자 서명 워크플로를 마스터하는 방�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/acrobat-sign-webinars/workflow-automations" title="Microsoft Power Automate 기반의 워크플로 자동화">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428194/?format=jpeg&nocache=1731453823611" alt="Microsoft Power Automate 기반의 워크플로 자동화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454931/?format=jpeg&nocache=1731453823611&captions=kor" alt="Microsoft Power Automate 기반의 워크플로 자동화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

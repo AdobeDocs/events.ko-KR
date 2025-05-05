@@ -22,7 +22,7 @@ ht-degree: 0%
 Adobe Identity Management 시스템[&#128279;](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)과(와) 통합할 Adobe Marketo Engage 구독 마이그레이션에 대한 교육입니다. 콘텐츠는 Marketo Engage 관리자에게 가장 적합합니다. 이 교육을 통해 다양한 분야의 사람들과 일하는 조직에 필요한 지식을 갖추고 내부 사용자에게 향후 변화에 대한 교육을 제공할 수 있습니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432371/?learn=on&captions=kor)
 
 ## 개요
 

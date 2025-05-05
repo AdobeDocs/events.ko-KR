@@ -24,4 +24,4 @@ ht-degree: 0%
 
 범용 편집기는 차세대 AEM 컨텍스트 내 페이지 편집기이며 AEM 페이지 편집기 또는 SPA 편집기의 현재 제한 사항을 해결합니다. 프레임워크, 렌더링 엔진 및 데이터 소스와 독립적이므로 개발자가 원하는 모든 자유를 제공하고 진정한 보편화를 실현합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426341/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456475/?learn=on&captions=kor)

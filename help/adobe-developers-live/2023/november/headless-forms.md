@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Headless 적응형 Forms은 Adobe Experience Manager 플랫폼 내에서 Headless 웹 양식을 만들고 관리하기 위한 솔루션입니다. 이 기능을 사용하면 조직은 기존의 그래픽 사용자 인터페이스가 아닌 API를 통해 액세스하고 상호 작용할 수 있는 대화형 양식을 만들고 게시하고 관리할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426336/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454975/?learn=on&captions=kor)

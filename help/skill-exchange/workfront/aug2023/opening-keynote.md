@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 세션에서는 제품 마케팅의 Director Richard Whitehead가 하이라이트, 새로운 기능 및 사용 가능한 기능 등 Workfront의 발전 과정을 안내하고 제품 혁신으로 마무리합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425894/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453836/?learn=on&captions=kor)

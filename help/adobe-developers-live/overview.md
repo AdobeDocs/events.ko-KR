@@ -80,7 +80,7 @@ Adobe Experience Cloud, Document Cloud 및 Creative Cloud의 Adobe 제품 팀은
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/ai-and-personalization.md" title="Adobe Experience Manager Edge Delivery Services에 AI 및 Personalization 가져오기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440405/?format=jpeg&nocache=1733162925381" alt="Adobe Experience Manager Edge Delivery Services에 AI 및 Personalization 가져오기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440413/?format=jpeg&nocache=1733162925381&captions=kor" alt="Adobe Experience Manager Edge Delivery Services에 AI 및 Personalization 가져오기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -126,7 +126,7 @@ Adobe Experience Cloud, Document Cloud 및 Creative Cloud의 Adobe 제품 팀은
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/cdn-waf-aemcs.md" title="Adobe Experience Manager as a Cloud Service의 CDN 및 WAF 구성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440401/?format=jpeg&nocache=1733162925358" alt="Adobe Experience Manager as a Cloud Service의 CDN 및 WAF 구성"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440609/?format=jpeg&nocache=1733162925358&captions=kor" alt="Adobe Experience Manager as a Cloud Service의 CDN 및 WAF 구성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -237,7 +237,7 @@ Adobe Experience Cloud, Document Cloud 및 Creative Cloud의 Adobe 제품 팀은
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/extension-manager.md" title="Adobe Experience Manager Sites Extension Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440404/?format=jpeg&nocache=1733162926516" alt="Adobe Experience Manager Sites Extension Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440435/?format=jpeg&nocache=1733162926516&captions=kor" alt="Adobe Experience Manager Sites Extension Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -390,7 +390,7 @@ Adobe Experience Cloud, Document Cloud 및 Creative Cloud의 Adobe 제품 팀은
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/asset-migration-blueprint.md" title="Assets 마이그레이션 블루프린트" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440403/?format=jpeg&nocache=1733162927528" alt="Assets 마이그레이션 블루프린트"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440446/?format=jpeg&nocache=1733162927528&captions=kor" alt="Assets 마이그레이션 블루프린트"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -413,7 +413,7 @@ Adobe Experience Cloud, Document Cloud 및 Creative Cloud의 Adobe 제품 팀은
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/performant-delivery.md" title="성능 향상 전달에 대한 우수 사례" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440399/?format=jpeg&nocache=1733162927540" alt="성능 향상 전달에 대한 우수 사례"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440424/?format=jpeg&nocache=1733162927540&captions=kor" alt="성능 향상 전달에 대한 우수 사례"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

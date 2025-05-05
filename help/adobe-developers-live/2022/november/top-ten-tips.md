@@ -24,4 +24,4 @@ ht-degree: 0%
 
 탁월한 경험 성능은 경험 성공의 핵심입니다. 이 세션에서는 개발자가 Adobe Experience Manager 웹 사이트를 보다 빠르게 만드는 데 도움이 되는 상위 10가지 팁에 대한 모범 사례를 공유합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411300/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457182/?quality=12&learn=on&captions=kor)

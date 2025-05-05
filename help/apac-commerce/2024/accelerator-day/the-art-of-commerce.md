@@ -24,6 +24,6 @@ ht-degree: 0%
 
 + 선임 솔루션 엔지니어인 Carl Screwvala 제공 - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429274/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455495/?learn=on&captions=kor)
 
 [&lt; Adobe Commerce Accelerator Day로 돌아가기](./overview.md)

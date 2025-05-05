@@ -26,7 +26,7 @@ ht-degree: 0%
 * Workfront을 사용하여 린 프로젝트 관리 지원
 * 지속적인 학습 및 적응
 
->[!VIDEO](https://video.tv.adobe.com/v/3429287/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456714/?learn=on&captions=kor)
 
 ## 회의 개요
 

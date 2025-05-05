@@ -26,4 +26,4 @@ ht-degree: 1%
 * 올바른 컨텍스트를 제공하고 효과적인 데이터 사용을 보장하기 위한 모범 사례에 대해 알아봅니다.
 * Adobe Analytics 및 Customer Journey Analytics이 데이터를 통해 팀에 어떻게 힘을 실어줄 수 있는지 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432751/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453594/?learn=on&captions=kor)

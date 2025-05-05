@@ -31,4 +31,4 @@ IPG Health의 EVP(Production Intelligence)인 Dale Whitchurch는 그와 그의 �
 Workfront을 광범위한 기술 스택에 통합하고 주요 워크플로우를 완성하기 위한 실용적인 조언
 IPG가 콘텐츠 공급망을 위한 토대를 마련하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3425810/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456669/?learn=on&captions=kor)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Walgreens의 Nicholas Twilie와 Alma Martinez가 Workfront에서 타임시트를 통한 시간 추적에 대해 이야기하는 것을 들어보십시오. 그런 다음 Christian Barnes가 타임시트의 기술적인 측면을 보여 주는 것을 시청하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/341228/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457338/?quality=12&learn=on&captions=kor)

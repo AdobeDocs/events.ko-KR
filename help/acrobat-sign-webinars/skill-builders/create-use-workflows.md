@@ -20,7 +20,7 @@ ht-degree: 0%
 
 모든 Acrobat Sign 관리자 및 최종 사용자/개별 기여자 호출 이 세션은 워크플로우의 만들기와 사용을 모두 다룹니다. Acrobat Sign 그룹 또는 계정 관리자로서 사전 설정된 워크플로를 정의하여 서명용 문서를 올바른 당사자에게 자동으로 라우팅한 다음 전체 Acrobat Sign 그룹에 대한 액세스 권한을 부여하는 방법에 대해 알아봅니다. 또한 최종 사용자는 이러한 워크플로를 사용하여 문서가 처음 또는 매번 올바르게 서명되도록 하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428192/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454909/?learn=on&captions=kor)
 
 ## 다룬 항목
 

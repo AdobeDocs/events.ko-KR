@@ -26,4 +26,4 @@ ht-degree: 0%
 * Adobe Commerce에서 세그먼테이션 및 다이내믹 콘텐츠를 활용하기 위한 모범 사례
 * 효과적인 컨텐츠 관리를 위한 전략으로 고객 참여 강화
 
->[!VIDEO](https://video.tv.adobe.com/v/3433146/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456947/?learn=on&captions=kor)

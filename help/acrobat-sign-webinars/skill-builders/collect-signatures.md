@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Acrobat Sign의 일괄 전송 기능을 통해 시간을 절약할 수 있는 방법을 알아봅니다. 전사적 정책 업데이트, NDA 또는 기타 문서의 고유 사본에 여러 사람이 서명해야 하는 경우 일괄 전송을 통해 파일을 한 번 준비하고 한 번의 클릭으로 여러 서명자에게 전송하고 응답을 쉽게 추적할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428188/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454898/?learn=on&captions=kor)
 
 ## 주요 사항
 

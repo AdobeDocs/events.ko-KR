@@ -20,7 +20,7 @@ ht-degree: 0%
 
 거래를 시작하거나 서명자의 이메일 주소를 알지 않고도 누구나 작성하여 서명할 수 있는 웹 양식을 만드는 방법을 알아봅니다. 또한 개별 서명 트랜잭션에 사용할 수 있는 문서 템플릿을 준비하는 방법과 광범위한 공유를 위해 고유 URL에 게시하는 방법에 대해서도 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428187/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455455/?learn=on&captions=kor)
 
 ## 주요 사항
 

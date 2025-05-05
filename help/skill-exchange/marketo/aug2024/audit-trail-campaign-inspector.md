@@ -26,4 +26,4 @@ ht-degree: 0%
 * 확인할 내용, 빈도, 중요한 이유 등 감사 추적 사용에 대한 우수 사례와 함께 최신 2024년 6월 릴리스의 추가적인 이점
 * 찾을 내용(볼륨, 일괄 처리와 트리거 비교, 인스턴스 속도를 저하할 수 있는 대기 시간이 긴 트리거 캠페인 등)을 포함하여 스마트 캠페인을 정기적으로 검토하기 위해 Campaign Inspector를 사용하는 방법.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432944/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456958/?learn=on&captions=kor)

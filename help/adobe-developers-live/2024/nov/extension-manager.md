@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Adobe 수석 소프트웨어 엔지니어인 Iryna Lagno를 사용하여 Headless 편집 표면 및 유니버설 편집기에서 작성자를 위한 Adobe Experience Manager 기능을 확장하는 방법을 알아봅니다. 조직 간 UI 확장을 활성화하고 다른 사용자가 Extension Manager을 통해 활용할 수 있도록 게시합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440404/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440435/?learn=on&enablevpops&captions=kor)
 
 ## 커뮤니티 토론
 

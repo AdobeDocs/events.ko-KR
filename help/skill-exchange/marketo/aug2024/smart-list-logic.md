@@ -26,4 +26,4 @@ ht-degree: 0%
 * 대상을 구성하고 맞춤화하기 위한 4가지 수준의 논리에 대해 자세히 알아봅니다
 * 논리 문제를 해결하고 의도한 대상을 올바르게 타기팅했는지 확인하는 요령
 
->[!VIDEO](https://video.tv.adobe.com/v/3432943/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457305/?learn=on&captions=kor)

@@ -20,7 +20,7 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html?lang=ko">
-      <img alt="Adobe Target을 사용하여 개인화 및 자동화" src="https://video.tv.adobe.com/v/343821?format=jpeg" />
+      <img alt="Adobe Target을 사용하여 개인화 및 자동화" src="https://video.tv.adobe.com/v/3457385?format=jpeg&captions=kor" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html?lang=ko">

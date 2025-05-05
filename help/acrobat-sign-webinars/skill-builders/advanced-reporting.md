@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Acrobat Sign에서 사용할 수 있는 분석 및 보고서에 대해 알아보고 비즈니스를 추진하는 데 필요한 통찰력을 제공하는 데 도움이 되는 데이터를 보는 방법에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428191/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454412/?learn=on&captions=kor)
 
 ## 새로운 보고 및 내보내기 기능
 

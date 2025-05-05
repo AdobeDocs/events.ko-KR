@@ -20,7 +20,7 @@ ht-degree: 0%
 
 통합 공증 - 더 빠르고 간편하게 문서를 공증할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428195/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454379/?learn=on&captions=kor)
 
 ## 다룬 주요 주제
 

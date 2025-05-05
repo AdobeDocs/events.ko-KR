@@ -23,4 +23,4 @@ ht-degree: 0%
 
 이 Skill Exchange는 새 AEM 개발자가 새 프로젝트를 시작하고 배포하는 방법에 중점을 둡니다. AEM Project Archetype, Cloud Manager 설정 및 개발 도구와 같은 주제에 중점을 둡니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424017/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457281/?learn=on&captions=kor)

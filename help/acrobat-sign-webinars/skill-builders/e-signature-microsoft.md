@@ -20,7 +20,7 @@ ht-degree: 0%
 
 기존 워크플로우에 Adobe Acrobat Sign을 추가하여 Word, Outlook, Sharepoint와 같은 Microsoft 앱을 사용하는 방식을 확장합니다. 이 세션은 일반적인 Microsoft 앱에서 문서 프로세스를 간소화하는 방법을 알려주므로 서명을 받거나 상태를 확인하기 위해 컨텍스트 스위치만 사용할 필요가 없습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428185/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455057/?learn=on&captions=kor)
 
 ## Acrobat Sign 통합은 어떤 애플리케이션을 지원합니까?
 

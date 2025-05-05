@@ -33,4 +33,4 @@ Daniel Rios(제품 관리 부문 수석 관리자)로부터 다음 주제에 대
 
 MBI는 평균 주문 가치에서 고객 생애 가치 및 유지 비율에 이르기까지 모든 것을 표시하는 대시보드를 사용하여 보고를 간소화합니다. 이러한 강력한 통찰력을 통해 온라인 비즈니스에 대한 조치를 취하고 점진적인 가치를 창출할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410646/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413906/?quality=12&learn=on&captions=kor)

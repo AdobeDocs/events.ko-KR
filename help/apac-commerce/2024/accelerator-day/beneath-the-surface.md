@@ -28,6 +28,6 @@ Commonwealth Bank의 파워보드 결제 오케스트레이션 플랫폼과 온�
 + PowerBoard 창립 팀 리더, 제품 책임자 - CBA
 + Luke Jericho, Crew Lead, eCommerce 책임자 - CBA
 
->[!VIDEO](https://video.tv.adobe.com/v/3429270/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455483/?learn=on&captions=kor)
 
 [&lt; Adobe Commerce Accelerator Day로 돌아가기](./overview.md)

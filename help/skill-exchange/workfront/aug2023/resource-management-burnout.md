@@ -30,4 +30,4 @@ ht-degree: 0%
 * 휴가 추적을 통합하는 방법
 * Mayo Clinic이 Analytics 및 Resource Manager를 사용하여 팀에 투명성을 제공하고 새 작업에 대한 계획을 수립하는 방법의 예
 
->[!VIDEO](https://video.tv.adobe.com/v/3425811/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457103/?learn=on&captions=kor)

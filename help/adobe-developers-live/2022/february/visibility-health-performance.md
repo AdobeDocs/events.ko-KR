@@ -18,4 +18,4 @@ ht-degree: 0%
 
 이 세션에서는 Adobe Commerce 플랫폼의 상태, 보안 및 품질을 모니터링하는 데 사용할 수 있는 도구에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340624/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456869/?quality=12&learn=on&captions=kor)

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Adobe의 수석 기술 설계자 Achim Koch와 함께 이전 DAM을 Adobe Experience Manager Assets으로 마이그레이션하는 방법을 알아보십시오. 관련자 분석, 리소스 계획, 데이터 변환 및 데이터 처리를 위한 CSV 파일 사용과 같은 모범 사례에 대한 통찰력을 얻으십시오. 고유한 Adobe Experience Manager 마이그레이션 프로젝트에 대한 로드맵을 빌드합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440403/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440446/?learn=on&enablevpops&captions=kor)
 
 ## 커뮤니티 토론
 

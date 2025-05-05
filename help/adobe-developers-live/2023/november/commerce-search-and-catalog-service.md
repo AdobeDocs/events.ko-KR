@@ -24,4 +24,4 @@ ht-degree: 0%
 
 상점 경험을 개선하고 최적화하기 위한 검색 및 카탈로그 서비스에 대해 알아보십시오.  이 데모에서는 상거래 서비스 커넥터와 GraphQL을 사용하여 상점에서 이를 활용하는 방법에 대해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425806/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454743/?learn=on&captions=kor)

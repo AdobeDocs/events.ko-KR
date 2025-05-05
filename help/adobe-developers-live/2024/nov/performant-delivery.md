@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Adobe의 수석 제품 관리자인 Riya Midha와 함께 Adobe Experience Manager Assets Dynamic Media 설정을 위한 모범 사례를 살펴보십시오. 에셋 전달을 최적화하고, 비디오 스트리밍을 개선하고, 뷰어를 구성하고, 성능을 측정 및 개선하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440399/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440424/?learn=on&enablevpops&captions=kor)
 
 ## 커뮤니티 토론
 

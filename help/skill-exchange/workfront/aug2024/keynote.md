@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Workfront: Keynote 열기
 
->[!VIDEO](https://video.tv.adobe.com/v/3433193/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454489/?learn=on&captions=kor)

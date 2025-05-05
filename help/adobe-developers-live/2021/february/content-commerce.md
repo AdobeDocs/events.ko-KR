@@ -27,6 +27,6 @@ ht-degree: 0%
 
 **[Experience League 커뮤니티](https://adobe.ly/36Yd3v6)**&#x200B;에서 대화를 계속합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/331851/?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454401/?quality=12&learn=on&hidetitle=true&captions=kor)
 
 세션 슬라이드를 보려면 **[여기](/help/adobe-developers-live/assets/content-commerce.pdf)**&#x200B;를 클릭하십시오.

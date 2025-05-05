@@ -24,6 +24,6 @@ Summit 2024의 Adobe Commerce 세션 요약, 새로운 혁신 중 일부는 단�
 
 + 제공: Adobe Commerce 제품 관리자 JAPAC Scott Rigby
 
->[!VIDEO](https://video.tv.adobe.com/v/3429264/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454566/?learn=on&captions=kor)
 
 [&lt; Adobe Commerce Accelerator Day로 돌아가기](./overview.md)

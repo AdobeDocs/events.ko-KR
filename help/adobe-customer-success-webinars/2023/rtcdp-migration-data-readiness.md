@@ -25,4 +25,4 @@ ht-degree: 0%
 * 조직으로서 비즈니스 사용 사례를 일치시키는 방법에 대해 알아봅니다
 * 실시간 CDP 준비를 위한 주요 리소스 및 작업
 
->[!VIDEO](https://video.tv.adobe.com/v/3425603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457070/?learn=on&captions=kor)

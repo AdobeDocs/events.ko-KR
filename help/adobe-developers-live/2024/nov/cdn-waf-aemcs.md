@@ -21,7 +21,7 @@ ht-degree: 0%
 
 사용자 정의 가능한 CDN 규칙, WAF 보호 및 구성 파이프라인을 통해 Adobe Managed CDN의 모든 가능성을 최대한 활용하십시오. Adobe의 수석 컴퓨터 과학자 Marius Petria, Adobe의 소프트웨어 개발 엔지니어 Quentin Vecchio, Adobe의 소프트웨어 개발 엔지니어 Florian Froese는 Adobe Experience Manager as a Cloud Service 애플리케이션의 성능과 보안을 향상시키는 전략을 공유합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440401/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440609/?learn=on&enablevpops&captions=kor)
 
 ## 커뮤니티 토론
 

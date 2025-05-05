@@ -24,4 +24,4 @@ ht-degree: 0%
 - 장기적인 성공을 위한 과정 설정
 - 전략적 이니셔티브를 효과적으로 추진
 
->[!VIDEO](https://video.tv.adobe.com/v/3427463/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456790/?learn=on&captions=kor)

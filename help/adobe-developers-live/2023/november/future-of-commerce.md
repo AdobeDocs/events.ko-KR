@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Adobe Commerce의 미래를 펼쳐보세요! 생성 AI 및 3D 기술을 기반으로 한 Commerce 플랫폼의 최신 개선 사항에 대한 최신 프레젠테이션을 살펴보십시오. 이러한 혁신이 고객 참여를 재정의하고 비즈니스 성공을 이끄는 방법에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426312/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456463/?learn=on&captions=kor)
