@@ -2,9 +2,9 @@
 user-guide-title: Adobe 고객 성공 웨비나
 breadcrumb-title: Adobe 고객 성공 웨비나
 user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+source-git-commit: b0f07b52c50ea008e8d0569ef7c8687a9e806f72
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 # Adobe 고객 성공 웨비나 {#adobe-customer-success-webinar-recordings}
 
 + [Adobe 고객 성공 웨비나](overview.md)
-+ 2025년 {#2025}
++ 2025 {#2025}
    + [Adobe Digital Insights](2025/adobe-digital-insights.md)
    + [AEM 및 Workfront 통합](2025/aem-workfront-integration.md)
    + [효과적인 웹 페이지 구축](2025/build-effective-web-pages.md)
@@ -28,7 +28,8 @@ ht-degree: 0%
    + [GenStudio for Performance Marketing 운영 모델](2025/genstudio-for-performance-marketing-operating-model.md)
    + [순차 논리 마스터링](2025/mastering-sequential-logic.md)
    + [AEM 성능 최적화](2025/optimize-aem-performance.md)
-+ 2024년 {#2024}
+   + [더욱 스마트한 마케팅 시작 - Google 및 Adobe 통합](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
++ 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Target의 AI 기반 Personalization](2024/ai-personalization.md)
    + [Adobe Workfront - 린 팀](2024/workfront-lean-teams.md)
@@ -65,7 +66,7 @@ ht-degree: 0%
    + [솔루션 기능에 대한 사용 사례 매핑](2024/use-case-mapping.md)
    + [웹 SDK 마이그레이션 핵심 사항](2024/web-sdk-migration.md)
 
-+ 2023년 {#2023}
++ 2023 {#2023}
    + [규모에 맞는 Personalization 기반 구축](2023/personalization-at-scale.md)
    + [변경 관리](2023/change-management.md)
    + [컨텐츠 및 경험 - Personalization](2023/content-experiences-personalization.md)
