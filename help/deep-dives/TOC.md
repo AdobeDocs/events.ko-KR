@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: e1d87cd15d45ea0c9ea94bfe8063e7a5ace97214
+source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '89'
 ht-degree: 3%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 3%
 # 깊이 들어가기 {#deep-dives-recordings}
 
 + [개요](overview.md)
-+ Marketo에서 딥 다이브 {#deep-dives-marketo}
++ Marketo의 딥 다이브 {#deep-dives-marketo}
    + [Admin Console 마이그레이션](admin-console.md)
    + [API](api.md)
    + [Marketo API를 사용한 캠페인 작업 자동화 및 능률화](campaign-operations.md)
@@ -36,5 +36,6 @@ ht-degree: 3%
    + [이메일 전달성 극대화](maximize-email-deliverability.md)
    + [소규모 팀으로 인스턴스 최대화](small-team-instance.md)
    + [작업 로그에 복잡한 프로세스 알림](activity-log.md)
+   + [Salesforce 백그라운드 동기화 업그레이드 및 사용 모니터링](salesforce-background-sync.md)
    + [글로벌 마케팅 잠금 해제](global-marketing.md)
    + [웹후크를 사용하여 데이터 전송](webhooks.md)

@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: ' [!DNL Experience Makers Learn from your peers]의 녹음/녹화 컬렉션'
-source-git-commit: b93f940bfbd028349af2df86992a9e0655b7480d
+source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 2%
+source-wordcount: '326'
+ht-degree: 19%
 
 ---
 
@@ -14,37 +14,41 @@ ht-degree: 2%
 
 + [Experience Maker](overview.md)
 + Analytics {#analytics}
-   + 2023년 {#2023}
-      + 년 11월{#nov2023}
+   + 2023 {#2023}
+      + 11월 {#nov2023}
          + [효과적인 데이터 시각화](analytics/nov2023/impactful-data-visualizations.md)
-      + 년 8월{#aug2023}
+      + 8월 {#aug2023}
          + [Adobe Analytics에서 처리 규칙 의 강력한 기능 사용](analytics/aug2023/processing-rules.md)
-      + 년 2월{#feb2023}
+      + 2월 {#feb2023}
          + [데이터 기반 문화 구축](analytics/feb2023/data-driven-culture.md)
          + [데이터 기반 문화 구축 후속 Q&amp;A](analytics/feb2023/data-driven-culture-q-and-a.md)
-   + 2022년 {#2022}
-      + 년 11월{#nov2022}
+   + 2022 {#2022}
+      + 11월 {#nov2022}
          + [팁과 트릭](analytics/nov2022/tips-and-tricks.md)
          + [챔피언 팁 및 요령 후속 Q&amp;A](analytics/nov2022/tips-and-tricks-q-and-a.md)
-      + 년 8월{#aug2022}
+      + 8월 {#aug2022}
          + [데이터 품질 및 채택](analytics/aug2022/data-quality.md)
-      + 년 6월{#jun2022}
+      + 6월 {#jun2022}
          + [설명서 임무 가능](analytics/june2022/mission-possible.md)
-      + 년 3월{#mar2022}
+      + 3월 {#mar2022}
          + [데이터를 통해 깊은 인상을 주는 스토리 전달](analytics/mar2022/stories-with-data.md)
 + Commerce {#commerce}
-   + 년 2월{#feb2024}
+   + 2월 {#feb2024}
       + [Agile SDLC의 통신, 요구 사항 및 테스트](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
-   + 년 11월{#nov2023}
+   + 7월 {#jul2024}
+      + [규모에 맞게 성공 잠금 해제](experience-manager/july2024/global-digital-presence.md)
+   + 11월 {#nov2023}
       + [AEM 핵심 구성 요소로 탁월한 개발자](experience-manager/nov2023/core-components.md)
-   + 년 9월{#sept2023}
+   + 9월 {#sept2023}
       + [AEM Sites용 도구에 대해 자세히 알아보기](experience-manager/sept2023/aem-sites-tools.md)
-   + 년 7월{#july2023}
+   + 7월 {#july2023}
       + [Cloud Service의 효과적인 보안 전략](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
-   + 년 5월{#may2023}
+   + 5월 {#may2023}
       + [컨텐츠 및 경험 조각 마스터](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
+   + 2025년 5월 {#may2025}
+      + [대화형 웨비나의 영향 살펴보기](marketo/may2025/interactive-webinars.md)
    + 2024년 11월 {#nov2024}
       + [고급 세분화 감사](marketo/nov2024/advanced-segmentation.md)
    + 2024년 9월 {#sept2024}
@@ -66,48 +70,48 @@ ht-degree: 2%
    + 2023년 3월 {#mar2023}
       + [ [!DNL Adobe Marketo Engage] 콘텐츠를 확장 가능하게 하는 방법](marketo/mar2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
-   + 2025년 {#2025}
-      + 년 2월{#february2025}
+   + 2025 {#2025}
+      + 2월 {#february2025}
          + [아티큘레이션 영향 - Workfront 가치 측정 및 공유 방법](workfront/2025/how-to-measure-and-share-workfront-value.md)
-   + 2024년 {#2024}
-      + 년 4월{#april2024}
+   + 2024 {#2024}
+      + 4월 {#april2024}
          + [Workfront 시스템 관리 사례 인력 배치](workfront/2024/04/staffing-your-workfront-system-admin-practice.md)
-   + 2023년 {#2023}
-      + 년 11월{#november}
+   + 2023 {#2023}
+      + 11월 {#november}
          + [교육 및 활성화를 위해 Workfront 사용](workfront/2023/11/using-workfront-for-training-and-enablement.md)
-      + 년 7월{#july}
+      + 7월 {#july}
          + [최종 사용자와 통신](workfront/2023/07/communicating-with-end-users.md)
-      + 년 6월{#june}
+      + 6월 {#june}
          + [Workfront 최고 센터 설립](workfront/2023/06/establishing-a-workfront-center-of-excellence.md)
-      + 년 5월{#may}
+      + 5월 {#may}
          + [프로젝트 템플릿의 기초](workfront/2023/05/foundations-of-project-templates.md)
-      + 년 4월{#april}
+      + 4월 {#april}
          + [Workfront 자동화의 효율성 찾기](workfront/2023/04/finding-efficiencies-in-workfront-automation.md)
-      + 년 3월{#march}
+      + 3월 {#march}
          + [인터페이스 디자인으로 사용자 경험 개선](workfront/2023/03/improving-user-experience-with-interface-design.md)
-      + 년 2월{#february}
+      + 2월 {#february}
          + [기존 Workfront 인스턴스 인수에 대한 팁](workfront/2023/02/tips-for-taking-over-an-existing-workfront-instance.md)
-   + 2022년 {#2022}
-      + 년 12월{#december}
+   + 2022 {#2022}
+      + 12월 {#december}
          + [Workfront에서 변경 관리 탐색](workfront/2022/12/navigating-change-management.md)
-      + 년 11월{#november}
+      + 11월 {#november}
          + [최종 사용자 채택 성공](workfront/2022/11/successful-end-user-adoption.md)
-      + 년 10월{#october}
+      + 10월 {#october}
          + [워크플로우 및 프로세스 디자인](workfront/2022/10/workflow-and-process-design.md)
-      + 년 9월{#september}
+      + 9월 {#september}
          + [리소스 관리 시작하기](workfront/2022/09/getting-started-with-resource-management.md)
-      + 년 8월{#august}
+      + 8월 {#august}
          + [시스템 유지 관리 및 정리](workfront/2022/08/system-maintenance-and-cleanup.md)
-      + 년 7월{#july}
+      + 7월 {#july}
          + [요청 대기열에 대한 모든 정보](workfront/2022/07/all-about-request-queues.md)
-      + 년 6월{#june}
+      + 6월 {#june}
          + [운영 보고의 기초](workfront/2022/06/foundations-of-operational-reporting.md)
-      + 년 5월{#may}
+      + 5월 {#may}
          + [그룹 관리자 활용](workfront/2022/05/leveraging-the-group-admin.md)
-      + 년 4월{#april}
+      + 4월 {#april}
          + [이상적인 사용자 경험 디자인](workfront/2022/04/designing-an-ideal-user-experience.md)
-      + 년 3월{#march}
+      + 3월 {#march}
          + [Workfront 거버넌스란 무엇입니까?](workfront/2022/03/what-is-workfront-governance.md)
-      + 년 2월{#february}
+      + 2월 {#february}
          + [사용자 관리 이해](workfront/2022/02/understanding-user-management.md)
 + [뛰어난 Adobe 챔피언 애플리케이션을 제출하는 방법에 대해 알아보기](./adobe-champion-application.md)

@@ -2,9 +2,9 @@
 user-guide-title: Adobe 고객 성공 웨비나
 breadcrumb-title: Adobe 고객 성공 웨비나
 user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: b0f07b52c50ea008e8d0569ef7c8687a9e806f72
+source-git-commit: 26c495842dbfdc6db8b81fd61ed84a3e3593b396
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,10 @@ ht-degree: 0%
 + [Adobe 고객 성공 웨비나](overview.md)
 + 2025 {#2025}
    + [Adobe Digital Insights](2025/adobe-digital-insights.md)
+   + [AEM 및 GenAI](2025/aem-genai.md)
    + [AEM 및 Workfront 통합](2025/aem-workfront-integration.md)
+   + [AI 및 Adobe Target](2025/ai-adobe-target.md)
+   + [XDM 스키마 모델링에 대한 우수 사례 및 통찰력](2025/model-xdm-schemas.md)
    + [효과적인 웹 페이지 구축](2025/build-effective-web-pages.md)
    + [콘텐츠 공급망 기본 사항](2025/content-supply-chain-basics.md)
    + [효과적인 측정을 위한 공작 전략](2025/impactful-insights.md)
@@ -26,8 +29,11 @@ ht-degree: 0%
    + [Personalization 향상](2025/enhancing-personalization.md)
    + [GenAI 실험](2025/gen-ai-experimentation.md)
    + [GenStudio for Performance Marketing 운영 모델](2025/genstudio-for-performance-marketing-operating-model.md)
-   + [순차 논리 마스터링](2025/mastering-sequential-logic.md)
+   + [순차적 논리 마스터링 - 시각적 프레임워크](2025/mastering-sequential-logic.md)
+   + [순차적 논리 마스터링 - 시작 중지](2025/sequential-logic-start-stop.md)
    + [AEM 성능 최적화](2025/optimize-aem-performance.md)
+   + [AEP 프로젝트에 대한 경영진 후원 수상](2025/exec-sponsorship-aep-projects.md)
+   + [Workfront Fusion 기본 사항 및 우수 사례](2025/adobe-workfront-fusion-best-practices.md)
    + [더욱 스마트한 마케팅 시작 - Google 및 Adobe 통합](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
