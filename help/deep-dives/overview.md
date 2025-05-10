@@ -67,7 +67,7 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="admin-console.md" title="Adobe Identity에서 Marketo Engage 준비" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1746903793743" alt="Adobe Identity에서 Marketo Engage 준비"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432371/?format=jpeg&nocache=1746903793743&captions=kor" alt="Adobe Identity에서 Marketo Engage 준비"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -90,7 +90,7 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="api.md" title="API" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1746903793681" alt="API"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432505/?format=jpeg&nocache=1746903793681&captions=kor" alt="API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
