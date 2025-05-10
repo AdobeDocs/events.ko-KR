@@ -9,13 +9,13 @@ doc-type: Event
 duration: 2559
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18062
-source-git-commit: a12db1c83c836f71c5b0dfe8649596eaf7b90065
+exl-id: 896d90d0-5db1-4c10-88ea-88562929c31d
+source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
-
 
 # 웨비나 경험의 혁신: 대화형 웨비나의 영향 알아보기
 
@@ -34,3 +34,10 @@ Adobe Marketo Engage 챔피언 Maria Cruz는 글로벌 직접 및 디지털 마�
 * **자동화된 프로세스 시간 절약** 대화형 웨비나로 전환하면 리드 라우팅, 판매 알림 및 후속 조치와 같은 프로세스를 자동화하여 수동 노력을 줄이고 워크플로우를 빠르게 수행할 수 있습니다.
 
 * **반복 가능한 플레이북 작성** 웨비나에서 얻은 통찰력과 학습 내용을 기반으로 반복 가능한 플레이북을 만들면 노력을 자신 있게 확장하고 향후 웨비나 전략을 개선하는 데 도움이 됩니다.
+
+## 추가 리소스
+
+* Q&amp;A가 게시된 마케팅 국가 커뮤니티에서 [토론 스레드](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260)에 참여하십시오.
+* [대화형 웨비나에서 GenAI 기능에 대해 자세히 알아보기](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
+* [대화형 웨비나 기본 사항 살펴보기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
+* [대화형 웨비나 Pod(설문 조사, Q&amp;A, CTA) 사용 방법 알아보기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)
