@@ -39,5 +39,5 @@ Adobe Marketo Engage 챔피언 Maria Cruz는 글로벌 직접 및 디지털 마�
 
 * Q&amp;A가 게시된 마케팅 국가 커뮤니티에서 [토론 스레드](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260)에 참여하십시오.
 * [대화형 웨비나에서 GenAI 기능에 대해 자세히 알아보기](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
-* [대화형 웨비나 기본 사항 살펴보기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
-* [대화형 웨비나 Pod(설문 조사, Q&amp;A, CTA) 사용 방법 알아보기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)
+* [대화형 웨비나 기본 사항 살펴보기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
+* [대화형 웨비나 Pod(설문 조사, Q&amp;A, CTA) 사용 방법 알아보기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)
