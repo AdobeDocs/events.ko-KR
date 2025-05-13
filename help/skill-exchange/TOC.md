@@ -3,10 +3,10 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange의 녹화본 컬렉션
 event-series: The Skill Exchange
-source-git-commit: e3f251f2b3030f4d9fdf072aee05be25f06d89b4
+source-git-commit: 974518ee6e9955f64cfbbd1ac0b4d45a5bf1aebe
 workflow-type: tm+mt
-source-wordcount: '663'
-ht-degree: 4%
+source-wordcount: '659'
+ht-degree: 9%
 
 ---
 
@@ -97,18 +97,18 @@ ht-degree: 4%
    + 2024년 8월 {#aug2024}
       + [Keynote 열기](aem/aug2024/keynote.md)
       + [범용 편집기가 있는 AEM Sites](aem/aug2024/universal-editor.md)
-      + [AEM 사용자 정의 및 거버넌스를 통한 통합 경험](aem/aug2024/customize-elements.md)
+      + [AEM 사용자 지정 및 거버넌스를 통한 통합 경험](aem/aug2024/customize-elements.md)
       + [디지털 자산 관리 전략](aem/aug2024/spotlight-dam-strategies.md)
       + [Dynamic Media Classic 자산 관리](aem/aug2024/dmc-asset-management.md)
       + [콘텐츠 공급망 개선](aem/aug2024/spotlight-content-supply-chain.md)
       + [기본 헤드리스 및 SPA 편집기 접근 방식](aem/aug2024/headless-spa-editor.md)
       + [메타데이터, 콘텐츠 구조 및 분류 체계](aem/aug2024/dam-performance.md)
-      + [Print Production](aem/aug2024/print-production.md)
+      + [인쇄 제작](aem/aug2024/print-production.md)
    + 2023년 8월 {#aug2023}
       + 개발자 트랙 {#developer-track}
          + [AEM 개발자 스타터 키트](aem/aug2023/deploy-new-project.md)
          + [효과적이고 확장 가능한 스타일 시스템 구축](aem/aug2023/scalable-style-system.md)
-         + [AEM Cloud Service으로 마이그레이션](aem/aug2023/migrate-to-aemcs.md)
+         + [AEM Cloud Service로 마이그레이션](aem/aug2023/migrate-to-aemcs.md)
          + [개인화된 마케팅 이메일](aem/aug2023/personalized-marketing-emails.md)
       + 웹 트랙 {#webtrack}
          + [AEM Assets 시작하기](aem/aug2023/getting-started-aem-assets.md)
@@ -118,12 +118,12 @@ ht-degree: 4%
    + 2022년 8월 {#aug2022}
       + 개발자 트랙 {#developer-track}
          + [Experience Makers Spotlight](aem/aug2022/spotlight.md)
-         + [AEM 챔피언 세션 다중 임차인](aem/aug2022/multi-tenancy.md)
+         + [AEM 챔피언 세션 멀티 테넌시](aem/aug2022/multi-tenancy.md)
          + [AEM 핵심 구성 요소 및 스타일 시스템](aem/aug2022/core-components.md)
          + [App Builder을 사용하여 AEM Headless 확장](aem/aug2022/app-builder.md)
-      + 마케터/웹 제작자 {#marketer}
+      + 마케터/웹 프로듀서 {#marketer}
          + [재사용성의 힘](aem/aug2022/reusability.md)
-         + [AEM의 콘텐츠 개인화를 통해 비즈니스 가치 촉진](aem/aug2022/personalization.md)
+         + [AEM의 컨텐츠 개인화를 통해 비즈니스 가치 촉진](aem/aug2022/personalization.md)
          + [AEM 구현 최대화](aem/aug2022/implementation.md)
 + Marketo {#marketo}
    + 2024년 8월 {#aug2024}
@@ -154,10 +154,10 @@ ht-degree: 4%
    + 2021년 2월 {#feb2021}
       + [사용자 정의 객체 및 속도에 대한 톱 로프](marketo/feb2021/custom-objects.md)
       + [Adobe [!DNL Marketo Engage] Rockstar 세그먼트](marketo/feb2021/rockstar.md)
-      + [ [!DNL Marketo Engage] Adobe 내에서 프로그램을 만드는 중](marketo/feb2021/create-programs.md)
+      + [Adobe [!DNL Marketo Engage] 내에서 프로그램을 만드는 중](marketo/feb2021/create-programs.md)
       + [스마트 캠페인의 기능](marketo/feb2021/power-of-smart-campaign.md)
       + [ [!DNL Marketo Engage] 내 보고](marketo/feb2021/reporting-within-marketo.md)
-      + [Forms을 위한 최고의 팁 및 요령](marketo/feb2021/forms-tips-and-tricks.md)
+      + [Forms을 위한 Ultimate 팁 및 요령](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + 2024년 8월 {#aug2024}
       + [Keynote 열기](workfront/aug2024/keynote.md)
@@ -186,7 +186,6 @@ ht-degree: 4%
       + [Adobe Workfront 증명의 미래](workfront/apr2022/workfront-proof.md)
       + [트랙 경험 작성기 Spotlight](workfront/apr2022/grow-track-spotlight.md)
       + [트랙 Experience Makers Spotlight 학습](workfront/apr2022/learn-track-spotlight.md)
-      + [프로젝트 마스터링 날짜 및 타임라인](workfront/apr2022/projects-dates-timelines.md)
       + [Workfront의 오브젝트 이해](workfront/apr2022/understanding-objects.md)
 + 디지털 바이트 {#digital-bites}
    + [동급 최고의 운영 모델을 통해 운영 효율성 극대화](digital-bites/operational-model.md)
