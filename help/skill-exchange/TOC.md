@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange의 녹화본 컬렉션
 event-series: The Skill Exchange
-source-git-commit: 974518ee6e9955f64cfbbd1ac0b4d45a5bf1aebe
+source-git-commit: 3df61129609f91640357ef9346f0e82fe0fff7b3
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '663'
 ht-degree: 9%
 
 ---
@@ -186,6 +186,7 @@ ht-degree: 9%
       + [Adobe Workfront 증명의 미래](workfront/apr2022/workfront-proof.md)
       + [트랙 경험 작성기 Spotlight](workfront/apr2022/grow-track-spotlight.md)
       + [트랙 Experience Makers Spotlight 학습](workfront/apr2022/learn-track-spotlight.md)
+      + [프로젝트 마스터링 날짜 및 타임라인](workfront/apr2022/projects-dates-timelines.md)
       + [Workfront의 오브젝트 이해](workfront/apr2022/understanding-objects.md)
 + 디지털 바이트 {#digital-bites}
    + [동급 최고의 운영 모델을 통해 운영 효율성 극대화](digital-bites/operational-model.md)
