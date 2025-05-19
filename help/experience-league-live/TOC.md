@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 724a3fce46a1adc8bfd422a8ed52bd4f14faa82f
+source-git-commit: f7a4b6f56c7edcb895773f2e377f96f710b5c29b
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '532'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [개요](overview.md)
 + 에피소드 {#episodes}
+   + [Ep. 47: 규모에 맞게 개인화된 콘텐츠를 위한 애자일 워크플로](episodes/exl-live-episode-47-2025-06-05.md)
    + [Ep. 46: Content Analytics: AI 인사이트를 통해 성능 최적화](episodes/exl-live-episode-05-22-25.md)
    + [Ep. 45: 기다리지 말고... 협력하라! Real-Time CDP Collaboration 소개](episodes/exl-live-episode-04-10-25.md)
    + [Ep. 44: Adobe Experience Platform에서 AI Assistant를 사용하여 운영 인사이트 확보](episodes/exl-live-episode-02-27-25.md)
