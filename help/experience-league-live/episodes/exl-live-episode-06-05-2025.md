@@ -21,7 +21,7 @@ Federated Audience Composition이 Real-Time CDP 및 Journey Optimizer을 통해 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3436457?quality=12&learn=on)
 
-**토론을 계속하려면 [Experience League 커뮤니티에서 토론](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976#M636){target="_blank"}을 참조하세요.**
+**토론을 계속하려면 [Experience League 커뮤니티에서 토론](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976?profile.language=ko#M636){target="_blank"}을 참조하세요.**
 
 **세부 정보 표시**:
 엔터프라이즈 데이터 웨어하우스에 대한 확장된 액세스 권한을 통해 대상자를 구성하고 브랜드에서 시작한 즉각적인 경험을 강화할 수 있습니다.
