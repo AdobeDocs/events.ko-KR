@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 724a3fce46a1adc8bfd422a8ed52bd4f14faa82f
+source-git-commit: a5ee0817798a0acba48c48191128c5f0b913213d
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '193'
 ht-degree: 3%
 
 ---
@@ -34,6 +34,19 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
               </a>
               <br/><em>Shay O'Reilly, Jennifer Werkmeister 및 Doug Moore와 함께</em>
               <br/><em>2025년 5월 22일</em>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-47-2025-06-05.md">
+              <img alt="Experience League 라이브 5월 22일" src="assets/WebBannerExLLive-June05-2025.png">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-47-2025-06-05.md">
+                규모에 맞게 개인화된 콘텐츠를 위한 <strong>애자일 워크플로</strong>
+              </a>
+              <br/><em>Amarnath Vannarath, Chris Ivory 및 Rohan Bhatt와 함께</em>
+              <br/><em>2025년 6월 5일</em>
             </div>
         </td>
     </tr>
@@ -101,5 +114,5 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/ko#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
+>기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
 
