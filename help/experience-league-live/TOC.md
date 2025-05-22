@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: f7a4b6f56c7edcb895773f2e377f96f710b5c29b
+source-git-commit: 3fb60f3db95b4e760287da7c538cce7f559e0181
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '539'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [개요](overview.md)
 + 에피소드 {#episodes}
+   + [Ep. 48: 기본 빈도 제한 및 충돌 우선 순위 지정](episodes/exl-live-episode-06-18-25.md)
    + [Ep. 47: 규모에 맞게 개인화된 콘텐츠를 위한 애자일 워크플로](episodes/exl-live-episode-47-2025-06-05.md)
    + [Ep. 46: Content Analytics: AI 인사이트를 통해 성능 최적화](episodes/exl-live-episode-05-22-25.md)
    + [Ep. 45: 기다리지 말고... 협력하라! Real-Time CDP Collaboration 소개](episodes/exl-live-episode-04-10-25.md)

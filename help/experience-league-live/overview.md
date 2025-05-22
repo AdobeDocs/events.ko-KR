@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: a5ee0817798a0acba48c48191128c5f0b913213d
+source-git-commit: 3fb60f3db95b4e760287da7c538cce7f559e0181
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 3%
+source-wordcount: '214'
+ht-degree: 2%
 
 ---
 
@@ -26,20 +26,18 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 <table>
     <tr>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-05-22-25.md">
-              <img alt="Experience League 라이브 5월 22일" src="episodes/assets/May-22-2025-WebBanner.jpg">
+              <img alt="Experience League 라이브 5월 28일" src="episodes/assets/ExL-LIVE-May-28-2025-WebBanner.jpg">
             </a>
             <div>
               <a href="episodes/exl-live-episode-05-22-25.md">
                 <strong>Content Analytics: AI 인사이트로 성능 최적화</strong>
               </a>
               <br/><em>Shay O'Reilly, Jennifer Werkmeister 및 Doug Moore와 함께</em>
-              <br/><em>2025년 5월 22일</em>
+              <br/><em>2025년 5월 28일</em>
             </div>
         </td>
-    </tr>
-    <tr>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-47-2025-06-05.md">
-              <img alt="Experience League 라이브 5월 22일" src="assets/WebBannerExLLive-June05-2025.png">
+              <img alt="Experience League 라이브 6월 5일" src="assets/WebBannerExLLive-June05-2025.png">
             </a>
             <div>
               <a href="episodes/exl-live-episode-47-2025-06-05.md">
@@ -49,7 +47,19 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
               <br/><em>2025년 6월 5일</em>
             </div>
         </td>
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-18-25.md">
+              <img alt="Experience League 라이브 6월 18일" src="episodes/assets/exl-live-web-banner-20250618.png">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-06-18-25.md">
+                <strong>기본 빈도 제한 및 충돌 우선 순위 지정</strong>
+              </a>
+              <br/><em>산드라 하우스만, 아리엘 술탄, 아론 포레스트, 키아라 포셋과 함께</em>
+              <br/><em>2025년 6월 18일</em>
+            </div>
+        </td>
     </tr>
+
 </table>
 
 </div>
@@ -114,5 +124,5 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/ko#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
+>기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
 
