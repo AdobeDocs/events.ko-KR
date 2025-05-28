@@ -8,9 +8,9 @@ event-cta-url-live: https://youtube.com/live/tyXesNYv-eM
 event-start-time: 2025-06-05 08:30-7
 event-guests: Sandra Hausmann, Chris Ivory, Amarnath Vannarath, Rohan Bhatt
 exl-id: 0f8157a2-b0d1-4d46-a682-0268dadb65c5
-source-git-commit: 6ae06b3b8667f78d29b41cd5b3939bdeb82b646d
+source-git-commit: 3dd5c359900bf76fa45f0a774d778eed171e20d9
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 마케팅 전략을 혁신하고 이전처럼 대상을 참여시킬 수 있는 이 기회를 놓치지 마십시오.
 
-[지금 YouTube에 알림 메시지를 설정하고](https://youtube.com/live/tyXesNYv-eM) 고객 참여의 혁명에 동참하세요!
+[지금 등록](https://engage.adobe.com/ExpLeagueLive-250605.html)하여 고객 참여의 혁명에 동참하세요!
 
 ![웹 배너](/help/experience-league-live/assets/WebBannerExLLive-June05-2025.png)
 
