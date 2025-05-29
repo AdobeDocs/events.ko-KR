@@ -30,10 +30,10 @@ ht-degree: 1%
 
 >[!BEGINSHADEBOX &quot;질문이 있습니까?&quot;]
 
-[Experience League 커뮤니티 포럼 토론](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741#M4712)에 대한 토론을 계속합니다.
+[Experience League 커뮤니티 포럼 토론](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741?profile.language=ko#M4712)에 대한 토론을 계속합니다.
 
 >[!ENDSHADEBOX]
 
 ## 추가 리소스
 
-[Content Analytics 비디오](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics)
+[Content Analytics 비디오](https://experienceleague.adobe.com/ko/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics)
