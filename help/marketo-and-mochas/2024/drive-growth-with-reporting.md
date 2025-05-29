@@ -1,7 +1,7 @@
 ---
 title: Marketo 및 Mochas - 보고로 성장 주도(성숙도 Pt 3)
-description: Adobe의 비즈니스 고문인 Cynthia Chang 및 Carly Gaver와 함께 Marketo 성숙도 웨비나 시리즈 3부에 참여하여 Marketo의 보고 도구를 활용하여 비즈니스 성장을 촉진하고 성과를 모니터링하며 효과적인 지표를 제공하는 방법을 실시간 Q&A를 통해 살펴보십시오.
-solution: Marketo
+description: Adobe의 비즈니스 고문인 Cynthia Chang 및 Carly Gaver와 함께 Marketo 성숙도 웨비나 시리즈 3부에 참여하여 Marketo의 보고 도구를 활용하여 비즈니스 성장을 촉진하고 성과를 모니터링하며 효과적인 지표를 제공하는 방법에 대해 실시간 Q&A를 통해 알아보십시오.
+solution: Marketo Engage
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +9,7 @@ duration: 3505
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16392
 exl-id: 4ad37a4b-8544-4000-8e21-062e3f93909e
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Marketo 및 Mochas: 보고로 성장 촉진(성숙도 Pt 3)
 
-Marketo의 보고 도구를 통한 비즈니스 성장 추진에 대한 Marketo 성숙도 웨비나 시리즈의 3부에서 Adobe의 비즈니스 고문인 Cynthia Chang 및 Carly Gaver와 함께하십시오. 이 시리즈의 마지막 웨비나에서는 Marketo의 보고 기능을 사용하여 Marketo 사용을 성숙시키는 방법에 대해 설명합니다. Marketo의 기본 기능과 보고를 활용하여 인스턴스 성능을 모니터링하는 방법에 대한 팁부터 시작합니다. 그런 다음 Marketo의 기본 및 고급 보고를 탐색하여 의사 결정 프로세스를 개선하고 비즈니스 목표를 달성하는 데 도움이 되는 정확하고 영향력 있는 지표를 제공하는 방법을 살펴봅니다. 마케팅 보고 및 분석의 잠재력을 극대화하기 위한 이 기회를 놓치지 마십시오. 항상 그렇듯이 Q&amp;A 세션 동안 실시간으로 질문에 답변합니다!
+Adobe의 보고 도구를 통한 비즈니스 성장 추진에 대한 Marketo 성숙도 웨비나 시리즈의 3부를 위해 Marketo의 비즈니스 고문인 Cynthia Chang 및 Carly Gaver와 함께하십시오. 이 시리즈의 마지막 웨비나에서는 Marketo의 보고 기능을 사용하여 Marketo 사용을 성숙시키는 방법에 대해 설명합니다. Marketo의 기본 기능과 보고를 활용하여 인스턴스 성능을 모니터링하는 방법에 대한 팁부터 시작합니다. 그런 다음 Marketo의 기본 및 고급 보고를 탐색하여 의사 결정 프로세스를 개선하고 비즈니스 목표를 달성하는 데 도움이 되는 정확하고 영향력 있는 지표를 제공하는 방법을 살펴봅니다. 마케팅 보고 및 분석의 잠재력을 극대화하기 위한 이 기회를 놓치지 마십시오. 항상 그렇듯이 Q&amp;A 세션 동안 실시간으로 질문에 답변합니다!
 
 ## 완성도 3부, 개요
 
@@ -33,8 +33,8 @@ Marketo의 보고 도구를 통한 비즈니스 성장 추진에 대한 Marketo 
 ## 발표자
 
 * 신시아 창과 칼리 게이버가 발표자였다.
-* Cynthia는 2년 동안 Adobe에서 근무했으며, 이전에 컨설팅 및 Marketo 고객으로 일했습니다.
-* Carly는 디지털 마케팅과 마케팅 자동화를 배경으로 3년 동안 Adobe과 함께 일했습니다.
+* Cynthia는 Adobe에서 2년 동안 근무하면서 컨설팅 및 Marketo 고객으로 일했습니다.
+* Carly는 디지털 마케팅 및 마케팅 자동화를 배경으로 3년 동안 Adobe과 함께 일했습니다.
 
 ## 주요 개선 사항
 

@@ -1,20 +1,20 @@
 ---
 title: 멀티 스트림 참여 프로그램을 통한 복잡한 고객 여정 기본
 description: 여정의 모든 단계에서 멀티 터치, 멀티 스트림 참여 프로그램을 통해 고객 관계를 체계적으로 관계를 맺고 육성하는 방법을 살펴보십시오. 참여 프로그램은 고객의 요구 사항과 행동에 귀를 기울이고 관련 여정과 필요한 콘텐츠를 제공할 수 있는 기능을 제공합니다.
-solution: Marketo
+solution: Marketo Engage
 role: Admin, User
 level: Experienced
 doc-type: Event
 duration: 2477
 last-substantial-update: 2024-09-18T00:00:00Z
 jira: KT-16216
-source-git-commit: 33ed1cb1bc4a5a62fb590ac07ae788a6df812ef4
+exl-id: 81ef0921-cc8b-4355-adf4-df1772e388ae
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '361'
 ht-degree: 0%
 
 ---
-
 
 # 멀티 스트림 참여 프로그램을 통한 복잡한 고객 여정 기본
 
@@ -36,8 +36,8 @@ ht-degree: 0%
 
 ## 이 프레젠테이션에서 참조된 리소스
 
-* [참여 프로그램 이해](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
-* [참여 점수 이해](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
-* [참여 프로그램 스트림에 프로그램 추가](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
-* [프로그램 가져오기 라이브러리 개요](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
+* [참여 프로그램 이해](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
+* [참여 점수 이해](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
+* [참여 프로그램 스트림에 프로그램 추가](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
+* [프로그램 가져오기 라이브러리 개요](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
 * [마케팅 국가 커뮤니티 토론 스레드](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)

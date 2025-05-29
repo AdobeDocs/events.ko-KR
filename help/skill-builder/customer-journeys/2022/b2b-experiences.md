@@ -1,14 +1,14 @@
 ---
 title: ' [!DNL Marketo Engage]  및 Adobe Experience Cloud을 사용하는 B2B 경험'
 description: ' [!DNL Marketo Engage] 을(를) Adobe 애플리케이션과 연결하여 프로세스를 단순화하고 고객 관리를 간소화하며 개인화를 극대화하여 B2B 경험을 강화할 수 있습니다.'
-solution: Marketo, Experience Cloud
+solution: Marketo Engage, Experience Cloud
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 kt: 10569
 thumbnail: 343826.jpeg
 exl-id: 0ecf5ee8-6c7d-4467-9779-10fb114b7e5e
 duration: 2367
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%

@@ -1,7 +1,7 @@
 ---
 title: Marketo 및 Mochas - 완성도 2부 - Marketo 사용 최적화
-description: 라이브 Q&A를 통해 데이터 관리, CRM 통합 및 Marketo 사용 개선을 위한 캠페인 최적화에 중점을 둔 Marketo Maturity 시리즈의 2부에 해당하는 Adobe의 비즈니스 고문인 Cynthia Chang 및 Carly Gaver와 함께하십시오.
-solution: Marketo
+description: 라이브 Q&A를 통해 데이터 관리, CRM 통합 및 캠페인 최적화를 중점으로 Adobe의 비즈니스 고문인 Cynthia Chang 및 Carly Gaver와 함께 Marketo Maturity 시리즈 2부에 참여하여 Marketo 사용을 향상시킵니다.
+solution: Marketo Engage
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +9,7 @@ duration: 3562
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16234
 exl-id: 06e58ede-e2bd-4b48-b335-f91a818246cd
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Marketo 완성도 수준을 통해 마케팅 사용을 최적화하기 위한 �
 **CRM 통합**
 챗봇 및 웨비나와 같은 Marketo의 기본 통합 기능을 사용하여 CRM 통합을 효율적으로 관리하는 방법에 대해 설명합니다.
 
-**Campaign Management 최적화**
+**캠페인 관리 최적화**
 프로그램 템플릿, 콘텐츠 라이브러리 및 스마트 목록을 통해 캠페인 관리를 최적화하는 팁을 제공합니다.
 
 **스마트 캠페인 처리**

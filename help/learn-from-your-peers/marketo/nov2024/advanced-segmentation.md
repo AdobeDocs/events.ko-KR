@@ -1,7 +1,7 @@
 ---
 title: 고급 세그멘테이션 감사 - Marketo Engage의 정밀도 및 성능 보장
 description: Adobe Marketo Engage Champion Darshil Shah에 참여하여 고급 세분화 감사를 숙지하고, 세분화 전략을 최적화하는 방법을 배우고, 고객 행동에 맞게 조정하고, GDPR 준수를 유지하며, 모범 사례 및 실시간 업데이트를 통해 마케팅 성능을 향상시킵니다.
-solution: Marketo
+solution: Marketo Engage
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,7 +9,7 @@ duration: 2493
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16525
 exl-id: ee335fea-f158-4b95-930e-273f023cdf04
-source-git-commit: bb67ba728d50f085efd02698517e5c0a9bb073f3
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
@@ -73,8 +73,8 @@ Adobe Marketo Engage 챔피언 Darshil Shah에 참여하여 고객 행동, 데�
 
 * [프레젠테이션 슬라이드](https://engage.adobe.com/rs/360-KCI-804/images/AME_Learn%20From%20your%20peers%20Webinar_Advanced%20segmentation%20Audits.pdf?version=0){target="_blank"}
 * 마케팅 국가 커뮤니티에서 토론 [스레드](https://nation.marketo.com/t5/product-discussions/register-now-learn-from-your-peers-advanced-segmentation-audits/td-p/353460){target="_blank"}에 참여
-* [세분화 만들기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation){target="_blank"}
-* [세그먼테이션 편집](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation){target="_blank"}
+* [세분화 만들기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation){target="_blank"}
+* [세그먼테이션 편집](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation){target="_blank"}
 * Marketo Engage 성공 시리즈 - [세그먼테이션](https://nation.marketo.com/t5/product-blogs/marketo-success-series-segmentation/ba-p/304969){target="_blank"}
 * [세그먼테이션 상태 확인 업데이트](https://nation.marketo.com/t5/product-blogs/segmentation-health-check-updates-tips-and-tricks-for-keeping/ba-p/241963){target="_blank"} - 세그먼테이션을 업데이트하기 위한 팁과 요령
-* [전자 메일 성능 보고서](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report){target="_blank"}
+* [전자 메일 성능 보고서](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report){target="_blank"}

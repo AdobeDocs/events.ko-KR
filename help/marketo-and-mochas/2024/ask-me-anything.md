@@ -1,24 +1,24 @@
 ---
 title: 무엇이든 묻기
-description: Kate Kolbert 및 James Letham과 함께 올해 Adobe의 마지막 대화형 웨비나에 참여하여 웨비나 최적화, 프로그램 업데이트, 활용도가 낮은 Marketo 기능, 이메일 마케팅 모범 사례, 데이터베이스 관리, 사용자 권한, Marketo-Salesforce 동기화, 동적 채팅 참여 및 라이프사이클 단계를 다룹니다.
-solution: Marketo
+description: Kate Kolbert 및 James Letham과 함께 Adobe의 올해 마지막 대화형 웨비나에 참여하여 웨비나 최적화, 프로그램 업데이트, 활용도가 낮은 Marketo 기능, 이메일 마케팅 모범 사례, 데이터베이스 관리, 사용자 권한, Marketo-Salesforce 동기화, 동적 채팅 참여 및 라이프사이클 단계를 다룹니다.
+solution: Marketo Engage
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3438
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16502
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+exl-id: a842ed22-c6db-4de3-af02-c7363207d00c
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 0%
 
 ---
 
-
 # 무엇이든 묻기
 
-녹취록에는 발표자인 케이트 콜버트와 제임스 레담이 출연하는 Adobe이 주최한 올해의 마지막 대화형 웨비나 세션이 자세히 소개되어 있다. 대화형으로 설계된 이 세션은 웨비나 등록 최적화, 새해 프로그램 설정 및 업데이트, 활용도가 낮은 Marketo 기능 활용, 이메일 마케팅 및 데이터베이스 관리 모범 사례 등에 대한 참석자들의 다양한 질문을 해결했습니다. 주요 주제에는 도메인 준비, 중복 관리, 사용자 권한 및 Marketo-Salesforce 동기화 개선의 중요성이 포함되었습니다. 이 세션은 사전 데이터 관리의 가치와 마케팅 노력을 향상시키기 위한 Marketo의 기능을 강조했습니다.
+녹취록에는 발표자인 케이트 콜버트와 제임스 레담이 출연하는 Adobe이 주최하는 올해 마지막 대화형 웨비나 세션이 자세히 기재되어 있다. 대화형으로 설계된 이 세션은 웨비나 등록 최적화, 새해 프로그램 설정 및 업데이트, 활용도가 낮은 Marketo 기능 활용, 이메일 마케팅 및 데이터베이스 관리 모범 사례 등에 대한 참석자들의 다양한 질문을 해결했습니다. 주요 주제에는 도메인 준비, 중복 관리, 사용자 권한 및 Marketo-Salesforce 동기화 개선의 중요성이 포함되었습니다. 이 세션은 사전 데이터 관리의 가치와 마케팅 노력을 향상시키기 위한 Marketo의 기능을 강조했습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438195/?learn=on&enablevpops)
 
