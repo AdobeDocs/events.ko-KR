@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 0ef5c2a6b36f6998b57c99a211b39c19e7fd1c95
+source-git-commit: 389135f15fe353f4cc3e1100f65ae3fabaee141a
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '172'
 ht-degree: 3%
 
 ---
@@ -25,17 +25,6 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 <table>
     <tr>
-        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-47-2025-06-05.md">
-              <img alt="Experience League 라이브 6월 5일" src="assets/WebBannerExLLive-June05-2025.png">
-            </a>
-            <div>
-              <a href="episodes/exl-live-episode-47-2025-06-05.md">
-                규모에 맞게 개인화된 콘텐츠를 위한 <strong>애자일 워크플로</strong>
-              </a>
-              <br/><em>Amarnath Vannarath, Chris Ivory 및 Rohan Bhatt와 함께</em>
-              <br/><em>2025년 6월 5일</em>
-            </div>
-        </td>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-18-25.md">
               <img alt="Experience League 라이브 6월 18일" src="episodes/assets/exl-live-web-banner-20250618_v2.jpg">
             </a>
@@ -113,5 +102,5 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/ko#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
+>기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
 
