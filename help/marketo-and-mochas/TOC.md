@@ -10,10 +10,10 @@ event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
 solution: Marketo Engage
-source-git-commit: 2350c0da88e103994f8a7d86f2e35785d7241a8f
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 6%
+source-wordcount: '95'
+ht-degree: 5%
 
 ---
 
@@ -22,6 +22,8 @@ ht-degree: 6%
 
 + [개요](overview.md)
 + 2025 {#2025}
+   + [새 인스턴스 또는 현재 Bizible 인스턴스 상속](2025/inheriting-bizible-instance.md)
+   + [상속된 인스턴스 또는 현재 인스턴스 감사](2025/auditing-inherited-instance.md)
    + [알아야 할 5가지 Marketo 기능](2025/5-features-to-know.md)
 + 2024 {#2024}
    + [무엇이든 묻기](2024/ask-me-anything.md)

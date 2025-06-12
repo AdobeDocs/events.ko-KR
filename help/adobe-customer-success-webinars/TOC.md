@@ -2,9 +2,9 @@
 user-guide-title: Adobe 고객 성공 웨비나
 breadcrumb-title: Adobe 고객 성공 웨비나
 user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: 5168d412d6bba7db7e99d1c2a3e32a794334a161
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,13 @@ ht-degree: 0%
 
 + [Adobe 고객 성공 웨비나](overview.md)
 + 2025 {#2025}
+   + [Workfront의 AI 드라이브 자동화](2025/unlock-efficiency-ai-drive-automation-workfront.md)
+   + [AI - 기본 사항 이상](2025/ai-beyond-basics.md)
+   + [AI 인사이트를 통한 디지털 경험 최적화](2025/accelerating-digital-experience-optimization.md)
+   + [AEM Content Hub에서 Digital Asset Manager 마스터링](2025/mastering-dam-aem-content-hub.md)
+   + [디지털 트렌드 및 미래 준비](2025/digital-trends-preparing-future.md)
+   + [노스스타 건축](2025/northstar-architecture.md)
+   + [AEM Cloud용 New Relic Essentials](2025/new-relic-essentials-aem-cloud.md)
    + [디지털 및 GenAI 채택 상태](2025/state-of-digital-and-genai-adoption-webinar.md)
    + [2024년 휴일 결과 및 2025년 트렌드](2025/adobe-digital-insights.md)
    + [AEM 및 GenAI](2025/aem-genai.md)

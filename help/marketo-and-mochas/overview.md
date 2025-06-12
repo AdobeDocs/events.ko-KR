@@ -3,16 +3,16 @@ title: Marketo 및 Mochas
 description: Marketo 온디맨드 이벤트는 전문가와 동료가 Adobe Marketo을 가장 잘 사용하는 방법에 대한 생각과 아이디어를 공유한 비디오 라이브러리입니다.
 exl-id: eab06791-de71-4c26-bbb6-cbdeb9f6f8ec
 duration: 15
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '1172'
+source-wordcount: '1309'
 ht-degree: 0%
 
 ---
 
 # Marketo 및 Mochas
 
-Marketo 및 Mochas 녹화에 오신 것을 환영합니다. 이러한 리소스를 Adobe Marketo [설명서](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=ko) 및 [튜토리얼](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ko)과(와) 결합하여 사용하면 Adobe Marketo을 사용하여 비즈니스를 지원하는 방법을 더 잘 이해할 수 있습니다.
+Marketo 및 Mochas 녹화에 오신 것을 환영합니다. 이러한 리소스를 Adobe Marketo [설명서](https://experienceleague.adobe.com/docs/marketo-engage.html) 및 [튜토리얼](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)과(와) 결합하여 사용하면 Adobe Marketo을 사용하여 비즈니스를 지원하는 방법을 더 잘 이해할 수 있습니다.
 
 ## 년 레코딩
 
@@ -20,16 +20,64 @@ Marketo 및 Mochas 녹화에 오신 것을 환영합니다. 이러한 리소스�
 
 {cta  = Watch}
 
+* 2025/inheriting-bizible-instance.md
+* 2025/auditing-inherited-instance.md
 * 2025/5-features-to-know.md
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Marketo Measure and Mochas - Inheriting a New or Current Bizible Instance">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/inheriting-bizible-instance.md" title="Marketo Measure 및 Mochas - 새 인스턴스 또는 현재 Bizible 인스턴스 상속" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459038/?format=jpeg&nocache=1749739012261" alt="Marketo Measure 및 Mochas - 새 인스턴스 또는 현재 Bizible 인스턴스 상속"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/inheriting-bizible-instance.md" target="_blank" rel="referrer" title="Marketo Measure 및 Mochas - 새 인스턴스 또는 현재 Bizible 인스턴스 상속">Marketo Measure 및 Mochas - 새 인스턴스 또는 현재 Bizible 인스턴스 상속</a>
+                    </p>
+                    <p class="is-size-6">Marketo Measure 및 Mochas 웨비나에서 Carly Gaver 및 Kate Colbert와 함께 Marketo Measure(Bizible) 인스턴스 설정, 구성, 채널 및 보고서를 감사하고 최적화하는 모범 사례에 대해 알아보십시오.</p>
+                </div>
+                <a href="2025/inheriting-bizible-instance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Marketo & Mochas - Auditing an Inherited or Current Instance">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/auditing-inherited-instance.md" title="Marketo 및 Mochas - 상속된 인스턴스 또는 현재 인스턴스 감사" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459034/?format=jpeg&nocache=1749739012233" alt="Marketo 및 Mochas - 상속된 인스턴스 또는 현재 인스턴스 감사"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/auditing-inherited-instance.md" target="_blank" rel="referrer" title="Marketo 및 Mochas - 상속된 인스턴스 또는 현재 인스턴스 감사">Marketo 및 Mochas - 상속된 인스턴스 또는 현재 인스턴스 감사</a>
+                    </p>
+                    <p class="is-size-6">Marketo 인스턴스를 상속했습니까, 감사하시겠습니까? Adobe Advisors Cynthia Chang &amp; Carly Gaver에 참여하여 Marketo Engage 감사 및 최적화를 위한 5가지 주요 단계를 알아보십시오.</p>
+                </div>
+                <a href="2025/auditing-inherited-instance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Marketo & Mochas - 5 Marketo Features to Know in 2025">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/5-features-to-know.md" title="Marketo &amp; Mochas - 2025년 알아야 할 Marketo 기능 5개" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444165/?format=jpeg&nocache=1739487703491" alt="Marketo &amp; Mochas - 2025년 알아야 할 Marketo 기능 5개"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444165/?format=jpeg&nocache=1749739012247" alt="Marketo &amp; Mochas - 2025년 알아야 할 Marketo 기능 5개"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -71,7 +119,7 @@ Marketo 및 Mochas 녹화에 오신 것을 환영합니다. 이러한 리소스�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ask-me-anything.md" title="무엇이든 묻기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438195/?format=jpeg&nocache=1739487703914" alt="무엇이든 묻기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438195/?format=jpeg&nocache=1749739013183" alt="무엇이든 묻기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,7 +142,7 @@ Marketo 및 Mochas 녹화에 오신 것을 환영합니다. 이러한 리소스�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/attribution-dashboard-recording.md" title="Marketo 및 Mochas - 기여도 분석 대시보드 기록의 기본 사항" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427255/?format=jpeg&nocache=1739487703898" alt="Marketo 및 Mochas - 기여도 분석 대시보드 기록의 기본 사항"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427255/?format=jpeg&nocache=1749739013155" alt="Marketo 및 Mochas - 기여도 분석 대시보드 기록의 기본 사항"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,7 +165,7 @@ Marketo 및 Mochas 녹화에 오신 것을 환영합니다. 이러한 리소스�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/drive-growth-with-reporting.md" title="Marketo 및 Mochas - 보고로 성장 주도(성숙도 Pt 3)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435407/?format=jpeg&nocache=1739487703946" alt="Marketo 및 Mochas - 보고로 성장 주도(성숙도 Pt 3)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435407/?format=jpeg&nocache=1749739013210" alt="Marketo 및 Mochas - 보고로 성장 주도(성숙도 Pt 3)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,7 +188,7 @@ Marketo 및 Mochas 녹화에 오신 것을 환영합니다. 이러한 리소스�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/lead-nurture-success.md" title="Marketo 및 Mochas - 리드 육성 성공의 기반 마련" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429436/?format=jpeg&nocache=1739487703955" alt="Marketo 및 Mochas - 리드 육성 성공의 기반 마련"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429436/?format=jpeg&nocache=1749739013195" alt="Marketo 및 Mochas - 리드 육성 성공의 기반 마련"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,7 +211,7 @@ Marketo 및 Mochas 녹화에 오신 것을 환영합니다. 이러한 리소스�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/marketo-measure-and-mochas-activities-and-custom-models.md" title="Marketo Measure 및 Mochas 활동 및 사용자 지정 모델" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432603/?format=jpeg&nocache=1739487703927" alt="Marketo Measure 및 Mochas 활동 및 사용자 지정 모델"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432603/?format=jpeg&nocache=1749739013169" alt="Marketo Measure 및 Mochas 활동 및 사용자 지정 모델"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +234,7 @@ Marketo 및 Mochas 녹화에 오신 것을 환영합니다. 이러한 리소스�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/maturity-part1-foundation.md" title="Marketo &amp; Mochas - 완성도 1부 - 기초 마련" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432499/?format=jpeg&nocache=1739487703936" alt="Marketo &amp; Mochas - 완성도 1부 - 기초 마련"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432499/?format=jpeg&nocache=1749739013247" alt="Marketo &amp; Mochas - 완성도 1부 - 기초 마련"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,7 +257,7 @@ Marketo 및 Mochas 녹화에 오신 것을 환영합니다. 이러한 리소스�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/new-discover-dashboard.md" title="새 대시보드 검색" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428405/?format=jpeg&nocache=1739487703972" alt="새 대시보드 검색"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428405/?format=jpeg&nocache=1749739013235" alt="새 대시보드 검색"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -232,7 +280,7 @@ Marketo 및 Mochas 녹화에 오신 것을 환영합니다. 이러한 리소스�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/optimize-marketo-usage.md" title="Marketo 및 Mochas - 완성도 2부 - Marketo 사용 최적화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434699/?format=jpeg&nocache=1739487703965" alt="Marketo 및 Mochas - 완성도 2부 - Marketo 사용 최적화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434699/?format=jpeg&nocache=1749739013222" alt="Marketo 및 Mochas - 완성도 2부 - Marketo 사용 최적화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -274,7 +322,7 @@ Marketo 및 Mochas 녹화에 오신 것을 환영합니다. 이러한 리소스�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/attribution.md" title="Marketo 및 Mochas - Marketo Measure 속성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413506/?format=jpeg&nocache=1739487705172" alt="Marketo 및 Mochas - Marketo Measure 속성"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413506/?format=jpeg&nocache=1749739013472" alt="Marketo 및 Mochas - Marketo Measure 속성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -297,7 +345,7 @@ Marketo 및 Mochas 녹화에 오신 것을 환영합니다. 이러한 리소스�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/deliverability-part-one.md" title="Marketo 및 Mochas - 전달성(1부)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416666/?format=jpeg&nocache=1739487705157" alt="Marketo 및 Mochas - 전달성(1부)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416666/?format=jpeg&nocache=1749739013447" alt="Marketo 및 Mochas - 전달성(1부)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -320,7 +368,7 @@ Marketo 및 Mochas 녹화에 오신 것을 환영합니다. 이러한 리소스�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/deliverability-part-two.md" title="Marketo 및 Mochas - 전달성(2부)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418668/?format=jpeg&nocache=1739487705183" alt="Marketo 및 Mochas - 전달성(2부)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418668/?format=jpeg&nocache=1749739013485" alt="Marketo 및 Mochas - 전달성(2부)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -343,7 +391,7 @@ Marketo 및 Mochas 녹화에 오신 것을 환영합니다. 이러한 리소스�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/lead-scoring.md" title="Marketo 및 Mochas - 잠재 고객 점수" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3412722/?format=jpeg&nocache=1739487705204" alt="Marketo 및 Mochas - 잠재 고객 점수"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3412722/?format=jpeg&nocache=1749739013460" alt="Marketo 및 Mochas - 잠재 고객 점수"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -366,7 +414,7 @@ Marketo 및 Mochas 녹화에 오신 것을 환영합니다. 이러한 리소스�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/lifecycle-modeling.md" title="고객 여정 관리 - 라이프사이클 모델링" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420763/?format=jpeg&nocache=1739487705221" alt="고객 여정 관리 - 라이프사이클 모델링"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420763/?format=jpeg&nocache=1749739013497" alt="고객 여정 관리 - 라이프사이클 모델링"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -389,7 +437,7 @@ Marketo 및 Mochas 녹화에 오신 것을 환영합니다. 이러한 리소스�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/msi-best-practices.md" title="MSI 모범 사례 및 최적화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422797?format=jpeg&nocache=1739487705195" alt="MSI 모범 사례 및 최적화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422797?format=jpeg&nocache=1749739013521" alt="MSI 모범 사례 및 최적화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -412,7 +460,7 @@ Marketo 및 Mochas 녹화에 오신 것을 환영합니다. 이러한 리소스�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/online-offline.md" title="온라인 및 오프라인 채널" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422363/?format=jpeg&nocache=1739487705213" alt="온라인 및 오프라인 채널"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422363/?format=jpeg&nocache=1749739013534" alt="온라인 및 오프라인 채널"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -435,7 +483,7 @@ Marketo 및 Mochas 녹화에 오신 것을 환영합니다. 이러한 리소스�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/program-management.md" title="Marketo 및 Mochas - 프로그램 관리 우수 사례" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425070/?format=jpeg&nocache=1739487705229" alt="Marketo 및 Mochas - 프로그램 관리 우수 사례"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425070/?format=jpeg&nocache=1749739013509" alt="Marketo 및 Mochas - 프로그램 관리 우수 사례"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

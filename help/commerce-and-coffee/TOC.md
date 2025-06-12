@@ -2,9 +2,9 @@
 user-guide-title: Commerce 및 커피 이벤트
 breadcrumb-title: Commerce 및 커피 이벤트
 user-guide-description: Adobe Commerce과 커피는 전문가 및 동료들이 Adobe Commerce 사용 방법에 대한 생각과 아이디어를 공유한 영상 라이브러리다.
-source-git-commit: 93f42aa274bbe58b7996eb09582cb353b1b347f4
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '99'
 ht-degree: 6%
 
 ---
@@ -13,21 +13,22 @@ ht-degree: 6%
 # Commerce 및 커피 {#commerce-and-coffee-recordings}
 
 + [개요](overview.md)
-+ 2025년 {#2025}
++ 2025 {#2025}
+   + [SEO를 통한 성장 촉진](2025/seo-growth.md)
    + [B2B의 셀프서비스](2025/self-service-b2b.md)
-+ 2024년 {#2024}
++ 2024 {#2024}
    + [무엇이든 묻기](2024/ask-me-anything.md)
    + [Ecommerce 기본 사항](2024/ecommerce-essentials.md)
    + [성수기 준비](2024/peak-season-prep.md)
    + [AI를 사용한 eCommerce 경험 개인화](2024/personalize-ecommerce.md)
    + [B2B 전자 상거래를 위한 전략](2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md)
-+ 2023년 {#2023}
++ 2023 {#2023}
    + [무엇이든 묻기](2023/ask-me-anything.md)
    + [성수기 준비](2023/peak-season-prep.md)
    + [유기 성장](2023/organic-growth.md)
    + [고객 충성도 및 고객 유지력을 구축하는 7가지 방법](2023/loyalty-retention.md)
    + [B2B 역량 강화 성공](2023/b2b.md)
-+ 2022년 {#2022}
++ 2022 {#2022}
    + [AI 및 자동화](2022/ai-and-automation.md)
    + [E-Commerce 트렌드](2022/ecommerce-trends.md)
    + [휴일 회고](2022/holiday.md)

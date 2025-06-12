@@ -1,6 +1,6 @@
 ---
-title: AEM Forms
-description: AEM Forms은 운영 효율성과 탁월한 사용자 경험을 제공하여 성능 관리를 향상시킵니다. 주요 이점으로는 양식 작성률 증가, 전환율, 사용자 경험 개선 및 고객 오류 감소 등이 있습니다. 기능에는 향상된 개인화를 위해 AI에서 지원하는 옴니채널 양식, 자동화된 워크플로, 대화형 고객 커뮤니케이션 및 Adobe Experience Cloud과의 통합이 포함됩니다. 비즈니스 영향으로는 온라인 등록 전환율이 2.5배 증가하고, 양식 편집이 85% 빨라졌으며, 고객 오류가 50% 감소하는 효과가 있습니다. 클라우드 기반 성능을 통해 최신, 확장 가능, 보안 및 사용 가능한 양식을 만들 수 있습니다. 혁신적인 기능에는 문서 기반 작성, 대화형 양식 및 범용 편집기 지원이 포함됩니다. AI는 양식 작성, 테스트 자동화 및 효율성 향상을 지원합니다. Adobe에 연락하여 혁신적인 초기 기능에 액세스할 수 있습니다. 서밋 세션은 사고 리더십, 최고의 혁신 및 사례 연구를 특징으로 합니다. 리소스에 액세스하고, Summit에 등록하고, 솔루션 계정 관리자에게 연락하여 추가 지원을 받으십시오.
+title: 에스프레소 & Experience Manager - AEM Forms
+description: AEM Forms은 옴니채널 양식, AI 기반 개인화 및 클라우드 기반 확장성으로 성능을 향상시켜 2.5배의 전환, 85% 빠른 편집, 50% 적은 오류 수를 제공합니다.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3297
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17535
 exl-id: cb810398-5e62-4128-8338-71ea1bccc6f9
-source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
