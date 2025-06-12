@@ -26,4 +26,4 @@ ht-degree: 0%
 * 주요 사용 사례, 기능의 적용, 성숙도 진행을 위한 팁과 요령을 살펴봅니다.
 * 의 향후 기능 및 개선 사항에 대해 논의합니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3463357/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463365/?learn=on&enablevpops&captions=kor)
