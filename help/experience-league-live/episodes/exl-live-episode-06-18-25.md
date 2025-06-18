@@ -8,23 +8,20 @@ event-cta-url-live: https://youtube.com/live/awYa2dU6TDY
 event-start-time: 2025-06-18 09:00-7
 event-guests: Sandra Hausmann, Ariel Sultan, Aaron Forrest, Keara Fausett
 exl-id: 7041430f-845d-4150-9d2c-d8fafb450b9c
-source-git-commit: 0ef5c2a6b36f6998b57c99a211b39c19e7fd1c95
+source-git-commit: b775b884ffcbd72360cecb114d61bba9093269f4
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
 # 기본 빈도 제한 및 충돌 우선 순위 지정
 
-이 세션에서는 Adobe 전문가인 Ariel Sultan과 Aaron Forrest가 Adobe Journey Optimizer의 새로운 기능에 대해 자세히 설명하여 고객 메시지를 정확하게 관리하고 우선 순위를 지정할 수 있도록 지원합니다. 메시징 피로도를 줄이고, 충돌을 해결하고, 공감하는 영향력 있는 경험을 전달하는 방법에 대해 알아봅니다.
+이 세션에서는 Adobe 전문가 Ariel Sultan과 Aaron Forrest가 Adobe Journey Optimizer의 새로운 기능에 대해 깊이 있게 설명함으로써 고객 메시지를 정확하게 관리하고 우선 순위를 정할 수 있도록 지원합니다. 이들은 메시징 피로도를 줄이고, 충돌을 해결하고, 공감하는 영향력 있는 경험을 전달하는 방법을 보여주었다.
 
 이 세션은 Journey Optimizer의 기능을 마스터하여 제어 및 효율성을 높이고자 하는 마케터, 운영 팀 및 여정 관리자에게 이상적입니다.
 
-마케팅 전략을 혁신하고 이전처럼 대상을 참여시킬 수 있는 이 기회를 놓치지 마십시오.
 
-[지금 등록](https://engage.adobe.com/ExpLeagueLive-250618.html?trackingid=MH16S65T&amp;mv=email)!
+>[!VIDEO](https://video.tv.adobe.com/v/3464052/?quality=12&learn=on)
 
-![웹 배너](/help/experience-league-live/episodes/assets/exl-live-web-banner-20250618_v2.jpg)
-
-못 오나요? 어쨌든 가입하시면 나중에 녹음을 보내드리겠습니다. 거기서 당신을 볼 수 있기를 바랍니다!
+대화를 계속하려면 6월 25일 수요일 오전 8시~오전 9시(PT)에 [Adobe Journey Optimizer 커뮤니티 Ask Me Anything](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-[...]with-여정-optimizer-product-experts/ev-p/757473)에 참여하십시오.
