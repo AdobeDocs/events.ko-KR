@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 389135f15fe353f4cc3e1100f65ae3fabaee141a
+source-git-commit: 65bbb2d2658a343005abfc597bf13aa814b8cc82
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 3%
@@ -25,11 +25,11 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 <table>
     <tr>
-        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-18-25.md">
-              <img alt="Experience League 라이브 6월 18일" src="episodes/assets/exl-live-web-banner-20250618_v2.jpg">
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-07-31-25.md">
+              <img alt="Experience League 라이브 7월 31일" src="episodes/assets/WebBanner-31July2025.png">
             </a>
             <div>
-              <a href="episodes/exl-live-episode-06-18-25.md">
+              <a href="episodes/exl-live-episode-07-31-25.md">
                 <strong>기본 빈도 제한 및 충돌 우선 순위 지정</strong>
               </a>
               <br/><em>산드라 하우스만, 아리엘 술탄, 아론 포레스트, 키아라 포셋과 함께</em>
@@ -102,5 +102,5 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/ko#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
+>기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
 
