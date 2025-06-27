@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM 세션
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '923'
 ht-degree: 0%
 
 ---
@@ -36,17 +36,41 @@ ht-degree: 0%
 
 <!-- CARDS
 
+* gems2025/maximize-impact-with-sites-optimizer.md
 * gems2025/getting-started-adobe-managed-cdn.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AEM GEMs - Maximize the impact of your web experience with AEM Sites Optimizer">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="gems2025/maximize-impact-with-sites-optimizer.md" title="AEM GEM - AEM Sites Optimizer을 통해 웹 경험의 효과 극대화" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464069/?format=jpeg&nocache=1751034389257" alt="AEM GEM - AEM Sites Optimizer을 통해 웹 경험의 효과 극대화"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="gems2025/maximize-impact-with-sites-optimizer.md" target="_blank" rel="referrer" title="AEM GEM - AEM Sites Optimizer을 통해 웹 경험의 효과 극대화">AEM GEM - AEM Sites Optimizer을 통해 웹 환경의 효과를 극대화합니다.</a>
+                    </p>
+                    <p class="is-size-6">Sites Optimizer이 AI를 사용하여 마케팅 및 개발 팀에 대한 실시간 통찰력과 권장 사항으로 사이트 성과, SEO 및 사용자 참여를 향상시키는 방법을 알아봅니다.</p>
+                </div>
+                <a href="gems2025/maximize-impact-with-sites-optimizer.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AEM GEMs - Getting started with Adobe Managed CDN">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2025/getting-started-adobe-managed-cdn.md" title="AEM GEM - Adobe Managed CDN 시작하기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443168/?format=jpeg&nocache=1739484199651" alt="AEM GEM - Adobe Managed CDN 시작하기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443168/?format=jpeg&nocache=1751034389279" alt="AEM GEM - Adobe Managed CDN 시작하기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -86,7 +110,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/aem-authoring-and-edge-delivery.md" title="AEM 작성 및 Edge Delivery Services 시작하기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427919/?format=jpeg&nocache=1739484200021" alt="AEM 작성 및 Edge Delivery Services 시작하기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427919/?format=jpeg&nocache=1751034389807" alt="AEM 작성 및 Edge Delivery Services 시작하기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -109,7 +133,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/content-management-apis.md" title="AEM GEM - AEM Sites의 강력한 기능 잠금 해제 - 기본 콘텐츠 관리 API" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435036/?format=jpeg&nocache=1739484200038" alt="AEM GEM - AEM Sites의 강력한 기능 잠금 해제 - 기본 콘텐츠 관리 API"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435036/?format=jpeg&nocache=1751034389752" alt="AEM GEM - AEM Sites의 강력한 기능 잠금 해제 - 기본 콘텐츠 관리 API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -132,7 +156,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/edge-delivery-for-aem-assets.md" title="AEM Assets과 Edge Delivery Services 통합" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433046/?format=jpeg&nocache=1739484200051" alt="AEM Assets과 Edge Delivery Services 통합"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433046/?format=jpeg&nocache=1751034389820" alt="AEM Assets과 Edge Delivery Services 통합"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -155,7 +179,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/edge-delivery-for-aem-forms.md" title="AEM Forms용 Edge Delivery Services 시작하기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428434/?format=jpeg&nocache=1739484200089" alt="AEM Forms용 Edge Delivery Services 시작하기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428434/?format=jpeg&nocache=1751034389770" alt="AEM Forms용 Edge Delivery Services 시작하기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +202,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md" title="새로운 API 및 이벤트를 사용하여 AEM Assets에 대한 개발자 경험 개선" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430198?format=jpeg&nocache=1739484200062" alt="새로운 API 및 이벤트를 사용하여 AEM Assets에 대한 개발자 경험 개선"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430198?format=jpeg&nocache=1751034389783" alt="새로운 API 및 이벤트를 사용하여 AEM Assets에 대한 개발자 경험 개선"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -201,7 +225,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/private-github-for-aem-cloud-manager.md" title="AEM Cloud Manager에서 개인 GitHub 저장소 통합" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432350?format=jpeg&nocache=1739484200072" alt="AEM Cloud Manager에서 개인 GitHub 저장소 통합"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432350?format=jpeg&nocache=1751034389832" alt="AEM Cloud Manager에서 개인 GitHub 저장소 통합"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -224,7 +248,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/rapid-development-environment-news.md" title="AEM을 위한 신속한 개발 환경의 새로운 기능" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433337/?format=jpeg&nocache=1739484200081" alt="AEM을 위한 신속한 개발 환경의 새로운 기능"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433337/?format=jpeg&nocache=1751034389733" alt="AEM을 위한 신속한 개발 환경의 새로운 기능"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -247,7 +271,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md" title="Adobe Commerce을 사용하여 Edge Delivery Services에서 상점 만들기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427729?format=jpeg&nocache=1739484200100" alt="Adobe Commerce을 사용하여 Edge Delivery Services에서 상점 만들기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427729?format=jpeg&nocache=1751034389795" alt="Adobe Commerce을 사용하여 Edge Delivery Services에서 상점 만들기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -275,7 +299,7 @@ ht-degree: 0%
 
 ## 토의를 계속하세요.
 
-[Experience Manager 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ko)에서 다른 개발자와 연결하여 AEM 토론을 계속 진행할 수 있습니다.  구현부터 제품 사용 확장에 이르기까지 지침과 모범 사례를 위해 피어 및 Adobe 직원과 네트워크를 형성할 수 있습니다.  질문에 대한 빠른 답변을 얻고 Adobe에 제품 아이디어와 중요한 피드백을 제공하십시오.
+[Experience Manager 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)에서 다른 개발자와 연결하여 AEM 토론을 계속 진행할 수 있습니다.  구현부터 제품 사용 확장에 이르기까지 지침과 모범 사례를 위해 피어 및 Adobe 직원과 네트워크를 형성할 수 있습니다.  질문에 대한 빠른 답변을 얻고 Adobe에 제품 아이디어와 중요한 피드백을 제공하십시오.
 
 <!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
 
@@ -305,7 +329,7 @@ If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
 
 Our latest AEM GEMs webinar on **Unlocking the Power of AEM Sites - Master the Content Management APIs** has been conducted on *October 9th, 2024*.
 The **recording** can be viewed here:
-[Unlocking the Power of AEM Sites - Master the Content Management APIs](* https://experienceleague.adobe.com/ko/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis.md)
+[Unlocking the Power of AEM Sites - Master the Content Management APIs](* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
@@ -324,7 +348,7 @@ The webinars will be conducted regularly, including the following:
 
 ## Experience League Community
 
-Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ko) play a critical role in supporting product adoption and customer success.
+Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) play a critical role in supporting product adoption and customer success.
 
 * Connection: Network with peers and Adobe personnel for guidance and best practices from implementation to expanding product use
 * Quick Answers: Extensive pool of real-world use case answers to support successful active use of Adobe solutions
