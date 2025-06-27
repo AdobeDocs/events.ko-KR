@@ -1,5 +1,5 @@
 ---
-title: 'AEM Sites 마스터링: 템플릿, 탐색 및 SEO에 대한 초보자 안내서'
+title: AEM Sites 마스터링 - 템플릿, 탐색 및 SEO
 description: AEM Sites 기본 사항 - 페이지 템플릿을 사용하고, 직관적인 탐색을 디자인하고, 주요 SEO 사례를 적용하여 가시성과 사이트 성능을 향상시키는 방법에 대해 알아봅니다.
 solution: Experience Manager
 version: Experience Manager as a Cloud Service
@@ -9,9 +9,9 @@ doc-type: Event
 duration: 2025
 last-substantial-update: 2025-06-27T00:00:00Z
 jira: KT-18431
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+source-git-commit: f9e38f359b801bc6abc7a108f1da755922e43c65
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,4 @@ ht-degree: 0%
 * 최적의 사이트 경험을 위한 사용자 친화적 탐색 구축
 * AEM Sites 내에서 SEO 기반 구축
 
->[!VIDEO](https://video.tv.adobe.com/v/3464322/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3464298/?learn=on&enablevpops)
