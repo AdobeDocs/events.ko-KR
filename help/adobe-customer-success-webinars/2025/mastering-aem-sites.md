@@ -27,4 +27,4 @@ ht-degree: 0%
 * 최적의 사이트 경험을 위한 사용자 친화적 탐색 구축
 * AEM Sites 내에서 SEO 기반 구축
 
->[!VIDEO](https://video.tv.adobe.com/v/3464298/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464322/?learn=on&enablevpops&captions=kor)
