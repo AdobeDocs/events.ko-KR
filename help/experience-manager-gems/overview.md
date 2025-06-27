@@ -299,7 +299,7 @@ ht-degree: 0%
 
 ## 토의를 계속하세요.
 
-[Experience Manager 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)에서 다른 개발자와 연결하여 AEM 토론을 계속 진행할 수 있습니다.  구현부터 제품 사용 확장에 이르기까지 지침과 모범 사례를 위해 피어 및 Adobe 직원과 네트워크를 형성할 수 있습니다.  질문에 대한 빠른 답변을 얻고 Adobe에 제품 아이디어와 중요한 피드백을 제공하십시오.
+[Experience Manager 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ko)에서 다른 개발자와 연결하여 AEM 토론을 계속 진행할 수 있습니다.  구현부터 제품 사용 확장에 이르기까지 지침과 모범 사례를 위해 피어 및 Adobe 직원과 네트워크를 형성할 수 있습니다.  질문에 대한 빠른 답변을 얻고 Adobe에 제품 아이디어와 중요한 피드백을 제공하십시오.
 
 <!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
 
@@ -329,7 +329,7 @@ If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
 
 Our latest AEM GEMs webinar on **Unlocking the Power of AEM Sites - Master the Content Management APIs** has been conducted on *October 9th, 2024*.
 The **recording** can be viewed here:
-[Unlocking the Power of AEM Sites - Master the Content Management APIs](* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis.md)
+[Unlocking the Power of AEM Sites - Master the Content Management APIs](* https://experienceleague.adobe.com/ko/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
@@ -348,7 +348,7 @@ The webinars will be conducted regularly, including the following:
 
 ## Experience League Community
 
-Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) play a critical role in supporting product adoption and customer success.
+Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ko) play a critical role in supporting product adoption and customer success.
 
 * Connection: Network with peers and Adobe personnel for guidance and best practices from implementation to expanding product use
 * Quick Answers: Extensive pool of real-world use case answers to support successful active use of Adobe solutions
