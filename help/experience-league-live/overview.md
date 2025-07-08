@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 0ee7c933d4278a09b3c69373c4bbc21274279ec8
+source-git-commit: 1617cde0fc7e455a4cf9dfb3d1082d9abe79620d
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '156'
 ht-degree: 3%
 
 ---
@@ -28,10 +28,6 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-07-31-25.md">
               <img alt="Experience League 라이브 7월 31일" src="episodes/assets/WebBanner-31July2025.png">
             </a>
-            <div>
-              <a href="episodes/exl-live-episode-07-31-25.md">
-                <strong>기본 빈도 제한 및 충돌 우선 순위 지정</strong>
-              </a>
             </div>
         </td>
     </tr>
@@ -100,5 +96,5 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/ko#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
+>기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
 
