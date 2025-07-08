@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 65bbb2d2658a343005abfc597bf13aa814b8cc82
+source-git-commit: 0ee7c933d4278a09b3c69373c4bbc21274279ec8
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '161'
 ht-degree: 3%
 
 ---
@@ -32,8 +32,6 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
               <a href="episodes/exl-live-episode-07-31-25.md">
                 <strong>기본 빈도 제한 및 충돌 우선 순위 지정</strong>
               </a>
-              <br/><em>산드라 하우스만, 아리엘 술탄, 아론 포레스트, 키아라 포셋과 함께</em>
-              <br/><em>2025년 6월 18일</em>
             </div>
         </td>
     </tr>
@@ -102,5 +100,5 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/ko#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
+>기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
 
