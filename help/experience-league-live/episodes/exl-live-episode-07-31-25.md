@@ -8,13 +8,13 @@ event-cta-url-live: https://youtube.com/live/tyXesNYv-eM
 event-start-time: 2025-07-31 08:30-7
 event-guests: Sandra Hausmann, Chris Ivory, Amarnath Vannarath, Rohan Bhatt
 last-substantial-update: 2025-06-25T00:00:00Z
-source-git-commit: b6cf8d04400e9cab99114c519b8e7df785234909
+exl-id: 0accdf09-75c4-4ec7-b892-93c5d39c1bc5
+source-git-commit: 18559c22260b687f6323e493385f7228b175a322
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
-
 
 # AEM 컨텐츠 조각 및 Dynamic Media를 사용하여 Journey Optimizer에서 개인화된 컨텐츠 제공
 
@@ -33,6 +33,7 @@ Sandra Hausmann, Digital Experience 수석 기술 마케팅 엔지니어
 * Kaitlin White, Digital Experience 수석 제품 마케팅 관리자
 * Chris Ivory, Adobe 고객 솔루션 수석 솔루션 컨설턴트
 
-등록은 곧 가능합니다. 그동안 [YouTube](https://www.youtube.com/live/VUysRFpD40Q){target="_blank"}에 표시를 책갈피로 지정한 다음 알림을 받도록 선택하십시오.
+[지금 등록!](https://engage.adobe.com/ExpLeagueLive-250731.html?sdid=QLD1P2NL&mv=other)
+
 
 [![웹 배너](/help/experience-league-live/episodes/assets/WebBanner-31July2025.png)](https://www.youtube.com/live/VUysRFpD40Q)
