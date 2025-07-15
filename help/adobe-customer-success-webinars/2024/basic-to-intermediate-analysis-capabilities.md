@@ -9,7 +9,7 @@ duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
 exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: a36ab2aa1a741baae0e23a4b8ad8f8418fcdbe59
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Adobe Analytics 및 CJA: 기본 - 중간 분석 기능에 대한 빠른 시작
 
-Adobe Analytics 및 Customer Journey Analytics(CJA)를 빠르게 시작하여 데이터 기반 결정으로 마케팅 활동을 지원하는 방법에 대해 알아봅니다. 강력한 분석 기능을 위해 조직을 설정하는 방법, 어떤 분석 솔루션을 가장 잘 사용할 시기를 이해하고, 주요 마케팅 보고서를 작성하기 위해 Analytics 및 CJA 기능을 분석 완성도 수준에 매핑하는 방법에 대해 알아봅니다.
+Adobe Analytics 및 Customer Journey Analytics(CJA)를 빠르게 시작하여 데이터 기반 결정으로 마케팅 활동을 지원하는 방법에 대해 알아봅니다. 강력한 분석 기능을 위해 조직을 설정하는 방법, 어떤 분석 솔루션을 가장 잘 사용할 것인지 이해하는 방법, 주요 마케팅 보고서를 작성하기 위해 Analytics 및 CJA 기능을 분석 완성도 수준에 매핑하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440933/?learn=on&enablevpops)
 
@@ -30,7 +30,7 @@ Adobe Analytics 및 Customer Journey Analytics(CJA)를 빠르게 시작하여 �
 
 * **발표자 소개**
    * Adobe의 수석 고객 성공 관리자인 Frederick이 이 세션을 소개했습니다.
-   * Adobe의 주요 고객 성공 관리자인 Kirsten Schaffer 박사가 발표자입니다.
+   * Adobe의 주요 고객 성공 전략가인 Kerstin Schäfer 박사가 발표자입니다.
 
 * **세션 콘텐츠**
    * 이 세션은 강력한 분석 기능, 거버넌스 측면 및 분석 및 고객 여정 분석을 위한 실행 경로에 대한 조직 설정을 다룹니다.
@@ -38,7 +38,7 @@ Adobe Analytics 및 Customer Journey Analytics(CJA)를 빠르게 시작하여 �
 
 * **논의된 주요 항목**
    * 시장 변화, 개인 정보 및 거버넌스, 데이터 민주주의, 데이터 복잡성 등 디지털 분석에 영향을 미치는 **외부 및 내부 인력**.
-   * **강력한 분석 기반 구축** 측정 전략, 데이터 수집, 통찰력 및 분석, 학습, 데이터 거버넌스
+   * **강력한 분석 기반 구축** 측정 전략, 데이터 수집, insight 및 분석, 학습, 데이터 거버넌스
    * **Digital Analytics 팀 설정** 역할 및 책임, 하이브리드 팀 만들기 및 분석 요청을 효율적으로 관리합니다.
    * **Adobe 지원 옵션** Experience League, 주문형 과정, 트레이너 기반 클래스, 커뮤니티 지원.
 
