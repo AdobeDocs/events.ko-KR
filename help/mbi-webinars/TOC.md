@@ -2,7 +2,9 @@
 user-guide-title: Commerce Intelligence 이벤트
 breadcrumb-title: Commerce Intelligence 이벤트
 user-guide-description: Commerce Intelligence 이벤트는 전문가와 동료가 Adobe Commerce Intelligence에 대한 생각과 아이디어를 공유한 비디오 라이브러리입니다.
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+type: Event
+solution: Commerce Intelligence
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 5%

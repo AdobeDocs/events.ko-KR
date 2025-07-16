@@ -3,17 +3,18 @@ title: Workfront 거버넌스란 무엇입니까?
 description: 온디맨드 웨비나를 사용하여 Workfront의 거버넌스를 살펴보십시오. Mayo Clinic College of Medicine 및 Workfront 전문가로부터 소규모의 진화하는 관행을 시작하고 포괄적인 거버넌스로의 여정에 대해 알아보십시오.
 role: Admin
 level: Beginner, Intermediate, Experienced
+solution: Workfront
 doc-type: Event
 duration: 3713
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15810
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: bb1959ae-30cc-428c-957a-cb9264641b17
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
 
 ---
-
 
 # Workfront 거버넌스란 무엇입니까?
 

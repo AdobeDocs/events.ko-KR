@@ -1,20 +1,21 @@
 ---
 title: 마케터 맵 - Marketo 캠페인 전략, 빌드 및 분석에 대한 포괄적인 안내서
-description: 가져오기, 복제 및 처음부터 빌드하기 등 Marketo Engage 프로그램을 효율적으로 만드는 방법에 대해 알아봅니다. 브랜드 표준에 맞게 Marketo Engage 템플릿을 사용자 정의하고 에셋 및 기간 비용을 관리합니다.
+description: 가져오기, 복제 및 처음부터 빌드하기 등 Marketo Engage 프로그램을 효율적으로 만드는 방법을 알아봅니다. 브랜드 표준을 충족하고 자산 및 기간 비용을 관리하도록 Marketo Engage 템플릿을 사용자 지정합니다.
 feature: Smart Campaigns, Reporting
 role: Admin, Developer, User
 level: Intermediate, Experienced
 doc-type: Event
+solution: Marketo Engage
 duration: 2740
 last-substantial-update: 2024-08-05T00:00:00Z
 jira: KT-15890
-source-git-commit: d2954c2c4ed7b83ca6084395e3d414f76109acb9
+exl-id: 9fb78dbe-e2ab-4f4b-93fe-013426a30114
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
 
 ---
-
 
 # 마케터 맵: Marketo 캠페인 전략, 빌드 및 분석에 대한 포괄적인 안내서
 

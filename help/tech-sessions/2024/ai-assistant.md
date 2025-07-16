@@ -1,14 +1,15 @@
 ---
 title: Adobe Experience Platform의 AI Assistant를 사용하여 생산성 향상
-description: Rachel Hanessian 및 Ariel Sultan의 통찰력 있는 웨비나와 함께 Real-Time CDP, Journey Optimizer 및 Customer Journey Analytics에서 생산성을 높이기 위해 AI Assistant를 사용하여 설정, 시작 및 사용 사례를 탐색하는 방법에 대해 알아봅니다.
+description: Rachel Hanessian 및 Ariel Sultan의 통찰력 있는 웨비나와 함께 Real-Time CDP, Journey Optimizer 및 Customer Journey Analytics에서 생산성을 높이기 위해 AI Assistant를 사용하여 설정, 시작 및 사용 사례를 탐색하는 방법을 알아봅니다.
 role: Admin
 level: Beginner
 doc-type: Event
+solution: Experience Platform, Real-Time Customer Data Platform, Journey Optimizer, Customer Journey Analytics
 duration: 2813
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16367
 exl-id: 29400794-7b24-41e8-a3b5-e15337ecb62f
-source-git-commit: 745121bd9c9a88634a54c0bff67d913035378e83
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
@@ -17,7 +18,7 @@ ht-degree: 0%
 
 # Adobe Experience Platform의 AI Assistant를 사용하여 생산성 향상
 
-Real-Time CDP, Journey Optimizer 및 Customer Journey Analytics의 생산성을 높이기 위해 AI Assistant를 사용하여 설정, 시작 및 사용 사례를 탐색하는 방법을 배울 수 있는 통찰력 있는 웨비나.
+Real-Time CDP, Journey Optimizer 및 Customer Journey Analytics의 생산성을 높이기 위해 AI Assistant를 사용하여 설정, 시작 및 사용 사례를 살펴보는 통찰력 있는 웨비나입니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435344/?learn=on)
 
@@ -43,7 +44,7 @@ Real-Time CDP, Journey Optimizer 및 Customer Journey Analytics의 생산성을 
 ### AI Assistant 개요
 
 * AI 비서는 생성형 AI가 제공하는 대화 인터페이스입니다.
-* 실시간 CDP, Journey Optimizer 및 Customer Journey Analytics을 위해 설계되었습니다.
+* 실시간 CDP, Journey Optimizer 및 Customer Journey Analytics용으로 설계되었습니다.
 * 제품 지식, 운영 통찰력 및 워크플로우 효율화에 도움이 됩니다.
 
 ### 기능 및 가상 사용자

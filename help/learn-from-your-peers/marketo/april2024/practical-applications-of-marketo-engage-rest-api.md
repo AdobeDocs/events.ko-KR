@@ -1,6 +1,7 @@
 ---
-title: 강력한 워크플로 자동화 잠금 해제 - Marketo Engage REST API의 실용적인 응용 프로그램
+title: 강력한 워크플로우 자동화 잠금 해제 - Marketo Engage REST API의 실용적인 애플리케이션
 description: Marketo Engage REST API의 잠재력을 활용하여 마케팅 워크플로우를 자동화하고, Zapier와 같은 도구를 통합하고, Python을 대량 작업에 활용하고, 리드 병합, UTM 추적 및 활동 데이터 추출과 같은 작업을 간소화합니다.
+solution: Marketo Engage
 feature: REST API
 role: Admin
 level: Beginner, Intermediate
@@ -9,16 +10,16 @@ duration: 2447
 last-substantial-update: 2024-04-19T00:00:00Z
 jira: KT-15347
 exl-id: bdfc3a26-0af1-4f39-b9ed-2842fecea17c
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
 
 ---
 
-# 강력한 워크플로 자동화 잠금 해제: Marketo Engage REST API의 실용적인 응용 프로그램
+# 강력한 워크플로우 자동화 잠금 해제: Marketo Engage REST API의 실용적인 응용 프로그램
 
-Marketo Engage REST API의 강력한 기능을 살펴보고 마케팅 운영 워크플로를 간소화하고, 수작업을 줄이고, 수익 창출 활동을 위한 시간을 확보할 수 있습니다. REST API를 사용하면 Zapier와 같은 자동화 도구를 활용하여 자동화된 워크플로를 트리거하고 Python과 같은 프로그래밍 언어를 사용하여 작업을 대량으로 수행할 수 있습니다.
+Marketo Engage REST API의 강력한 기능을 살펴봄으로써 마케팅 운영 워크플로를 능률화하고, 수작업을 줄이고, 수익 창출 활동을 위한 시간을 확보할 수 있습니다. REST API를 사용하면 Zapier와 같은 자동화 도구를 활용하여 자동화된 워크플로를 트리거하고 Python과 같은 프로그래밍 언어를 사용하여 작업을 대량으로 수행할 수 있습니다.
 
 이 웨비나에서는 다음 작업을 수행합니다.
 

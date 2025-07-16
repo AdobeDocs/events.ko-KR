@@ -3,18 +3,19 @@ title: 운영 보고 웨비나의 기초
 description: 시스템 관리자가 Workfront에서 측정해야 하는 사항을 동료로부터 알아보십시오. 온디맨드 웨비나에서 주요 지표, 보고 요구 사항 및 샘플 대시보드를 살펴봅니다.
 feature: Reports and Dashboards
 role: Admin
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3672
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15813
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 3f98a8e2-c288-4270-b6ea-b21d5751ae2b
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 1%
 
 ---
-
 
 # 피어 웨비나: Operational Reporting 기초
 

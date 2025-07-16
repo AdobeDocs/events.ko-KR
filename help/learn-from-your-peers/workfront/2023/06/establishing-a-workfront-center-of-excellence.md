@@ -2,18 +2,19 @@
 title: Workfront 우수성 센터 웨비나 구축
 description: Mattel 및 Adobe Workfront 전문가로부터 Workfront CoE(Center of Excellence)를 온디맨드 웨비나에서 구축하는 방법에 대해 알아보십시오. 지속 가능하고 확장 가능한 관리를 위한 주요 구성 요소, Enabler 및 점진적 단계를 살펴보고 사용자 채택률을 향상시키고 제품 사용 및 데이터 무결성을 향상시킵니다.
 role: Admin, Leader
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3715
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15824
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 02d88c39-f53c-4529-ab0e-aebf0f2dff42
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
 
 ---
-
 
 # Workfront 최고 센터 설립
 

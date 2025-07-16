@@ -1,6 +1,7 @@
 ---
 title: 챔피언으로 적용하고 돋보이는 방법 알아보기
 description: Adobe의 채택 마케팅 팀 및 현재 Adobe Champions와 함께 독점 웨비나를 시청하시면 프로그램을 안내해 드리며, 우수 애플리케이션 제출에 대한 팁을 공유해 드립니다.
+solution: General
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -8,7 +9,7 @@ duration: 3519
 last-substantial-update: 2025-05-20T00:00:00Z
 jira: KT-18134
 exl-id: 57953e9b-2bed-4b5b-b345-84f00f2801ff
-source-git-commit: 27f01773802dadf8df60b0c1963e6e622e5db657
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%

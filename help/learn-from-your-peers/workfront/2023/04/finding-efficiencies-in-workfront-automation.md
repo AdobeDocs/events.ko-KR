@@ -3,18 +3,19 @@ title: 자동화 웨비나를 통해 Workfront의 효율성 찾기
 description: 온디맨드 웨비나에서 Adobe Workfront의 효율적인 유지 관리 전략에 대해 알아봅니다. Stanley Black & Decker 및 Workfront 전문가의 반복적인 작업 자동화, Fusion 템플릿 활용 및 최적의 효율성을 위한 워크플로우 프로세스 진화에 대한 팁을 살펴보십시오.
 feature: Workfront Fusion
 role: Admin
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3682
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15822
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: a3fc6790-7ae6-4d6e-b2ee-6d2dcb6129f6
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # 자동화를 통한 Workfront의 효율성 찾기
 

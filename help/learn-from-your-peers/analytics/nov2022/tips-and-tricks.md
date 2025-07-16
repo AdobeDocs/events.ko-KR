@@ -2,13 +2,14 @@
 title: '[!DNL Adobe Analytics] 챔피언 팁 및 요령'
 description: 전 세계의 5개 [!DNL Adobe Analytics] 챔피언과 함께 마스터하는 데 도움이 되는 팁과 요령을 공유해 보세요 [!DNL Adobe Analytics].
 role: User
+solution: Analytics
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
 kt: 11845
 thumbnail: 3414191.jpeg
 exl-id: e15bafe6-f559-426f-9770-ee31a9a628a1
 duration: 3630
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%

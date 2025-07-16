@@ -4,16 +4,17 @@ description: Workfront 인스턴스 인수에 대한 자세한 내용은 숙련�
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3641
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15820
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 742737b9-4177-4a21-a883-ba6b67d67195
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
-
 
 # 기존 Workfront 인스턴스 인수에 대한 팁
 
@@ -25,6 +26,6 @@ ht-degree: 0%
 * 성공을 위해 미래의 자신(및 미래의 관리자)을 설정하기 위해 모든 관리자가 오늘 수행해야 하는 작업
 * 인스턴스 감사 및 설명서 프로세스를 안내하는 질문, 리소스 및 링크가 포함된 다운로드 가능한 체크리스트입니다
 
-상속된 인스턴스 확인 목록 및 블루프린트도 체크아웃하십시오. https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
+상속된 인스턴스 확인 목록 및 블루프린트도 체크아웃하십시오. https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431014/?learn=on)

@@ -9,7 +9,7 @@ duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
 exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
-source-git-commit: a36ab2aa1a741baae0e23a4b8ad8f8418fcdbe59
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Adobe Analytics 및 Customer Journey Analytics(CJA)를 빠르게 시작하여 �
 ## 주요 사항
 
 * **세션 개요**
-   * 이번 세션은 &#39;기초 중간 분석 기능을 위한 Quickstart&#39;라는 제목으로 Kirsten Schaffer 박사가 주관한다.
+   * 이번 세션은 &#39;Quickstart for Basic Intermediate Analysis Capabilities&#39;라는 제목으로 Kerstin Schäfer 박사가 이끌고 있다.
    * 세션이 레코딩 중이며 레코딩에 대한 링크가 등록된 모든 참석자에게 전송됩니다.
 
 * **발표자 소개**

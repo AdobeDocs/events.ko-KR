@@ -4,18 +4,19 @@ description: 온디맨드 웨비나에서 프로젝트 템플릿을 최적화하
 feature: Projects
 topic: Administration
 role: Admin, User
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3664
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15823
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: b8c4d196-8b74-4309-b15e-79b1d6d57e36
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # 프로젝트 템플릿의 기초
 

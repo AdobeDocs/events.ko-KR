@@ -2,18 +2,19 @@
 title: 요청 대기열 웨비나에 대한 모든 정보
 description: 동료로부터 Workfront 요청 대기열을 극대화하는 방법에 대해 알아보십시오. Disney's Yellow Shoes의 다양한 용도와 모범 사례를 온디맨드 웨비나에서 살펴보십시오.
 role: Admin
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3611
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15814
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: fa9b2c3b-62ac-4f4f-9aec-2e696be5ef48
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 1%
 
 ---
-
 
 # 요청 대기열에 대한 모든 정보
 

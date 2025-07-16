@@ -1,19 +1,20 @@
 ---
 title: 사용자 관리 웨비나 이해
 description: 온디맨드 웨비나에 참여하여 Workfront 사용자 설정 및 조직을 마스터하십시오. Thermo Fisher Scientific 및 Adobe Workfront 전문가로부터 라이선스, 액세스 수준, 그룹, 팀, 객체 계층, 공유 권한 및 효율적인 사용자 관리를 위한 모범 사례에 대해 알아보십시오.
+solution: Workfront
 role: Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3686
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15808
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 3f7e6991-5e18-4637-9ab4-d1deca267040
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
-
 
 # 사용자 관리 이해
 
