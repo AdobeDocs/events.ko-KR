@@ -73,7 +73,7 @@ Adobe Workfront 게임의 수준을 높이기 위해 빠르고 실행 가능한 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/blueprints.md" title="상위 3 - Creative의 블루프린트 접근 방식" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1752859088922" alt="상위 3 - Creative의 블루프린트 접근 방식"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465318/?format=jpeg&nocache=1752859088922&captions=kor" alt="상위 3 - Creative의 블루프린트 접근 방식"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
