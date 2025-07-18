@@ -3,19 +3,20 @@ title: 에스프레소 & Experience Manager - Edge Delivery Services
 description: 첫 번째 에스프레소 및 AEM 웨비나를 시청해 보십시오! Casey & Rajan은 Edge Delivery Services, Universal Editor 및 SPEED를 통해 사이트 속도, 전환 및 편집 편의성을 향상시킵니다.
 solution: Experience Manager
 version: Experience Manager as a Cloud Service
+feature: Edge Delivery Services
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3425
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18154
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: 327602fa-17f1-4372-a429-37b570b11302
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
-
 
 # 에스프레소 &amp; Experience Manager: Edge Delivery Services
 

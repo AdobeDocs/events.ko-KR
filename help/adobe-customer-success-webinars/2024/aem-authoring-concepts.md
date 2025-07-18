@@ -3,6 +3,7 @@ title: AEM 기본 사항 AEM 소개 주요 개념 및 기능 작성
 description: AEM 작성 기본 사항 세션에서는 주요 개념, 이중 환경 모델, 콘텐츠 작성 문제, 작성 도구, 공동 작업 및 번역 기능, 에지 전달 서비스에 대해 다룹니다.
 solution: Experience Manager
 version: Experience Manager as a Cloud Service
+feature: Edge Delivery Services
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -10,7 +11,7 @@ duration: 3248
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16416
 exl-id: 5966c14a-7adb-48d8-bf20-9fb4a350745f
-source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 1%

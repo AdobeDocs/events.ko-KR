@@ -1,6 +1,7 @@
 ---
 title: Adobe Experience Manager Edge Delivery Services에 AI 및 Personalization 가져오기
-description: Cognizant Netcentric의 수석 솔루션 설계자인 Andreas Haller가 입증한 기본 아키텍처, 의미 체계 검색 및 고급 사용 사례를 통해 Adobe Experience Manager Edge Delivery Services에 AI 및 개인화를 통합하는 방법을 알아봅니다.
+description: Cognizant Netcentric의 수석 솔루션 설계자인 Andreas Haller가 입증한 기본 아키텍처, 의미 체계 검색 및 고급 사용 사례를 통해 Adobe Experience Manager Edge Delivery Services에 AI 및 개인화를 통합하는 방법에 대해 알아봅니다.
+solution: Experience Manager as a Cloud Service, Experience Manager
 feature: Edge Delivery Services, Search, Generative AI
 topic: Artificial Intelligence, Personalization
 role: Developer
@@ -9,19 +10,19 @@ doc-type: Event
 duration: 1029
 last-substantial-update: 2024-11-25T00:00:00Z
 jira: KT-16578
-source-git-commit: 8770c8172ee90524079efc65aec7e129f1d1d031
+exl-id: d560045b-4404-41f6-b53e-787877faab5b
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Experience Manager Edge Delivery Services에 AI 및 Personalization 가져오기
 
-개인화 및 AI를 Adobe Experience Manager Edge Delivery Services에 통합하는 기본 아키텍처를 살펴보십시오. Cognizant Netcentric의 수석 솔루션 설계자인 Andreas Haller와 함께 의미 체계 검색 및 고급 사용 사례를 통해 프로젝트를 향상시킬 수 있습니다.
+개인화 및 AI를 Adobe Experience Manager Edge Delivery Services에 통합하는 기본 아키텍처를 살펴보십시오. Cognizant Netcentric의 수석 솔루션 설계자인 Andreas Haller가 시맨틱 검색 및 고급 사용 사례를 통해 프로젝트를 개선하는 데 참여합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440413/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3440405/?learn=on&enablevpops)
 
 ## 커뮤니티 토론
 

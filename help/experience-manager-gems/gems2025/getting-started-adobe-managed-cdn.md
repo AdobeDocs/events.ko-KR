@@ -1,23 +1,24 @@
 ---
-title: AEM GEM - Adobe 관리 CDN 시작하기
-description: 새로운 CDN 구성 기능을 사용하여 성능과 보안을 개선하기 위해 AEM Cloud Service에서 Adobe 관리 CDN을 구성하는 방법에 대해 알아봅니다.
+title: AEM GEM - Adobe Managed CDN 시작하기
+description: 새로운 CDN 구성 기능을 통해 성능과 보안을 향상하도록 AEM Cloud Service에서 Adobe Managed CDN을 구성하는 방법에 대해 알아봅니다.
 role: Developer, User
 level: Intermediate
+feature: Edge Delivery Services
 doc-type: Event
 duration: 3438
 last-substantial-update: 2025-01-30T00:00:00Z
 jira: KT-17227
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+exl-id: 4cd0332f-95bf-45f4-a765-aba020c0d7b0
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '437'
 ht-degree: 0%
 
 ---
 
+# AEM GEM - Adobe Managed CDN 시작하기
 
-# AEM GEM - Adobe 관리 CDN 시작하기
-
-AEM Cloud Service의 Adobe 관리 CDN과 구성 방법에 대해 알아봅니다. AEM as a Cloud Service 애플리케이션의 성능과 보안을 향상시키는 데 사용할 수 있는 새로운 CDN 구성 기능에 대해 알아보십시오. 이 세션에서 다음을 발견할 수 있습니다.
+AEM Cloud Service의 Adobe Managed CDN과 구성 방법에 대해 알아봅니다. AEM as a Cloud Service 애플리케이션의 성능과 보안을 향상시키는 데 사용할 수 있는 새로운 CDN 구성 기능에 대해 알아보십시오. 이 세션에서 다음을 발견할 수 있습니다.
 
 * Adobe CDN이란?
 * AEMaaCS 및 Edge Delivery Services 관련 토폴로지
@@ -50,11 +51,11 @@ AEM Cloud Service의 Adobe 관리 CDN과 구성 방법에 대해 알아봅니다
 
 * **구성 파이프라인** YAML 파일을 배포하여 CDN 규칙을 구성합니다.
 * **트래픽 보호** 트래픽 필터 규칙을 사용하여 패턴을 기반으로 트래픽을 차단, 로그 및 경고합니다.
-* IP당 요청 수를 제한하여 DDoS 공격에 대한 **속도 제한** Protect.
+* **속도 제한** IP당 요청 수를 제한하여 DDoS 공격으로부터 보호합니다.
 
 ### 도구 및 분석
 
-* **Kibana 스택 Elasticsearch** 제공된 대시보드를 사용하여 사용 및 트래픽을 분석합니다.
+* **Elasticsearch Kibana 스택** 제공된 대시보드를 사용하여 사용 및 트래픽을 분석합니다.
 * **로그 전달** 분석을 위해 Splunk 인스턴스에 로그를 전달합니다.
 
 ### 데모 하이라이트

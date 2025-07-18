@@ -1,6 +1,7 @@
 ---
 title: 최신 Adobe Experience Manager API 및 이벤트
 description: 애플리케이션을 확장하고 developer.adobe.com에서 전담 팀과 포괄적인 리소스가 지원하는 최신 API와 AMS 서비스를 통합하며 콘텐츠 조각, 이벤트 통합 및 얼리어답터를 위한 기회를 위한 새로운 API를 사용합니다.
+solution: Experience Manager as a Cloud Service, Experience Manager
 feature: APIs, Integrations
 topic: Integrations
 role: Developer
@@ -9,17 +10,17 @@ doc-type: Event
 duration: 1310
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16549
-source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
+exl-id: 3cb11b21-d673-4373-82bb-72a6a1e73161
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
 
 ---
 
-
 # 최신 Adobe Experience Manager API 및 이벤트
 
-Adobe Experience Manager의 클라우드 기반 이벤트 시스템이 외부 시스템과 원활하게 통합하여 워크플로를 현대화하는 방법에 대해 알아봅니다. Adobe 수석 제품 관리자인 Mathias Siegel과 수석 컴퓨터 과학자인 Ian Reasor가 최신 API, 이벤트 및 실제 사용 사례를 공유합니다.
+Adobe Experience Manager의 클라우드 기반 이벤트 시스템이 외부 시스템과 원활하게 통합하여 워크플로를 현대화하는 방법에 대해 알아봅니다. Adobe의 수석 제품 관리자인 Mathias Siegel과 수석 컴퓨터 과학자인 Ian Reasor가 최신 API, 이벤트 및 실제 사용 사례를 공유합니다.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440203/?learn=on&enablevpops)
@@ -40,4 +41,3 @@ Adobe Developers Live 커뮤니티 [토론](https://adobe.ly/3YMhKU9)에서 대�
 * **새 API 사용 권장** 사용자는 AMS API 개발의 향후 방향을 나타내므로 이러한 새 API로 전환할 것을 권장합니다.
 * **인증 및 액세스 토큰** 액세스 토큰 생성 프로세스가 완료되었으며 향후 릴리스에서 사용할 수 있습니다.
 * **참여 및 지원** 팀은 얼리 어답터 기회와 API 사용 사례에 대한 추가 논의에 대한 질문과 참여를 허용합니다.
-
