@@ -24,16 +24,16 @@ ht-degree: 0%
 
 그룹 및 팀에 대해 자세히 알아보시겠습니까?
 
-* [그룹 및 팀 기능 비교](https://experienceleague.adobe.com/en/docs/workfront/using/teams-groups/work-with-groups-teams/understanding-differences-and-similarities-between-groups-and-teams)
-* [그룹 개요](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/manage-groups/groups/groups)
-* [팀 개요](https://experienceleague.adobe.com/en/docs/workfront/using/teams-groups/create-manage-teams/teams-overview)
+* [그룹 및 팀 기능 비교](https://experienceleague.adobe.com/ko/docs/workfront/using/teams-groups/work-with-groups-teams/understanding-differences-and-similarities-between-groups-and-teams)
+* [그룹 개요](https://experienceleague.adobe.com/ko/docs/workfront/using/administration-and-setup/manage-groups/groups/groups)
+* [팀 개요](https://experienceleague.adobe.com/ko/docs/workfront/using/teams-groups/create-manage-teams/teams-overview)
 
 다음은 오브젝트, 액세스 수준 및 권한 공유에 대한 몇 가지 보너스 문서입니다.
 
-* [개체에 상속된 사용 권한 보기](https://experienceleague.adobe.com/en/docs/workfront/using/basics/grant-request-object-permissions/view-inherited-permissions-on-objects)
-* [액세스 수준과 사용 권한이 함께 작동하는 방식](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/access-levels/access-level-overview#how-access-levels-and-permissions-work-together)
-* [액세스 수준에서 추가 제한 설정](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/configure-access/create-modify-access-levels#planner-users:~:text=Click%20Set%20additional%20restrictions%2C%20then%20set%20any%20of%20the%20following%20restrictions%20for%20the%20access%20level)
+* [개체에 상속된 사용 권한 보기](https://experienceleague.adobe.com/ko/docs/workfront/using/basics/grant-request-object-permissions/view-inherited-permissions-on-objects)
+* [액세스 수준과 사용 권한이 함께 작동하는 방식](https://experienceleague.adobe.com/ko/docs/workfront/using/administration-and-setup/add-users/access-levels/access-level-overview#how-access-levels-and-permissions-work-together)
+* [액세스 수준에서 추가 제한 설정](https://experienceleague.adobe.com/ko/docs/workfront/using/administration-and-setup/add-users/configure-access/create-modify-access-levels#planner-users:~:text=Click%20Set%20additional%20restrictions%2C%20then%20set%20any%20of%20the%20following%20restrictions%20for%20the%20access%20level)
 
-새로운 아이디어와 접근 방식에 관심이 있으십니까? [Experience League 이벤트 페이지](https://experienceleague.adobe.com/en/events?filters=Workfront)에서 예정된 워크샵에 등록하십시오. 곧 뵙기를 바랍니다!
+새로운 아이디어와 접근 방식에 관심이 있으십니까? [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events?filters=Workfront)에서 예정된 워크샵에 등록하십시오. 곧 뵙기를 바랍니다!
 
 
