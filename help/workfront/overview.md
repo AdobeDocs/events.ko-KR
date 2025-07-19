@@ -112,7 +112,7 @@ Workfront 관리자, 프로젝트 관리자 또는 일반 사용자이든 이 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="Versus! - 그룹 대 팀" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1752859089086" alt="Versus! - 그룹 대 팀"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467360/?format=jpeg&nocache=1752859089086&captions=kor" alt="Versus! - 그룹 대 팀"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

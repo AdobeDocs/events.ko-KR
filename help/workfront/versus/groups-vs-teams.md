@@ -20,7 +20,7 @@ ht-degree: 0%
 
 안녕하세요, &quot;On-Demand Workfront CSM&quot;입니다! 이 및 에피소드, 그룹과 팀을 사용하기 위한 몇 가지 아이디어와 권장 사항을 공유합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3465273/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3467360/?learn=on&enablevpops&captions=kor)
 
 그룹 및 팀에 대해 자세히 알아보시겠습니까?
 
