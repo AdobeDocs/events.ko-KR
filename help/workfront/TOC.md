@@ -3,9 +3,9 @@ user-guide-title: Workfront 이벤트
 breadcrumb-title: Workfront 이벤트
 user-guide-description: Workfront 이벤트
 solution: Workfront
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 6925343d683d029536f93cfedd93ec2290bea78d
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '161'
 ht-degree: 1%
 
 ---
@@ -13,14 +13,19 @@ ht-degree: 1%
 
 # Workfront 이벤트 {#workfront-recordings}
 
-+ [Workfront 사용자 그룹 및 웨비나](overview.md)
++ [Workfront 온디맨드 워크숍](overview.md)
 
++ 릴리스 웨비나 {#releases}
+   + [25.7 릴리스](releases/25-7-release-webinar.md)
+   + [25.4 릴리스](releases/25-4-release-webinar.md)
+   + [25.1 릴리스](releases/25-1-release-webinar.md)
+   + [24.1 릴리스](releases/24-1-release-webinar.md)
 + 상위 3 {#top3}
    + [블루프린트를 통한 Creative 접근 방식](top3/blueprints.md)
 + Versus! {#versus}
    + [그룹 대 팀](versus/groups-vs-teams.md)
 + 전문가 인사이트 {#expert-insights}
-+[Lyndsy Denk가 있는 요청 큐](expert-insights/request-queues.md)
+   + [Lyndsy Denk가 있는 요청 큐](expert-insights/request-queues.md)
 + 워크숍 되감기 {#workshop-rewind}
    + 워크플로 {#workflow}
       + [Creative의 리소스 관리 방법](classics/creative-ways-of-managing-resources.md)
@@ -63,9 +68,5 @@ ht-degree: 1%
    + 요청 큐 및 접수 {#request-queues-and-intake}
       + [요청 대기열 및 접수 Forms](user-groups/request-queues-and-intake-forms.md)
 
-+ 릴리스 {#releases}
-   + [25.7 릴리스](releases/25-7-release-webinar.md)
-   + [25.4 릴리스](releases/25-4-release-webinar.md)
-   + [25.1 릴리스](releases/25-1-release-webinar.md)
-   + [24.1 릴리스](releases/24-1-release-webinar.md)
+
 
