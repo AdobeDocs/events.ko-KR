@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: ' [!DNL Experience Makers Learn from your peers]의 녹음/녹화 컬렉션'
-source-git-commit: 97016d0d62c2eefca2fd305fedc093c814e3bcc9
+source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 19%
+source-wordcount: '334'
+ht-degree: 20%
 
 ---
 
@@ -114,4 +114,5 @@ ht-degree: 19%
          + [Workfront 거버넌스란 무엇입니까?](workfront/2022/03/what-is-workfront-governance.md)
       + 2월 {#february}
          + [사용자 관리 이해](workfront/2022/02/understanding-user-management.md)
++ [Experience Cloud에서 Adobe 사용자 그룹 탐색](./adobe-user-groups.md)
 + [챔피언으로 적용하고 돋보이는 방법 알아보기](./adobe-champion-application.md)

@@ -2,9 +2,9 @@
 user-guide-title: Adobe 고객 성공 웨비나
 breadcrumb-title: Adobe 고객 성공 웨비나
 user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: 7db60ca1557fb99ae5fb8bd7181317710ed5f90f
+source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---
@@ -15,42 +15,43 @@ ht-degree: 0%
 + [Adobe 고객 성공 웨비나](overview.md)
 + 2025 {#2025}
    + [AEM의 신흥 기술](2025/personalized-experiences-aem.md)
-   + [Adobe Analytics에서 CJA으로 마이그레이션](2025/analytics-to-cja-migration.md)
-   + [AEM Sites 마스터링](2025/mastering-aem-sites.md)
-   + [Workfront 및 JIRA](2025/workfront-and-jira.md)
-   + [변환 B2B &amp; B2B2C Commerce](2025/transforming-b2b-commerce.md)
-   + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
-   + [Workfront의 AI 드라이브 자동화](2025/unlock-efficiency-ai-drive-automation-workfront.md)
-   + [AI - 기본 사항 이상](2025/ai-beyond-basics.md)
-   + [AI 인사이트를 통한 디지털 경험 최적화](2025/accelerating-digital-experience-optimization.md)
-   + [AEM Content Hub에서 Digital Asset Manager 마스터링](2025/mastering-dam-aem-content-hub.md)
-   + [디지털 트렌드 및 미래 준비](2025/digital-trends-preparing-future.md)
-   + [노스스타 건축](2025/northstar-architecture.md)
-   + [AEM Cloud용 New Relic Essentials](2025/new-relic-essentials-aem-cloud.md)
-   + [디지털 및 GenAI 채택 상태](2025/state-of-digital-and-genai-adoption-webinar.md)
-   + [2024년 휴일 결과 및 2025년 트렌드](2025/adobe-digital-insights.md)
    + [AEM 및 GenAI](2025/aem-genai.md)
    + [AEM 및 Workfront 통합](2025/aem-workfront-integration.md)
    + [AI 및 Adobe Target](2025/ai-adobe-target.md)
+   + [AI - 기본 사항 이상](2025/ai-beyond-basics.md)
+   + [Workfront의 AI 드라이브 자동화](2025/unlock-efficiency-ai-drive-automation-workfront.md)
    + [XDM 스키마 모델링에 대한 우수 사례 및 통찰력](2025/model-xdm-schemas.md)
    + [효과적인 웹 페이지 구축](2025/build-effective-web-pages.md)
    + [콘텐츠 공급망 기본 사항](2025/content-supply-chain-basics.md)
    + [효과적인 측정을 위한 공작 전략](2025/impactful-insights.md)
    + [애자일 마케팅 조직 육성](2025/agile-marketing-organization.md)
    + [데이터 Distiller 101](2025/data-distiller-101.md)
+   + [AI 인사이트를 통한 디지털 경험 최적화](2025/accelerating-digital-experience-optimization.md)
+   + [디지털 트렌드 및 미래 준비](2025/digital-trends-preparing-future.md)
    + [고객 참여 유도](2025/driving-customer-engagement.md)
    + [Personalization 및 데이터를 통한 로열티 프로그램 강화](2025/enhance-loyalty-programs.md)
    + [Personalization 향상](2025/enhancing-personalization.md)
+   + [기초 건축](2025/cja-vision.md)
    + [GenAI 실험](2025/gen-ai-experimentation.md)
    + [GenStudio for Performance Marketing 운영 모델](2025/genstudio-for-performance-marketing-operating-model.md)
+   + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
+   + [AEM Sites 마스터링](2025/mastering-aem-sites.md)
+   + [AEM Content Hub에서 Digital Asset Manager 마스터링](2025/mastering-dam-aem-content-hub.md)
    + [순차적 논리 마스터링 - 시각적 프레임워크](2025/mastering-sequential-logic.md)
    + [순차적 논리 마스터링 - 시작 중지](2025/sequential-logic-start-stop.md)
+   + [Adobe Analytics에서 CJA으로 마이그레이션](2025/analytics-to-cja-migration.md)
+   + [AEM Cloud용 New Relic Essentials](2025/new-relic-essentials-aem-cloud.md)
+   + [노스스타 건축](2025/northstar-architecture.md)
    + [AEM 성능 최적화](2025/optimize-aem-performance.md)
    + [디지털 커뮤니케이션 개인화](2025/personalize-digital-communications.md)
    + [CJA을 통한 가치 창출 로드맵](2025/roadmap-to-value-cja.md)
    + [AEP 프로젝트에 대한 경영진 후원 수상](2025/exec-sponsorship-aep-projects.md)
    + [Workfront Fusion 기본 사항 및 우수 사례](2025/adobe-workfront-fusion-best-practices.md)
+   + [Workfront 및 JIRA](2025/workfront-and-jira.md)
    + [더욱 스마트한 마케팅 시작 - Google 및 Adobe 통합](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
+   + [디지털 및 GenAI 채택 상태](2025/state-of-digital-and-genai-adoption-webinar.md)
+   + [변환 B2B &amp; B2B2C Commerce](2025/transforming-b2b-commerce.md)
+   + [2024년 휴일 결과 및 2025년 트렌드](2025/adobe-digital-insights.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Target의 AI 기반 Personalization](2024/ai-personalization.md)
