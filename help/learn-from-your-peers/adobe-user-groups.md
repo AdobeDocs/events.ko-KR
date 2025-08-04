@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3492
 last-substantial-update: 2025-08-01T00:00:00Z
 jira: KT-18677
-source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
+exl-id: b0344cef-66f3-4882-b0d8-eb2e298a08d2
+source-git-commit: 64d09d3316d604d92d1186e3785e64ac1bbaa800
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
-
 
 # Experience Cloud에서 Adobe 사용자 그룹 탐색
 
@@ -26,11 +26,7 @@ Adobe Experience Cloud 솔루션 작업을 하면서 기술을 향상시키고, 
 
 ## 세션 개요
 
-이 세션은 다음을 다룹니다.
-
 * 사용자 그룹이 무엇이며 어떻게 공동 작업, 문제 해결 및 스킬 빌드를 지원하는지 알아봅니다.
 * Adobe에서 사용 가능한 리소스, 도구 및 지원을 포함하여 사용자 그룹에 참여하거나 구성하는 방법에 대한 실용적인 지침을 얻으십시오.
 * AEM, Analytics, Marketo Engage 및 Workfront의 활성 사용자 그룹 리더들이 P2P 학습이 어떻게 전문적으로 성장하고 실제 문제를 해결했는지 직접 들어보십시오.
 * 사용자 그룹 리더가 되거나 사용자 그룹 구성원으로 참여하는 것과 같은 리더십 기회를 탐색합니다.
-
-
