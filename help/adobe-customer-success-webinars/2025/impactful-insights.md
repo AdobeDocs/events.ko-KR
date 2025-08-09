@@ -1,19 +1,20 @@
 ---
 title: 효과적인 통찰력 - 효과적인 측정을 위한 전략 만들기
 description: 잘 구현된 측정 전략은 운영 효율성을 향상시키고, 데이터 중심의 의사 결정을 육성하며, 고객 경험을 향상시켜 조직에 경쟁 우위를 제공합니다.
+solution: General
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 2814
 last-substantial-update: 2025-02-18T00:00:00Z
 jira: KT-17378
-source-git-commit: 5d4308bd92d8285e2380725ad72e341319347cc4
+exl-id: f40c7d75-1b2e-43d5-80dd-99f87c003cac
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
 
 ---
-
 
 # 효과적인 통찰력: 효과적인 측정을 위한 전략 만들기
 

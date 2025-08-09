@@ -1,19 +1,20 @@
 ---
 title: Adobe 디지털 인사이트 - 2024년 휴일 결과 및 2025년 초 트렌드 래핑 해제
 description: Adobe의 웨비나에 참여하여 2024년 명절 쇼핑 트렌드 및 2025년 초 시장 예측에 대한 통찰력을 얻고, 고성장 제품 카테고리를 탐색하고, AI 및 고급 기술을 사용하여 개인화된 쇼핑 경험을 만들기 위한 모범 사례를 알아보십시오.
+solution: General
 role: Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3049
 last-substantial-update: 2025-02-20T00:00:00Z
 jira: KT-17395
-source-git-commit: f63e6bcb608eb6d03fa2f8b43babf0cb13909f4b
+exl-id: bf20e43a-efc6-4d54-af79-15f89d4fd02b
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 0%
 
 ---
-
 
 # Adobe 디지털 인사이트: 2024년 휴일 결과 및 2025년 초 트렌드 래핑 해제
 

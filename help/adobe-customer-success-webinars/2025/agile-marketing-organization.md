@@ -1,19 +1,20 @@
 ---
 title: 애자일 마케팅 조직 육성
 description: 애자일 마케팅 조직 육성에 대한 세션에서는 애자일 마케팅의 원리, 장점, 기존 폭포 접근 방식의 과제, 문화적인 변화와 변화 관리의 필요성, 성공적인 애자일 마케팅을 위해 필수적인 역할과 구조를 조명했다.
+solution: General
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3333
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17371
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: c4cce472-9730-41d8-8292-663d5a2e03a5
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
 
 ---
-
 
 # 애자일 마케팅 조직 육성
 

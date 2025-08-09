@@ -1,19 +1,20 @@
 ---
 title: 데이터 Distiller 101
 description: Data Distiller 101 웨비나는 데이터 세분화, 데이터 보강 및 AI/ML 통합 기능을 강조하며 데이터 설계자 및 마케팅 엔터티에 확장 가능한 솔루션을 제공하여 데이터 중심의 의사 결정을 향상시킵니다.
+solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 2659
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17375
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: 111724c4-a20b-4b18-b600-c285f54195a8
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
 
 ---
-
 
 # 데이터 Distiller 101
 
@@ -39,7 +40,7 @@ Data Distiller은 주요 사용 사례와 고객 솔루션에 대한 개요를 �
 
 * 남미 소매 회사를 위한 브랜드 중심 데이터 모델 만들기.
 * 통신 회사를 위해 개인화된 데이터로 차세대 오퍼 이메일을 보강합니다.
-* 고급 소매점을 위한 보고 및 속성 모델링을 위해 데이터 최적화.
+* 고급 retailer을 위한 보고 및 속성 모델링을 위해 데이터 최적화.
 * 작동 중인 대시보딩을 위한 인사이트 사용자 지정.
 * 교육 및 채점 모델에 AI 및 ML 기능 파이프라인을 활용합니다.
 

@@ -2,10 +2,10 @@
 user-guide-title: Adobe 고객 성공 웨비나
 breadcrumb-title: Adobe 고객 성공 웨비나
 user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
+source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 0%
+source-wordcount: '475'
+ht-degree: 4%
 
 ---
 
@@ -14,44 +14,58 @@ ht-degree: 0%
 
 + [Adobe 고객 성공 웨비나](overview.md)
 + 2025 {#2025}
-   + [AEM의 신흥 기술](2025/personalized-experiences-aem.md)
-   + [AEM 및 GenAI](2025/aem-genai.md)
-   + [AEM 및 Workfront 통합](2025/aem-workfront-integration.md)
-   + [AI 및 Adobe Target](2025/ai-adobe-target.md)
-   + [AI - 기본 사항 이상](2025/ai-beyond-basics.md)
-   + [Workfront의 AI 드라이브 자동화](2025/unlock-efficiency-ai-drive-automation-workfront.md)
-   + [XDM 스키마 모델링에 대한 우수 사례 및 통찰력](2025/model-xdm-schemas.md)
-   + [효과적인 웹 페이지 구축](2025/build-effective-web-pages.md)
-   + [콘텐츠 공급망 기본 사항](2025/content-supply-chain-basics.md)
-   + [효과적인 측정을 위한 공작 전략](2025/impactful-insights.md)
-   + [애자일 마케팅 조직 육성](2025/agile-marketing-organization.md)
-   + [데이터 Distiller 101](2025/data-distiller-101.md)
-   + [AI 인사이트를 통한 디지털 경험 최적화](2025/accelerating-digital-experience-optimization.md)
-   + [디지털 트렌드 및 미래 준비](2025/digital-trends-preparing-future.md)
-   + [고객 참여 유도](2025/driving-customer-engagement.md)
-   + [Personalization 및 데이터를 통한 로열티 프로그램 강화](2025/enhance-loyalty-programs.md)
-   + [Personalization 향상](2025/enhancing-personalization.md)
-   + [기초 건축](2025/cja-vision.md)
-   + [GenAI 실험](2025/gen-ai-experimentation.md)
-   + [GenStudio for Performance Marketing 운영 모델](2025/genstudio-for-performance-marketing-operating-model.md)
-   + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
-   + [AEM Sites 마스터링](2025/mastering-aem-sites.md)
-   + [AEM Content Hub에서 Digital Asset Manager 마스터링](2025/mastering-dam-aem-content-hub.md)
-   + [순차적 논리 마스터링 - 시각적 프레임워크](2025/mastering-sequential-logic.md)
-   + [순차적 논리 마스터링 - 시작 중지](2025/sequential-logic-start-stop.md)
-   + [Adobe Analytics에서 CJA으로 마이그레이션](2025/analytics-to-cja-migration.md)
-   + [AEM Cloud용 New Relic Essentials](2025/new-relic-essentials-aem-cloud.md)
-   + [노스스타 건축](2025/northstar-architecture.md)
-   + [AEM 성능 최적화](2025/optimize-aem-performance.md)
-   + [디지털 커뮤니케이션 개인화](2025/personalize-digital-communications.md)
-   + [CJA을 통한 가치 창출 로드맵](2025/roadmap-to-value-cja.md)
-   + [AEP 프로젝트에 대한 경영진 후원 수상](2025/exec-sponsorship-aep-projects.md)
-   + [Workfront Fusion 기본 사항 및 우수 사례](2025/adobe-workfront-fusion-best-practices.md)
-   + [Workfront 및 JIRA](2025/workfront-and-jira.md)
-   + [더욱 스마트한 마케팅 시작 - Google 및 Adobe 통합](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
-   + [디지털 및 GenAI 채택 상태](2025/state-of-digital-and-genai-adoption-webinar.md)
-   + [변환 B2B &amp; B2B2C Commerce](2025/transforming-b2b-commerce.md)
-   + [2024년 휴일 결과 및 2025년 트렌드](2025/adobe-digital-insights.md)
+   + Commerce {#commerce2025}
+      + [변환 B2B &amp; B2B2C Commerce](2025/transforming-b2b-commerce.md)
+   + Customer Journey Analytics {#cja2025}
+      + [CJA 성공을 위한 운영 모델 디자인](2025/cja-operating-model.md)
+      + [기초 건축](2025/cja-vision.md)
+      + [Adobe Analytics에서 CJA으로 마이그레이션](2025/analytics-to-cja-migration.md)
+      + [CJA을 통한 가치 창출 로드맵](2025/roadmap-to-value-cja.md)
+      + [더욱 스마트한 마케팅 시작 - Google 및 Adobe 통합](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
+   + Experience Manager {#aem2025}
+      + [AEM의 신흥 기술](2025/personalized-experiences-aem.md)
+      + [AEM 및 GenAI](2025/aem-genai.md)
+      + [AEM 및 Workfront 통합](2025/aem-workfront-integration.md)
+      + [효과적인 웹 페이지 구축](2025/build-effective-web-pages.md)
+      + [고객 참여 유도](2025/driving-customer-engagement.md)
+      + [AEM Forms을 사용한 등록 여정](2025/payer-enrollment-journey.md)
+      + [AEM Sites 마스터링](2025/mastering-aem-sites.md)
+      + [AEM Content Hub에서 Digital Asset Manager 마스터링](2025/mastering-dam-aem-content-hub.md)
+      + [Open API를 사용하여 Dynamic Media 마스터링](2025/dynamic-media-open-ai.md)
+      + [AEM Cloud용 New Relic Essentials](2025/new-relic-essentials-aem-cloud.md)
+      + [AEM 성능 최적화](2025/optimize-aem-performance.md)
+      + [디지털 커뮤니케이션 개인화](2025/personalize-digital-communications.md)
+   + Experience Platform {#aep2025}
+      + [AI - 기본 사항 이상](2025/ai-beyond-basics.md)
+      + [XDM 스키마 모델링에 대한 우수 사례 및 통찰력](2025/model-xdm-schemas.md)
+      + [데이터 Distiller 101](2025/data-distiller-101.md)
+      + [AEP 프로젝트에 대한 경영진 후원 수상](2025/exec-sponsorship-aep-projects.md)
+   + GenStudio for Performance Marketing {#genstudio2025}
+      + [GenStudio for Performance Marketing 운영 모델](2025/genstudio-for-performance-marketing-operating-model.md)
+   + Journey Optimizer {#ajo2025}
+      + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
+   + 멀티 솔루션 {#multisolution2025}
+      + [콘텐츠 공급망 기본 사항](2025/content-supply-chain-basics.md)
+      + [AI 인사이트를 통한 디지털 경험 최적화](2025/accelerating-digital-experience-optimization.md)
+      + [Personalization 및 데이터를 통한 로열티 프로그램 강화](2025/enhance-loyalty-programs.md)
+      + [Personalization 향상](2025/enhancing-personalization.md)
+      + [GenAI 실험](2025/gen-ai-experimentation.md)
+      + [순차적 논리 마스터링 - 시각적 프레임워크](2025/mastering-sequential-logic.md)
+      + [순차적 논리 마스터링 - 시작 중지](2025/sequential-logic-start-stop.md)
+   + Target {#target2025}
+      + [AI 및 Adobe Target](2025/ai-adobe-target.md)
+   + 일반 {#general2025}
+      + [2024년 휴일 결과 및 2025년 트렌드](2025/adobe-digital-insights.md)
+      + [효과적인 측정을 위한 공작 전략](2025/impactful-insights.md)
+      + [애자일 마케팅 조직 육성](2025/agile-marketing-organization.md)
+      + [디지털 트렌드 및 미래 준비](2025/digital-trends-preparing-future.md)
+      + [노스스타 건축](2025/northstar-architecture.md)
+      + [디지털 및 GenAI 채택 상태](2025/state-of-digital-and-genai-adoption-webinar.md)
+   + Workfront {#workfront2025}
+      + [Workfront의 AI 드라이브 자동화](2025/unlock-efficiency-ai-drive-automation-workfront.md)
+      + [Workfront Fusion 기본 사항 및 우수 사례](2025/adobe-workfront-fusion-best-practices.md)
+      + [Workfront 및 JIRA](2025/workfront-and-jira.md)
+
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Target의 AI 기반 Personalization](2024/ai-personalization.md)

@@ -3,9 +3,9 @@ user-guide-title: Workfront 이벤트
 breadcrumb-title: Workfront 이벤트
 user-guide-description: Workfront 이벤트
 solution: Workfront
-source-git-commit: 6925343d683d029536f93cfedd93ec2290bea78d
+source-git-commit: 1ea39689a5a29311da7930039b7d5fc308c296b0
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '204'
 ht-degree: 1%
 
 ---
@@ -22,13 +22,24 @@ ht-degree: 1%
    + [24.1 릴리스](releases/24-1-release-webinar.md)
 + 상위 3 {#top3}
    + [블루프린트를 통한 Creative 접근 방식](top3/blueprints.md)
+   + [오피스 아워(Office Hours)에 대한 상위 3가지 접근 방식](top3/office-hours.md)
 + Versus! {#versus}
    + [그룹 대 팀](versus/groups-vs-teams.md)
 + 전문가 인사이트 {#expert-insights}
+   + [비기존 Workfront 워크플로](expert-insights/non-traditional-workfront-workflows.md)
    + [Lyndsy Denk가 있는 요청 큐](expert-insights/request-queues.md)
+   + [Workfront의 SLA 보고](expert-insights/sla-reporting.md)
 + 워크숍 되감기 {#workshop-rewind}
+   + 통합 {#integrations}
+      + [다중 선택 필드의 변경 사항을 쉽게 탐색](workshop-rewind/integrations/mulit-select-fields.md)
+      + [실제 이벤트 비용 잠금 해제](workshop-rewind/integrations/event-costs.md)
+   + 계획 수립 {#planning}
+      + [Workfront Planning을 통한 팀 수준 성공](workshop-rewind/planning/team-success-workfront-planning.md)
    + 워크플로 {#workflow}
       + [Creative의 리소스 관리 방법](classics/creative-ways-of-managing-resources.md)
+      + [이메일 알림 마스터](workshop-rewind/workflow/email-notifications.md)
+      + [프로젝트 템플릿](workshop-rewind/workflow/project-templates.md)
+      + [Workfront Data Connect의 강력한 기능](workshop-rewind/workflow/data-connect.md)
 
 <!--  + Planning {#planning}
   + Integrations {#integrations}

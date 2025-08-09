@@ -1,6 +1,7 @@
 ---
 title: XDM 스키마 모델링에 대한 우수 사례 및 통찰력
 description: 확장 가능한 실시간 개인화 및 세그멘테이션을 위한 XDM 스키마, ID 관리 및 모범 사례를 사용한 AEP의 기본 데이터 모델링.
+solution: Experience Platform
 topic: Personalization
 role: Developer
 level: Intermediate
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3488
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18019
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 3327dc51-b5e4-49bd-884a-4defea8664eb
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
 
 ---
-
 
 # XDM 스키마 모델링에 대한 우수 사례 및 통찰력
 
