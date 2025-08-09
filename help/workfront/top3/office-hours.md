@@ -22,16 +22,16 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470053/?learn=on&enablevpops)
 
-오피스 아워(Office Hours)는 전체 Workfront 커뮤니케이션 플랜의 또 다른 중요한 부분일 뿐입니다. 사용자와 통신하는 데 더 많은 아이디어를 찾고 계십니까? [최종 사용자 커뮤니케이션 Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439)을 확인하십시오.
+오피스 아워(Office Hours)는 전체 Workfront 커뮤니케이션 플랜의 또 다른 중요한 부분일 뿐입니다. 사용자와 통신하는 데 더 많은 아이디어를 찾고 계십니까? [최종 사용자 커뮤니케이션 Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=ko)을 확인하십시오.
 
 그리고 약속한 대로 Workfront 채택을 재미있게 만드는 방법에 대한 몇 가지 아이디어를 논의했던 전문가 인사이트에 대한 링크입니다. 
 
-[Workfront Expert Insights - Leslie Spier 채택](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/m-p/613314#M2588)
+[Workfront Expert Insights - Leslie Spier 채택](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/m-p/613314?profile.language=ko#M2588)
 
 보너스 리소스! 수많은 멋진 고객이 좋아하는 채택 팁을 공유하는 커뮤니티 커피 브레이크를 열었습니다! 
 
-[채택을 위한 Workfront Coffee Break 통신 방법](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ev-p/621879)
+[채택을 위한 Workfront Coffee Break 통신 방법](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ev-p/621879?profile.language=ko)
 
-Workfront 운영 시간에 대한 접근 방식에 대한 예가 있습니까? 이 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-approaches-to-office-hours/td-p/713391)에서 모범 사례를 공유하세요!
+Workfront 운영 시간에 대한 접근 방식에 대한 예가 있습니까? 이 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-approaches-to-office-hours/td-p/713391?profile.language=ko)에서 모범 사례를 공유하세요!
 
 

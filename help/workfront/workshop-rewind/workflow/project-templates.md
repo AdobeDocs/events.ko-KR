@@ -25,7 +25,7 @@ ht-degree: 0%
 주문형 녹화와 함께, 채팅에서 공유된 슬라이드 데크 및 팁이 포함되어 있습니다.  
 
 * [슬라이드 데크 PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
-* [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512)
+* [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512?profile.language=ko)
 
 ## 팁
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 
 채팅에서 확인한 가장 큰 테마 중 하나는 프로젝트 템플릿을 단순하게 유지하되, 동시에 팀이 프로젝트를 완료하는 데 필요한 모든 단계를 처리하고 노력을 추적해야 하는 과제였습니다.  
 
- 향후 고객 성공 워크숍에서 여러분을 볼 수 있기를 바랍니다!  전체 목록을 보려면 Experience League에서 [Workfront 이벤트](https://experienceleague.adobe.com/events/?filters=Workfront)를 확인하고 등록하십시오.
+ 향후 고객 성공 워크숍에서 여러분을 볼 수 있기를 바랍니다!  전체 목록을 보려면 Experience League에서 [Workfront 이벤트](https://experienceleague.adobe.com/events/?lang=ko&filters=Workfront)를 확인하고 등록하십시오.

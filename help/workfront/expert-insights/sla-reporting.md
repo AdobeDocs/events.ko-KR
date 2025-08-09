@@ -33,15 +33,15 @@ Expert Insights의 다른 부록에 오신 것을 환영합니다!  &quot;온�
 
 프레젠테이션 중에 Madalyn은 사용자 정의 양식과 계산된 필드를 공유했으므로 이러한 기능을 처음 사용하는 경우 올바른 방향으로 안내할 수 있는 몇 가지 링크를 제공합니다. 
 
-* 자습서 재생 목록 - [사용자 지정 Forms 만들기 및 공유](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
+* 자습서 재생 목록 - [사용자 지정 Forms 만들기 및 공유](https://experienceleague.adobe.com/ko/playlists/workfront-create-and-manage-custom-forms)
 
-* 문서 - [계산된 필드 및 표현식 시작](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* 문서 - [계산된 필드 및 표현식 시작](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* 팁과 트릭 - [모든 사람이 알아야 할 계산된 필드 및 이를 보고하는 방법!](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* 팁과 트릭 - [모든 사람이 알아야 할 계산된 필드 및 이를 보고하는 방법!](https://experienceleague.adobe.com/ko/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 Madalyn의 추가 팁에 관심이 있으십니까? Workfront 커뮤니티에서 그녀의 일련의 팁과 요령을 확인해 보십시오! 
 
-* [화요일 기술 바이트](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812#M2742)
+* [화요일 기술 바이트](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812?profile.language=ko#M2742)
 
 ## 발표자 정보 
 

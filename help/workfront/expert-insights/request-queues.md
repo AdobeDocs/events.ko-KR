@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Expert Insights - Lyndsy Denk가 있는 요청 큐
 
-Expert Insights 시작!  저는 &quot;온디맨드&quot; Workfront CSM인 신시아 분이고 이 에피소드에는 Workfront 연예인 [@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167)이(가) 있습니다! Lyndsy의 Workfront 스토리에 대해 논의한 다음 헬프 데스크 요청 큐에 대해 자세히 알아봅니다.
+Expert Insights 시작!  저는 &quot;온디맨드&quot; Workfront CSM인 신시아 분이고 이 에피소드에는 Workfront 연예인 [@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167?profile.language=ko)이(가) 있습니다! Lyndsy의 Workfront 스토리에 대해 논의한 다음 헬프 데스크 요청 큐에 대해 자세히 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3465272/?learn=on&enablevpops)
 
@@ -36,15 +36,15 @@ Expert Insights 시작!  저는 &quot;온디맨드&quot; Workfront CSM인 신시
 
 약속한 대로 요청 대기열 및 대기열 주제에 대한 몇 가지 추가 링크와 함께 논의된 리소스는 다음과 같습니다.
 
-* [상속된 인스턴스를 관리하는 방법](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance)에 대한 리소스에는 웨비나에 대한 링크와 [블루프린트 튜토리얼](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)에 대한 세부 정보가 포함되어 있습니다.
+* [상속된 인스턴스를 관리하는 방법](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance)에 대한 리소스에는 웨비나에 대한 링크와 [블루프린트 튜토리얼](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)에 대한 세부 정보가 포함되어 있습니다.
 
-* 요청 대기열 이해 설명서: [대기열 주제 만들기](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
+* 요청 대기열 이해 설명서: [대기열 주제 만들기](https://experienceleague.adobe.com/ko/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
-* [System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096)에 대한 Lyndsy의 웨비나 프레젠테이션: 최종 사용자와 통신(이 페이지에는 [최종 사용자 Comps Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439)에 대한 링크도 포함되어 있음)
+* [System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096?profile.language=ko)에 대한 Lyndsy의 웨비나 프레젠테이션: 최종 사용자와 통신(이 페이지에는 [최종 사용자 Comps Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=ko)에 대한 링크도 포함되어 있음)
 
-* Lyndsy의 [Skill Exchange 프레젠테이션 리소스](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841#M3642)
+* Lyndsy의 [Skill Exchange 프레젠테이션 리소스](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841?profile.language=ko#M3642)
 
-* [Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798) Workfront Proof에 대해 질문하기 Monique Evans와 Richard Carlson이 Proofing에 대한 질문에 대답한 내용을 잊지 말고 확인해 보세요!
+* [Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798?profile.language=ko) Workfront Proof에 대해 질문하기 Monique Evans와 Richard Carlson이 Proofing에 대한 질문에 대답한 내용을 잊지 말고 확인해 보세요!
 
 ## 발표자 정보 
 

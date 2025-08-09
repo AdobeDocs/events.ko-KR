@@ -21,7 +21,7 @@ ht-degree: 2%
 
 # Open API를 사용하여 Dynamic Media 마스터링
 
-이 웨비나는 기존 Dynamic Media에 익숙하고 Open API를 사용하여 [Dynamic Media Ultimate](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate)을(를) 이해하고 구현하려는 전문가를 위해 설계되었습니다.  Open API를 사용하는 Dynamic Media Ultimate의 높은 수준의 작업에 대해 살펴보고 기존 Dynamic Media와 비교합니다. Dynamic Media에 익숙한 참가자가 Open API 모델에 쉽게 적응할 수 있도록 이 두 접근 방식의 차이점을 포괄적으로 이해하는 것이 우리의 목표입니다.
+이 웨비나는 기존 Dynamic Media에 익숙하고 Open API를 사용하여 [Dynamic Media Ultimate](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate)을(를) 이해하고 구현하려는 전문가를 위해 설계되었습니다.  Open API를 사용하는 Dynamic Media Ultimate의 높은 수준의 작업에 대해 살펴보고 기존 Dynamic Media와 비교합니다. Dynamic Media에 익숙한 참가자가 Open API 모델에 쉽게 적응할 수 있도록 이 두 접근 방식의 차이점을 포괄적으로 이해하는 것이 우리의 목표입니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470620/?learn=on&enablevpops)
 
