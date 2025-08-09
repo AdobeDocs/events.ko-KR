@@ -28,7 +28,7 @@ ht-degree: 1%
 * 콘텐츠 실험 및 최적화
 * 생성형 AI
 
->[!VIDEO](https://video.tv.adobe.com/v/3444453/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444466/?learn=on&enablevpops&captions=kor)
 
 ## 주요 개선 사항
 

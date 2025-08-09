@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Expert Insights의 다른 부록에 오신 것을 환영합니다!  &quot;온디맨드&quot; Workfront CSM인 Cynthia Boon이며 고객이 Workfront을 사용하여 SLA(서비스 수준 계약)를 구현하고 측정할 수 있도록 지원하는 Madalyn Destaffney라는 포괄적인 경험을 공유하게 되어 매우 기쁘게 생각합니다. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469901/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469985/?learn=on&enablevpops&captions=kor)
 
 영상에서 약속한 대로 Madalyn의 단계, 계산된 표현식 및 보고서 예와 연결된 프레젠테이션이 있습니다. 
 

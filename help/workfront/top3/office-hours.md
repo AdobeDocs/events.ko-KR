@@ -20,7 +20,7 @@ ht-degree: 0%
 
 다시 한 번 말씀드립니다. 귀사의 &quot;On-Demand Workfront CSM&quot; Cynthia Boon과 제가 이벤트 동안 항상 제기되는 주제에 대해 알고 있습니다.  근무 시간 설정을 시작하거나 새로 고치고 싶은 경우 아래 비디오를 확인하십시오. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470053/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470149/?learn=on&enablevpops&captions=kor)
 
 오피스 아워(Office Hours)는 전체 Workfront 커뮤니케이션 플랜의 또 다른 중요한 부분일 뿐입니다. 사용자와 통신하는 데 더 많은 아이디어를 찾고 계십니까? [최종 사용자 커뮤니케이션 Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=ko)을 확인하십시오.
 
