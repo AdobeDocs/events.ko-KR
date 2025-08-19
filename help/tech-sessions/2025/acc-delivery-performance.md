@@ -1,7 +1,6 @@
 ---
 title: Adobe Campaign Classic 전달 성능 - 문제 해결
 description: 이 세션에서는 Adobe Campaign을 사용하여 이메일 및 SMS 게재 성능을 개선하는 주요 전략에 대해 다룹니다. 이 솔루션은 일괄 처리 최적화, SQL 로깅, 서버 성능 모니터링과 같은 솔루션을 제공하여 게재 지연, 낮은 처리량, 트랜잭션 속도 저하와 같은 일반적인 문제를 해결했습니다. 전달성 모범 사례에는 적절한 이메일 인증(SPF, DKIM, DMARC), 블랙리스트 모니터링 및 스팸 확인이 포함되었습니다. 성능을 향상하기 위해 전문가들은 깨끗한 워크플로, 조절 규칙 및 공유 컨테이너를 피하는 것을 권장합니다. 적절한 외부 계정 설정 및 로그 분석에 초점을 맞춘 SMS 게재 팁입니다. 이 세션은 또한 추적 유효성 검사, 일괄 보고서를 사용한 데이터베이스 유지 관리 및 참여를 높이기 위한 압력/피로 규칙 적용을 강조했습니다. 세션 레코딩은 이메일을 통해 공유되고 Adobe Experience 사이트에 게시됩니다.
-version: Classic v7
 solution: Campaign Classic v7
 product: Adobe Campaign
 feature: SMS, Deliverability, Troubleshooting
@@ -11,13 +10,13 @@ doc-type: Event
 duration: 2257
 last-substantial-update: 2025-04-25T00:00:00Z
 jira: KT-17869
-source-git-commit: 373605f79b3122382e221252232a26535ff3109b
+exl-id: a7e1e198-b63b-4a2a-9ffc-7f72bf4c61c1
+source-git-commit: 3b54c46988da18248024d115997704d9881f5e68
 workflow-type: tm+mt
 source-wordcount: '442'
 ht-degree: 0%
 
 ---
-
 
 # 기술 세션: Adobe Campaign Classic 제공 성능 - 문제 해결
 

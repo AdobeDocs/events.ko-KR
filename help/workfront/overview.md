@@ -3,9 +3,9 @@ title: Adobe Workfront 온디맨드 워크숍
 description: Workfront 이벤트는 전문가와 동료가 Workfront을 사용하여 조직을 위해 수행되는 작업을 향상시키는 방법에 대한 생각과 아이디어를 공유한 비디오 라이브러리입니다.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
 workflow-type: tm+mt
-source-wordcount: '693'
+source-wordcount: '800'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="releases/25-7-release-webinar.md" title="Adobe Workfront 25.7 릴리스 웨비나" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1754697926098" alt="Adobe Workfront 25.7 릴리스 웨비나"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1755644848870" alt="Adobe Workfront 25.7 릴리스 웨비나"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -74,7 +74,7 @@ Adobe Workfront 게임의 수준을 높이기 위해 빠르고 실행 가능한 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/blueprints.md" title="상위 3 - Creative의 블루프린트 접근 방식" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465318/?format=jpeg&nocache=1754697926485&captions=kor" alt="상위 3 - Creative의 블루프린트 접근 방식"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1755644849276" alt="상위 3 - Creative의 블루프린트 접근 방식"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,7 +97,7 @@ Adobe Workfront 게임의 수준을 높이기 위해 빠르고 실행 가능한 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/office-hours.md" title="오피스 아워(Office Hours)에 대한 상위 3가지 접근 방식" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470149/?format=jpeg&nocache=1754697926468&captions=kor" alt="오피스 아워(Office Hours)에 대한 상위 3가지 접근 방식"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1755644849259" alt="오피스 아워(Office Hours)에 대한 상위 3가지 접근 방식"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -136,7 +136,7 @@ Workfront 관리자, 프로젝트 관리자 또는 일반 사용자이든 이 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="Versus! - 그룹 대 팀" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467360/?format=jpeg&nocache=1754697926685&captions=kor" alt="Versus! - 그룹 대 팀"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1755644849574" alt="Versus! - 그룹 대 팀"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -164,19 +164,44 @@ Workfront Expert Insights 시리즈는 숙련된 Workfront 전문가의 실용�
 
 <!-- CARDS 
 
+* expert-insights/content-supply-chain.md
 * expert-insights/non-traditional-workfront-workflows.md
 * expert-insights/request-queues.md
 * expert-insights/sla-reporting.md
+* expert-insights/enterprise-work-management.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights – Content Supply Chain with Corre Kombol">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="expert-insights/content-supply-chain.md" title="전문가 인사이트 - Corre Kombol이 포함된 콘텐츠 공급망" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1755644850018" alt="전문가 인사이트 - Corre Kombol이 포함된 콘텐츠 공급망"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="expert-insights/content-supply-chain.md" target="_blank" rel="referrer" title="전문가 인사이트 - Corre Kombol이 포함된 콘텐츠 공급망">전문가 인사이트 - 핵심 구성 요소가 있는 콘텐츠 공급망</a>
+                    </p>
+                    <p class="is-size-6">Corre Kombol에서 Adobe 솔루션으로 콘텐츠 공급망을 최적화하는 방법에 대한 전문가 전략에 대해 알아봅니다. 효율성, 공동 작업 및 결과 향상</p>
+                </div>
+                <a href="expert-insights/content-supply-chain.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights - Non-Traditional Workfront Workflows with Kiersten Kollins">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/non-traditional-workfront-workflows.md" title="전문가 인사이트 - Kiersten Kollins를 사용하는 비전통적인 Workfront 워크플로" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469946/?format=jpeg&nocache=1754697926938&captions=kor" alt="전문가 인사이트 - Kiersten Kollins를 사용하는 비전통적인 Workfront 워크플로"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469900/?format=jpeg&nocache=1755644850008" alt="전문가 인사이트 - Kiersten Kollins를 사용하는 비전통적인 Workfront 워크플로"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -199,7 +224,7 @@ Workfront Expert Insights 시리즈는 숙련된 Workfront 전문가의 실용�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/request-queues.md" title="Expert Insights - Lyndsy Denk가 있는 요청 큐" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465272/?format=jpeg&nocache=1754697926951" alt="Expert Insights - Lyndsy Denk가 있는 요청 큐"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465272/?format=jpeg&nocache=1755644850056" alt="Expert Insights - Lyndsy Denk가 있는 요청 큐"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -222,7 +247,7 @@ Workfront Expert Insights 시리즈는 숙련된 Workfront 전문가의 실용�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/sla-reporting.md" title="Madalyn Destafney와 함께 Workfront에서 SLA 보고" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469985/?format=jpeg&nocache=1754697926919&captions=kor" alt="Madalyn Destafney와 함께 Workfront에서 SLA 보고"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1755644850045" alt="Madalyn Destafney와 함께 Workfront에서 SLA 보고"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -235,6 +260,29 @@ Workfront Expert Insights 시리즈는 숙련된 Workfront 전문가의 실용�
                     <p class="is-size-6">단계별 지침, 계산된 필드 예제 및 사용자 정의 양식 모범 사례를 포함하여 Madalyn Destafney의 전문가 팁을 통해 Adobe Workfront에서 SLA(서비스 수준 계약)를 구현하고 측정하는 방법에 대해 알아봅니다.</p>
                 </div>
                 <a href="expert-insights/sla-reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights – Enterprise Work Management with Daniel Clarke">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="expert-insights/enterprise-work-management.md" title="Expert Insights - Daniel Clarke를 사용한 엔터프라이즈 작업 관리" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469898/?format=jpeg&nocache=1755644850032" alt="Expert Insights - Daniel Clarke를 사용한 엔터프라이즈 작업 관리"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="expert-insights/enterprise-work-management.md" target="_blank" rel="referrer" title="Expert Insights - Daniel Clarke를 사용한 엔터프라이즈 작업 관리">전문가 인사이트 - Daniel Clarke를 사용한 엔터프라이즈 작업 관리</a>
+                    </p>
+                    <p class="is-size-6">Daniel Clarke가 기업 작업 관리, 채택, 리더십 지표 및 성공을 위한 융합 전략에 대한 Workfront 모범 사례를 공유합니다.</p>
+                </div>
+                <a href="expert-insights/enterprise-work-management.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
                 </a>
             </div>
