@@ -20,7 +20,7 @@ ht-degree: 0%
 
 네 번째 세션에서는 강력한 경영진 후원의 부족이 의사 결정, 예산 할당 및 변경 관리를 어떻게 지연시킬지에 대해 알아봅니다. 이 웨비나에서는 경영진 리더가 Adobe Customer Journey Analytics 프로그램을 지원하고, 다양한 분야의 팀들을 배치하며, 측정 가능한 비즈니스 성과를 도출하는 데 있어 중요한 역할을 살펴봅니다. 선임 이해 관계자를 참여시키고 가치를 효과적으로 전달하며 데이터 기반 의사 결정 문화를 구축하는 실용적인 전략을 배웁니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470853/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470861/?learn=on&enablevpops&captions=kor)
 
 ## 비즈니스 사례 만들기
 
