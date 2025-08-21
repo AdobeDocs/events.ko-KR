@@ -7,25 +7,26 @@ speaker-company-1: Cognizant
 speaker-name-2: Danielle Johnston
 speaker-title-2: Customer Success Manager
 speaker-company-2: Adobe
+feature: Workfront Integrations and Apps
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 1910
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18617
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+exl-id: 75153967-b82d-4221-b44b-73aabb74402f
+source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
-
 # 전문가 인사이트 - Jaime Davidson의 입양 조사
 
 여기 온디맨드 Workfront CSM이 있고, 새로운 비디오로 돌아왔습니다!  이번에는 환상적인 고객 중 한 명인 Cognizant의 Jaime Davidson으로부터 프레젠테이션을 준비했습니다!  그녀는 11월 Connect 행사 동안 Workfront 채택 설문 조사 구현에 대한 경험과 리소스를 공유하면서 자신의 시간과 전문 지식을 친절하게 제공했습니다. *보너스!* Workfront CSM의 다니엘 존스턴은 자신의 통찰력과 권장 사항도 함께 공유합니다!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469957/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3469895/?learn=on&enablevpops)
 
 ## 리소스
 
@@ -35,7 +36,7 @@ ht-degree: 0%
 * [Workfront 관리자 채팅 - Cognizant](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
 * [Workfront 사용자 채택 설문 조사](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
 
-채택 및 일반 온보딩에 대한 자세한 정보를 원하십니까? 블로그를 확인해 보세요! - [새로운 Workfront 고객! Adobe Workfront 고객 성공 온보딩 블로그 시작!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927?profile.language=ko)
+채택 및 일반 온보딩에 대한 자세한 정보를 원하십니까? 블로그를 확인해 보세요! - [새로운 Workfront 고객! Adobe Workfront 고객 성공 온보딩 블로그 시작!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927)
 
 ## 발표자 정보
 
@@ -46,4 +47,3 @@ Jaime는 숙련된 마케팅 자동화 및 프로세스 최적화 리더로, 마
 ## 공유할 항목이 있습니까?
 
 이벤트 중이나 Expert Insights 비디오에서 공유할 수 있는 훌륭한 스토리가 있습니까? [CSatScale@adobe.com](mailto:CSatScale@adobe.com)(으)로 팀에 문의하세요.
-

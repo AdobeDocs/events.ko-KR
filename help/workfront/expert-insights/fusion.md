@@ -11,13 +11,13 @@ doc-type: Event
 duration: 1458
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18618
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+exl-id: ab61b492-a391-497b-af45-f2d468e3f24f
+source-git-commit: ed7e2914147dbdc2012186c88e50d7313ef8bf7d
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
 
 ---
-
 
 # 전문가 인사이트 - Ewan Hruska와의 퓨전
 
@@ -27,19 +27,19 @@ Expert Insights로 돌아온 것을 환영합니다!  저는 &quot;온디맨드&
 
 ## 도움이 필요합니다!
 
-비디오에서 언급했듯이, 그는 퓨전 모범 사례 가이드를 작업 중이며, 그는 당신으로부터 듣고 싶습니다!  Fusion을 사용하여 프로세스를 지원하는 경우 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=ko)에 권고 사항, 권장 사항 및 팁을 공유해 주십시오. 이 게시물은 가능한 한 많이 포함하려고 합니다!
+비디오에서 언급했듯이, 그는 퓨전 모범 사례 가이드를 작업 중이며, 그는 당신으로부터 듣고 싶습니다!  Fusion을 사용하여 프로세스를 지원하는 경우 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114)에 권고 사항, 권장 사항 및 팁을 공유해 주십시오. 이 게시물은 가능한 한 많이 포함하려고 합니다!
 
 ## 조언
 
 * Fusion은 프로세스를 시각적으로 표현한 것입니다. 설명서는 친구입니다! 설명서가 나온 김에 프로세스를 빌드하는 방법에 대한 자세한 내용을 저장하십시오.  더 좋은 것은, 스스로 걸어가는 모습을 영상으로 찍으라는 것이다!
 * 반복 작업의 노력과 시간을 측정합니다.
-* Ewan이 언급한 Adobe Workfront ROI 계산기가 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=ko)에 첨부되어 있습니다.
+* Ewan이 언급한 Adobe Workfront ROI 계산기가 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114)에 첨부되어 있습니다.
 * Fusion을 사용하여 다양한 분야의 문제를 해결하고, 시간(및 비용)을 절약하고, 오류를 방지하십시오.
 
 ## 리소스
 
-* [사용 가능한 Fusion 템플릿 목록](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=ko)
-* [Adobe Workfront Fusion 비디오 개요](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=ko)
+* [사용 가능한 Fusion 템플릿 목록](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=en)
+* [Adobe Workfront Fusion 비디오 개요](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=en)
 
 ## 발표자 정보
 

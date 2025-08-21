@@ -3,9 +3,9 @@ user-guide-title: Workfront 이벤트
 breadcrumb-title: Workfront 이벤트
 user-guide-description: Workfront 이벤트
 solution: Workfront
-source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
+source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '227'
 ht-degree: 2%
 
 ---
@@ -28,11 +28,13 @@ ht-degree: 2%
 + 전문가 인사이트 {#expert-insights}
    + [어답터](expert-insights/adoption.md)
    + [입양 조사](expert-insights/adoption-surveys.md)
+   + [애자일](expert-insights/agile.md)
    + [콘텐츠 공급망](expert-insights/content-supply-chain.md)
    + [Fusion](expert-insights/fusion.md)
    + [거버넌스 및 Center of Excellence](expert-insights/centers-of-excellence.md)
    + [비기존 Workfront 워크플로](expert-insights/non-traditional-workfront-workflows.md)
    + [보고 사례](expert-insights/reporting-practices.md)
+   + [리소스 관리](expert-insights/resource-management.md)
    + [Lyndsy Denk가 있는 요청 큐](expert-insights/request-queues.md)
    + [Workfront의 SLA 보고](expert-insights/sla-reporting.md)
    + [엔터프라이즈 작업 관리](expert-insights/enterprise-work-management.md)
@@ -42,6 +44,7 @@ ht-degree: 2%
       + [실제 이벤트 비용 잠금 해제](workshop-rewind/integrations/event-costs.md)
    + 계획 수립 {#planning}
       + [Workfront Planning을 통한 팀 수준 성공](workshop-rewind/planning/team-success-workfront-planning.md)
+      + [Workfront Planning의 최신](workshop-rewind/planning/workfront-planning.md)
    + 워크플로 {#workflow}
       + [Creative의 리소스 관리 방법](classics/creative-ways-of-managing-resources.md)
       + [이메일 알림 마스터](workshop-rewind/workflow/email-notifications.md)
