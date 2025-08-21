@@ -23,7 +23,7 @@ ht-degree: 0%
 
 리소스 관리 시작에 대한 조언을 찾고 계십니까? 온디맨드 Workfront CSM과 함께 상주 Adobe Workfront 리소스 관리 전문가 Corinna Jevons와의 인터뷰를 진행하고 이 Workfront 기능을 구현하기 위한 일반적인 질문과 최고의 접근 방식을 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469890/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469910/?learn=on&enablevpops&captions=kor)
 
 ## 리소스
 

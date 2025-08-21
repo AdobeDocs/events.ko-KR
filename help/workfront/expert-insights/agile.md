@@ -24,7 +24,7 @@ ht-degree: 0%
 
 새로운 Expert Insights 인터뷰로 돌아온 것을 환영하며, 이번에는 조직에서 애자일을 시작하기 위한 모범 사례에 대한 조언을 제공합니다. 온디맨드 Workfront CSM과 함께 상주 Adobe Workfront 애자일 전문가인 Natalie Mitchell과 인터뷰를 하고 팀과 애자일 방법론을 구현하기 위한 일반적인 질문과 권장 사항을 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469891/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469923/?learn=on&enablevpops&captions=kor)
 
 ## 리소스
 
