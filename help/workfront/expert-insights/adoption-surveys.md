@@ -25,7 +25,7 @@ ht-degree: 0%
 
 여기 온디맨드 Workfront CSM이 있고, 새로운 비디오로 돌아왔습니다!  이번에는 환상적인 고객 중 한 명인 Cognizant의 Jaime Davidson으로부터 프레젠테이션을 준비했습니다!  그녀는 11월 Connect 행사 동안 Workfront 채택 설문 조사 구현에 대한 경험과 리소스를 공유하면서 자신의 시간과 전문 지식을 친절하게 제공했습니다. *보너스!* Workfront CSM의 다니엘 존스턴은 자신의 통찰력과 권장 사항도 함께 공유합니다!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469895/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469957/?learn=on&enablevpops&captions=kor)
 
 ## 리소스
 

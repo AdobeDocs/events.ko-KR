@@ -27,7 +27,7 @@ ht-degree: 0%
 
 Nichole과 함께 On-Demand Workfront CSM을 통해 그녀가 어떻게 보고 구루가 되었고, 그녀가 가장 좋아하는 기능과 팁, 그리고 우리 모두가 어떻게 &quot;Nichole과 더 비슷할 수&quot; 있는지에 대해 이야기를 나눌 예정입니다. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469972/?learn=on&enablevpops&captions=kor)
 
 ## 팁
 

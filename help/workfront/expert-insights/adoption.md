@@ -25,7 +25,7 @@ ht-degree: 0%
 
 Leslie와 함께 채택이 중요한 주제인 이유와 우리가 가장 좋아하는 전략에 대해 이야기를 나눌 때 온디맨드 Workfront CSM인 나와 함께 하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469893/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469934/?learn=on&enablevpops&captions=kor)
 
 ## 팁, 조언 등
 

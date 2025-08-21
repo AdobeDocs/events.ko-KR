@@ -33,7 +33,7 @@ DSW의 수석 마케팅 운영 기술자인 Kiersten Kollins가 5월에 리테�
 * 사용자 및 프로젝트의 요구 사항에 맞게 Creative Brief 검토를 시작합니다. 
 * *보너스!* 가장 좋아하는 Fusion 사용 사례의 예도 공유합니다!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469946/?learn=on&enablevpops&captions=kor)
 
 ## 리소스
 
