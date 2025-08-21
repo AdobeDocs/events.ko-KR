@@ -41,15 +41,15 @@ Nichole과 함께 On-Demand Workfront CSM을 통해 그녀가 어떻게 보고 �
 
 ## 리소스
 
-* **블로그** - [계산된 사용자 지정 필드를 사용하여 시간 절약](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237)
-* **문서** - [계산된 데이터 표현식]&#x200B;(https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=en#:~:text=새 필드를 생성하는 데이터 표현식을 사용할 수 있습니다.&amp;text=작성에 대한 자세한 내용은 사용자 정의 양식에 데이터를 추가합니다.)
-* **이벤트 후속 작업** - [계산된 사용자 지정 필드 워크숍](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725)
-* **커뮤니티** - [Reporting Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
-* **블로그** - [Workfront 블루프린트를 사용하여 작업 관리 환경을 최적화하십시오!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
+* **블로그** - [계산된 사용자 지정 필드를 사용하여 시간 절약](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237?profile.language=ko)
+* **문서** - [계산된 데이터 표현식]&#x200B;(https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=ko#:~:text=새 필드를 생성하는 데이터 표현식을 사용할 수 있습니다.&amp;text=작성에 대한 자세한 내용은 사용자 정의 양식에 데이터를 추가합니다.)
+* **이벤트 후속 작업** - [계산된 사용자 지정 필드 워크숍](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725?profile.language=ko)
+* **커뮤니티** - [Reporting Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=ko#M1406)
+* **블로그** - [Workfront 블루프린트를 사용하여 작업 관리 환경을 최적화하십시오!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=ko)
    * *시작하기* - 이 블로그는 시스템 유지 관리 대시보드 및 사용 현황 대시보드 보고서 번들에 대한 자세한 정보를 제공합니다. 
    * *보너스 팁!* - 새 블루프린트가 릴리스될 때 알림을 받으려면 블로그를 구독하세요. 
-* **기사** - [와일드카드 필터 변수](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=en)
-* **문서** - [보기에 기본 조건부 서식 추가](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
+* **기사** - [와일드카드 필터 변수](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=ko)
+* **문서** - [보기에 기본 조건부 서식 추가](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=ko)
 
 ## 발표자 정보
 

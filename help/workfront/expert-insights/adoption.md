@@ -52,12 +52,12 @@ Leslie와 함께 채택이 중요한 주제인 이유와 우리가 가장 좋아
 
 ## 리소스
 
-* 더 많은 예를 찾고 계십니까? 댓글에 공유된 더 많은 아이디어를 보려면 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314)을 확인하십시오!
-* [블루프린트에 대한 모든 정보](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=en)
-* [마지막 메모 보고서](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=en)
-* [보기에 기본 조건부 서식 추가](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
-* [왼쪽 탐색 패널에 대시보드 추가](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=en)
-* [레이아웃 템플릿 - 고정](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=en)
+* 더 많은 예를 찾고 계십니까? 댓글에 공유된 더 많은 아이디어를 보려면 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314?profile.language=ko)을 확인하십시오!
+* [블루프린트에 대한 모든 정보](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=ko)
+* [마지막 메모 보고서](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=ko)
+* [보기에 기본 조건부 서식 추가](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=ko)
+* [왼쪽 탐색 패널에 대시보드 추가](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=ko)
+* [레이아웃 템플릿 - 고정](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=ko)
 
 ## 발표자 정보
 

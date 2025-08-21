@@ -37,7 +37,7 @@ DSW의 수석 마케팅 운영 기술자인 Kiersten Kollins가 5월에 리테�
 
 ## 리소스
 
-이벤트 동안 Kiersten은 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315)에 첨부된 두 리소스에 대해 언급했습니다.
+이벤트 동안 Kiersten은 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315?profile.language=ko)에 첨부된 두 리소스에 대해 언급했습니다.
 * **예제 보고서** - 업무 시간 이후 작업 보고 
 * **DSW 피드백 라우팅 가드레일** 사용자에게 Workfront에서 업데이트를 제공하는 방법을 가르치는 환상적인 예입니다. 
 

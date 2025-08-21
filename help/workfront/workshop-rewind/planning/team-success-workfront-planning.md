@@ -35,7 +35,7 @@ Workfront Planning을 처음 사용하는 경우 채택 작업에 도움이 되�
 
 ### 학습
 
-* [Adobe Workfront Planning을 사용하여 과정을 성공적으로 차트 작성](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077)
+* [Adobe Workfront Planning을 사용하여 과정을 성공적으로 차트 작성](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077?profile.language=ko)
 * [가이드북 - Workfront 계획 GPS](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
 
 ### 계획 교육 비디오
@@ -44,7 +44,7 @@ Workfront Planning을 처음 사용하는 경우 채택 작업에 도움이 되�
 * [Workspace 만들기(Planning의 기초 시작하기)](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace)
 * [레코드 종류 만들기 및 관리](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type)
 * [테이블 보기 만들기 및 관리](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views)
-* [설명서: Adobe Workfront 계획 개요](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
-* [Adobe Workfront Planning 릴리스 활동](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
+* [설명서: Adobe Workfront 계획 개요](https://experienceleague.adobe.com/ko/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
+* [Adobe Workfront Planning 릴리스 활동](https://experienceleague.adobe.com/ko/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
 
-Workfront Planning에 대한 더 많은 이벤트가 곧 제공될 예정이므로 [Experience League의 이벤트 페이지](https://experienceleague.adobe.com/events/?filters=Workfront)를 정기적으로 확인하십시오.
+Workfront Planning에 대한 더 많은 이벤트가 곧 제공될 예정이므로 [Experience League의 이벤트 페이지](https://experienceleague.adobe.com/events/?lang=ko&filters=Workfront)를 정기적으로 확인하십시오.
