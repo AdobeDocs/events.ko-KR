@@ -34,9 +34,9 @@ Natalie는 약속한 대로 인터뷰 동안 그녀가 가장 좋아하는 애�
 
 쉽게 시작할 수 있는 방법을 찾고 계십니까? 이 문서와 짧은 비디오 데모를 확인하십시오.
 
-* [Adobe Workfront 보드에 대한 초기 기능 옵트인](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
-* [게시판 만들기 또는 편집 - 각 게시판 템플릿에 대한 설명을 포함합니다](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
-* [Adobe Workfront 게시판 - 짧은 비디오 데모](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)
+* [Adobe Workfront 보드에 대한 초기 기능 옵트인](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=ko)
+* [게시판 만들기 또는 편집 - 각 게시판 템플릿에 대한 설명을 포함합니다](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=ko)
+* [Adobe Workfront 게시판 - 짧은 비디오 데모](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=ko)
 
 ## 발표자 정보
 
