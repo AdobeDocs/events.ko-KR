@@ -11,13 +11,13 @@ doc-type: Event
 duration: 2547
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18620
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: db16e693-cd95-4e67-858b-b57829d1e704
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
-
 
 # Expert Insights - Daniel Clarke를 사용한 엔터프라이즈 작업 관리
 
@@ -44,6 +44,4 @@ Expert Insights로 돌아온 것을 환영합니다!  저는 귀사의 &quot;�
 
 ## 공유할 항목이 있습니까?
 
-이벤트 중이나 Expert Insights 비디오에서 공유할 수 있는 훌륭한 스토리가 있습니까? [CSatScale@adobe.com|mailto:CSatScale@adobe.com]에서 팀에 문의하세요.
-
-
+이벤트 중이나 Expert Insights 비디오에서 공유할 수 있는 훌륭한 스토리가 있습니까? [CSatScale@adobe.com](mailto:CSatScale@adobe.com)(으)로 팀에 문의하세요.

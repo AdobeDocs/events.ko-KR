@@ -3,10 +3,10 @@ user-guide-title: Workfront 이벤트
 breadcrumb-title: Workfront 이벤트
 user-guide-description: Workfront 이벤트
 solution: Workfront
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 1%
+source-wordcount: '220'
+ht-degree: 2%
 
 ---
 
@@ -26,8 +26,13 @@ ht-degree: 1%
 + Versus! {#versus}
    + [그룹 대 팀](versus/groups-vs-teams.md)
 + 전문가 인사이트 {#expert-insights}
+   + [어답터](expert-insights/adoption.md)
+   + [입양 조사](expert-insights/adoption-surveys.md)
    + [콘텐츠 공급망](expert-insights/content-supply-chain.md)
+   + [Fusion](expert-insights/fusion.md)
+   + [거버넌스 및 Center of Excellence](expert-insights/centers-of-excellence.md)
    + [비기존 Workfront 워크플로](expert-insights/non-traditional-workfront-workflows.md)
+   + [보고 사례](expert-insights/reporting-practices.md)
    + [Lyndsy Denk가 있는 요청 큐](expert-insights/request-queues.md)
    + [Workfront의 SLA 보고](expert-insights/sla-reporting.md)
    + [엔터프라이즈 작업 관리](expert-insights/enterprise-work-management.md)

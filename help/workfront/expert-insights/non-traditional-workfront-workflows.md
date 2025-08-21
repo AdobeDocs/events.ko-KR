@@ -11,13 +11,13 @@ doc-type: Event
 duration: 1129
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18622
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+exl-id: a67e7d79-fbfa-4268-9418-98fe977e13f3
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
-
 
 # 전문가 인사이트: Kiersten Kollins를 사용하는 비전통적인 Workfront 워크플로
 
@@ -33,11 +33,11 @@ DSW의 수석 마케팅 운영 기술자인 Kiersten Kollins가 5월에 리테�
 * 사용자 및 프로젝트의 요구 사항에 맞게 Creative Brief 검토를 시작합니다. 
 * *보너스!* 가장 좋아하는 Fusion 사용 사례의 예도 공유합니다!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469946/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
 
 ## 리소스
 
-이벤트 동안 Kiersten은 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315?profile.language=ko)에 첨부된 두 리소스에 대해 언급했습니다.
+이벤트 동안 Kiersten은 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315)에 첨부된 두 리소스에 대해 언급했습니다.
 * **예제 보고서** - 업무 시간 이후 작업 보고 
 * **DSW 피드백 라우팅 가드레일** 사용자에게 Workfront에서 업데이트를 제공하는 방법을 가르치는 환상적인 예입니다. 
 
@@ -49,6 +49,4 @@ Kiersten은 DSW 마케팅 팀의 프로세스와 워크플로를 개발하고 �
 
 ## 공유할 항목이 있습니까?
 
-이벤트 중이나 Expert Insights 비디오에서 공유할 수 있는 훌륭한 스토리가 있습니까? [CSatScale@adobe.com|mailto:CSatScale@adobe.com]에서 팀에 문의하세요.
-
-
+이벤트 중이나 Expert Insights 비디오에서 공유할 수 있는 훌륭한 스토리가 있습니까? [CSatScale@adobe.com](mailto:CSatScale@adobe.com)(으)로 팀에 문의하세요.
