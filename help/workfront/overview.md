@@ -3,9 +3,9 @@ title: Adobe Workfront 온디맨드 워크숍
 description: Workfront 이벤트는 전문가와 동료가 Workfront을 사용하여 조직을 위해 수행되는 작업을 향상시키는 방법에 대한 생각과 아이디어를 공유한 비디오 라이브러리입니다.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
+source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
 workflow-type: tm+mt
-source-wordcount: '1101'
+source-wordcount: '971'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="releases/25-7-release-webinar.md" title="Adobe Workfront 25.7 릴리스 웨비나" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1755810021185" alt="Adobe Workfront 25.7 릴리스 웨비나"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1756499239196" alt="Adobe Workfront 25.7 릴리스 웨비나"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -74,7 +74,7 @@ Adobe Workfront 게임의 수준을 높이기 위해 빠르고 실행 가능한 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/blueprints.md" title="상위 3 - Creative의 블루프린트 접근 방식" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465318/?format=jpeg&nocache=1755810021557&captions=kor" alt="상위 3 - Creative의 블루프린트 접근 방식"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1756499239717" alt="상위 3 - Creative의 블루프린트 접근 방식"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,7 +97,7 @@ Adobe Workfront 게임의 수준을 높이기 위해 빠르고 실행 가능한 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/office-hours.md" title="오피스 아워(Office Hours)에 대한 상위 3가지 접근 방식" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470149/?format=jpeg&nocache=1755810021545&captions=kor" alt="오피스 아워(Office Hours)에 대한 상위 3가지 접근 방식"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1756499239703" alt="오피스 아워(Office Hours)에 대한 상위 3가지 접근 방식"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -118,6 +118,7 @@ Adobe Workfront 게임의 수준을 높이기 위해 빠르고 실행 가능한 
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
+
 ### Versus!
 
 Versus에 오신 것을 환영합니다! 비디오 시리즈에서는 유사해 보이지만 서로 다른 목적을 제공하거나 다양한 문제를 해결하는 일반적인 Workfront 기능을 분류합니다. 각 에피소드에서는 두 개체를 비교하고, 개체의 고유한 장점을 강조하며, 각 개체의 사용 시기와 방법을 이해하는 데 도움이 됩니다.
@@ -136,7 +137,7 @@ Workfront 관리자, 프로젝트 관리자 또는 일반 사용자이든 이 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="Versus! - 그룹 대 팀" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467360/?format=jpeg&nocache=1755810021828&captions=kor" alt="Versus! - 그룹 대 팀"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1756499240185" alt="Versus! - 그룹 대 팀"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -157,9 +158,95 @@ Workfront 관리자, 프로젝트 관리자 또는 일반 사용자이든 이 �
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
+### 워크숍 되감기
+
+선별된 추천 이벤트를 통해 Adobe Workfront 커뮤니티의 최신 버전을 살펴보십시오. 매월 Workfront을 최대한 활용할 수 있도록 다양한 주제에 대한 무료 라이브 세션을 진행합니다. 라이브 이벤트를 놓쳤습니까? 문제 없습니다! 고객 사례, 검증된 Best Practice, 그리고 학습한 소중한 교훈을 소개하는 온디맨드 녹화본을 만나보십시오. 실시간으로 연결하시겠습니까? 예정된 라이브 이벤트에 참여하여 질문을 하고, 인사이트를 공유하고, 동료와 공동 작업하십시오. [Experience League Workfront 이벤트 페이지](../workfront/overview.md)를 정기적으로 방문하여 다음 항목을 확인하십시오!
+
+<!-- CARDS 
+
+* workshop-rewind/planning/team-success-workfront-planning.md
+* workshop-rewind/integrations/event-costs.md
+* workshop-rewind/integrations/mulit-select-fields.md
+ 
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Start Fast, Scale Smart - Activating Team-Level Success with Workfront Planning">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="workshop-rewind/planning/team-success-workfront-planning.md" title="빠른 시작, 스마트한 확장 - Workfront Planning을 통해 팀 수준의 성공 활성화" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469964/?format=jpeg&nocache=1756499240524" alt="빠른 시작, 스마트한 확장 - Workfront Planning을 통해 팀 수준의 성공 활성화"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="workshop-rewind/planning/team-success-workfront-planning.md" target="_blank" rel="referrer" title="빠른 시작, 스마트한 확장 - Workfront Planning을 통해 팀 수준의 성공 활성화">빠른 시작, 스마트 크기 조정 - Workfront Planning으로 팀 수준 성공 활성화</a>
+                    </p>
+                    <p class="is-size-6">Adobe Workfront Planning에 대한 팀 우선 접근 방식을 통해 채택을 가속화하고, 저항을 줄이고, 전사적 성공을 위한 확장 가능한 기반을 구축하는 방법에 대해 알아봅니다.</p>
+                </div>
+                <a href="workshop-rewind/planning/team-success-workfront-planning.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="The Workfront Fusion Fix - Ericsson’s Smarter Way to Unlocking True Event Costs">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="workshop-rewind/integrations/event-costs.md" title="Workfront Fusion Fix - Ericsson을 통해 진정한 이벤트 비용 절감" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469977/?format=jpeg&nocache=1756499240508" alt="Workfront Fusion Fix - Ericsson을 통해 진정한 이벤트 비용 절감"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="workshop-rewind/integrations/event-costs.md" target="_blank" rel="referrer" title="Workfront Fusion Fix - Ericsson을 통해 진정한 이벤트 비용 절감">Workfront Fusion Fix - Ericsson에서 실제 이벤트 비용 잠금을 해제하는 더 현명한 방법</a>
+                    </p>
+                    <p class="is-size-6">Ericsson이 SharePoint, Power BI 및 SAP와 함께 Adobe Workfront Fusion을 사용하여 비용 보고를 자동화하고, 재무 가시성을 향상시키며, 수동 오류를 줄이는 방법에 대해 알아보십시오.</p>
+                </div>
+                <a href="workshop-rewind/integrations/event-costs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Navigating the Workfront API and Fusion Changes for Multi-Select Fields with Ease">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="workshop-rewind/integrations/mulit-select-fields.md" title="다중 선택 필드를 위한 Workfront API 및 Fusion 변경 사항을 쉽게 탐색" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469978/?format=jpeg&nocache=1756499240537" alt="다중 선택 필드를 위한 Workfront API 및 Fusion 변경 사항을 쉽게 탐색"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="workshop-rewind/integrations/mulit-select-fields.md" target="_blank" rel="referrer" title="다중 선택 필드를 위한 Workfront API 및 Fusion 변경 사항을 쉽게 탐색">간단히 다중 선택 필드를 위한 Workfront API 및 Fusion 변경 내용 탐색</a>
+                    </p>
+                    <p class="is-size-6">다중 선택 필드 업데이트, 이벤트 구독 버전 관리 및 변경 내용 손상 방지 전략을 포함하여 예정된 Adobe Workfront API 및 Fusion 변경 사항에 대해 알아봅니다.</p>
+                </div>
+                <a href="workshop-rewind/integrations/mulit-select-fields.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
 ### 전문가 인사이트
 
 Workfront Expert Insights 시리즈는 숙련된 Workfront 전문가의 실용적인 전략과 고급 팁을 잠금 해제할 수 있는 리소스입니다. 각 비디오는 거버넌스 및 요청 대기열에서 SLA 보고, Fusion 사용 사례, 콘텐츠 공급망 워크플로우 등에 이르기까지 새로운 테마로 확장됩니다.
+
 이러한 세션에서는 모든 수준의 Workfront 사용자가 설정을 최적화하고, 운영을 확장하며, 플랫폼에서 더 많은 가치를 얻을 수 있도록 설계된 실제 솔루션, 고객 사례 및 실행 가능한 방법이 제공됩니다. 특정 문제를 해결하려는 경우나 혁신을 위한 아이디어를 촉발하려는 경우 Workfront Expert Insights는 전문가가 이를 수행하는 방법에 대한 비하인드 뷰를 제공합니다.
 
 <!-- CARDS 
@@ -167,15 +254,6 @@ Workfront Expert Insights 시리즈는 숙련된 Workfront 전문가의 실용�
 * expert-insights/adoption.md
 * expert-insights/adoption-surveys.md
 * expert-insights/agile.md
-* expert-insights/content-supply-chain.md
-* expert-insights/centers-of-excellence.md
-* expert-insights/fusion.md
-* expert-insights/non-traditional-workfront-workflows.md
-* expert-insights/reporting-practices.md
-* expert-insights/request-queues.md
-* expert-insights/resource-management.md
-* expert-insights/sla-reporting.md
-* expert-insights/enterprise-work-management.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -185,7 +263,7 @@ Workfront Expert Insights 시리즈는 숙련된 Workfront 전문가의 실용�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption.md" title="전문가 통찰력 - Leslie Spier로 채택" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469934/?format=jpeg&nocache=1755810022202&captions=kor" alt="전문가 통찰력 - Leslie Spier로 채택"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469893/?format=jpeg&nocache=1756499240950" alt="전문가 통찰력 - Leslie Spier로 채택"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -208,7 +286,7 @@ Workfront Expert Insights 시리즈는 숙련된 Workfront 전문가의 실용�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption-surveys.md" title="전문가 인사이트 - Jaime Davidson의 입양 조사" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469957/?format=jpeg&nocache=1755810022164&captions=kor" alt="전문가 인사이트 - Jaime Davidson의 입양 조사"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469895/?format=jpeg&nocache=1756499240919" alt="전문가 인사이트 - Jaime Davidson의 입양 조사"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -231,7 +309,7 @@ Workfront Expert Insights 시리즈는 숙련된 Workfront 전문가의 실용�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/agile.md" title="전문가 인사이트 - Natalie Mitchell과 애자일" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469923/?format=jpeg&nocache=1755810022193&captions=kor" alt="전문가 인사이트 - Natalie Mitchell과 애자일"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469891/?format=jpeg&nocache=1756499240935" alt="전문가 인사이트 - Natalie Mitchell과 애자일"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -244,213 +322,6 @@ Workfront Expert Insights 시리즈는 숙련된 Workfront 전문가의 실용�
                     <p class="is-size-6">Natalie Mitchell과 함께 애자일 모범 사례, 리소스 및 팁을 공유하여 Workfront 팀과 애자일을 성공적으로 구현합니다.</p>
                 </div>
                 <a href="expert-insights/agile.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights – Content Supply Chain with Corre Kombol">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="expert-insights/content-supply-chain.md" title="전문가 인사이트 - Corre Kombol이 포함된 콘텐츠 공급망" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1755810022153" alt="전문가 인사이트 - Corre Kombol이 포함된 콘텐츠 공급망"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="expert-insights/content-supply-chain.md" target="_blank" rel="referrer" title="전문가 인사이트 - Corre Kombol이 포함된 콘텐츠 공급망">전문가 인사이트 - 핵심 구성 요소가 있는 콘텐츠 공급망</a>
-                    </p>
-                    <p class="is-size-6">Corre Kombol에서 Adobe 솔루션으로 콘텐츠 공급망을 최적화하는 방법에 대한 전문가 전략에 대해 알아봅니다. 효율성, 공동 작업 및 결과 향상</p>
-                </div>
-                <a href="expert-insights/content-supply-chain.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights – Governance & Centers of Excellence with Danielle Johnston">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="expert-insights/centers-of-excellence.md" title="전문가 인사이트 - Danielle Johnston과 함께 거버넌스 및 우수성 센터" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469897/?format=jpeg&nocache=1755810022138" alt="전문가 인사이트 - Danielle Johnston과 함께 거버넌스 및 우수성 센터"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="expert-insights/centers-of-excellence.md" target="_blank" rel="referrer" title="전문가 인사이트 - Danielle Johnston과 함께 거버넌스 및 우수성 센터">전문가 인사이트 - 거버넌스 및 Centers of Excellent와 Danielle Johnston</a>
-                    </p>
-                    <p class="is-size-6">Danielle Johnston이 Workfront을 사용하여 채택과 긍정적인 변화를 주도하는 거버넌스 및 우수성 센터를 구축하는 전략에 대해 알아보십시오.</p>
-                </div>
-                <a href="expert-insights/centers-of-excellence.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights – Fusion with Ewan Hruska">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="expert-insights/fusion.md" title="전문가 인사이트 - Ewan Hruska와의 퓨전" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469896/?format=jpeg&nocache=1755810022184" alt="전문가 인사이트 - Ewan Hruska와의 퓨전"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="expert-insights/fusion.md" target="_blank" rel="referrer" title="전문가 인사이트 - Ewan Hruska와의 퓨전">전문가 인사이트 - Ewan Hruska와의 융합</a>
-                    </p>
-                    <p class="is-size-6">Ewan Hruska에서 Fusion 모범 사례에 대해 알아보십시오. 효율성을 위해 Adobe Workfront Fusion을 사용하여 워크플로우를 문서화, 최적화 및 확장하는 방법을 알아봅니다.</p>
-                </div>
-                <a href="expert-insights/fusion.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights - Non-Traditional Workfront Workflows with Kiersten Kollins">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="expert-insights/non-traditional-workfront-workflows.md" title="전문가 인사이트 - Kiersten Kollins를 사용하는 비전통적인 Workfront 워크플로" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469946/?format=jpeg&nocache=1755810022175&captions=kor" alt="전문가 인사이트 - Kiersten Kollins를 사용하는 비전통적인 Workfront 워크플로"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="expert-insights/non-traditional-workfront-workflows.md" target="_blank" rel="referrer" title="전문가 인사이트 - Kiersten Kollins를 사용하는 비전통적인 Workfront 워크플로">전문가 인사이트 - Kiersten Kollins를 사용하는 비전통적인 Workfront 워크플로</a>
-                    </p>
-                    <p class="is-size-6">DSW의 Kiersten Kollins가 비전통적인 Adobe Workfront 워크플로, 맞춤형 보고 및 Fusion 자동화를 사용하여 마케팅 운영을 최적화하고 팀 효율성을 높이는 방법을 알아봅니다.</p>
-                </div>
-                <a href="expert-insights/non-traditional-workfront-workflows.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights – Reporting Practices with Nichole Vargas">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="expert-insights/reporting-practices.md" title="전문가 인사이트 - Nichole Vargas의 보고 사례" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469972/?format=jpeg&nocache=1755810022226&captions=kor" alt="전문가 인사이트 - Nichole Vargas의 보고 사례"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="expert-insights/reporting-practices.md" target="_blank" rel="referrer" title="전문가 인사이트 - Nichole Vargas의 보고 사례">전문가 인사이트 - Nichole Vargas에 대한 보고 사례</a>
-                    </p>
-                    <p class="is-size-6">Nichole Vargas의 주요 보고 사례를 학습하여 계산된 필드, 스토리텔링 팁 및 커뮤니티 주도 리소스를 통해 Workfront 보고 기술을 향상시킵니다.</p>
-                </div>
-                <a href="expert-insights/reporting-practices.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights - Request Queues with Lyndsy Denk">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="expert-insights/request-queues.md" title="Expert Insights - Lyndsy Denk가 있는 요청 큐" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465272/?format=jpeg&nocache=1755810022234" alt="Expert Insights - Lyndsy Denk가 있는 요청 큐"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="expert-insights/request-queues.md" target="_blank" rel="referrer" title="Expert Insights - Lyndsy Denk가 있는 요청 큐">Expert Insights - Lyndsy Denk가 있는 요청 큐</a>
-                    </p>
-                    <p class="is-size-6">Lyndsy Denk를 사용하여 헬프 데스크 대기열, 라우팅 요청 및 대시보드 인사이트 작성에 대한 Workfront 전문가 팁.</p>
-                </div>
-                <a href="expert-insights/request-queues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="undefined">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="expert-insights/resource-management.md" title="정의되지 않음" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469910/?format=jpeg&nocache=1755810022210&captions=kor" alt="정의되지 않음"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="expert-insights/resource-management.md" target="_blank" rel="referrer" title="정의되지 않음">정의되지 않음</a>
-                    </p>
-                    <p class="is-size-6">정의되지 않음</p>
-                </div>
-                <a href="expert-insights/resource-management.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="SLA Reporting in Workfront with Madalyn Destafney">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="expert-insights/sla-reporting.md" title="Madalyn Destafney와 함께 Workfront에서 SLA 보고" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469985/?format=jpeg&nocache=1755810022242&captions=kor" alt="Madalyn Destafney와 함께 Workfront에서 SLA 보고"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="expert-insights/sla-reporting.md" target="_blank" rel="referrer" title="Madalyn Destafney와 함께 Workfront에서 SLA 보고">Madalyn Destafney와 함께 Workfront에서 SLA 보고</a>
-                    </p>
-                    <p class="is-size-6">단계별 지침, 계산된 필드 예제 및 사용자 정의 양식 모범 사례를 포함하여 Madalyn Destafney의 전문가 팁을 통해 Adobe Workfront에서 SLA(서비스 수준 계약)를 구현하고 측정하는 방법에 대해 알아봅니다.</p>
-                </div>
-                <a href="expert-insights/sla-reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights – Enterprise Work Management with Daniel Clarke">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="expert-insights/enterprise-work-management.md" title="Expert Insights - Daniel Clarke를 사용한 엔터프라이즈 작업 관리" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469898/?format=jpeg&nocache=1755810022218" alt="Expert Insights - Daniel Clarke를 사용한 엔터프라이즈 작업 관리"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="expert-insights/enterprise-work-management.md" target="_blank" rel="referrer" title="Expert Insights - Daniel Clarke를 사용한 엔터프라이즈 작업 관리">전문가 인사이트 - Daniel Clarke를 사용한 엔터프라이즈 작업 관리</a>
-                    </p>
-                    <p class="is-size-6">Daniel Clarke가 기업 작업 관리, 채택, 리더십 지표 및 성공을 위한 융합 전략에 대한 Workfront 모범 사례를 공유합니다.</p>
-                </div>
-                <a href="expert-insights/enterprise-work-management.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
                 </a>
             </div>

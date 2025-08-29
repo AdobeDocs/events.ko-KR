@@ -3,9 +3,9 @@ user-guide-title: Workfront 이벤트
 breadcrumb-title: Workfront 이벤트
 user-guide-description: Workfront 이벤트
 solution: Workfront
-source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
+source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 2%
 
 ---
@@ -20,11 +20,12 @@ ht-degree: 2%
    + [25.4 릴리스](releases/25-4-release-webinar.md)
    + [25.1 릴리스](releases/25-1-release-webinar.md)
    + [24.1 릴리스](releases/24-1-release-webinar.md)
-+ 상위 3 {#top3}
-   + [블루프린트를 통한 Creative 접근 방식](top3/blueprints.md)
-   + [오피스 아워(Office Hours)에 대한 상위 3가지 접근 방식](top3/office-hours.md)
-+ Versus! {#versus}
-   + [그룹 대 팀](versus/groups-vs-teams.md)
++ 빠른 수행 {#quicktakes}
+   + 상위 3 {#top3}
+      + [블루프린트를 통한 Creative 접근 방식](top3/blueprints.md)
+      + [오피스 아워(Office Hours)에 대한 상위 3가지 접근 방식](top3/office-hours.md)
+   + Versus! {#versus}
+      + [그룹 대 팀](versus/groups-vs-teams.md)
 + 전문가 인사이트 {#expert-insights}
    + [어답터](expert-insights/adoption.md)
    + [입양 조사](expert-insights/adoption-surveys.md)

@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange의 녹화본 컬렉션
 event-series: The Skill Exchange
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
 workflow-type: tm+mt
-source-wordcount: '695'
+source-wordcount: '722'
 ht-degree: 9%
 
 ---
@@ -133,6 +133,9 @@ ht-degree: 9%
       + [Adobe Journey Optimizer에서 복잡한 여정을 해결하기 위한 팁](aep-apps/2025/aug/tips-for-tackling-journeys.md)
       + [이메일 이외의 여정](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
+   + 2025년 8월 {#aug2025}
+      + [데이터 분류 개선](marketo/2025/aug/data-categorization-with-ai.md)
+      + [후속 작업 간소화](marketo/2025/aug/follow-ups-customer-lifecycle.md)
    + 2024년 8월 {#aug2024}
       + [Keynote 열기](marketo/aug2024/keynote.md)
       + [참여 프로그램의 고급 응용 프로그램](marketo/aug2024/advanced-applications-engagment-programs.md)
@@ -166,6 +169,12 @@ ht-degree: 9%
       + [ [!DNL Marketo Engage] 내 보고](marketo/feb2021/reporting-within-marketo.md)
       + [Forms을 위한 Ultimate 팁 및 요령](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
+   + 2025년 8월 {#aug2025}
+      + [Keynote 열기](workfront/2025/aug/keynote.md)
+      + [고급 텍스트 모드](workfront/2025/aug/advanced-text-mode.md)
+      + [Fusion을 사용하여 사용자 계정 생성 자동화](workfront/2025/aug/fusion-user-account-creation.md)
+      + [우수성의 중심](workfront/2025/aug/center-of-excellence.md)
+      + [Workfront의 AI 도구 마스터](workfront/2025/aug/workfront-ai-tools.md)
    + 2024년 8월 {#aug2024}
       + [Keynote 열기](workfront/aug2024/keynote.md)
       + [업무 균형자 사용자 정의](workfront/aug2024/workload-balancer.md)
