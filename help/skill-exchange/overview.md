@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 경험 작성자 The Skill Exchange {#overview}
 
-<img alt="경험 작성자 The Skill Exchange" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png" />
+<img alt="경험 작성자 The Skill Exchange" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png?lang=ko" />
 
 Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트 시리즈로, Adobe Experience Cloud 솔루션에 대해 자세히 살펴보는 데 중점을 둡니다. 이 프로그램은 우수 사례와 팁과 요령을 공유하여 Adobe 제품 전문가 및 전문가 동료로부터 배울 수 있는 기회를 제공합니다.
 
