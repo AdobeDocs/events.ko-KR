@@ -31,4 +31,4 @@ Adobe Experience Platform 및 agentic AI가 디지털 경험 생성을 어떻게
 이러한 통찰력을 활용하여 워크플로를 능률화하고, 개인화를 향상시키며, 디지털 경험 관리에 대한 미래 지향적인 전문 지식을 확보하십시오.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3471327/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471362/?learn=on&enablevpops&captions=kor)

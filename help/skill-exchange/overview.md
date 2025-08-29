@@ -50,7 +50,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Skill Exchange Keynote - AI를 통한 경험 작성의 미래, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1756421492411" alt="Skill Exchange Keynote - AI를 통한 경험 작성의 미래, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471362/?format=jpeg&nocache=1756421492411&captions=kor" alt="Skill Exchange Keynote - AI를 통한 경험 작성의 미래, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
