@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange의 녹화본 컬렉션
 event-series: The Skill Exchange
-source-git-commit: 3df61129609f91640357ef9346f0e82fe0fff7b3
+source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '695'
 ht-degree: 9%
 
 ---
@@ -125,6 +125,13 @@ ht-degree: 9%
          + [재사용성의 힘](aem/aug2022/reusability.md)
          + [AEM의 컨텐츠 개인화를 통해 비즈니스 가치 촉진](aem/aug2022/personalization.md)
          + [AEM 구현 최대화](aem/aug2022/implementation.md)
++ Adobe Experience Platform {#aep}
+   + 2025년 8월 {#aug2025}
+      + [Keynote 열기](aep-apps/2025/aug/opening-keynote.md)
+      + [Personalization, 개인 정보 보호 및 데이터 보안의 균형 유지](aep-apps/2025/aug/personalization-privacy-data-security.md)
+      + [미디어 투자 및 Adobe의 Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
+      + [Adobe Journey Optimizer에서 복잡한 여정을 해결하기 위한 팁](aep-apps/2025/aug/tips-for-tackling-journeys.md)
+      + [이메일 이외의 여정](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
    + 2024년 8월 {#aug2024}
       + [Keynote 열기](marketo/aug2024/keynote.md)

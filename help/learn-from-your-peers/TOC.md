@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: ' [!DNL Experience Makers Learn from your peers]의 녹음/녹화 컬렉션'
-source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
+source-git-commit: fd99debc943f21bd6454e8cce91b8cf3e0770738
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '338'
 ht-degree: 20%
 
 ---
@@ -36,6 +36,8 @@ ht-degree: 20%
    + 2월 {#feb2024}
       + [Agile SDLC의 통신, 요구 사항 및 테스트](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
+   + 8월 {#aug2025}
+      + [AEM 스마트 태그](experience-manager/aug2025/smart-tags.md)
    + 7월 {#jul2024}
       + [규모에 맞게 성공 잠금 해제](experience-manager/july2024/global-digital-presence.md)
    + 11월 {#nov2023}
