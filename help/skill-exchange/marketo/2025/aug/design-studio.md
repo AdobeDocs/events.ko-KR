@@ -29,7 +29,7 @@ Design Studio의 기능을 극대화하는 고급 방법과 이것이 글로벌 
 * Design Studio의 스마트 코딩 사례를 활용하면 마케팅 운영 및 브랜드 규정 준수를 향후 입증할 수 있습니다.
 * Adobe Experience Manager(AEM) 통합으로 Design Studio의 공백을 메워 Marketo Engage의 기능을 확장하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3471389/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471437/?learn=on&enablevpops&captions=kor)
 
 ## 효율적인 Marketo 작업 잠금 해제
 

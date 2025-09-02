@@ -31,7 +31,7 @@ J.P. Morgan Payments의 커트 존스와 함께
 * Fusion을 사용하여 Admin Console에서 계정 만들기 자동화
 * Fusion을 사용하여 Workfront 프로필에 추가 세부 정보 업데이트
 
->[!VIDEO](https://video.tv.adobe.com/v/3471496/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471578/?learn=on&enablevpops&captions=kor)
 
 ## 관리자 및 확장 모범 사례
 

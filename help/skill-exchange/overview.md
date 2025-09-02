@@ -50,7 +50,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Skill Exchange Keynote - AI를 통한 경험 작성의 미래, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1756848631023" alt="Skill Exchange Keynote - AI를 통한 경험 작성의 미래, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471362/?format=jpeg&nocache=1756848631023&captions=kor" alt="Skill Exchange Keynote - AI를 통한 경험 작성의 미래, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -183,7 +183,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/opening-keynote.md" title="Keynote 열기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1756848632015" alt="Keynote 열기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471482/?format=jpeg&nocache=1756848632015&captions=kor" alt="Keynote 열기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -229,7 +229,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/design-studio.md" title="글로벌 마케팅 운영을 위한 Design Studio의 모든 기능 사용" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471389/?format=jpeg&nocache=1756848632006" alt="글로벌 마케팅 운영을 위한 Design Studio의 모든 기능 사용"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471437/?format=jpeg&nocache=1756848632006&captions=kor" alt="글로벌 마케팅 운영을 위한 Design Studio의 모든 기능 사용"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -365,7 +365,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/center-of-excellence.md" title="Workfront 조직의 우수성을 위한 준비" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1756848632522" alt="Workfront 조직의 우수성을 위한 준비"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471591/?format=jpeg&nocache=1756848632522&captions=kor" alt="Workfront 조직의 우수성을 위한 준비"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -411,7 +411,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/fusion-user-account-creation.md" title="Fusion을 사용하여 Workfront 사용자 계정 생성 자동화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1756848632510" alt="Fusion을 사용하여 Workfront 사용자 계정 생성 자동화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471578/?format=jpeg&nocache=1756848632510&captions=kor" alt="Fusion을 사용하여 Workfront 사용자 계정 생성 자동화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -434,7 +434,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/review-approval.md" title="검토 및 승인 시작하기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471493/?format=jpeg&nocache=1756848632551" alt="검토 및 승인 시작하기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471567/?format=jpeg&nocache=1756848632551&captions=kor" alt="검토 및 승인 시작하기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
