@@ -1,6 +1,7 @@
 ---
 title: Fusion을 사용하여 Workfront 사용자 계정 생성 자동화
 description: Adobe Workfront Fusion 및 API를 사용하여 사용자 계정 생성을 자동화하고 설정 시간을 22분에서 60초 미만으로 단축하며 효율성을 높이는 방법에 대해 알아봅니다.
+solution: Workfront
 feature: Workfront Fusion, Workfront API
 speaker-name-1: Kurt Jones
 speaker-company-1: J.P. Morgan
@@ -11,13 +12,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18876
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+exl-id: e8ac62c5-75e5-41d2-94c8-25bcaacd5668
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 0%
 
 ---
-
 
 # Fusion을 사용하여 Workfront 사용자 계정 생성 자동화
 

@@ -1,6 +1,7 @@
 ---
 title: 미세 조정된 AI 모델을 사용하여 Marketo Engage의 데이터 분류 개선
 description: Marketo Engage에서 정밀하게 조정된 AI 모델을 사용하여 스팸을 감지하고 작업 제목을 개인과 일치시키고 웹후크로 열린 텍스트 필드를 분류하는 방법을 알아봅니다.
+solution: Marketo Engage
 topic: Artificial Intelligence
 role: User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18864
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+exl-id: e952d6e7-fb3d-4e5f-9912-825fbd303cc2
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
 
 ---
-
 
 # 미세 조정된 AI 모델을 사용하여 Marketo Engage의 데이터 분류 개선
 

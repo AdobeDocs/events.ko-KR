@@ -1,6 +1,7 @@
 ---
 title: 고급 텍스트 모드로 Workfront 보고 기능 향상
 description: Adobe Workfront 텍스트 모드를 마스터하여 열을 병합하고, 사용자 지정 값 표현식을 만들고, 보다 스마트한 보고를 위한 동적 프롬프트를 만드는 방법을 알아봅니다.
+solution: Workfront
 feature: Text Mode Reporting
 speaker-name-1: Nathan Johnson
 speaker-company-1: Adobe
@@ -10,13 +11,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18878
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+exl-id: 22811352-8232-44b6-af8c-89483a729838
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
 
 ---
-
 
 # 고급 텍스트 모드로 Workfront 보고 기능 향상
 
@@ -33,7 +34,7 @@ ht-degree: 0%
 
 기술 전문 지식을 스토리텔링과 결합하여 Workfront 보고의 기능을 활용하십시오.
 
-* **고급 텍스트 모드**&#x200B;기본 UI 제한을 초과하는 유연한 사용자 지정 보고서를 활성화합니다.
+* **고급 텍스트 모드**기본 UI 제한을 초과하는 유연한 사용자 지정 보고서를 활성화합니다.
 * **열 병합** 복잡성을 줄이고 가독성을 향상시켜 주요 프로젝트 세부 정보를 한 눈에 표시할 수 있습니다.
 * **값 식** 보고서 내에서 프로젝트 상태 및 일정 계산과 같은 실시간 인사이트를 직접 제공합니다.
 * **사용자 지정 프롬프트** 사용자가 다양한 팀 요구 사항에 맞게 보고서를 필터링하고 동적으로 상호 작용할 수 있는 권한을 부여합니다.

@@ -1,6 +1,7 @@
 ---
 title: 이메일을 넘어 Adobe 여정 해결
 description: 최적의 참여를 위해 테스트 프로필, 이벤트 데이터 및 실제 시나리오를 사용하여 Adobe Journey Optimizer으로 멀티채널 여정을 디자인하고 테스트하는 방법에 대해 알아봅니다.
+solution: Journey Optimizer
 feature: Email, Direct Mail, Journeys
 role: User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-28T00:00:00Z
 jira: KT-18850
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+exl-id: e611a377-0e3c-4ccd-ac9c-280638b6ea36
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
 
 ---
-
 
 # 이메일을 넘어 Adobe 여정 해결
 

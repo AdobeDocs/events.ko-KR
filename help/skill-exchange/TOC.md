@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange의 녹화본 컬렉션
 event-series: The Skill Exchange
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
-source-wordcount: '722'
+source-wordcount: '750'
 ht-degree: 9%
 
 ---
@@ -134,6 +134,9 @@ ht-degree: 9%
       + [이메일 이외의 여정](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
    + 2025년 8월 {#aug2025}
+      + [Keynote 열기](marketo/2025/aug/opening-keynote.md)
+      + [AI 기반 라이프사이클 엔진](marketo/2025/aug/ai-lifecycle-engine.md)
+      + [글로벌 마케팅 운영을 위한 Design Studio](marketo/2025/aug/design-studio.md)
       + [데이터 분류 개선](marketo/2025/aug/data-categorization-with-ai.md)
       + [후속 작업 간소화](marketo/2025/aug/follow-ups-customer-lifecycle.md)
    + 2024년 8월 {#aug2024}
@@ -174,7 +177,10 @@ ht-degree: 9%
       + [고급 텍스트 모드](workfront/2025/aug/advanced-text-mode.md)
       + [Fusion을 사용하여 사용자 계정 생성 자동화](workfront/2025/aug/fusion-user-account-creation.md)
       + [우수성의 중심](workfront/2025/aug/center-of-excellence.md)
+      + [새 기능에 대한 사용자 활성화](workfront/2025/aug/enable-users-new-features.md)
+      + [검토 및 승인 시작하기](workfront/2025/aug/review-approval.md)
       + [Workfront의 AI 도구 마스터](workfront/2025/aug/workfront-ai-tools.md)
+      + [Workfront + AEM을 통해 Creative 워크플로 스트리밍](workfront/2025/aug/workflows-workfront-aem.md)
    + 2024년 8월 {#aug2024}
       + [Keynote 열기](workfront/aug2024/keynote.md)
       + [업무 균형자 사용자 정의](workfront/aug2024/workload-balancer.md)

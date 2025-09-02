@@ -1,6 +1,6 @@
 ---
 title: Keynote 열기
-description: AI 기반 Workfront - 마케팅 시스템의 미래 - Adobe Workfront
+description: Adobe Workfront이 AI 기반 캠페인 생성, 통찰력 및 원활한 Adobe 통합을 통해 지능적이고 가시적이며 연결된 워크플로우를 제공하는 방법을 살펴봅니다.
 feature: People Teams and Groups
 topic: Artificial Intelligence
 role: User
@@ -9,13 +9,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18879
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+exl-id: da0a2d1b-8d97-418e-9a8d-08f713f7cb6a
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
-
 
 # Keynote 열기
 
