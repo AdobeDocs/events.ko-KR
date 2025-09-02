@@ -28,7 +28,7 @@ Marketo Engage의 요청 및 실행 가능한 캠페인과 다양한 마케팅 �
 
 ## 추가 리소스
 
-* [실행 가능한 캠페인](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
+* [실행 가능한 캠페인](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
 * [Marketo Engage의 새 실행 가능한 캠페인 유형에 대해 알아야 할 모든 사항](https://mugs.marketo.com/events/details/marketo-houston-mug-presents-everything-you-need-to-know-about-the-new-executable-campaign-type-in-marketo/)
 * [실행 가능한 캠페인: 실행 파일이 효율성 및 영향을 주는 방법을 알아봅니다](https://www.youtube.com/watch?v=QGC4Bhn5BpU)
 
@@ -40,6 +40,6 @@ Marketo Engage의 요청 및 실행 가능한 캠페인과 다양한 마케팅 �
 
 * [이메일 자세히 알아보기: 앱 알림, Dynamic Chat 및 메시징 앱을 사용한 멀티채널 마케팅](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-beyond-emails-multi-channel-marketing-with-app-notifications-dynamic-chat-and-messaging-apps/)
 * [옴니채널 참여](https://business.adobe.com/sg/products/marketo/omnichannel-engagement.html)
-* [인앱 메시지를 만드는 방법](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
-* [푸시 알림을 만드는 방법](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
+* [인앱 메시지를 만드는 방법](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
+* [푸시 알림을 만드는 방법](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
 * [WhatsApp 템플릿을 만드는 방법](https://community.sinch.com/t5/Settings/Create-a-WhatsApp-message-template-new-experience/ta-p/11599)
