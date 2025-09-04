@@ -29,7 +29,7 @@ Adobe Experience Manager(AEM)의 전략 및 제품 책임자인 Haresh Kumar가 
 * 더 나은 참여와 전환을 위한 Sites Optimizer 및 Content Advisor와 같은 새로운 최적화 도구입니다.
 * 일대일 개인화를 안전하고 효과적으로 확장하는 방법입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471386/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471403/?learn=on&enablevpops&captions=kor)
 
 
 ## 컨텐츠 경험의 미래 잠금 해제
