@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange의 녹화본 컬렉션
 event-series: The Skill Exchange
-source-git-commit: 85cd991ce4cce6e25f31df39400b21702c2a43cf
+source-git-commit: d942871683ff1319d5f7b16e6f114c23825530b4
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '797'
 ht-degree: 9%
 
 ---
@@ -21,7 +21,21 @@ ht-degree: 9%
       + [효과적인 확장성](commerce/aug2024/extensibility.md)
       + [마이그레이션 워크플로 전체에서 SEO 최대화](commerce/aug2024/seo-migration-workflows.md)
       + [고객 경험 개인화](commerce/aug2024/personalization.md)
++ Adobe Experience Platform {#aep}
+   + 2025년 8월 {#aug2025}
+      + [Keynote 열기](aep-apps/2025/aug/opening-keynote.md)
+      + [Personalization, 개인 정보 보호 및 데이터 보안의 균형 유지](aep-apps/2025/aug/personalization-privacy-data-security.md)
+      + [일반 지표 파악](analytics/2025/aug/demystifying-common-metrics.md)
+      + [미디어 투자 및 Adobe의 Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
+      + [Adobe Journey Optimizer에서 복잡한 여정을 해결하기 위한 팁](aep-apps/2025/aug/tips-for-tackling-journeys.md)
+      + [이메일 이외의 여정](aep-apps/2025/aug/journeys-beyond-email.md)
 + Analytics {#analytics}
+   + 2025년 8월 {#aug2025}
+      + [Adobe Analytics Workspace의 사용자 지정](analytics/2025/aug/analysis-workspace-customizations.md)
+      + [대시보드에서 통찰력을 제공하지 않음](analytics/2025/aug/dashboards-insights.md)
+      + [확장 가능한 Analytics 워크플로](analytics/2025/aug/scalable-workflows.md)
+      + [세그먼테이션 및 개인화](analytics/2025/aug/segmentation-personalization.md)
+      + [사용해야 하는 Workspace 기능](analytics/2025/aug/workspace-features.md)
    + 2024년 8월 {#aug2024}
       + [Keynote 열기](analytics/aug2024/keynote.md)
       + [경고 및 주석](analytics/aug2024/alerts-annotations.md)
@@ -129,13 +143,9 @@ ht-degree: 9%
          + [재사용성의 힘](aem/aug2022/reusability.md)
          + [AEM의 컨텐츠 개인화를 통해 비즈니스 가치 촉진](aem/aug2022/personalization.md)
          + [AEM 구현 최대화](aem/aug2022/implementation.md)
-+ Adobe Experience Platform {#aep}
++ Customer Journey Analytics {#cja}
    + 2025년 8월 {#aug2025}
-      + [Keynote 열기](aep-apps/2025/aug/opening-keynote.md)
-      + [Personalization, 개인 정보 보호 및 데이터 보안의 균형 유지](aep-apps/2025/aug/personalization-privacy-data-security.md)
-      + [미디어 투자 및 Adobe의 Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
-      + [Adobe Journey Optimizer에서 복잡한 여정을 해결하기 위한 팁](aep-apps/2025/aug/tips-for-tackling-journeys.md)
-      + [이메일 이외의 여정](aep-apps/2025/aug/journeys-beyond-email.md)
+      + [고전적인 AA 레시피를 사용한 현대](cja/2025/aug/modern-takes-classic-aa.md)
 + Marketo {#marketo}
    + 2025년 8월 {#aug2025}
       + [Keynote 열기](marketo/2025/aug/opening-keynote.md)
