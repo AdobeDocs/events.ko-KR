@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange의 녹화본 컬렉션
 event-series: The Skill Exchange
-source-git-commit: d942871683ff1319d5f7b16e6f114c23825530b4
+source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '837'
 ht-degree: 9%
 
 ---
@@ -31,8 +31,11 @@ ht-degree: 9%
       + [이메일 이외의 여정](aep-apps/2025/aug/journeys-beyond-email.md)
 + Analytics {#analytics}
    + 2025년 8월 {#aug2025}
+      + [Keynote 열기](analytics/2025/aug/opening-keynote.md)
       + [Adobe Analytics Workspace의 사용자 지정](analytics/2025/aug/analysis-workspace-customizations.md)
       + [대시보드에서 통찰력을 제공하지 않음](analytics/2025/aug/dashboards-insights.md)
+      + [Analysis Workspace을 통한 데이터 스토리텔링](analytics/2025/aug/data-storytelling.md)
+      + [PowerPoint에 데이터 보내기](analytics/2025/aug/data-to-powerpoint.md)
       + [확장 가능한 Analytics 워크플로](analytics/2025/aug/scalable-workflows.md)
       + [세그먼테이션 및 개인화](analytics/2025/aug/segmentation-personalization.md)
       + [사용해야 하는 Workspace 기능](analytics/2025/aug/workspace-features.md)
@@ -107,9 +110,18 @@ ht-degree: 9%
       + [시작하기](analytics/jun2021/getting-started.md)
       + [마케팅 채널, 책임 있게 사용하십시오.](analytics/jun2021/marketing-channels.md)
       + [모두 합치기](analytics/jun2021/putting-all-together.md)
++ Customer Journey Analytics {#cja}
+   + 2025년 8월 {#aug2025}
+      + [Keynote 열기](cja/2025/aug/opening-keynote.md)
+      + [Customer Journey Analytics 여정 캔버스](cja/2025/aug/journey-canvas.md)
+      + [Customer Journey Analytics 데이터 모델](cja/2025/aug/cja-data-model.md)
+      + [고전적인 AA 레시피를 사용한 현대](cja/2025/aug/modern-takes-classic-aa.md)
+      + [모든 여정에 숨겨진 스토리 발견](cja/2025/aug/story-behind-journey.md)
 + Experience Manager {#aem}
    + 2025년 8월 {#aug2025}
       + [Keynote 열기](aem/2025/aug/opening-keynote.md)
+      + [자산 워크플로우, 권한 및 통합](aem/2025/aug/asset-workflows-permissions-integration.md)
+      + [AEM Assets을 위한 보고서 및 ROI 지표 개발](aem/2025/aug/reports-roi-metrics.md)
       + [미래 지향적인 컨텐츠 프레임워크](aem/2025/aug/content-framework.md)
       + [확장 가능한 자산 관리](aem/2025/aug/scalable-asset-management.md)
    + 2024년 8월 {#aug2024}
@@ -143,9 +155,6 @@ ht-degree: 9%
          + [재사용성의 힘](aem/aug2022/reusability.md)
          + [AEM의 컨텐츠 개인화를 통해 비즈니스 가치 촉진](aem/aug2022/personalization.md)
          + [AEM 구현 최대화](aem/aug2022/implementation.md)
-+ Customer Journey Analytics {#cja}
-   + 2025년 8월 {#aug2025}
-      + [고전적인 AA 레시피를 사용한 현대](cja/2025/aug/modern-takes-classic-aa.md)
 + Marketo {#marketo}
    + 2025년 8월 {#aug2025}
       + [Keynote 열기](marketo/2025/aug/opening-keynote.md)
