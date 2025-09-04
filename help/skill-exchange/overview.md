@@ -3,16 +3,16 @@ title: 경험 작성자 The Skill Exchange
 description: Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트 시리즈로, Adobe Experience Cloud 솔루션에 대해 자세히 살펴보는 데 중점을 둡니다.
 exl-id: 6d0f26c7-d5d2-4993-b2a1-58d5880f8f96
 duration: 57
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 85cd991ce4cce6e25f31df39400b21702c2a43cf
 workflow-type: tm+mt
-source-wordcount: '1119'
+source-wordcount: '1178'
 ht-degree: 0%
 
 ---
 
 # 경험 작성자 The Skill Exchange {#overview}
 
-<img alt="경험 작성자 The Skill Exchange" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png?lang=ko" />
+<img alt="경험 작성자 The Skill Exchange" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png" />
 
 Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트 시리즈로, Adobe Experience Cloud 솔루션에 대해 자세히 살펴보는 데 중점을 둡니다. 이 프로그램은 우수 사례와 팁과 요령을 공유하여 Adobe 제품 전문가 및 전문가 동료로부터 배울 수 있는 기회를 제공합니다.
 
@@ -29,6 +29,91 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
 </div>
 
 ## 년 이벤트
+
+### Experience Manager
+
+<!-- CARDS
+
+{cta  = Watch event}
+
+* aem/2025/aug/opening-keynote.md
+* aem/2025/aug/content-framework.md
+* aem/2025/aug/scalable-asset-management.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Experience Manager Opening Keynote">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="aem/2025/aug/opening-keynote.md" title="Adobe Experience Manager 오프닝 키노트" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1756943155218" alt="Adobe Experience Manager 오프닝 키노트"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="aem/2025/aug/opening-keynote.md" target="_blank" rel="referrer" title="Adobe Experience Manager 오프닝 키노트">Adobe Experience Manager Keynote 열기</a>
+                    </p>
+                    <p class="is-size-6">Adobe Experience Manager이 AI를 통해 어떻게 진화하고 있는지 알아보십시오. 아젠틱 워크플로우, AI 검색, 규모에 따른 개인화 및 더 스마트한 콘텐츠 최적화를 살펴보십시오.</p>
+                </div>
+                <a href="aem/2025/aug/opening-keynote.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="undefined">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="aem/2025/aug/content-framework.md" title="정의되지 않음" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/documentation.png" alt="정의되지 않음"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="aem/2025/aug/content-framework.md" target="_blank" rel="referrer" title="정의되지 않음">정의되지 않음</a>
+                    </p>
+                    <p class="is-size-6">정의되지 않음</p>
+                </div>
+                <a href="aem/2025/aug/content-framework.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="undefined">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="aem/2025/aug/scalable-asset-management.md" title="정의되지 않음" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/documentation.png" alt="정의되지 않음"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="aem/2025/aug/scalable-asset-management.md" target="_blank" rel="referrer" title="정의되지 않음">정의되지 않음</a>
+                    </p>
+                    <p class="is-size-6">정의되지 않음</p>
+                </div>
+                <a href="aem/2025/aug/scalable-asset-management.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ### Experience Platform
 
@@ -50,7 +135,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Skill Exchange Keynote - AI를 통한 경험 작성의 미래, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471362/?format=jpeg&nocache=1756848631023&captions=kor" alt="Skill Exchange Keynote - AI를 통한 경험 작성의 미래, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1756943156021" alt="Skill Exchange Keynote - AI를 통한 경험 작성의 미래, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -73,7 +158,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/personalization-privacy-data-security.md" title="새로운 기준 탐색 - Personalization, 개인 정보 보호 및 데이터 보안의 균형 잡기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471328/?format=jpeg&nocache=1756848631032" alt="새로운 기준 탐색 - Personalization, 개인 정보 보호 및 데이터 보안의 균형 잡기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471328/?format=jpeg&nocache=1756943155992" alt="새로운 기준 탐색 - Personalization, 개인 정보 보호 및 데이터 보안의 균형 잡기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -96,7 +181,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/real-time-cdp-collaboration.md" title="Adobe의 Real-Time CDP Collaboration을 통해 미디어 투자를 최대한 활용하십시오." target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471329/?format=jpeg&nocache=1756848630989" alt="Adobe의 Real-Time CDP Collaboration을 통해 미디어 투자를 최대한 활용하십시오."
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471329/?format=jpeg&nocache=1756943155977" alt="Adobe의 Real-Time CDP Collaboration을 통해 미디어 투자를 최대한 활용하십시오."
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -119,7 +204,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/tips-for-tackling-journeys.md" title="고객 혼란 진정 - Adobe Journey Optimizer에서 복잡한 여정을 해결하기 위한 팁" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471330/?format=jpeg&nocache=1756848631003" alt="고객 혼란 진정 - Adobe Journey Optimizer에서 복잡한 여정을 해결하기 위한 팁"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471330/?format=jpeg&nocache=1756943156007" alt="고객 혼란 진정 - Adobe Journey Optimizer에서 복잡한 여정을 해결하기 위한 팁"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -142,7 +227,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/journeys-beyond-email.md" title="이메일을 넘어 Adobe 여정 해결" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471331/?format=jpeg&nocache=1756848631014" alt="이메일을 넘어 Adobe 여정 해결"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471331/?format=jpeg&nocache=1756943156035" alt="이메일을 넘어 Adobe 여정 해결"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -183,7 +268,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/opening-keynote.md" title="Keynote 열기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471482/?format=jpeg&nocache=1756848632015&captions=kor" alt="Keynote 열기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1756943156421" alt="Keynote 열기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -206,7 +291,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/ai-lifecycle-engine.md" title="MQL에서 AIQL로 - Marketo Engage에서 AI 기반 라이프사이클 엔진 구축" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471387/?format=jpeg&nocache=1756848631969" alt="MQL에서 AIQL로 - Marketo Engage에서 AI 기반 라이프사이클 엔진 구축"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471387/?format=jpeg&nocache=1756943156412" alt="MQL에서 AIQL로 - Marketo Engage에서 AI 기반 라이프사이클 엔진 구축"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -229,7 +314,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/design-studio.md" title="글로벌 마케팅 운영을 위한 Design Studio의 모든 기능 사용" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471437/?format=jpeg&nocache=1756848632006&captions=kor" alt="글로벌 마케팅 운영을 위한 Design Studio의 모든 기능 사용"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471389/?format=jpeg&nocache=1756943156442" alt="글로벌 마케팅 운영을 위한 Design Studio의 모든 기능 사용"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -252,7 +337,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/data-categorization-with-ai.md" title="미세 조정된 AI 모델을 사용하여 Marketo Engage의 데이터 분류 개선" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471388/?format=jpeg&nocache=1756848631996" alt="미세 조정된 AI 모델을 사용하여 Marketo Engage의 데이터 분류 개선"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471388/?format=jpeg&nocache=1756943156451" alt="미세 조정된 AI 모델을 사용하여 Marketo Engage의 데이터 분류 개선"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -275,7 +360,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/follow-ups-customer-lifecycle.md" title="Experience Makers Spotlight - 고객 라이프사이클에서의 후속 조치 간소화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471390/?format=jpeg&nocache=1756848631984" alt="Experience Makers Spotlight - 고객 라이프사이클에서의 후속 조치 간소화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471390/?format=jpeg&nocache=1756943156433" alt="Experience Makers Spotlight - 고객 라이프사이클에서의 후속 조치 간소화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -319,7 +404,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/keynote.md" title="Keynote 열기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471499/?format=jpeg&nocache=1756848632532" alt="Keynote 열기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471499/?format=jpeg&nocache=1756943157000" alt="Keynote 열기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -342,7 +427,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/advanced-text-mode.md" title="고급 텍스트 모드로 Workfront 보고 기능 향상" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471498/?format=jpeg&nocache=1756848632492" alt="고급 텍스트 모드로 Workfront 보고 기능 향상"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471498/?format=jpeg&nocache=1756943157019" alt="고급 텍스트 모드로 Workfront 보고 기능 향상"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -365,7 +450,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/center-of-excellence.md" title="Workfront 조직의 우수성을 위한 준비" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471591/?format=jpeg&nocache=1756848632522&captions=kor" alt="Workfront 조직의 우수성을 위한 준비"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1756943157009" alt="Workfront 조직의 우수성을 위한 준비"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -388,7 +473,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/enable-users-new-features.md" title="새로운 기능에 대한 사용자 활성화 - 동요는 생명입니다." target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471494/?format=jpeg&nocache=1756848632567" alt="새로운 기능에 대한 사용자 활성화 - 동요는 생명입니다."
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471494/?format=jpeg&nocache=1756943157057" alt="새로운 기능에 대한 사용자 활성화 - 동요는 생명입니다."
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -411,7 +496,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/fusion-user-account-creation.md" title="Fusion을 사용하여 Workfront 사용자 계정 생성 자동화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471578/?format=jpeg&nocache=1756848632510&captions=kor" alt="Fusion을 사용하여 Workfront 사용자 계정 생성 자동화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1756943157030" alt="Fusion을 사용하여 Workfront 사용자 계정 생성 자동화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -434,7 +519,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/review-approval.md" title="검토 및 승인 시작하기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471567/?format=jpeg&nocache=1756848632551&captions=kor" alt="검토 및 승인 시작하기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471493/?format=jpeg&nocache=1756943157047" alt="검토 및 승인 시작하기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -457,7 +542,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/workfront-ai-tools.md" title="AI로 효율성 극대화 - Workfront의 AI 도구 마스터하기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471393/?format=jpeg&nocache=1756848632541" alt="AI로 효율성 극대화 - Workfront의 AI 도구 마스터하기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471393/?format=jpeg&nocache=1756943157038" alt="AI로 효율성 극대화 - Workfront의 AI 도구 마스터하기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -480,7 +565,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/workflows-workfront-aem.md" title="Workfront + Adobe Experience Manager을 통해 Creative 워크플로 스트리밍" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471497/?format=jpeg&nocache=1756848632559" alt="Workfront + Adobe Experience Manager을 통해 Creative 워크플로 스트리밍"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471497/?format=jpeg&nocache=1756943157065" alt="Workfront + Adobe Experience Manager을 통해 Creative 워크플로 스트리밍"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

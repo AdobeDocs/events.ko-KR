@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange의 녹화본 컬렉션
 event-series: The Skill Exchange
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 85cd991ce4cce6e25f31df39400b21702c2a43cf
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '760'
 ht-degree: 9%
 
 ---
@@ -94,6 +94,10 @@ ht-degree: 9%
       + [마케팅 채널, 책임 있게 사용하십시오.](analytics/jun2021/marketing-channels.md)
       + [모두 합치기](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
+   + 2025년 8월 {#aug2025}
+      + [Keynote 열기](aem/2025/aug/opening-keynote.md)
+      + [미래 지향적인 컨텐츠 프레임워크](aem/2025/aug/content-framework.md)
+      + [확장 가능한 자산 관리](aem/2025/aug/scalable-asset-management.md)
    + 2024년 8월 {#aug2024}
       + [Keynote 열기](aem/aug2024/keynote.md)
       + [범용 편집기가 있는 AEM Sites](aem/aug2024/universal-editor.md)
