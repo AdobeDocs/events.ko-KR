@@ -3,9 +3,9 @@ title: Experience Cloud 기술 세션
 description: Adobe 전문가가 진행하는 라이브 및 온디맨드 기술 세션으로 Adobe Experience Cloud 기술을 향상시킵니다. 원활한 학습 경험을 위해 언제든지 실행 가능한 팁과 전략을 얻을 수 있습니다.
 exl-id: e368f1f8-5c3f-45a4-a9d5-2ed39b1c78ad
 duration: 53
-source-git-commit: 7db60ca1557fb99ae5fb8bd7181317710ed5f90f
+source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
 workflow-type: tm+mt
-source-wordcount: '1557'
+source-wordcount: '1630'
 ht-degree: 2%
 
 ---
@@ -23,6 +23,7 @@ ht-degree: 2%
 {cta = Watch}
 
 * 2025/acc-delivery-performance.md
+* 2025/subdomain-ssl-management.md
 * 2025/dispatcher-configurations.md
 * 2025/fastly-and-adobe-commerce.md
 * 2025/getting-most-marketo-measure.md
@@ -38,7 +39,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/acc-delivery-performance.md" title="Adobe Campaign Classic 전달 성능 - 문제 해결" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457826/?format=jpeg&nocache=1753462498997" alt="Adobe Campaign Classic 전달 성능 - 문제 해결"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457826/?format=jpeg&nocache=1757083672149" alt="Adobe Campaign Classic 전달 성능 - 문제 해결"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -56,12 +57,35 @@ ht-degree: 2%
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Tech Sessions - Adobe Campaign Subdomain and SSL management in the Control Panel">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/subdomain-ssl-management.md" title="기술 세션 - Adobe Campaign 하위 도메인 및 Campaign 컨트롤 패널의 SSL 관리" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471391/?format=jpeg&nocache=1757083672177" alt="기술 세션 - Adobe Campaign 하위 도메인 및 Campaign 컨트롤 패널의 SSL 관리"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/subdomain-ssl-management.md" target="_blank" rel="referrer" title="기술 세션 - Adobe Campaign 하위 도메인 및 Campaign 컨트롤 패널의 SSL 관리">기술 세션 - Campaign 컨트롤 패널의 Adobe Campaign 하위 도메인 및 SSL 관리</a>
+                    </p>
+                    <p class="is-size-6">Adobe Campaign의 Campaign 컨트롤 패널 내에서 하위 도메인을 위임 및 구성하고, SSL 인증서를 설정하고, 구성을 모니터링하여 안전한 이메일 전달성을 보장하는 방법을 알아봅니다.</p>
+                </div>
+                <a href="2025/subdomain-ssl-management.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Dispatcher Configurations in Adobe Experience Manager as a Cloud Service">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/dispatcher-configurations.md" title="Adobe Experience Manager as a Cloud Service의 Dispatcher 구성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457891/?format=jpeg&nocache=1753462499006" alt="Adobe Experience Manager as a Cloud Service의 Dispatcher 구성"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457891/?format=jpeg&nocache=1757083672200" alt="Adobe Experience Manager as a Cloud Service의 Dispatcher 구성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -84,7 +108,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/fastly-and-adobe-commerce.md" title="Fastly 및 Adobe Commerce" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469841/?format=jpeg&nocache=1753462498975" alt="Fastly 및 Adobe Commerce"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469841/?format=jpeg&nocache=1757083672209" alt="Fastly 및 Adobe Commerce"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -107,7 +131,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/getting-most-marketo-measure.md" title="Marketo Measure 활용" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451661/?format=jpeg&nocache=1753462499014" alt="Marketo Measure 활용"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451661/?format=jpeg&nocache=1757083672164" alt="Marketo Measure 활용"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -130,7 +154,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/marketo-post-migration.md" title="Adobe Admin Console으로 Marketo 마이그레이션 - (마이그레이션 후)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451635/?format=jpeg&nocache=1753462498961" alt="Adobe Admin Console으로 Marketo 마이그레이션 - (마이그레이션 후)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451635/?format=jpeg&nocache=1757083672189" alt="Adobe Admin Console으로 Marketo 마이그레이션 - (마이그레이션 후)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -153,7 +177,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/marketo-pre-migration.md" title="Adobe Admin Console으로 Marketo 마이그레이션 - (마이그레이션 전)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449712/?format=jpeg&nocache=1753462498987" alt="Adobe Admin Console으로 Marketo 마이그레이션 - (마이그레이션 전)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449712/?format=jpeg&nocache=1757083672218" alt="Adobe Admin Console으로 Marketo 마이그레이션 - (마이그레이션 전)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -176,7 +200,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/migrate-analytics-to-aep-web-sdk.md" title="Adobe Analytics을 AEP Web SDK으로 마이그레이션" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464032/?format=jpeg&nocache=1753462499022" alt="Adobe Analytics을 AEP Web SDK으로 마이그레이션"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464032/?format=jpeg&nocache=1757083672226" alt="Adobe Analytics을 AEP Web SDK으로 마이그레이션"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -216,7 +240,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-web-sdk-troubleshooting.md" title="AEP Web SDK 문제 해결, Assurance 및 팁과 요령" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3441092/?format=jpeg&nocache=1753462499702" alt="AEP Web SDK 문제 해결, Assurance 및 팁과 요령"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3441092/?format=jpeg&nocache=1757083672787" alt="AEP Web SDK 문제 해결, Assurance 및 팁과 요령"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -239,7 +263,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ai-assistant.md" title="Adobe Experience Platform의 AI Assistant를 사용하여 생산성 향상" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435344/?format=jpeg&nocache=1753462499678" alt="Adobe Experience Platform의 AI Assistant를 사용하여 생산성 향상"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435344/?format=jpeg&nocache=1757083672798" alt="Adobe Experience Platform의 AI Assistant를 사용하여 생산성 향상"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -262,7 +286,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/champion-office-hours.md" title="Marketo Engage 챔피언 기술 세션 - 2024년 5월" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429357/?format=jpeg&nocache=1753462499694" alt="Marketo Engage 챔피언 기술 세션 - 2024년 5월"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429357/?format=jpeg&nocache=1757083672760" alt="Marketo Engage 챔피언 기술 세션 - 2024년 5월"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -285,7 +309,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/rtcdp-timings.md" title="실시간 컨텐츠 데이터 플랫폼 시간 및 예상 내용" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432992/?format=jpeg&nocache=1753462499686" alt="실시간 컨텐츠 데이터 플랫폼 시간 및 예상 내용"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432992/?format=jpeg&nocache=1757083672807" alt="실시간 컨텐츠 데이터 플랫폼 시간 및 예상 내용"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -308,7 +332,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/tracking-visitors.md" title="쿠키, 브라우저 및 라이브러리의 변화무쌍한 환경에서 방문자 추적" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434925/?format=jpeg&nocache=1753462499712" alt="쿠키, 브라우저 및 라이브러리의 변화무쌍한 환경에서 방문자 추적"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434925/?format=jpeg&nocache=1757083672775" alt="쿠키, 브라우저 및 라이브러리의 변화무쌍한 환경에서 방문자 추적"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -357,7 +381,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/ac-sms-channel-overview.md" title="SMS 채널 개요 및 문제 해결 팁" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422741/?format=jpeg&nocache=1753462501901" alt="SMS 채널 개요 및 문제 해결 팁"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422741/?format=jpeg&nocache=1757083673404" alt="SMS 채널 개요 및 문제 해결 팁"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -380,7 +404,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/aem-deployment-failures-analysis.md" title="AEM as a Cloud Service 배포 실패 분석" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422532/?format=jpeg&nocache=1753462501892" alt="AEM as a Cloud Service 배포 실패 분석"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422532/?format=jpeg&nocache=1757083673377" alt="AEM as a Cloud Service 배포 실패 분석"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -403,7 +427,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/aem-forms-headless-architecture.md" title="AEM Forms 헤드리스 아키텍처" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422750/?format=jpeg&nocache=1753462501880" alt="AEM Forms 헤드리스 아키텍처"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422750/?format=jpeg&nocache=1757083673414" alt="AEM Forms 헤드리스 아키텍처"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -426,7 +450,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/aep-admin-console-permissions.md" title="Adobe Experience Platform - Admin Console 권한" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422626/?format=jpeg&nocache=1753462501866" alt="Adobe Experience Platform - Admin Console 권한"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422626/?format=jpeg&nocache=1757083673393" alt="Adobe Experience Platform - Admin Console 권한"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -449,7 +473,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/launch-best-practices.md" title="Launch 우수 사례" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422528/?format=jpeg&nocache=1753462501910" alt="Launch 우수 사례"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422528/?format=jpeg&nocache=1757083673423" alt="Launch 우수 사례"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -472,7 +496,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/marketo-common-pitfalls.md" title="고급 스마트 목록 논리 및 일반적인 위험" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422531/?format=jpeg&nocache=1753462501919" alt="고급 스마트 목록 논리 및 일반적인 위험"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422531/?format=jpeg&nocache=1757083673447" alt="고급 스마트 목록 논리 및 일반적인 위험"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -495,7 +519,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/migration-aemcs.md" title="AEM Cloud Service로 마이그레이션" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422533/?format=jpeg&nocache=1753462501935" alt="AEM Cloud Service로 마이그레이션"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422533/?format=jpeg&nocache=1757083673481" alt="AEM Cloud Service로 마이그레이션"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -518,7 +542,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/optimize-indexes-aemcs.md" title="AEM Cloud Service를 통한 인덱스 최적화 기반" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422534/?format=jpeg&nocache=1753462501927" alt="AEM Cloud Service를 통한 인덱스 최적화 기반"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422534/?format=jpeg&nocache=1757083673439" alt="AEM Cloud Service를 통한 인덱스 최적화 기반"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -541,7 +565,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/site-wide-analysis-tool.md" title="사이트 전체 분석 도구" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422529/?format=jpeg&nocache=1753462501945" alt="사이트 전체 분석 도구"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422529/?format=jpeg&nocache=1757083673431" alt="사이트 전체 분석 도구"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -564,7 +588,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/target-debugging-tips-and-tricks.md" title="JavaScript 라이브러리 개요, 디버깅 팁 및 요령" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422535/?format=jpeg&nocache=1753462501953" alt="JavaScript 라이브러리 개요, 디버깅 팁 및 요령"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422535/?format=jpeg&nocache=1757083673462" alt="JavaScript 라이브러리 개요, 디버깅 팁 및 요령"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -587,7 +611,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/workfront-fix-duplicate-contacts.md" title="중복 연락처 수정" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422751/?format=jpeg&nocache=1753462501961" alt="중복 연락처 수정"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422751/?format=jpeg&nocache=1757083673473" alt="중복 연락처 수정"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -610,7 +634,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/workfront-proof-approval-reports.md" title="증명 승인 보고서" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430509/?format=jpeg&nocache=1753462501968" alt="증명 승인 보고서"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430509/?format=jpeg&nocache=1757083673455" alt="증명 승인 보고서"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

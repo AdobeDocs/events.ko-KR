@@ -2,9 +2,9 @@
 user-guide-title: Experience Cloud 기술 세션
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloud 기술 세션은 솔루션별 웨비나를 제공하여 사례 변경에 대한 사전 예방적 접근 방식입니다.
-source-git-commit: 7db60ca1557fb99ae5fb8bd7181317710ed5f90f
+source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '171'
 ht-degree: 13%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 13%
 + [Experience Cloud 기술 세션](overview.md)
 + 2025 {#2025}
    + [Adobe Campaign Classic 게재 성능 문제 해결](2025/acc-delivery-performance.md)
+   + [Adobe Campaign 하위 도메인 및 SSL 관리](2025/subdomain-ssl-management.md)
    + [AEM as a Cloud Service의 Dispatcher 구성](2025/dispatcher-configurations.md)
    + [Marketo Measure 활용](2025/getting-most-marketo-measure.md)
    + [Fastly 및 Adobe Commerce](2025/fastly-and-adobe-commerce.md)
