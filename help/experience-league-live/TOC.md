@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 65bbb2d2658a343005abfc597bf13aa814b8cc82
+source-git-commit: 685c6dde3c7c79dd852742720a258fbae903ccc7
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '565'
 ht-degree: 3%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 3%
 
 + [개요](overview.md)
 + 에피소드 {#episodes}
+   + [EP.50: Journey Optimizer의 RCS 및 WhatsApp으로 모바일 범위 확장](/help/experience-league-live/episodes/exl-live-episode-09-30-25.md)
    + [EP.49: AEM 컨텐츠 조각 및 Dynamic Media를 사용하여 Journey Optimizer에서 개인화된 컨텐츠 제공](episodes/exl-live-episode-07-31-25.md)
    + [Ep. 48: 기본 빈도 제한 및 충돌 우선 순위 지정](episodes/exl-live-episode-06-18-25.md)
    + [Ep. 47: 규모에 맞게 개인화된 콘텐츠를 위한 애자일 워크플로](episodes/exl-live-episode-47-2025-06-05.md)
