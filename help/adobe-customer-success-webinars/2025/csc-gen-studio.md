@@ -23,7 +23,7 @@ ht-degree: 0%
 
 이 웨비나에서는 조직이 모든 채널 및 대상 전반에서 컨텐츠 생성 및 전달을 가속화하고, 단순화하고, 제어하는 방법을 보여 주는 최신 컨텐츠 공급망에 대한 높은 수준의 개요를 제공합니다. 시청자는 AEM Sites, AEM Assets, Workfront 및 Creative Cloud을 제공하는 Adobe GenStudio as a 제품 제품군의 통합 기능을 통해 실시간 공동 작업을 잠금 해제하고, 워크플로우를 자동화하고, 확장 가능한 온-브랜드 크리에이티브 실행을 가능하게 하는 방법에 대해 알아봅니다. 이 세션은 통합 콘텐츠 공급망 플랫폼이 마케팅 민첩성, 창의적 영향 및 측정 가능한 비즈니스 성장을 어떻게 추진할 수 있는지 비즈니스 및 IT 리더를 교육하기 위해 설계되었습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3472978/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3472986/?learn=on&enablevpops&captions=kor)
 
 ## Adobe을 통한 원활한 컨텐츠 생성
 
