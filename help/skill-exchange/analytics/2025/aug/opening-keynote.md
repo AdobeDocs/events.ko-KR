@@ -23,7 +23,7 @@ ht-degree: 0%
 연구 방법론 및 스토리텔링 공예: 데이터 결과를 이해 당사자를 위한 매력적인 이야기로 변환합니다.
 기술 역량 및 감성 인텔리전스: 기술 기술뿐만 아니라 공감으로 지원 및 솔루션을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471124/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471199/?learn=on&enablevpops&captions=kor)
 
 ## Analytics for Human Impact 잠금 해제
 

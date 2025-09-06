@@ -21,7 +21,7 @@ ht-degree: 0%
 
 IBM의 수석 분석 관리자인 Adobe 챔피언 Ioana Maftei가 콘텐츠 공급망을 측정 가능하게 하는 확장 가능하고 관리되는 분석 워크플로를 구축하는 방법을 공유합니다. 적절한 시간에 적절한 사람에게 적절한 통찰력을 전달하고, 팀 간 공동 작업을 활성화하고, 다양한 역할과 요구에 맞게 Analysis Workspace 프로젝트를 맞춤화하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471118/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471236/?learn=on&enablevpops&captions=kor)
 
 ## Analytics 단계에 역할 매핑
 

@@ -26,7 +26,7 @@ ht-degree: 0%
 * DAM 내의 권한 및 액세스 제어 이해 및 적용
 * DAM의 기능, 모범 사례 및 DAM과의 통합 전략
 
->[!VIDEO](https://video.tv.adobe.com/v/3471383/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471459/?learn=on&enablevpops&captions=kor)
 
 ## 효율적인 디지털 에셋 관리 잠금 해제
 

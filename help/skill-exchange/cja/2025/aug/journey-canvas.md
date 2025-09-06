@@ -24,7 +24,7 @@ ht-degree: 0%
 
 마지막으로, 여정 캔버스 검색 결과를 세분화된 대시보드에 연결하여 모든 접점에서 지속적인 최적화를 활성화함으로써 조직 전반에서 이러한 통찰력을 확장하기 위한 전략에 대해 살펴봅니다. CJA을 처음 사용하는 사용자와 숙련된 사용자 간에 이 세션에서는 여정 캔버스를 사용하여 CX 프로그램을 향상시키고 가시적인 결과를 얻을 수 있는 명확한 방법론을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471112/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471221/?learn=on&enablevpops&captions=kor)
 
 ## 여정 캔버스: 분석에서 활성화까지
 

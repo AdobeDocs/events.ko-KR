@@ -74,7 +74,7 @@ Adobe Workfront 게임의 수준을 높이기 위해 빠르고 실행 가능한 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/blueprints.md" title="상위 3 - Creative의 블루프린트 접근 방식" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1756499239717" alt="상위 3 - Creative의 블루프린트 접근 방식"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465318/?format=jpeg&nocache=1756499239717&captions=kor" alt="상위 3 - Creative의 블루프린트 접근 방식"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,7 +97,7 @@ Adobe Workfront 게임의 수준을 높이기 위해 빠르고 실행 가능한 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/office-hours.md" title="오피스 아워(Office Hours)에 대한 상위 3가지 접근 방식" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1756499239703" alt="오피스 아워(Office Hours)에 대한 상위 3가지 접근 방식"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470149/?format=jpeg&nocache=1756499239703&captions=kor" alt="오피스 아워(Office Hours)에 대한 상위 3가지 접근 방식"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -137,7 +137,7 @@ Workfront 관리자, 프로젝트 관리자 또는 일반 사용자이든 이 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="Versus! - 그룹 대 팀" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1756499240185" alt="Versus! - 그룹 대 팀"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467360/?format=jpeg&nocache=1756499240185&captions=kor" alt="Versus! - 그룹 대 팀"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -263,7 +263,7 @@ Workfront Expert Insights 시리즈는 숙련된 Workfront 전문가의 실용�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption.md" title="전문가 통찰력 - Leslie Spier로 채택" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469893/?format=jpeg&nocache=1756499240950" alt="전문가 통찰력 - Leslie Spier로 채택"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469934/?format=jpeg&nocache=1756499240950&captions=kor" alt="전문가 통찰력 - Leslie Spier로 채택"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -286,7 +286,7 @@ Workfront Expert Insights 시리즈는 숙련된 Workfront 전문가의 실용�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption-surveys.md" title="전문가 인사이트 - Jaime Davidson의 입양 조사" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469895/?format=jpeg&nocache=1756499240919" alt="전문가 인사이트 - Jaime Davidson의 입양 조사"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469957/?format=jpeg&nocache=1756499240919&captions=kor" alt="전문가 인사이트 - Jaime Davidson의 입양 조사"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -309,7 +309,7 @@ Workfront Expert Insights 시리즈는 숙련된 Workfront 전문가의 실용�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/agile.md" title="전문가 인사이트 - Natalie Mitchell과 애자일" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469891/?format=jpeg&nocache=1756499240935" alt="전문가 인사이트 - Natalie Mitchell과 애자일"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469923/?format=jpeg&nocache=1756499240935&captions=kor" alt="전문가 인사이트 - Natalie Mitchell과 애자일"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

@@ -25,7 +25,7 @@ ht-degree: 0%
 처리 규칙을 누락했거나 다음 분석을 위해 완벽한 팬(데이터 보기)을 찾으려고 하는 경우, 이 세션은 최신 분석의 주방을 단계별로 안내합니다.
 통찰력을 얻고 CJA에서 사용할 수 있는 기술의 전체 메뉴로 떠나보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471110/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471247/?learn=on&enablevpops&captions=kor)
 
 ## CJA을 통한 Analytics 혁신: 주요 방법
 
