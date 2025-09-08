@@ -3,7 +3,7 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange의 녹화본 컬렉션
 event-series: The Skill Exchange
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+source-git-commit: b28e983603f63980fa53b9311d54244c0ee5228a
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 9%
@@ -25,7 +25,6 @@ ht-degree: 9%
    + 2025년 8월 {#aug2025}
       + [Keynote 열기](aep-apps/2025/aug/opening-keynote.md)
       + [Personalization, 개인 정보 보호 및 데이터 보안의 균형 유지](aep-apps/2025/aug/personalization-privacy-data-security.md)
-      + [일반 지표 파악](analytics/2025/aug/demystifying-common-metrics.md)
       + [미디어 투자 및 Adobe의 Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
       + [Adobe Journey Optimizer에서 복잡한 여정을 해결하기 위한 팁](aep-apps/2025/aug/tips-for-tackling-journeys.md)
       + [이메일 이외의 여정](aep-apps/2025/aug/journeys-beyond-email.md)
@@ -36,6 +35,7 @@ ht-degree: 9%
       + [대시보드에서 통찰력을 제공하지 않음](analytics/2025/aug/dashboards-insights.md)
       + [Analysis Workspace을 통한 데이터 스토리텔링](analytics/2025/aug/data-storytelling.md)
       + [PowerPoint에 데이터 보내기](analytics/2025/aug/data-to-powerpoint.md)
+      + [일반 지표 파악](analytics/2025/aug/demystifying-common-metrics.md)
       + [확장 가능한 Analytics 워크플로](analytics/2025/aug/scalable-workflows.md)
       + [세그먼테이션 및 개인화](analytics/2025/aug/segmentation-personalization.md)
       + [사용해야 하는 Workspace 기능](analytics/2025/aug/workspace-features.md)
