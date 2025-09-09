@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Adobe Experience Makers: The Skill Exchange(Marketo Engage 트랙) 이벤트에서는 Adobe 수석 그룹 제품 관리자인 Badsah Mukherji가 B2B 마케팅을 &quot;B2B 3.0&quot;으로 진화하는 방법에 대해 논의했습니다. 이 새로운 단계는 AI 기반 고객 경험에 중점을 두며, 개인화된 참여와 계정 내 구매 그룹을 강조합니다. 무커지는 업무 자동화, 효율성 제고, 마케터가 전략적 역할에 집중할 수 있도록 하는 AI 에이전트의 변혁적 역할을 강조했다. AI가 이를 대체하기보다는 창의성을 증폭시키는 인간-AI 협업의 중요성을 강조하였다. 이 환경에서 성공하기 위한 주요 기술에는 신속한 엔지니어링, 데이터 유창성 및 에이전트 구성이 포함됩니다. Adobe은 고객 라이프사이클 오케스트레이션을 자동화하기 위해 AI 에이전트를 Marketo Engage과 같은 도구에 통합하여 향후 B2B 마케팅에서 AI를 수용하는 마케터가 성공할 수 있도록 하고 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471392/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471482/?learn=on&enablevpops&captions=kor)
 
 ## B2B 마케팅의 미래 탐색
 

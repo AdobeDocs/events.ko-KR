@@ -54,7 +54,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/opening-keynote.md" title="Adobe Analytics 오프닝 키노트" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471124/?format=jpeg&nocache=1757376259615" alt="Adobe Analytics 오프닝 키노트"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471199/?format=jpeg&nocache=1757376259615&captions=kor" alt="Adobe Analytics 오프닝 키노트"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -192,7 +192,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/scalable-workflows.md" title="동작 중인 데이터 - Insight 기반 팀을 위한 확장 가능한 Analytics 워크플로" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471118/?format=jpeg&nocache=1757376259597" alt="동작 중인 데이터 - Insight 기반 팀을 위한 확장 가능한 Analytics 워크플로"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471236/?format=jpeg&nocache=1757376259597&captions=kor" alt="동작 중인 데이터 - Insight 기반 팀을 위한 확장 가능한 Analytics 워크플로"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -238,7 +238,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/workspace-features.md" title="사용해야 하는 Workspace 기능" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471117/?format=jpeg&nocache=1757376259600" alt="사용해야 하는 Workspace 기능"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471258/?format=jpeg&nocache=1757376259600&captions=kor" alt="사용해야 하는 Workspace 기능"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -279,7 +279,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/opening-keynote.md" title="Customer Journey Analytics 오프닝 키노트" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471108/?format=jpeg&nocache=1757376260757" alt="Customer Journey Analytics 오프닝 키노트"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471131/?format=jpeg&nocache=1757376260757&captions=kor" alt="Customer Journey Analytics 오프닝 키노트"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -302,7 +302,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/modern-takes-classic-aa.md" title="CJA으로 요리 - 고전적인 AA 조리법을 현대" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471110/?format=jpeg&nocache=1757376260769" alt="CJA으로 요리 - 고전적인 AA 조리법을 현대"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471247/?format=jpeg&nocache=1757376260769&captions=kor" alt="CJA으로 요리 - 고전적인 AA 조리법을 현대"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -348,7 +348,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/journey-canvas.md" title="Adobe Customer Journey Analytics 여정 캔버스로 CX 성공 몰기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471112/?format=jpeg&nocache=1757376260808" alt="Adobe Customer Journey Analytics 여정 캔버스로 CX 성공 몰기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471221/?format=jpeg&nocache=1757376260808&captions=kor" alt="Adobe Customer Journey Analytics 여정 캔버스로 CX 성공 몰기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -435,7 +435,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/asset-workflows-permissions-integration.md" title="AEM Masterclass - 에셋 워크플로, 권한 및 통합" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471383/?format=jpeg&nocache=1757376261511" alt="AEM Masterclass - 에셋 워크플로, 권한 및 통합"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471459/?format=jpeg&nocache=1757376261511&captions=kor" alt="AEM Masterclass - 에셋 워크플로, 권한 및 통합"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -545,7 +545,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Skill Exchange Keynote - AI를 통한 경험 작성의 미래, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1757376262594" alt="Skill Exchange Keynote - AI를 통한 경험 작성의 미래, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471362/?format=jpeg&nocache=1757376262594&captions=kor" alt="Skill Exchange Keynote - AI를 통한 경험 작성의 미래, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -678,7 +678,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/opening-keynote.md" title="Keynote 열기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1757376263166" alt="Keynote 열기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471482/?format=jpeg&nocache=1757376263166&captions=kor" alt="Keynote 열기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -724,7 +724,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/design-studio.md" title="글로벌 마케팅 운영을 위한 Design Studio의 모든 기능 사용" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471389/?format=jpeg&nocache=1757376263196" alt="글로벌 마케팅 운영을 위한 Design Studio의 모든 기능 사용"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471437/?format=jpeg&nocache=1757376263196&captions=kor" alt="글로벌 마케팅 운영을 위한 Design Studio의 모든 기능 사용"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -861,7 +861,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/center-of-excellence.md" title="Workfront 조직의 우수성을 위한 준비" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1757376263939" alt="Workfront 조직의 우수성을 위한 준비"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471591/?format=jpeg&nocache=1757376263939&captions=kor" alt="Workfront 조직의 우수성을 위한 준비"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -907,7 +907,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/fusion-user-account-creation.md" title="Fusion을 사용하여 Workfront 사용자 계정 생성 자동화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1757376263894" alt="Fusion을 사용하여 Workfront 사용자 계정 생성 자동화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471578/?format=jpeg&nocache=1757376263894&captions=kor" alt="Fusion을 사용하여 Workfront 사용자 계정 생성 자동화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -930,7 +930,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/review-approval.md" title="검토 및 승인 시작하기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471493/?format=jpeg&nocache=1757376263964" alt="검토 및 승인 시작하기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471567/?format=jpeg&nocache=1757376263964&captions=kor" alt="검토 및 승인 시작하기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
