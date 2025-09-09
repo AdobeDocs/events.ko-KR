@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange의 녹화본 컬렉션
 event-series: The Skill Exchange
-source-git-commit: b28e983603f63980fa53b9311d54244c0ee5228a
+source-git-commit: 6c9493a52200986d77efba0737b03d15db539845
 workflow-type: tm+mt
-source-wordcount: '837'
+source-wordcount: '843'
 ht-degree: 9%
 
 ---
@@ -203,6 +203,7 @@ ht-degree: 9%
       + [새 기능에 대한 사용자 활성화](workfront/2025/aug/enable-users-new-features.md)
       + [검토 및 승인 시작하기](workfront/2025/aug/review-approval.md)
       + [Workfront의 AI 도구 마스터](workfront/2025/aug/workfront-ai-tools.md)
+      + [사용자 관리 및 라이선싱에 대한 Pro 팁](workfront/2025/aug/user-management-licensing.md)
       + [Workfront + AEM을 통해 Creative 워크플로 스트리밍](workfront/2025/aug/workflows-workfront-aem.md)
    + 2024년 8월 {#aug2024}
       + [Keynote 열기](workfront/aug2024/keynote.md)
