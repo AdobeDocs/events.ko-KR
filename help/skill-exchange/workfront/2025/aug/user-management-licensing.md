@@ -22,4 +22,4 @@ Workfront 라이선스가 귀하처럼 작동하고 있습니까? Stanley Black 
 
 Monique에서 역할, 그룹, 팀 및 사용자 정의 양식을 사용하여 크기를 단순화하고 관리 오버헤드를 줄이는 등 적절한 사람이 올바른 액세스 권한을 갖도록 하는 방법에 대해 알아봅니다. 이 세션은 인스턴스를 정리하고, 거버넌스를 개선하고, Workfront 설정을 최적화할 수 있는 실용적인 방법을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473945/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3473965/?learn=on&enablevpops&captions=kor)

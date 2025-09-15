@@ -412,7 +412,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/opening-keynote.md" title="Adobe Experience Manager 오프닝 키노트" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1757465010566" alt="Adobe Experience Manager 오프닝 키노트"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471403/?format=jpeg&nocache=1757465010566&captions=kor" alt="Adobe Experience Manager 오프닝 키노트"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -976,7 +976,7 @@ Experience Makers The Skill Exchange는 글로벌 가상 고객 학습 이벤트
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/user-management-licensing.md" title="Workfront 라이선스 최대화 - 사용자 관리 및 라이선스에 대한 Pro 팁" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473945/?format=jpeg&nocache=1757465013296" alt="Workfront 라이선스 최대화 - 사용자 관리 및 라이선스에 대한 Pro 팁"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473965/?format=jpeg&nocache=1757465013296&captions=kor" alt="Workfront 라이선스 최대화 - 사용자 관리 및 라이선스에 대한 Pro 팁"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
