@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: aac0d6689d2911380fa548f5fe31a5665f120084
+source-git-commit: d8a0caa950896397a6f8f4bd572959e8fbc3e842
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 19%
+source-wordcount: '231'
+ht-degree: 13%
 
 ---
 
@@ -28,6 +28,34 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-30-25.md">
               <img alt="Experience League 라이브 2025년 9월 30일" src="../experience-league-live/assets/30Sept2025_WebBanner.png">
             </a>
+            <div>
+              <a href="episodes/exl-live-episode-09-30-25.md">
+                <strong>Journey Optimizer에서 RCS 및 WhatsApp으로 모바일 범위 확장</strong>
+              </a>
+              <br/><em>Sandra Hausmann, Travis Jordan 및 Nikhil Sharma와 함께</em>
+              <br/><em>2025년 9월 30일</em>
+            </div>
+        </td>
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-16-25.md">
+              <img alt="Experience League 라이브 2025년 10월 16일" src="assets/exl-live-episode-10-16-25-web-banner.png">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-10-16-25.md">
+                <strong>Customer Journey Analytics B2B edition의 강력한 기능 잠금 해제</strong>
+              </a>
+              <br/><em>Doug Moore, Kari Olson, Caitlin Baunach와 함께</em>
+              <br/><em>2025년 10월 16일</em>
+            </div>
+        </td>
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-22-25.md">
+              <img alt="Experience League 라이브 2025년 10월 22일" src="episodes/assets/WebBanner-Oct22-2025.jpg">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-10-22-25.md">
+                <strong>Adobe Experience Platform Agent Orchestrator을 통한 차세대 고객 경험 및 효율성</strong>
+              </a>
+              <br/><em>Daniel Wright, Namita Krishnan 및 Huong Vu와 함께</em>
+              <br/><em>2025년 10월 22일</em>
             </div>
         </td>
     </tr>
@@ -96,5 +124,5 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/ko#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
+>기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
 
