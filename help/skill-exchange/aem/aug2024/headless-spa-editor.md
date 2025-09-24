@@ -1,6 +1,6 @@
 ---
 title: AEM에서 최신 SPA의 강력한 기능 활용 - 기본 헤드리스 및 SPA 편집기 접근 방식
-description: 단일 페이지 애플리케이션의 기본 사항 이해 헤드리스 AEM 및 프론트엔드 프레임워크와의 통합 탐색 간소화된 개발 프로세스를 위해 AEM SPA 편집기 활용 AEMD에서 SPA를 구축, 배포 및 관리하기 위한 모범 사례 전문가로부터 통찰력을 얻고 AEM의 최신 SPA 기술을 통해 디지털 전략을 향상시킬 수 있는 기회를 놓치지 마십시오."
+description: 단일 페이지 애플리케이션의 기본 사항 이해 헤드리스 AEM 및 프론트엔드 프레임워크와의 통합 탐색 간소화된 개발 프로세스를 위해 AEM SPA 편집기 활용 AEMD에서 SPA를 구축, 배포 및 관리하기 위한 모범 사례 전문가로부터 통찰력을 얻고 AEM의 최신 SPA 기술을 통해 디지털 전략을 향상시킬 수 있는 이 기회를 놓치지 마십시오.
 solution: Experience Manager
 role: Developer, User
 level: Intermediate, Experienced
@@ -10,7 +10,7 @@ last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16095
 exl-id: 7c9fbc23-b458-4d9c-ab38-0c9b032eb704
 hidefromtoc: true
-source-git-commit: b846c1d38ce66dd6d4223d44964eebf1ccc7144c
+source-git-commit: 0c85d049a1d9771dc6d69ee6682c628e8dec12cf
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
