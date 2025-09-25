@@ -3,7 +3,7 @@ user-guide-title: Workfront 이벤트
 breadcrumb-title: Workfront 이벤트
 user-guide-description: Workfront 이벤트
 solution: Workfront
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+source-git-commit: 7d95beac5ae2af5f520f7e3a47b16403c9374b5b
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 2%
@@ -52,10 +52,6 @@ ht-degree: 2%
       + [프로젝트 템플릿](workshop-rewind/workflow/project-templates.md)
       + [Workfront Data Connect의 강력한 기능](workshop-rewind/workflow/data-connect.md)
 
-<!--  + Planning {#planning}
-  + Integrations {#integrations}
--->
-
 + 고전 {#classics}
    + 관리 {#administration}
       + [감사 추적 및 규정 준수](user-groups/audit-trails-and-compliance.md)
@@ -92,3 +88,7 @@ ht-degree: 2%
 
 
 
+
+<!--  + Planning {#planning}
+  + Integrations {#integrations}
+-->
