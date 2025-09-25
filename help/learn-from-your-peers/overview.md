@@ -3,9 +3,9 @@ title: '[!DNL Experience Makers - Learn from your peers]'
 description: Adobe 솔루션을 최대한 활용하는 방법을 Adobe 전문가 및 동료로부터 알아보십시오. [!DNL Experience Makers - Learn from your peers] 은(는) 가상 고객 학습 이벤트의 글로벌 시리즈로,  [!DNL Adobe Experience Cloud] 솔루션에 대해 자세히 살펴보는 데 중점을 둡니다.
 exl-id: 006da2ec-77f0-43fb-a653-1b5f4942d692
 duration: 20
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+source-git-commit: 536ac9f64cea12c8f4b15c6e8d2f8a14fa11f022
 workflow-type: tm+mt
-source-wordcount: '1021'
+source-wordcount: '1073'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./adobe-user-groups.md" title="Experience Cloud에서 Adobe 사용자 그룹 탐색" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470396/?format=jpeg&nocache=1756413991529" alt="Experience Cloud에서 Adobe 사용자 그룹 탐색"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470396/?format=jpeg&nocache=1758827718241" alt="Experience Cloud에서 Adobe 사용자 그룹 탐색"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -53,7 +53,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./adobe-champion-application.md" title="챔피언으로 적용하고 돋보이는 방법 알아보기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458989/?format=jpeg&nocache=1756413991535" alt="챔피언으로 적용하고 돋보이는 방법 알아보기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458989/?format=jpeg&nocache=1758827718250" alt="챔피언으로 적용하고 돋보이는 방법 알아보기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -66,6 +66,41 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
                     <p class="is-size-6">Adobe의 채택 마케팅 팀 및 현재 Adobe Champions와 함께 독점 웨비나를 시청하시면 프로그램을 안내해 드리며, 우수 애플리케이션 제출에 대한 팁을 공유해 드립니다.</p>
                 </div>
                 <a href="./adobe-champion-application.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+## 젠아이
+
+<!-- CARDS
+{cta  = Watch event}
+
+* genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Scale AI Adoption - A Playbook for Approvals">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md" title="AI 채택 규모 조정 - 승인을 위한 플레이북" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475270/?format=jpeg&nocache=1758827718788" alt="AI 채택 규모 조정 - 승인을 위한 플레이북"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md" target="_blank" rel="referrer" title="AI 채택 규모 조정 - 승인을 위한 플레이북">AI 채택 규모 조정 - 승인을 위한 플레이북</a>
+                    </p>
+                    <p class="is-size-6">Adobe Experience Maker Award 수상자 Anish Raul의 검증된 전략을 통해 혁신을 늦추지 않고 규제 대상 기업에서 AI를 안전하게 채택할 수 있습니다.</p>
+                </div>
+                <a href="genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 보기</span>
                 </a>
             </div>
@@ -87,7 +122,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="commerce/2024/agile-sdlc.md" title="애자일 SDLC의 커뮤니케이션, 요구 사항 및 테스트에 대한 중점 접근 방식" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1756413991911" alt="애자일 SDLC의 커뮤니케이션, 요구 사항 및 테스트에 대한 중점 접근 방식"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1758827719151" alt="애자일 SDLC의 커뮤니케이션, 요구 사항 및 테스트에 대한 중점 접근 방식"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -125,7 +160,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="experience-manager/aug2025/smart-tags.md" title="AEM 스마트 태그 - 컨텐츠 간소화 및 검색 기능 향상" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471511/?format=jpeg&nocache=1756413992243" alt="AEM 스마트 태그 - 컨텐츠 간소화 및 검색 기능 향상"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471511/?format=jpeg&nocache=1758827719684" alt="AEM 스마트 태그 - 컨텐츠 간소화 및 검색 기능 향상"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -148,7 +183,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="experience-manager/july2024/global-digital-presence.md" title="글로벌 조합으로 규모에 맞게 성공 잠금" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457918/?format=jpeg&nocache=1756413992257" alt="글로벌 조합으로 규모에 맞게 성공 잠금"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457918/?format=jpeg&nocache=1758827719664" alt="글로벌 조합으로 규모에 맞게 성공 잠금"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -189,7 +224,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/may2025/interactive-webinars.md" title="웨비나 경험의 혁신 - 대화형 웨비나의 영향 알아보기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458099/?format=jpeg&nocache=1756413992825" alt="웨비나 경험의 혁신 - 대화형 웨비나의 영향 알아보기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458099/?format=jpeg&nocache=1758827720096" alt="웨비나 경험의 혁신 - 대화형 웨비나의 영향 알아보기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -212,7 +247,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/nov2024/advanced-segmentation.md" title="고급 세그멘테이션 감사 - Marketo Engage의 정밀도 및 성능 보장" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439383/?format=jpeg&nocache=1756413992857" alt="고급 세그멘테이션 감사 - Marketo Engage의 정밀도 및 성능 보장"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439383/?format=jpeg&nocache=1758827720125" alt="고급 세그멘테이션 감사 - Marketo Engage의 정밀도 및 성능 보장"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -235,7 +270,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/sept2024/multi-stream-engagement-programs.md" title="멀티 스트림 참여 프로그램을 통한 복잡한 고객 여정 기본" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1756413992847" alt="멀티 스트림 참여 프로그램을 통한 복잡한 고객 여정 기본"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1758827720110" alt="멀티 스트림 참여 프로그램을 통한 복잡한 고객 여정 기본"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -258,7 +293,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/july2024/marketers-map-marketo-campaigns.md" title="마케터 맵 - Marketo 캠페인 전략, 빌드 및 분석에 대한 포괄적인 안내서" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1756413992837" alt="마케터 맵 - Marketo 캠페인 전략, 빌드 및 분석에 대한 포괄적인 안내서"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1758827720035" alt="마케터 맵 - Marketo 캠페인 전략, 빌드 및 분석에 대한 포괄적인 안내서"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -281,7 +316,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/april2024/practical-applications-of-marketo-engage-rest-api.md" title="강력한 워크플로우 자동화 잠금 해제 - Marketo Engage REST API의 실용적인 애플리케이션" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1756413992867" alt="강력한 워크플로우 자동화 잠금 해제 - Marketo Engage REST API의 실용적인 애플리케이션"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1758827720077" alt="강력한 워크플로우 자동화 잠금 해제 - Marketo Engage REST API의 실용적인 애플리케이션"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -304,7 +339,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/jan2024/person-scoring-mastery.md" title="Marketo Engage으로 개인 점수 매김 - 글로벌 프레임워크의 현지화된 뉘앙스" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457446/?format=jpeg&nocache=1756413992875&captions=kor" alt="Marketo Engage으로 개인 점수 매김 - 글로벌 프레임워크의 현지화된 뉘앙스"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1758827720060" alt="Marketo Engage으로 개인 점수 매김 - 글로벌 프레임워크의 현지화된 뉘앙스"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -341,7 +376,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/how-to-measure-and-share-workfront-value.md" title="아티큘레이션 영향 - Workfront 가치 측정 및 공유 방법" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447501/?format=jpeg&nocache=1756413993215" alt="아티큘레이션 영향 - Workfront 가치 측정 및 공유 방법"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447501/?format=jpeg&nocache=1758827720810" alt="아티큘레이션 영향 - Workfront 가치 측정 및 공유 방법"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -364,7 +399,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2024/04/staffing-your-workfront-system-admin-practice.md" title="Workfront 시스템 관리 실무 웨비나 직원 채용" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1756413993200" alt="Workfront 시스템 관리 실무 웨비나 직원 채용"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1758827720798" alt="Workfront 시스템 관리 실무 웨비나 직원 채용"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

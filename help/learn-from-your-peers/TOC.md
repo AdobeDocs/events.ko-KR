@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: ' [!DNL Experience Makers Learn from your peers]의 녹음/녹화 컬렉션'
-source-git-commit: fd99debc943f21bd6454e8cce91b8cf3e0770738
+source-git-commit: 536ac9f64cea12c8f4b15c6e8d2f8a14fa11f022
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '348'
 ht-degree: 20%
 
 ---
@@ -48,6 +48,9 @@ ht-degree: 20%
       + [Cloud Service의 효과적인 보안 전략](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + 5월 {#may2023}
       + [컨텐츠 및 경험 조각 마스터](experience-manager/may2023/mastering-content-and-experience-fragments.md)
++ 젠아이 {#genai}
+   + 2025년 9월 {#sept2025}
+      + [AI 채택 규모 조정 - 승인을 위한 플레이북](genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md)
 + Marketo {#marketo}
    + 2025년 5월 {#may2025}
       + [대화형 웨비나의 영향 살펴보기](marketo/may2025/interactive-webinars.md)
