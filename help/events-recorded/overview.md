@@ -29,7 +29,7 @@ ht-degree: 5%
 * https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=ko
   {title = Acrobat Sign Webinars}
   {description = Learn from Adobe experts how to master new e-signature workflows in Acrobat Sign.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png?lang=ko}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html?lang=ko
   {title = Adobe Campaign Insider Series}
@@ -39,22 +39,22 @@ ht-degree: 5%
 * https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html?lang=ko
   {title = Adobe Content Management Forum}
   {description = Learn from Adobe experts as they discuss the current and future state of content management strategy, deliverables, challenges, and technical requirements.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-content-management-forum.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-content-management-forum.png?lang=ko}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html?lang=ko
   {title = Adobe Commerce Product Updates}
   {description = The latest product innovations in Adobe Commerce, presented by the Adobe Commerce product team.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png?lang=ko}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html?lang=ko
   {title = Adobe Developers Live}
   {description = Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose - to create incredible end-to-end experiences.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png?lang=ko}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html?lang=ko
   {title = AEM Champion Office Hours}
   {description = If you are interested in advancing your knowledge and use of Adobe Experience Manager, interacting with Experience Manager thought leaders, and earning exclusive swag - then join the AEM Champion Office Hours User Group today!}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png?lang=ko}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html?lang=ko
   {title = APAC Adobe Commerce Webinars}
@@ -69,22 +69,22 @@ ht-degree: 5%
 * https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html?lang=ko
   {title = Behind the Brew}
   {description = Behind the Brew, the companion series to Commerce & Coffee, is tailored for technically inclined customers seeking to master back-end best practices, integrations, and advanced functionalities to enhance their eCommerce experiences.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png?lang=ko}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html?lang=ko
   {title = Commerce and Coffee}
   {description = The Commerce & Coffee series is for existing Adobe Commerce customers of all skill levels and features Sr. Commerce Strategy Consultant, Corey Gelato. The series focuses on Commerce strategies and tactics, supported by statistics reflective of the event topic.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png?lang=ko}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=ko
   {title = Customer Data Management Voices}
   {description = Your destination as a customer data management technical and marketing practice leader and specialist. A one stop shop to hear from your peers, get inspired and learn about developments in martech.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png?lang=ko}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html?lang=ko
   {title = Data Drip}
   {description = Join Adobe experts in the Data Drip series to explore the latest features and best practices in Adobe Analytics & Target, with live demonstrations ensuring customers maximize product potential and stay competitive.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-data-drip.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-data-drip.png?lang=ko}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html?lang=ko 
   {title = Deep Dives}
@@ -94,7 +94,7 @@ ht-degree: 5%
 * https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html?lang=ko
   {title = Experience League LIVE}
   {description = Experience League LIVE is a live streaming show produced by the Experience League team. It's a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png?lang=ko}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=ko
   {title = Experience Manager GEMS}
@@ -104,17 +104,17 @@ ht-degree: 5%
 * https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=ko
   {title = Experience Manager Release Overview}
   {description = Get a quick overview of the latest features on Adobe Experience Manager as a Cloud Service. These are short, roughly 10 minutes videos delivered by the AEM product team that share highlights of the latest release.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png?lang=ko}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html?lang=ko
   {title = Learn from your Peers}  
   {description = Learn from Adobe experts and peers how to get the most from your Adobe solutions. With topics selected for practitioners, by practitioners, these interactive sessions share art of the possible use cases, best practices, and tips &amp; tricks.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png?lang=ko}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/ko/docs/events/genstudio-for-performance-marketing-events/overview
   {title = GenStudio for Performance Marketing Events}  
   {description = Discover upcoming and past webinars and events designed to help you master GenStudio for Performance Marketing.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-genstudio-for-performance-marketing-events.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-genstudio-for-performance-marketing-events.png?lang=ko}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html?lang=ko
   {title = Marketo and Mochas}  
@@ -188,7 +188,7 @@ ht-degree: 5%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=ko" title="Acrobat Sign 웨비나" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png" alt="Acrobat Sign 웨비나"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png?lang=ko" alt="Acrobat Sign 웨비나"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -234,7 +234,7 @@ ht-degree: 5%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html?lang=ko" title="Adobe 컨텐츠 관리 포럼" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-content-management-forum.png" alt="Adobe 컨텐츠 관리 포럼"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-content-management-forum.png?lang=ko" alt="Adobe 컨텐츠 관리 포럼"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -257,7 +257,7 @@ ht-degree: 5%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html?lang=ko" title="Adobe Commerce 제품 업데이트" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png" alt="Adobe Commerce 제품 업데이트"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png?lang=ko" alt="Adobe Commerce 제품 업데이트"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -280,7 +280,7 @@ ht-degree: 5%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html?lang=ko" title="Adobe Developers Live" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png" alt="Adobe Developers Live"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png?lang=ko" alt="Adobe Developers Live"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -303,7 +303,7 @@ ht-degree: 5%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html?lang=ko" title="AEM 챔피언 운영 시간" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png" alt="AEM 챔피언 운영 시간"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png?lang=ko" alt="AEM 챔피언 운영 시간"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -372,7 +372,7 @@ ht-degree: 5%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html?lang=ko" title="브루" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png" alt="브루"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png?lang=ko" alt="브루"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -395,7 +395,7 @@ ht-degree: 5%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html?lang=ko" title="Commerce 및 커피" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png" alt="Commerce 및 커피"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png?lang=ko" alt="Commerce 및 커피"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -418,7 +418,7 @@ ht-degree: 5%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=ko" title="고객 데이터 관리 음성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png" alt="고객 데이터 관리 음성"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png?lang=ko" alt="고객 데이터 관리 음성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -441,7 +441,7 @@ ht-degree: 5%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html?lang=ko" title="데이터 드립" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-data-drip.png" alt="데이터 드립"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-data-drip.png?lang=ko" alt="데이터 드립"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -487,7 +487,7 @@ ht-degree: 5%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html?lang=ko" title="Experience League LIVE" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png" alt="Experience League LIVE"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png?lang=ko" alt="Experience League LIVE"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -533,7 +533,7 @@ ht-degree: 5%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=ko" title="Experience Manager 릴리스 개요" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png" alt="Experience Manager 릴리스 개요"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png?lang=ko" alt="Experience Manager 릴리스 개요"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -556,7 +556,7 @@ ht-degree: 5%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html?lang=ko" title="동료로부터 학습" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png" alt="동료로부터 학습"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png?lang=ko" alt="동료로부터 학습"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -579,7 +579,7 @@ ht-degree: 5%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/genstudio-for-performance-marketing-events/overview" title="GenStudio for Performance Marketing 이벤트" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-genstudio-for-performance-marketing-events.png" alt="GenStudio for Performance Marketing 이벤트"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-genstudio-for-performance-marketing-events.png?lang=ko" alt="GenStudio for Performance Marketing 이벤트"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
