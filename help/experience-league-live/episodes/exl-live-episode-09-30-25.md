@@ -23,6 +23,6 @@ Travis Jordan과 Nikhil Sharma는 Adobe Journey Optimizer이 최근 WhatsApp, RC
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475370/?quality=12&learn=on)
 
-[Adobe Journey Optimizer 커뮤니티에 참여하세요. 무엇이든 물어보세요!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-october-15th-with-journey-optimizer-product/ec-p/778477) 오전 8시~오전 9시(PT)**Nikhil Sharma(@snikhil) - Sr. Engineering Manager, Travis Jordan(@Travis_Jordan) - Principal Product Manager 및 Sandra Hausmann(@SHausmann) - Sr. Technical Marketing Engineer와 같은 Adobe Journey Optimizer 전문가가 참석합니다.**
+[Adobe Journey Optimizer 커뮤니티에 참여하세요. 무엇이든 물어보세요!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-october-15th-with-journey-optimizer-product/ec-p/778477?profile.language=ko) 오전 8시~오전 9시(PT)**Nikhil Sharma(@snikhil) - Sr. Engineering Manager, Travis Jordan(@Travis_Jordan) - Principal Product Manager 및 Sandra Hausmann(@SHausmann) - Sr. Technical Marketing Engineer와 같은 Adobe Journey Optimizer 전문가가 참석합니다.**
 
 이 라이브 채팅 중에 질문에 답변해 드리겠습니다.
