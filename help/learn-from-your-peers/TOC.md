@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: ' [!DNL Experience Makers Learn from your peers]의 녹음/녹화 컬렉션'
-source-git-commit: 2e57d6ee984b1537172fe5c6652ff110d9e3416b
+source-git-commit: 513f1b0d3fee0d3db6db9104a5153a42d354b446
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '348'
 ht-degree: 20%
 
 ---
@@ -51,9 +51,6 @@ ht-degree: 20%
 + 젠아이 {#genai}
    + 2025년 9월 {#sept2025}
       + [AI 채택 규모 조정 - 승인을 위한 플레이북](genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md)
-+ Experience Platform {#experience-platform}
-   + 2025 {#2025}
-      + [AEP의 AI 에이전트](platform/ai-agents.md)
 + Marketo {#marketo}
    + 2025년 5월 {#may2025}
       + [대화형 웨비나의 영향 살펴보기](marketo/may2025/interactive-webinars.md)
@@ -74,9 +71,9 @@ ht-degree: 20%
    + 2023년 6월 {#june2023}
       + [마케팅 캠페인 추적, 분석 및 최적화](marketo/june2023/marketing-campaigns.md)
    + 2023년 5월 {#may2023}
-      + [&#x200B; [!DNL Marketo Engage]을(를) 사용하여 확장 코드에서 Personalization 크래킹](marketo/may2023/personalization-at-scale.md)
+      + [ [!DNL Marketo Engage]을(를) 사용하여 확장 코드에서 Personalization 크래킹](marketo/may2023/personalization-at-scale.md)
    + 2023년 3월 {#mar2023}
-      + [&#x200B; [!DNL Adobe Marketo Engage] 콘텐츠를 확장 가능하게 하는 방법](marketo/mar2023/templates-tokens-teamwork.md)
+      + [ [!DNL Adobe Marketo Engage] 콘텐츠를 확장 가능하게 하는 방법](marketo/mar2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
       + 2월 {#february2025}

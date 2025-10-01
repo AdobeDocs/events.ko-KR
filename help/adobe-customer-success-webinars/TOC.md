@@ -2,9 +2,9 @@
 user-guide-title: Adobe 고객 성공 웨비나
 breadcrumb-title: Adobe 고객 성공 웨비나
 user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
+source-git-commit: 513f1b0d3fee0d3db6db9104a5153a42d354b446
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '511'
 ht-degree: 3%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 3%
 + [Adobe 고객 성공 웨비나](overview.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
+      + [Adobe Experience Platform으로 Adobe Commerce 강화](2025/enriching-adobe-commerce.md)
       + [변환 B2B &amp; B2B2C Commerce](2025/transforming-b2b-commerce.md)
    + Customer Journey Analytics {#cja2025}
       + [경영진 후원 구축](2025/cja-success.md)
@@ -39,6 +40,7 @@ ht-degree: 3%
       + [디지털 커뮤니케이션 개인화](2025/personalize-digital-communications.md)
       + [유니버설 편집기 개요](2025/modern-aem-authoring.md)
    + Experience Platform {#aep2025}
+      + [AI 에이전트](2025/ai-agents.md)
       + [AI - 기본 사항 이상](2025/ai-beyond-basics.md)
       + [XDM 스키마 모델링에 대한 우수 사례 및 통찰력](2025/model-xdm-schemas.md)
       + [데이터 Distiller 101](2025/data-distiller-101.md)
