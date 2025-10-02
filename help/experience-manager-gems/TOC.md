@@ -3,9 +3,9 @@ user-guide-title: Adobe Experience Manager GEMS 이벤트
 user-guide-description: Adobe Experience Manager 전문가가 제공하는 일련의 기술적인 분석인 AEM Gems에 대해 알아봅니다.
 breadcrumb-title: AEM GEM 이벤트
 solution: Experience Manager
-source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
+source-git-commit: f0179cfd595c2d1ced94c230141428430ed9abfb
 workflow-type: tm+mt
-source-wordcount: '770'
+source-wordcount: '777'
 ht-degree: 1%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 1%
 
 + [개요](overview.md)
 + 2025 {#gems2025}
+   + [최적의 페이지 성능을 위한 캐시 효율성 마스터링](gems2025/mastering-cache-efficiency-for-optimal-page-performance.md)
    + [AEM Sites Optimizer을 통해 웹 경험의 효과 극대화](gems2025/maximize-impact-with-sites-optimizer.md)
    + [Adobe Managed CDN 시작하기](gems2025/getting-started-adobe-managed-cdn.md)
 + 2024 {#gems2024}
