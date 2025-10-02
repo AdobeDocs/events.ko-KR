@@ -103,7 +103,7 @@ ht-degree: 1%
    + [Oak 외부 로그인 모듈](gems2015/aem-oak-external-login-module-authenticating-with-ldap-and-beyond.md)
    + [Sonar - 제품 품질을 개선하는 주요 요소](gems2015/aem-sonar-a-key-element-to-improve-product-quality.md)
    + [AEM 테크 몰래 보기](gems2015/aem-tech-sneak-peek.md)
-   + [ [!DNL AEM Sites] Touch UI에 대한 팁 및 요령](gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
+   + [&#x200B; [!DNL AEM Sites] Touch UI에 대한 팁 및 요령](gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
    + [JavaScript 프로젝트의 품질 지표 추적](gems2015/aem-track-quality-metrics-of-your-javascript-project.md)
 + 2014 {#gems2014}
    + [DTM 클라우드 서비스를 통해 로컬 AEM 인스턴스에 Adobe Analytics 배포](gems2014/aem-adobe-analytics-dynamic-tag-management.md)
