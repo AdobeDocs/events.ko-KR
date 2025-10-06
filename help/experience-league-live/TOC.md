@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: d8a0caa950896397a6f8f4bd572959e8fbc3e842
+source-git-commit: d0059bf86d27b492e8a5eef175977d3be49738d0
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '601'
 ht-degree: 3%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 3%
 
 + [개요](overview.md)
 + 에피소드 {#episodes}
+   + [EP 53: 실험의 다음 시대: 아젠틱 AI가 어떻게 더 스마트한 테스트와 성장을 촉진하는지](episodes/exl-live-episode-10-30-25.md)
    + [EP 52: Adobe Experience Platform Agent Orchestrator](episodes/exl-live-episode-10-22-25.md)
    + [EP 51: Customer Journey Analytics B2B edition의 강력한 기능](episodes/exl-live-episode-10-16-25.md)
    + [EP 50: Journey Optimizer의 RCS 및 WhatsApp을 통해 모바일 범위 확장](episodes/exl-live-episode-09-30-25.md)

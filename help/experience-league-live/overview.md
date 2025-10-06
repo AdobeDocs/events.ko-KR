@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: c548ffe15a8b19f9ad8790ef23219ad0376bf946
+source-git-commit: d0059bf86d27b492e8a5eef175977d3be49738d0
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 15%
+source-wordcount: '236'
+ht-degree: 13%
 
 ---
 
@@ -45,6 +45,17 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
               </a>
               <br/><em>Daniel Wright, Namita Krishnan 및 Huong Vu와 함께</em>
               <br/><em>2025년 10월 22일</em>
+            </div>
+        </td>
+         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-25.md">
+              <img alt="Experience League LIVE 2025년 10월 30일" src="assets/exl-live-episode-10-30-25-web-banner.png">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-10-22-25.md">
+                <strong>다음 실험 시대: Agentic AI가 어떻게 더 스마트한 테스트와 성장을 촉진하고 있는지</strong>
+              </a>
+              <br/><em>산드라 하우스만, 브렌트 코스타크, 저스틴 그로버, 데이비드 아버(David Arbour)와 함께</em>
+              <br/><em>2025년 10월 30일</em>
             </div>
         </td>
     </tr>
@@ -113,5 +124,5 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/ko#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
+>기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
 
