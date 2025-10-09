@@ -7,7 +7,8 @@ feature: Basics
 event-cta-url-live: https://youtube.com/live/kiJfaedHSVw
 event-start-time: 2025-10-16 09:00-7
 event-guests: Doug Moore, Kari Olson, Caitlin Baunach
-source-git-commit: a536d27a3c3a57bc51ca768ded7d05e8b1eb44f4
+exl-id: 7d497f07-0dfd-4501-8fc2-bbac213603ec
+source-git-commit: 048b2cbe3ed5e6027217e56a2b2369bcb7920bb2
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -22,8 +23,6 @@ Customer Journey Analytics B2B edition을 통해 조직은 복잡한 데이터�
 
 고객 경험을 최적화하고, 판매 파이프라인을 확장하거나, 구매자 여정 전반에 걸쳐 눈에 띄는 성장을 이끄는 데 집중하든, 이 세션에서는 데이터를 비즈니스에 더 어렵게 사용할 수 있는 도구와 전략을 제공합니다.
 
-> ![배너 표시](../assets/exl-live-episode-10-16-25-web-banner.png)
+[![2025년 10월 16일 ExL 라이브](../assets/exl-live-episode-10-16-25-web-banner.png)](https://engage.adobe.com/ExpLeagueLive-251016.html)
 
-[프로그램에 대한 알림 메시지를 설정합니다!](https://youtube.com/live/kiJfaedHSVw)
-
-
+[지금 등록!](https://engage.adobe.com/ExpLeagueLive-251016.html)
