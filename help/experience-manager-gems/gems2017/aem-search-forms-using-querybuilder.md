@@ -30,7 +30,7 @@ ht-degree: 0%
 
 데모
 
-* [AEM Querybuilder](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave), Alexander Klimetschek 제공
+* [AEM Querybuilder](https://www.youtube.com/watch?v=yR9mcp9_MtY&list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave), Alexander Klimetschek 제공
 
 AEM 설명서
 

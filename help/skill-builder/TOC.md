@@ -40,10 +40,10 @@ ht-degree: 8%
    + [개요](customer-journeys/overview.md)
    + 2022 {#2022}
       + [Adobe Campaign Standard을 위한 주요 팁 및 요령](customer-journeys/2022/tips-and-tricks.md)
-      + [ [!DNL Campaign Classic] Adobe에서 데이터 모델 개발 및 사용자 지정](customer-journeys/2022/data-models.md)
+      + [&#x200B; [!DNL Campaign Classic] Adobe에서 데이터 모델 개발 및 사용자 지정](customer-journeys/2022/data-models.md)
       + [B2B 및 B2C의 고객 여정 트렌드 및 혁신](customer-journeys/2022/keynote.md)
       + [함께 사용하여 더 보기 - Adobe [!DNL Marketo Engage] 및 Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
-      + [ [!DNL Marketo Engage]  및 Adobe Experience Cloud을 사용하는 B2B 경험](customer-journeys/2022/b2b-experiences.md)
+      + [&#x200B; [!DNL Marketo Engage]  및 Adobe Experience Cloud을 사용하는 B2B 경험](customer-journeys/2022/b2b-experiences.md)
 + 데이터 및 인사이트 {#data-and-insights}
    + [개요](data-and-insights/overview.md)
    + 2022 {#2022}
