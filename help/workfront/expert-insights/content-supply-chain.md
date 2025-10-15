@@ -37,12 +37,12 @@ Corre는 귀사의 콘텐츠 공급망 노력을 지원하기 위해 Adobe 솔�
 
 ### 세션 제출
 
-* [Adobe이 콘텐츠 공급망을 최적화한 방법 - S316](https://business.adobe.com/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : Adobe의 자체 마케팅 조직 전체에 콘텐츠 공급망을 배포하는 접근법을 살펴봅니다. 
-* [Adobe을 통해 콘텐츠 제작 혁신 - S305](https://business.adobe.com/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Adobe에서 콘텐츠 공급망을 극대화하고 크리에이티브 워크플로를 가속화하는 방법을 알아봅니다. 
+* [Adobe이 콘텐츠 공급망을 최적화한 방법 - S316](https://business.adobe.com/kr/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : Adobe의 자체 마케팅 조직 전체에 콘텐츠 공급망을 배포하는 접근법을 살펴봅니다. 
+* [Adobe을 통해 콘텐츠 제작 혁신 - S305](https://business.adobe.com/kr/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Adobe에서 콘텐츠 공급망을 극대화하고 크리에이티브 워크플로를 가속화하는 방법을 알아봅니다. 
 
 ### 제품 데모
 
-* [Workfront](https://business.adobe.com/product-demos/workfront/interactive-tour.html) - 엔터프라이즈 작업 관리 솔루션 내에 존재할 수 있는 범위의 설명을 위해 대화형 [제품 데모]가 필요하기 때문입니다.  
+* [Workfront](https://business.adobe.com/kr/product-demos/workfront/interactive-tour.html) - 엔터프라이즈 작업 관리 솔루션 내에 존재할 수 있는 범위의 설명을 위해 대화형 [제품 데모]가 필요하기 때문입니다.  
 * [GenStudio](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) - 고객이 현재 Adobe에 있는 솔루션에 대한 요구 사항을 연결하는 포괄적 방법을 좋아합니다.
 
 ## 발표자 정보 

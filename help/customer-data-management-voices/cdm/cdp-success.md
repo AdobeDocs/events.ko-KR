@@ -26,4 +26,4 @@ ht-degree: 1%
 
 *[고객 데이터 관리를 위한 직원 및 프로세스 모범 사례](people-and-process.md)
 *[자사 데이터를 사용하여 탁월한 경험 구축](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html?lang=ko)
-*[사례 연구 - 모든 고객을 위한 실시간 데이터 개인화에 대한 TSB 은행.](https://business.adobe.com/customer-success-stories/tsb-case-study.html)
+*[사례 연구 - 모든 고객을 위한 실시간 데이터 개인화에 대한 TSB 은행.](https://business.adobe.com/kr/customer-success-stories/tsb-case-study.html)

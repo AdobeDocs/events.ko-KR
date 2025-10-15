@@ -38,5 +38,5 @@ Marketo Engage 챔피언 Katja Keesom이 채점 모델에 로컬 유연성을 �
 * 로컬 영향 연습으로 개인/잠재 고객 점수 책정 - [워크시트 다운로드](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
 * 잠재 고객 점수 규칙의 주요 목록 - [워크시트 보기](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
 * Marketo Engage 프로그램 가져오기 라이브러리 - [설명서](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html?lang=ko){target="_blank"}
-* 리드 점수 지정 전, 중, 후 프로세스에 대해 알아야 할 모든 사항 - [온디맨드 웨비나](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
+* 리드 점수 지정 전, 중, 후 프로세스에 대해 알아야 할 모든 사항 - [온디맨드 웨비나](https://business.adobe.com/kr/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
 * 우승자가 우위를 차지함 - [블로그](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}
