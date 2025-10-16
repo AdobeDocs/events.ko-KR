@@ -7,7 +7,7 @@ feature: AI Assistant
 event-cta-url-live: https://youtube.com/live/WS_DzRmYNzw
 event-start-time: 2025-10-22 08:30-7
 event-guests: Daniel Wright, Namita Krishnan, Huong Vu, Cole Connelly
-source-git-commit: facacb2fe59edc77e5add50d4b02b08e14030184
+source-git-commit: 3caa917efc2e6e093ba4550e2d41794df9347144
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 7%
@@ -24,6 +24,6 @@ Adobe Experience Platform Agent Orchestrator은 Adobe Experience Platform의 새
 * Agent Orchestrator이 전문가 에이전트를 조정하여 측정 가능한 결과를 제공하고 엔드 투 엔드 사용 사례를 지원하는 방법
 * Agent Orchestrator이 브랜드가 AI 솔루션을 자신 있게 채택하는 데 필요한 신뢰, 투명성, 보안 및 가드레일을 제공하는 방법
 
-> ![배너 표시](assets/WebBanner-v2-Oct22-2025.jpg)
+[![ExL LIVE 2024년 1월 17일](assets/WebBanner-v2-Oct22-2025.jpg)](https://engage.adobe.com/ExpLeagueLive-251022.html)
 
-[프로그램에 대한 알림 메시지를 설정합니다!](https://youtube.com/live/WS_DzRmYNzw)
+[지금 등록!](https://engage.adobe.com/ExpLeagueLive-251022.html)
