@@ -26,6 +26,6 @@ Customer Journey Analytics B2B edition을 통해 조직은 복잡한 데이터�
 >[!TIP]
 >
 > 직접 사용해 보세요. [등록하여 데모 환경에 액세스하세요](https://business.adobe.com/resources/customer-journey-analytics-b2b-edition-sandbox.html).
-> &#x200B;> 대화를 계속하고 **[커뮤니티 포럼](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-unlock-the-power-of-customer-journey/td-p/780513#)**&#x200B;에서 Adobe 전문가에게 질문할 수 있습니다.
+> &#x200B;> 대화를 계속하고 **[커뮤니티 포럼](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-unlock-the-power-of-customer-journey/td-p/780513?profile.language=ko#)**&#x200B;에서 Adobe 전문가에게 질문할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476010/?learn=on&enablevpops)
