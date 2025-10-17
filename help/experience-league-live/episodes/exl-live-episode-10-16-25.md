@@ -8,9 +8,9 @@ event-cta-url-live: https://youtube.com/live/kiJfaedHSVw
 event-start-time: 2025-10-16 09:00-7
 event-guests: Doug Moore, Kari Olson, Caitlin Baunach
 exl-id: 7d497f07-0dfd-4501-8fc2-bbac213603ec
-source-git-commit: 048b2cbe3ed5e6027217e56a2b2369bcb7920bb2
+source-git-commit: 07ee9ab45d67312420d19800611e3a183b0a144c
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,9 @@ Customer Journey Analytics B2B edition을 통해 조직은 복잡한 데이터�
 
 고객 경험을 최적화하고, 판매 파이프라인을 확장하거나, 구매자 여정 전반에 걸쳐 눈에 띄는 성장을 이끄는 데 집중하든, 이 세션에서는 데이터를 비즈니스에 더 어렵게 사용할 수 있는 도구와 전략을 제공합니다.
 
-[![2025년 10월 16일 ExL 라이브](../assets/exl-live-episode-10-16-25-web-banner.png)](https://engage.adobe.com/ExpLeagueLive-251016.html)
+>[!TIP]
+>
+> 직접 사용해 보세요. [등록하여 데모 환경에 액세스하세요](https://business.adobe.com/resources/customer-journey-analytics-b2b-edition-sandbox.html).
+> > 대화를 계속하고 **[커뮤니티 포럼](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-unlock-the-power-of-customer-journey/td-p/780513#)**&#x200B;에서 Adobe 전문가에게 질문할 수 있습니다.
 
-[지금 등록!](https://engage.adobe.com/ExpLeagueLive-251016.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3476010/?learn=on&enablevpops)
