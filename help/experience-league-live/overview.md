@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 1a45f3ef18803495f5bc77b0eb0d626ff7e558fe
+source-git-commit: f88fa329951a93f53cbbf47e55d51f02d1fc5877
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 14%
+source-wordcount: '184'
+ht-degree: 16%
 
 ---
 
@@ -25,17 +25,6 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 <table>
     <tr>
-        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-22-25.md">
-              <img alt="Experience League 라이브 2025년 10월 22일" src="episodes/assets/WebBanner-v2-Oct22-2025.jpg">
-            </a>
-            <div>
-              <a href="episodes/exl-live-episode-10-22-25.md">
-                <strong>Adobe Experience Platform Agent Orchestrator을 통한 차세대 고객 경험 및 효율성</strong>
-              </a>
-              <br/><em>다니엘 라이트, 나미타 크리쉬난, 후옹 부, 콜 코넬리와 함께</em>
-              <br/><em>2025년 10월 22일</em>
-            </div>
-        </td>
          <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-25.md">
               <img alt="Experience League LIVE 2025년 10월 30일" src="assets/exl-live-episode-10-30-25-web-banner-v2.png">
             </a>
@@ -113,5 +102,5 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/ko#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
+>기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
 
