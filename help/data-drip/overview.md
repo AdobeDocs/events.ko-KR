@@ -1,11 +1,11 @@
 ---
 title: 데이터 드립
-description: Data Drip 시리즈에서 Adobe 전문가와 함께 고객이 제품 잠재력을 극대화하고 경쟁력을 유지할 수 있도록 라이브 데모를 통해 Adobe Analytics 및 Target의 최신 기능과 모범 사례를 살펴보십시오.
+description: 고객이 제품 잠재력을 극대화하고 경쟁력을 유지할 수 있도록 실시간 데모를 통해 Data Drip 시리즈에 Adobe 전문가를 참여시켜 Adobe Analytics 및 Target의 최신 기능과 모범 사례를 살펴보십시오.
 duration: 15
 exl-id: dd36b140-d53a-41fd-9c26-4d97ab7740a1
-source-git-commit: 852eec6eccb1cf5cf99d73ffcd635f55fed846cf
+source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,7 @@ ht-degree: 0%
 
 * 2025/adobe-analytics-basics-beyond.md
 * 2025/marketing-channel-attribution-modeling.md
+* 2025/migrating-to-web-sdk.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -29,7 +30,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/adobe-analytics-basics-beyond.md" title="Adobe Analytics 기본 사항 및 그 이상" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443028/?format=jpeg&nocache=1737763602579" alt="Adobe Analytics 기본 사항 및 그 이상"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443028/?format=jpeg&nocache=1761687728532" alt="Adobe Analytics 기본 사항 및 그 이상"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -39,7 +40,7 @@ ht-degree: 0%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2025/adobe-analytics-basics-beyond.md" target="_blank" rel="referrer" title="Adobe Analytics 기본 사항 및 그 이상">Adobe Analytics 기본 사항 및 그 이상</a>
                     </p>
-                    <p class="is-size-6">Adobe Analytics을 통해 효율성과 가치 극대화 - 필수 모범 사례 및 보고 기능</p>
+                    <p class="is-size-6">Taylor Walker 및 Vishnu Pillai의 웨비나에 참여하여 Adobe Analytics을 마스터하고, 작업 공간을 최적화하고, 데이터를 내보내고, 도구를 통합할 수 있습니다. 전문가의 통찰력을 보려면 지금 시청하십시오.</p>
                 </div>
                 <a href="2025/adobe-analytics-basics-beyond.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 보기</span>
@@ -52,7 +53,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/marketing-channel-attribution-modeling.md" title="마케팅 채널 및 속성 모델링" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443020/?format=jpeg&nocache=1737763602565" alt="마케팅 채널 및 속성 모델링"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443020/?format=jpeg&nocache=1761687728525" alt="마케팅 채널 및 속성 모델링"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
