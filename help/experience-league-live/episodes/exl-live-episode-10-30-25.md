@@ -7,9 +7,9 @@ feature: AI Assistant, Experimentation
 event-cta-url-live: https://youtube.com/live/w8eWsKuwyzI
 event-start-time: 2025-10-30 08:30-8
 event-guests: Sandra Hausmann, Brent Kostak, Justin Grover, David Arbour
-source-git-commit: ab402c86aadd5c2b22f632c31d085e90e05f96c7
+source-git-commit: c4c2753455d476d08ab1a5c76a08ed296397705d
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,11 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476426/?learn=on&enablevpops)
 
-[Adobe Journey Optimizer 커뮤니티에 참여하세요. 무엇이든 물어보세요!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252?profile.language=ko) 11월 12일 수요일 오전 8시~오전 9시(PT) Adobe Journey Optimizer Cole Connelly(@coleconnelly) - Sr 제품 관리자, Huong Vu(@HuongVu) - 제품 마케팅 관리자, Namita Krishnan(@Namita_Krishnan) - 제품 관리자, Brent Kostak(@bkostak) - Sr 제품 마케팅 관리자, David Arbour(@user03474) - Sr 연구 과학자, Justin Grover(@justin_grover) - 주요 제품 관리자, Sandra Hausmann(@SHausmann) - Sr 기술 마케팅 엔지니어 및 Daniel Wright(@dwright) - Sr 기술 마케팅 엔지니어가 참석합니다.
+[Adobe Journey Optimizer 커뮤니티에 참여하세요. 무엇이든 물어보세요!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252) 11월 12일 수요일 오전 8시~오전 9시(PT) Adobe Journey Optimizer Cole Connelly(@coleconnelly) - Sr 제품 관리자, Huong Vu(@HuongVu) - 제품 마케팅 관리자, Namita Krishnan(@Namita_Krishnan) - 제품 관리자, Brent Kostak(@bkostak) - Sr 제품 마케팅 관리자, David Arbour(@user03474) - Sr 연구 과학자, Justin Grover(@justin_grover) - 주요 제품 관리자, Sandra Hausmann(@SHausmann) - Sr 기술 마케팅 엔지니어 및 Daniel Wright(@dwright) - Sr 기술 마케팅 엔지니어가 참석합니다.
 
 이 라이브 채팅 중에 질문에 답변해 드리겠습니다.
+
+## 추가 리소스
+
+* [Adobe의 AI 실험 가속기 내부 - 팟캐스트](https://conversion.com/podcast/the-conversion-podcast-adobe-ai/)
+
