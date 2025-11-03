@@ -32,7 +32,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476426/?learn=on&enablevpops)
 
-[Adobe Journey Optimizer 커뮤니티에 참여하세요. 무엇이든 물어보세요!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252) 11월 12일 수요일 오전 8시~오전 9시(PT) Adobe Journey Optimizer Cole Connelly(@coleconnelly) - Sr 제품 관리자, Huong Vu(@HuongVu) - 제품 마케팅 관리자, Namita Krishnan(@Namita_Krishnan) - 제품 관리자, Brent Kostak(@bkostak) - Sr 제품 마케팅 관리자, David Arbour(@user03474) - Sr 연구 과학자, Justin Grover(@justin_grover) - 주요 제품 관리자, Sandra Hausmann(@SHausmann) - Sr 기술 마케팅 엔지니어 및 Daniel Wright(@dwright) - Sr 기술 마케팅 엔지니어가 참석합니다.
+[Adobe Journey Optimizer 커뮤니티에 참여하세요. 무엇이든 물어보세요!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252?profile.language=ko) 11월 12일 수요일 오전 8시~오전 9시(PT) Adobe Journey Optimizer Cole Connelly(@coleconnelly) - Sr 제품 관리자, Huong Vu(@HuongVu) - 제품 마케팅 관리자, Namita Krishnan(@Namita_Krishnan) - 제품 관리자, Brent Kostak(@bkostak) - Sr 제품 마케팅 관리자, David Arbour(@user03474) - Sr 연구 과학자, Justin Grover(@justin_grover) - 주요 제품 관리자, Sandra Hausmann(@SHausmann) - Sr 기술 마케팅 엔지니어 및 Daniel Wright(@dwright) - Sr 기술 마케팅 엔지니어가 참석합니다.
 
 이 라이브 채팅 중에 질문에 답변해 드리겠습니다.
 
