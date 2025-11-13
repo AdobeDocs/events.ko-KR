@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: ' [!DNL Experience Makers Learn from your peers]의 녹음/녹화 컬렉션'
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
 workflow-type: tm+mt
-source-wordcount: '361'
-ht-degree: 20%
+source-wordcount: '371'
+ht-degree: 19%
 
 ---
 
@@ -33,7 +33,8 @@ ht-degree: 20%
       + 3월 {#mar2022}
          + [데이터를 통해 깊은 인상을 주는 스토리 전달](analytics/mar2022/stories-with-data.md)
 + Commerce {#commerce}
-   + 2월 {#feb2024}
+   + 2025 {#2025}
+      + [Adobe Commerce 및 App Builder Essentials - 기본에서 영향에 이르기까지](commerce/2025/commerce-and-app-builder.md)
       + [Agile SDLC의 통신, 요구 사항 및 테스트](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
    + 8월 {#aug2025}
@@ -73,9 +74,9 @@ ht-degree: 20%
    + 2023년 6월 {#june2023}
       + [마케팅 캠페인 추적, 분석 및 최적화](marketo/june2023/marketing-campaigns.md)
    + 2023년 5월 {#may2023}
-      + [&#x200B; [!DNL Marketo Engage]을(를) 사용하여 확장 코드에서 Personalization 크래킹](marketo/may2023/personalization-at-scale.md)
+      + [ [!DNL Marketo Engage]을(를) 사용하여 확장 코드에서 Personalization 크래킹](marketo/may2023/personalization-at-scale.md)
    + 2023년 3월 {#mar2023}
-      + [&#x200B; [!DNL Adobe Marketo Engage] 콘텐츠를 확장 가능하게 하는 방법](marketo/mar2023/templates-tokens-teamwork.md)
+      + [ [!DNL Adobe Marketo Engage] 콘텐츠를 확장 가능하게 하는 방법](marketo/mar2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
       + 2월 {#february2025}

@@ -2,10 +2,10 @@
 user-guide-title: Adobe 고객 성공 웨비나
 breadcrumb-title: Adobe 고객 성공 웨비나
 user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
 workflow-type: tm+mt
-source-wordcount: '522'
-ht-degree: 3%
+source-wordcount: '547'
+ht-degree: 4%
 
 ---
 
@@ -27,8 +27,10 @@ ht-degree: 3%
       + [더욱 스마트한 마케팅 시작 - Google 및 Adobe 통합](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
    + Experience Manager {#aem2025}
       + [AEM의 신흥 기술](2025/personalized-experiences-aem.md)
+      + [AEM Lucene 검색에 대한 필수 팁 및 모범 사례](2025/aem-lucene-search.md)
       + [AEM 및 GenAI](2025/aem-genai.md)
       + [AEM 및 Workfront 통합](2025/aem-workfront-integration.md)
+      + [AEM의 AI 어시스턴트](2025/ai-assistant-in-aem.md)
       + [효과적인 웹 페이지 구축](2025/build-effective-web-pages.md)
       + [고객 참여 유도](2025/driving-customer-engagement.md)
       + [AEM Forms을 사용한 등록 여정](2025/payer-enrollment-journey.md)
@@ -50,6 +52,9 @@ ht-degree: 3%
       + [컨텐츠 공급망 및 Adobe GenStudio](2025/csc-gen-studio.md)
       + [GenStudio for Performance Marketing 운영 모델](2025/genstudio-for-performance-marketing-operating-model.md)
    + Journey Optimizer {#ajo2025}
+      + [경영진 후원 구축](2025/build-executive-sponsorship-ajo.md)
+      + [채택을 위한 관리 전략 변경](2025/change-management-strategies.md)
+      + [운영 모델 디자인](2025/design-an-operating-model-ajo.md)
       + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
       + [NorthStar 아키텍처 활용](2025/northstar-architecture-enable-adobe-journey-optimzier.md)
       + [Adobe Journey Optimizer을 통한 가치 창출 로드맵](2025/ajo-roadmap-to-value.md)
