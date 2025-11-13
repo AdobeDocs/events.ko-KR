@@ -388,7 +388,7 @@ Adobe 전문가 및 동료로부터 Adobe 솔루션을 최대한 활용하는 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/jan2024/person-scoring-mastery.md" title="Marketo Engage으로 개인 점수 매김 - 글로벌 프레임워크의 현지화된 뉘앙스" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1763063772333" alt="Marketo Engage으로 개인 점수 매김 - 글로벌 프레임워크의 현지화된 뉘앙스"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457446/?captions=kor&format=jpeg&nocache=1763063772333" alt="Marketo Engage으로 개인 점수 매김 - 글로벌 프레임워크의 현지화된 뉘앙스"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
