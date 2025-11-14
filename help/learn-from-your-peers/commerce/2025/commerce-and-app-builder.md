@@ -8,9 +8,9 @@ doc-type: Event
 duration: 3555
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19684
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+source-git-commit: cea4b75d089d99068b2657ca9656687ba66ad830
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -32,3 +32,7 @@ Adobe Commerce 챔피언 Alex Lyzun과 함께 Adobe Commerce의 미래와 App Bu
 
 이 웨비나는 App Builder을 처음 시작했거나 확장성의 전략적 가치를 이해하고자 하는 경우, Adobe Commerce의 새로운 가능성을 여는 데 도움이 되는 명확하고 접근 가능한 기반을 갖추도록 설계되었습니다.
 
+## 추가 리소스
+
+* Alex Lyzun과 함께 [웨비나 후 근무 시간](https://commerce-augs.adobe.com/events/details/adobe-commerce-adobe-commerce-champion-office-hours-presents-adobe-commerce-amp-app-builder-essentials-from-basics-to-impact-webinar-office-hours/)
+* [Adobe Commerce 사용자 그룹](https://commerce-augs.adobe.com/)
