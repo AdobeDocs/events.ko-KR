@@ -76,9 +76,9 @@ ht-degree: 19%
    + 2023년 6월 {#june2023}
       + [마케팅 캠페인 추적, 분석 및 최적화](marketo/june2023/marketing-campaigns.md)
    + 2023년 5월 {#may2023}
-      + [ [!DNL Marketo Engage]을(를) 사용하여 확장 코드에서 Personalization 크래킹](marketo/may2023/personalization-at-scale.md)
+      + [&#x200B; [!DNL Marketo Engage]을(를) 사용하여 확장 코드에서 Personalization 크래킹](marketo/may2023/personalization-at-scale.md)
    + 2023년 3월 {#mar2023}
-      + [ [!DNL Adobe Marketo Engage] 콘텐츠를 확장 가능하게 하는 방법](marketo/mar2023/templates-tokens-teamwork.md)
+      + [&#x200B; [!DNL Adobe Marketo Engage] 콘텐츠를 확장 가능하게 하는 방법](marketo/mar2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
       + 2월 {#february2025}
