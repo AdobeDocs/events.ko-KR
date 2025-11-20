@@ -1,13 +1,13 @@
 ---
 title: 제품 지원 에이전트를 사용하여 문제 해결 및 지원 사례 관리 간소화
 description: Adobe Experience Platform Agent Orchestrator을 기반으로 하는 제품 지원 에이전트는 Adobe Experience Platform 애플리케이션에서 문제를 해결, 진단 및 에스컬레이션하는 대화형 방법을 제공하여 문제를 보다 신속하게 해결하고 운영 효율성을 높일 수 있도록 설계되었습니다.
-kt: KT-18493
-solution: Journey Optimizer, Target
-feature: AI Assistant, Experimentation
-event-cta-url-live: https://youtube.com/live/w8eWsKuwyzI
-event-start-time: 2025-10-30 08:30-8
-event-guests: Sandra Hausmann, Brent Kostak, Justin Grover, David Arbour
-source-git-commit: 304550e7c5eef8956dccef1ca9951d3091092e8d
+kt: KT-19794
+solution: Experience Platform
+feature: AI Assistant
+event-cta-url-live: https://www.youtube.com/live/MW2Ba7HJNbA
+event-start-time: 2025-12-16 09:00-8
+event-guests: Daniel Wright, Huong Vu, Shreya Anantha Raman
+source-git-commit: 9f35248b235fbc25b964ba70daa1f14eb4bbecef
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
