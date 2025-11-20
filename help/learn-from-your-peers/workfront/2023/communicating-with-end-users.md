@@ -26,6 +26,6 @@ Workfront 시스템 관리자에게 최종 사용자와 어떻게 의사 소통�
 * 통신에 사용할 채널을 결정하는 데 도움이 되는 팁
 * 커뮤니케이션 전략을 현재 위치에서 시작하여 점차 성숙해가는 방식으로 반복해서 생각하는 방법
 
-또한 동료가 사용자와 공유하는 실제 커뮤니케이션의 아이디어 및 예를 다루는 &quot;커뮤니케이션 Cookbook&quot;을 https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144에서 다운로드할 수 있습니다.
+또한 동료가 사용자와 공유하는 실제 커뮤니케이션의 아이디어 및 예를 다루는 &quot;커뮤니케이션 Cookbook&quot;을 https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144?profile.language=ko에서 다운로드할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431019/?learn=on)

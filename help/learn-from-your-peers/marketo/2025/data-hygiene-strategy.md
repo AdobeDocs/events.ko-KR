@@ -34,6 +34,6 @@ ht-degree: 0%
 ## 추가 리소스
 
 * Q&amp;A가 게시된 마케팅 국가 커뮤니티에서 [토론](https://nation.marketo.com/t5/product-blogs/learn-from-your-peers-webinar-building-a-data-hygiene-strategy/ba-p/358425)에 참여하세요.
-* [실행 가능한 캠페인을 사용한 Marketo Engage 데이터 위생](https://business.adobe.com/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
-* [Marketo Engage과 Salesforce CRM 동기화를 위한 데이터 위생 관리](https://experienceleague.adobe.com/en/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
+* [실행 가능한 캠페인을 사용한 Marketo Engage 데이터 위생](https://business.adobe.com/kr/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
+* [Marketo Engage과 Salesforce CRM 동기화를 위한 데이터 위생 관리](https://experienceleague.adobe.com/ko/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
 * [Marketo Engage REST API를 사용하여 중복 제거를 수행하는 방법](https://www.revenuepulse.com/blog/how-to-perform-deduplication-using-the-marketo-api/)
