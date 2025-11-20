@@ -58,8 +58,8 @@ ht-degree: 6%
       + [Marketo Engage 및 Dynamic Chat](marketo/2023/dynamic-chat.md)
       + [Marketo Engage으로 이메일 전달성 향상](marketo/2023/email-deliverability.md)
       + [마케팅 캠페인 추적, 분석 및 최적화](marketo/2023/marketing-campaigns.md)
-      + [ [!DNL Marketo Engage]을(를) 사용하여 확장 코드에서 Personalization 크래킹](marketo/2023/personalization-at-scale.md)
-      + [ [!DNL Adobe Marketo Engage] 콘텐츠를 확장 가능하게 하는 방법](marketo/2023/templates-tokens-teamwork.md)
+      + [&#x200B; [!DNL Marketo Engage]을(를) 사용하여 확장 코드에서 Personalization 크래킹](marketo/2023/personalization-at-scale.md)
+      + [&#x200B; [!DNL Adobe Marketo Engage] 콘텐츠를 확장 가능하게 하는 방법](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
       + [아티큘레이션 영향 - Workfront 가치 측정 및 공유 방법](workfront/2025/how-to-measure-and-share-workfront-value.md)
