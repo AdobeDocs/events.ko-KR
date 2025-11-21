@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 021cc00ce8c98b238c75254332f518bc5eb51c2c
+source-git-commit: 45be7126bdcf2ae97d812dc3aa708efa7c173c98
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 21%
+source-wordcount: '179'
+ht-degree: 17%
 
 ---
 
@@ -19,30 +19,28 @@ ht-degree: 21%
 
 Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트리밍 쇼입니다.  Adobe 제품 전문가를 만나고 Adobe Experience Cloud 애플리케이션에 적용할 유용한 팁과 요령, 전략을 배울 수 있는 기회입니다.
 
-<!--
-<div id="upcoming-events">
 
-## Upcoming Experience League LIVE events
+
+## 예정된 Experience League LIVE 이벤트
 
 <table>
     <tr>
          <td style="vertical-align: top;"><a href="episodes/exl-live-episode-12-16-25.md">
-              <img alt="Experience League LIVE 16 December 2025" src="episodes/assets/WebBanner_Dec16_2025.jpg">
+              <img alt="2025년 12월 16일 Experience League 라이브" src="episodes/assets/WebBanner_Dec16_2025.jpg">
             </a>
             <div>
               <a href="episodes/exl-live-episode-12-16-25.md">
-                <strong>Simplify troubleshooting and support case management with Product Support Agent</strong>
+                <strong>제품 지원 에이전트를 사용하여 문제 해결 및 지원 사례 관리 간소화</strong>
               </a>
-              <br/><em>with Daniel Wright, Huong Vu, and Shreya Anantha Raman</em>
-              <br/><em>Dec 16, 2025</em>
+              <br/><em>Daniel Wright, Huong Vu 및 Shreya Anantha Raman과 함께</em>
+              <br/><em>2025년 12월 16일</em>
             </div>
         </td>
     </tr>
-    
-</table>    
-  
-</div>
--->
+
+</table>
+
+
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -103,5 +101,5 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/ko#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
+>기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
 
