@@ -7,7 +7,7 @@ feature: AI Assistant
 event-cta-url-live: https://www.youtube.com/live/MW2Ba7HJNbA
 event-start-time: 2025-12-16 09:00-8
 event-guests: Daniel Wright, Huong Vu, Shreya Anantha Raman
-source-git-commit: 9f35248b235fbc25b964ba70daa1f14eb4bbecef
+source-git-commit: b875b460b7226e625b65e11588cd9e01d11cac7f
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 제품 지원 에이전트가 사용자에게 사전 예방 및 셀프서비스 지원과 사례 생성 및 추적을 자동화하는 방법
 * 혁신적인 기능과 성능을 통해 사용자를 위한 지원 관리 업무를 더욱 간소화
 
-[![ExL LIVE 2024년 1월 17일](assets/WebBanner_Dec16_2025.jpg)](https://www.youtube.com/live/MW2Ba7HJNbA)
+[![ExL LIVE 2024년 1월 17일](assets/WebBanner_Dec16_2025.jpg)](https://www.youtube.com/live/MW2Ba7HJNbA){target="_blank"}
 
-[YouTube에서 알림 메시지를 설정하려면 클릭하세요!](https://www.youtube.com/live/MW2Ba7HJNbA)
+[YouTube에서 알림 메시지를 설정하려면 클릭하세요!](https://www.youtube.com/live/MW2Ba7HJNbA){target="_blank"}
