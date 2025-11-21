@@ -26,7 +26,7 @@ Adobe Workfront 제품 관리 팀에 참여하여 Workfront Planning의 향상�
 ## 리소스
 
 - [슬라이드 데크 PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/111025+-+From+Vision+to+Value-Workfront+Planning+Release+%26+Roadmap.pdf)
-- [Adobe Workfront 계획 개요](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
+- [Adobe Workfront 계획 개요](https://experienceleague.adobe.com/ko/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
 - [Workfront 계획 API 개요](https://developer.adobe.com/wf-planning/api/v1/)
 - [Workfront 워크플로 API 탐색기](https://developer.adobe.com/workfront/api-explorer/)
 - 행사에 대한 의견을 나누거나 후속 질문이 있습니까? 언제든지 [Experience League 커뮤니티 게시물의 댓글에 드롭하세요](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-vision-to-value-workfront-planning-release/td-p/785666!) 매달 새로운 이벤트가 추가되므로 최신 세션에 대한 Experience League 이벤트 페이지를 확인하십시오.

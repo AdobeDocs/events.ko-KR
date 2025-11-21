@@ -27,6 +27,6 @@ Kyndryl의 Rachel Small 및 Bill McCandless와 공동으로 주최한 이 세션
 
 스토리나 사용 사례를 공유하려면 csatscale@adobe.com으로 이메일을 보내주십시오.
 
-행사에 대한 의견을 나누거나 후속 질문이 있습니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-self-taught-to-success-how-kyndryl-scaled/td-p/785174)의 댓글에 자유롭게 드롭하세요!
+행사에 대한 의견을 나누거나 후속 질문이 있습니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-self-taught-to-success-how-kyndryl-scaled/td-p/785174?profile.language=ko)의 댓글에 자유롭게 드롭하세요!
 
-매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/en/events)를 확인하십시오.
+매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events)를 확인하십시오.

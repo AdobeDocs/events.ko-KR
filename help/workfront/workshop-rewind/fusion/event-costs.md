@@ -26,11 +26,11 @@ ht-degree: 0%
 주문형 녹화와 함께, 채팅에서 공유된 슬라이드 데크 및 팁이 포함되어 있습니다.  
 * 리소스가 있는 [Workfront 슬라이드](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/061225+-+The+Workfront+Fusion+Fix+-+Ericsson's+Smarter+Way+to+Unlocking+True+Event+Costs.pdf)
 * [Lucas의 Fusion 프레젠테이션 슬라이드](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Ericsson+Event+Slides-+Expense+Reporting+with+Fusion.pdf)
-* [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-the-workfront-fusion-fix-ericsson-s-smarter-way/td-p/759188)
+* [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-the-workfront-fusion-fix-ericsson-s-smarter-way/td-p/759188?profile.language=ko)
 
 Fusion을 이제 시작하시겠습니까? 이 리소스를 확인하십시오! 
-* [Experience League에서 Workfront Fusion 교육](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)
-* [사용 가능한 Fusion 템플릿 목록을 여기에서 확인](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)- 새로운 템플릿 중 몇 가지가 최근에 게시되었습니다!  
+* [Experience League에서 Workfront Fusion 교육](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)
+* [사용 가능한 Fusion 템플릿 목록을 여기에서 확인](https://experienceleague.adobe.com/ko/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)- 새로운 템플릿 중 몇 가지가 최근에 게시되었습니다!  
 * **대화에서 고객의 Pro 팁** Fusion을 학습할 때 Workfront에서 Workfront으로의 자동화를 통해 작게 시작하십시오. 
 
-향후 고객 성공 워크숍에서 여러분을 볼 수 있기를 바랍니다!  전체 목록을 보려면 Experience League에서 [Workfront 이벤트](https://experienceleague.adobe.com/events/?filters=Workfront)를 확인하고 등록하십시오.
+향후 고객 성공 워크숍에서 여러분을 볼 수 있기를 바랍니다!  전체 목록을 보려면 Experience League에서 [Workfront 이벤트](https://experienceleague.adobe.com/events/?lang=ko&filters=Workfront)를 확인하고 등록하십시오.
