@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: ' [!DNL Experience Makers Learn from your peers]의 녹음/녹화 컬렉션'
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 48d93e64b075db84d164a743db97fa0202b3e26c
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '326'
 ht-degree: 6%
 
 ---
@@ -58,10 +58,11 @@ ht-degree: 6%
       + [Marketo Engage 및 Dynamic Chat](marketo/2023/dynamic-chat.md)
       + [Marketo Engage으로 이메일 전달성 향상](marketo/2023/email-deliverability.md)
       + [마케팅 캠페인 추적, 분석 및 최적화](marketo/2023/marketing-campaigns.md)
-      + [&#x200B; [!DNL Marketo Engage]을(를) 사용하여 확장 코드에서 Personalization 크래킹](marketo/2023/personalization-at-scale.md)
-      + [&#x200B; [!DNL Adobe Marketo Engage] 콘텐츠를 확장 가능하게 하는 방법](marketo/2023/templates-tokens-teamwork.md)
+      + [ [!DNL Marketo Engage]을(를) 사용하여 확장 코드에서 Personalization 크래킹](marketo/2023/personalization-at-scale.md)
+      + [ [!DNL Adobe Marketo Engage] 콘텐츠를 확장 가능하게 하는 방법](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
+      + [메타데이터 난동](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [아티큘레이션 영향 - Workfront 가치 측정 및 공유 방법](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [자동화를 통한 자원 계획 단순화](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
