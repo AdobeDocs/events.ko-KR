@@ -24,32 +24,32 @@ ht-degree: 6%
 * https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html?lang=ko
   {title = Adobe Workfront}  
   {description = A library of recorded Workfront events where experts and peers share thoughts on how to use Workfront.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png?lang=ko}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=ko
   {title = Acrobat Sign Webinars}
   {description = Learn from Adobe experts how to master new e-signature workflows in Acrobat Sign.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png?lang=ko}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html?lang=ko
   {title = Adobe Commerce Product Updates}
   {description = The latest product innovations in Adobe Commerce, presented by the Adobe Commerce product team.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png?lang=ko}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html?lang=ko
   {title = Adobe Developers Live}
   {description = Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose - to create incredible end-to-end experiences.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png?lang=ko}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html?lang=ko
   {title = APAC Adobe Commerce Webinars}
   {description = The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Commerce customers that covers a wide range of topics from best practices to product roadmap and industry trends.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png?lang=ko}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=ko
   {title = Adobe Customer Success Webinars}
   {description = Adobe Customer Success-led webinars designed to empower you in optimizing your investment in Adobe's Experience Cloud. Gain valuable insights to maximize the value and increase the adoption of Adobe solutions.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png?lang=ko}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html?lang=ko
   {title = Behind the Brew}
@@ -150,7 +150,7 @@ ht-degree: 6%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html?lang=ko" title="Adobe Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png" alt="Adobe Workfront"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png?lang=ko" alt="Adobe Workfront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -173,7 +173,7 @@ ht-degree: 6%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=ko" title="Acrobat Sign 웨비나" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png" alt="Acrobat Sign 웨비나"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png?lang=ko" alt="Acrobat Sign 웨비나"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -196,7 +196,7 @@ ht-degree: 6%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html?lang=ko" title="Adobe Commerce 제품 업데이트" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png" alt="Adobe Commerce 제품 업데이트"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png?lang=ko" alt="Adobe Commerce 제품 업데이트"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -219,7 +219,7 @@ ht-degree: 6%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html?lang=ko" title="Adobe Developers Live" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png" alt="Adobe Developers Live"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png?lang=ko" alt="Adobe Developers Live"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -242,7 +242,7 @@ ht-degree: 6%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html?lang=ko" title="APAC Adobe Commerce 웨비나" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png" alt="APAC Adobe Commerce 웨비나"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png?lang=ko" alt="APAC Adobe Commerce 웨비나"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -265,7 +265,7 @@ ht-degree: 6%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=ko" title="Adobe 고객 성공 웨비나" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png" alt="Adobe 고객 성공 웨비나"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png?lang=ko" alt="Adobe 고객 성공 웨비나"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
