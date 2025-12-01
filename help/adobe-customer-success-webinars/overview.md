@@ -123,7 +123,7 @@ Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-success.md" title="Adobe Customer Journey Analytics 성공 지원을 위한 경영진 후원 구축" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470853/?format=jpeg&nocache=1764630166122" alt="Adobe Customer Journey Analytics 성공 지원을 위한 경영진 후원 구축"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470861/?captions=kor&format=jpeg&nocache=1764630166122" alt="Adobe Customer Journey Analytics 성공 지원을 위한 경영진 후원 구축"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -496,7 +496,7 @@ Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/mastering-aem-sites.md" title="AEM Sites 마스터링 - 템플릿, 탐색 및 SEO" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464298/?format=jpeg&nocache=1764630166889" alt="AEM Sites 마스터링 - 템플릿, 탐색 및 SEO"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464322/?captions=kor&format=jpeg&nocache=1764630166889" alt="AEM Sites 마스터링 - 템플릿, 탐색 및 SEO"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -699,7 +699,7 @@ Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-beyond-basics.md" title="AI Assistant - 기본 사항 이상" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463357/?format=jpeg&nocache=1764630167699" alt="AI Assistant - 기본 사항 이상"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463365/?captions=kor&format=jpeg&nocache=1764630167699" alt="AI Assistant - 기본 사항 이상"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -828,7 +828,7 @@ Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/csc-gen-studio.md" title="콘텐츠 공급망 및 Adobe GenStudio을 제품 세트로 식별" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472978/?format=jpeg&nocache=1764630171448" alt="콘텐츠 공급망 및 Adobe GenStudio을 제품 세트로 식별"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472986/?captions=kor&format=jpeg&nocache=1764630171448" alt="콘텐츠 공급망 및 Adobe GenStudio을 제품 세트로 식별"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1142,7 +1142,7 @@ Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/gen-ai-experimentation.md" title="AJO의 GenAI 실험 및 Adobe Target과의 관계" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444453/?format=jpeg&nocache=1764630171912" alt="AJO의 GenAI 실험 및 Adobe Target과의 관계"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444466/?captions=kor&format=jpeg&nocache=1764630171912" alt="AJO의 GenAI 실험 및 Adobe Target과의 관계"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1680,7 +1680,7 @@ Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-marketo-integration.md" title="Real-Time Customer Data Platform 및 Marketo 통합의 기본 사항" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433222/?format=jpeg&nocache=1764630173736" alt="Real-Time Customer Data Platform 및 Marketo 통합의 기본 사항"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433675/?captions=kor&format=jpeg&nocache=1764630173736" alt="Real-Time Customer Data Platform 및 Marketo 통합의 기본 사항"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1841,7 +1841,7 @@ Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/data-stream-prioritization.md" title="데이터 스트림 우선 순위 지정" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427302/?format=jpeg&nocache=1764630173768" alt="데이터 스트림 우선 순위 지정"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456812/?captions=kor&format=jpeg&nocache=1764630173768" alt="데이터 스트림 우선 순위 지정"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2025,7 +2025,7 @@ Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/hyperpersonalization.md" title="Personalization 성숙도 - 하이퍼개인화 경로" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429288/?format=jpeg&nocache=1764630173837" alt="Personalization 성숙도 - 하이퍼개인화 경로"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457352/?captions=kor&format=jpeg&nocache=1764630173837" alt="Personalization 성숙도 - 하이퍼개인화 경로"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2071,7 +2071,7 @@ Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/lean-teams-cja.md" title="효율성 극대화 - 린 팀 및 Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432998/?format=jpeg&nocache=1764630173853" alt="효율성 극대화 - 린 팀 및 Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457015/?captions=kor&format=jpeg&nocache=1764630173853" alt="효율성 극대화 - 린 팀 및 Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2186,7 +2186,7 @@ Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/strategic-leadership.md" title="전략적 리더십" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427463/?format=jpeg&nocache=1764630173915" alt="전략적 리더십"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456790/?captions=kor&format=jpeg&nocache=1764630173915" alt="전략적 리더십"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2347,7 +2347,7 @@ Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-lean-teams.md" title="Adobe Workfront으로 효율성 극대화 - Lean Teams 웨비나" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429287/?format=jpeg&nocache=1764630173965" alt="Adobe Workfront으로 효율성 극대화 - Lean Teams 웨비나"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456714/?captions=kor&format=jpeg&nocache=1764630173965" alt="Adobe Workfront으로 효율성 극대화 - Lean Teams 웨비나"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
