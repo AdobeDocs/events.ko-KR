@@ -2,9 +2,9 @@
 user-guide-title: Adobe 고객 성공 웨비나
 breadcrumb-title: Adobe 고객 성공 웨비나
 user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: 1db369887a1c09c774ef07d73ece2d890f36d98f
+source-git-commit: 76919cb28c46b76ad2aace48fbc4fc95ec3fa750
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '556'
 ht-degree: 4%
 
 ---
@@ -73,6 +73,7 @@ ht-degree: 4%
       + [2024년 휴일 결과 및 2025년 트렌드](2025/adobe-digital-insights.md)
       + [효과적인 측정을 위한 공작 전략](2025/impactful-insights.md)
       + [애자일 마케팅 조직 육성](2025/agile-marketing-organization.md)
+      + [실용적인 B2B 사용 사례 개발](2025/practical-business-use-cases.md)
       + [디지털 트렌드 및 미래 준비](2025/digital-trends-preparing-future.md)
       + [노스스타 건축](2025/northstar-architecture.md)
       + [AI 기반의 성장 및 최고 성능의 플레이북](2025/ai-driven-growth.md)
