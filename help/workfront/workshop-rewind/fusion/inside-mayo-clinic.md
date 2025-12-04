@@ -23,9 +23,9 @@ Mayo Clinic의 Tia Calvert 및 Matt Lien과 협력하여 주최한 이 세션은
 
 [슬라이드 데크](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Inside+Mayo+Clinic+-+How+Workfront+Fusion+Helps+the+Humans+Slide+Deck.pdf)를 검토하고 온디맨드 녹화를 시청하여 계속 진행하십시오.
 
-Fusion은 시간과 연습이 필요하므로 이제 막 시작하는 경우 (무료!) [Experience League의 Fusion 교육](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)에 대해 자세히 알아보고 [Workfront Fusion Community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion/ct-p/workfront-fusion-2)에서 다른 고객의 도움을 받으십시오.
+Fusion은 시간과 연습이 필요하므로 이제 막 시작하는 경우 (무료!) [Experience League의 Fusion 교육](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)에 대해 자세히 알아보고 [Workfront Fusion Community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion/ct-p/workfront-fusion-2?profile.language=ko)에서 다른 고객의 도움을 받으십시오.
 
-추가 리소스 및 사용 사례를 살펴보려면 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-inside-mayo-clinic-how-workfront-fusion-helps/td-p/781981)을 확인하십시오.
+추가 리소스 및 사용 사례를 살펴보려면 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-inside-mayo-clinic-how-workfront-fusion-helps/td-p/781981?profile.language=ko)을 확인하십시오.
 
-매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/en/events)를 확인하십시오.
+매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events)를 확인하십시오.
 

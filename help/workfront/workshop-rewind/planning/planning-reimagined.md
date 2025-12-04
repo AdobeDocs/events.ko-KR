@@ -24,11 +24,11 @@ Southern New Hampshire University의 마케팅 운영 담당 부사장인 Heathe
 라이브 세션을 놓친 경우 [HMac의 SNHU 슬라이드](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/SNHU_Adobe+Planning_0825.pdf)를 검토하고 필요에 따라 녹화를 시청하십시오.
 * (참고: 자료상의 모든 프로젝트는 단지 예시일 뿐입니다.)
 
-Workfront Planning의 다음 단계에 대한 자세한 내용은 Experience League에서 [Adobe Workfront Planning 릴리스 활동 페이지](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)를 책갈피로 지정하십시오.
+Workfront Planning의 다음 단계에 대한 자세한 내용은 Experience League에서 [Adobe Workfront Planning 릴리스 활동 페이지](https://experienceleague.adobe.com/ko/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)를 책갈피로 지정하십시오.
 
-행사에 대한 의견을 나누거나 후속 질문이 있습니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-reimagined-snhu-s-creative/td-p/771019)의 댓글에 자유롭게 드롭하세요!
+행사에 대한 의견을 나누거나 후속 질문이 있습니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-reimagined-snhu-s-creative/td-p/771019?profile.language=ko)의 댓글에 자유롭게 드롭하세요!
 
-매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/en/events)를 확인하십시오.
+매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events)를 확인하십시오.
 
 
 

@@ -25,8 +25,8 @@ ht-degree: 0%
 
 [프레젠테이션 슬라이드 자료](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/093025+-+Pitch+Perfect+-+Defining+%26+Communicating+Workfront+Value.pdf)를 검토하고 필요할 때 녹화를 시청해 보세요.
 
-세션 중에 메모와 모범 사례를 공유하여 사용자 정의 가능한 슬라이드 데크를 원하십니까?  추가 리소스가 필요하면 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-pitch-perfect-defining-amp-communicating/td-p/779706)을 확인하십시오.
+세션 중에 메모와 모범 사례를 공유하여 사용자 정의 가능한 슬라이드 데크를 원하십니까?  추가 리소스가 필요하면 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-pitch-perfect-defining-amp-communicating/td-p/779706?profile.language=ko)을 확인하십시오.
 
-매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/en/events)를 확인하십시오.
+매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events)를 확인하십시오.
 
 

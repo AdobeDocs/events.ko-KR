@@ -23,9 +23,9 @@ Workfront 보고서를 다음 수준으로 전환할 준비가 되셨습니까? 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477158/?learn=on&enablevpops)
 
-라이브 세션을 놓쳤습니까? 걱정 마세요! Skye &amp; Nathan의 [프레젠테이션 데크](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-your-dream-workfront-report-exists-two/td-p/783550)를 검토하고 온디맨드 녹화를 시청하여 계속 진행하십시오.
+라이브 세션을 놓쳤습니까? 걱정 마세요! Skye &amp; Nathan의 [프레젠테이션 데크](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-your-dream-workfront-report-exists-two/td-p/783550?profile.language=ko)를 검토하고 온디맨드 녹화를 시청하여 계속 진행하십시오.
 
 행사에 대한 의견을 나누거나 후속 질문이 있습니까? [Experience League 커뮤니티 게시물](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/10.28.25+EXISTS+Class.pdf)의 댓글에 자유롭게 드롭하세요!
 
-매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/en/events)를 확인하십시오.
+매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events)를 확인하십시오.
 

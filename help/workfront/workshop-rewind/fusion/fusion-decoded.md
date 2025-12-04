@@ -25,8 +25,8 @@ Jen Desmond가 Workfront Fusion을 분류하고 Fusion을 해독하는 데 도�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477159/?learn=on&enablevpops)
 
-현재 사용 가능한 Adobe Workfront [Fusion 템플릿](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)을 확인하십시오.
+현재 사용 가능한 Adobe Workfront [Fusion 템플릿](https://experienceleague.adobe.com/ko/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)을 확인하십시오.
 
-[Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958)에서 추가 리소스 링크를 사용할 수 있습니다!
+[Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958?profile.language=ko)에서 추가 리소스 링크를 사용할 수 있습니다!
 
-매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/en/events)를 확인하십시오.
+매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events)를 확인하십시오.
