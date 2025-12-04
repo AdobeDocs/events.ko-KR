@@ -3,9 +3,9 @@ user-guide-title: Workfront 이벤트
 breadcrumb-title: Workfront 이벤트
 user-guide-description: Workfront 이벤트
 solution: Workfront
-source-git-commit: 42c0401d1ef307fd4e4d93245f472f75259d6d21
+source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '280'
 ht-degree: 1%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 1%
 + [Workfront 온디맨드 워크숍](overview.md)
 
 + 릴리스 웨비나 {#releases}
+   + [2025년 4분기 릴리스 웨비나](releases/25-q4-release-webinar.md)
    + [25.7 릴리스](releases/25-7-release-webinar.md)
    + [25.4 릴리스](releases/25-4-release-webinar.md)
    + [25.1 릴리스](releases/25-1-release-webinar.md)
@@ -23,18 +24,28 @@ ht-degree: 1%
 + 워크숍 되감기 {#workshop-rewind}
    + Fusion {#fusion}
       + [이름 지정 규칙 자동화](workshop-rewind/fusion/automating-naming-conventions.md)
+      + [데이터 가져오기](workshop-rewind/fusion/data-imports.md)
+      + [Fusion Decode](workshop-rewind/fusion/fusion-decoded.md)
+      + [Workfront Fusion이 인간을 돕는 방법](workshop-rewind/fusion/inside-mayo-clinic.md)
       + [다중 선택 필드의 변경 사항을 쉽게 탐색](workshop-rewind/fusion/mulit-select-fields.md)
       + [실제 이벤트 비용 잠금 해제](workshop-rewind/fusion/event-costs.md)
+      + [Workfront Fusion + JSONata](workshop-rewind/fusion/jsonata.md)
    + 계획 수립 {#planning}
       + [Workfront Planning의 최신](workshop-rewind/planning/workfront-planning.md)
+      + [SNHU의 Creative 활용 사례](workshop-rewind/planning/planning-reimagined.md)
       + [Workfront Planning을 통한 팀 수준 성공](workshop-rewind/planning/team-success-workfront-planning.md)
       + [Workfront 계획 릴리스 및 로드맵](workshop-rewind/planning/planning-release-roadmap.md)
    + 워크플로 {#workflow}
-      + [Creative의 리소스 관리 방법](classics/creative-ways-of-managing-resources.md)
+      + [블루프린트](workshop-rewind/workflow/blueprints.md)
+      + [Workfront 값 정의 및 통신](workshop-rewind/workflow/workfront-value.md)
+      + [거버넌스, 실행 및 채택 팁](workshop-rewind/workflow/governance-execution-adoption.md)
       + [이메일 알림 마스터](workshop-rewind/workflow/email-notifications.md)
+      + [EXISTS 문 마스터링](workshop-rewind/workflow/master-exists-statements.md)
+      + [전력 템플릿](workshop-rewind/workflow/power-templates.md)
       + [프로젝트 템플릿](workshop-rewind/workflow/project-templates.md)
       + [독학으로 성공한 사람](workshop-rewind/workflow/self-taught-to-success.md)
       + [Workfront Data Connect의 강력한 기능](workshop-rewind/workflow/data-connect.md)
+      + [Workfront + AEM 기본 통합](workshop-rewind/workflow/aem-native-integration.md)
 + 빠른 수행 {#quicktakes}
    + 상위 3 {#top3}
       + [블루프린트를 통한 Creative 접근 방식](quick-takes/top3/blueprints.md)
@@ -73,6 +84,7 @@ ht-degree: 1%
       + [API 탐색기를 사용하여 기본 텍스트 모드 보고 수퍼차지](classics/supercharge-basic-text-mode-reporting-using-the-api-explorer.md)
       + [혼용 및 용량 이해](classics/understanding-mix-and-capacity.md)
    + 리소스 관리 {#resource-management}
+      + [Creative의 리소스 관리 방법](classics/creative-ways-of-managing-resources.md)
       + [리소스 및 용량 계획](user-groups/resource-and-capacity-planning.md)
       + [리소스 관리](user-groups/resource-management.md)
    + 작업 검토 및 승인 {#review-and-approve-work}
@@ -87,10 +99,3 @@ ht-degree: 1%
       + [Workfront Proof 활용](user-groups/leveraging-workfront-proof.md)
    + 요청 큐 및 접수 {#request-queues-and-intake}
       + [요청 대기열 및 접수 Forms](user-groups/request-queues-and-intake-forms.md)
-
-
-
-
-<!--  + Planning {#planning}
-  + Integrations {#integrations}
--->
