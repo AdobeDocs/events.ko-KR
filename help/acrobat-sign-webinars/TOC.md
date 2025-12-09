@@ -1,9 +1,9 @@
 ---
 user-guide-title: Acrobat Sign 웨비나
 user-guide-description: Adobe 전문가로부터 Acrobat Sign의 새로운 전자 서명 워크플로를 마스터하는 방법을 알아보십시오.
-source-git-commit: 76919cb28c46b76ad2aace48fbc4fc95ec3fa750
+source-git-commit: d17c517cdcdeddb2ba8d7db4c244f16d678bab96
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '94'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,7 @@ ht-degree: 1%
 + [워크플로우 만들기 및 사용](./skill-builders/create-use-workflows.md)
 + [Document Builder](./skill-builders/document-builder.md)
 + [통합 공증](./skill-builders/notarize.md)
++ [모바일 전자 서명 최적화](./skill-builders/mobile-e-signing.md)
 + [입력 가능한 서명 가능한 웹 양식 게시](./skill-builders/fillable-signable-web-form.md)
 + [Acrobat Sign 관리 환경 강화](./skill-builders/acrobat-sign-admin-experience.md)
 + [전자 서명 계약 준비](./skill-builders/e-signature-setup.md)

@@ -2,9 +2,9 @@
 user-guide-title: Adobe 고객 성공 웨비나
 breadcrumb-title: Adobe 고객 성공 웨비나
 user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: 76919cb28c46b76ad2aace48fbc4fc95ec3fa750
+source-git-commit: d17c517cdcdeddb2ba8d7db4c244f16d678bab96
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '563'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
       + [경영진 후원 구축](2025/cja-success.md)
       + [변경 관리 전략](2025/cja-adoption.md)
       + [CJA Data Insights Agent](2025/cja-data-insights-agent.md)
+      + [CJA을 사용하여 30분 안에 오퍼 만들기](2025/cja-shared-audiences.md)
       + [CJA 성공을 위한 운영 모델 디자인](2025/cja-operating-model.md)
       + [기초 건축](2025/cja-vision.md)
       + [Adobe Analytics에서 CJA으로 마이그레이션](2025/analytics-to-cja-migration.md)
