@@ -3,9 +3,9 @@ user-guide-title: Workfront 이벤트
 breadcrumb-title: Workfront 이벤트
 user-guide-description: Workfront 이벤트
 solution: Workfront
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+source-git-commit: 8762eada888ea3ed55ddefe70d587c76ae6bfa16
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '283'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 1%
       + [Workfront 계획 릴리스 및 로드맵](workshop-rewind/planning/planning-release-roadmap.md)
    + 워크플로 {#workflow}
       + [블루프린트](workshop-rewind/workflow/blueprints.md)
+      + [Creative Brief 다시 만들기](workshop-rewind/workflow/creative-briefs.md)
       + [Workfront 값 정의 및 통신](workshop-rewind/workflow/workfront-value.md)
       + [거버넌스, 실행 및 채택 팁](workshop-rewind/workflow/governance-execution-adoption.md)
       + [이메일 알림 마스터](workshop-rewind/workflow/email-notifications.md)

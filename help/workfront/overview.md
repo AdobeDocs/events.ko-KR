@@ -3,9 +3,9 @@ title: Adobe Workfront 온디맨드 워크숍
 description: Workfront 이벤트는 전문가와 동료가 Workfront을 사용하여 조직을 위해 수행되는 작업을 향상시키는 방법에 대한 생각과 아이디어를 공유한 비디오 라이브러리입니다.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 48d93e64b075db84d164a743db97fa0202b3e26c
+source-git-commit: 8762eada888ea3ed55ddefe70d587c76ae6bfa16
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '860'
 ht-degree: 2%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="releases/25-7-release-webinar.md" title="Adobe Workfront 25.7 릴리스 웨비나" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1763675711841" alt="Adobe Workfront 25.7 릴리스 웨비나"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1765315875998" alt="Adobe Workfront 25.7 릴리스 웨비나"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -51,13 +51,13 @@ ht-degree: 2%
 
 ## 워크숍 되감기
 
-선별된 추천 이벤트를 통해 Adobe Workfront 커뮤니티의 최신 버전을 살펴보십시오. 매월 Workfront을 최대한 활용할 수 있도록 다양한 주제에 대한 무료 라이브 세션을 진행합니다. 라이브 이벤트를 놓쳤습니까? 문제 없습니다! 고객 사례, 검증된 Best Practice, 그리고 학습한 소중한 교훈을 소개하는 온디맨드 녹화본을 만나보십시오. 실시간으로 연결하시겠습니까? 예정된 라이브 이벤트에 참여하여 질문을 하고, 인사이트를 공유하고, 동료와 공동 작업하십시오. [Experience League Workfront 이벤트 페이지](https://experienceleague.adobe.com/ko/events?filters=Workfront)를 정기적으로 방문하여 다음 항목을 확인하십시오!
+선별된 추천 이벤트를 통해 Adobe Workfront 커뮤니티의 최신 버전을 살펴보십시오. 매월 Workfront을 최대한 활용할 수 있도록 다양한 주제에 대한 무료 라이브 세션을 진행합니다. 라이브 이벤트를 놓쳤습니까? 문제 없습니다! 고객 사례, 검증된 Best Practice, 그리고 학습한 소중한 교훈을 소개하는 온디맨드 녹화본을 만나보십시오. 실시간으로 연결하시겠습니까? 예정된 라이브 이벤트에 참여하여 질문을 하고, 인사이트를 공유하고, 동료와 공동 작업하십시오. [Experience League Workfront 이벤트 페이지](https://experienceleague.adobe.com/en/events?filters=Workfront)를 정기적으로 방문하여 다음 항목을 확인하십시오!
 
 <!-- CARDS 
 
 * workshop-rewind/planning/team-success-workfront-planning.md
 * workshop-rewind/fusion/event-costs.md
-* workshop-rewind/workflow/data-connect.md
+* workshop-rewind/workflow/creative-briefs.md
  
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -67,7 +67,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/planning/team-success-workfront-planning.md" title="빠른 시작, 스마트한 확장 - Workfront Planning을 통해 팀 수준의 성공 활성화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469964/?format=jpeg&nocache=1763675712244" alt="빠른 시작, 스마트한 확장 - Workfront Planning을 통해 팀 수준의 성공 활성화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469964/?format=jpeg&nocache=1765315876609" alt="빠른 시작, 스마트한 확장 - Workfront Planning을 통해 팀 수준의 성공 활성화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -90,7 +90,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/fusion/event-costs.md" title="Workfront Fusion Fix - Ericsson을 통해 진정한 이벤트 비용 절감" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469977/?format=jpeg&nocache=1763675712238" alt="Workfront Fusion Fix - Ericsson을 통해 진정한 이벤트 비용 절감"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469977/?format=jpeg&nocache=1765315876620" alt="Workfront Fusion Fix - Ericsson을 통해 진정한 이벤트 비용 절감"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -108,12 +108,12 @@ ht-degree: 2%
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlock the Power of Workfront Data Connect">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Reimagining Creative Briefs in Workfront">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="workshop-rewind/workflow/data-connect.md" title="Workfront Data Connect의 강력한 기능" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469965/?format=jpeg&nocache=1763675712257" alt="Workfront Data Connect의 강력한 기능"
+                    <a href="workshop-rewind/workflow/creative-briefs.md" title="Workfront에서 Creative 브리프 다시 상상하기" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477114/?format=jpeg&nocache=1765315876590" alt="Workfront에서 Creative 브리프 다시 상상하기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -121,11 +121,11 @@ ht-degree: 2%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="workshop-rewind/workflow/data-connect.md" target="_blank" rel="referrer" title="Workfront Data Connect의 강력한 기능">Workfront Data Connect의 기능을 잠금 해제</a>
+                        <a href="workshop-rewind/workflow/creative-briefs.md" target="_blank" rel="referrer" title="Workfront에서 Creative 브리프 다시 상상하기">Workfront에서 Creative Brief 다시 만들기</a>
                     </p>
-                    <p class="is-size-6">Adobe Workfront Data Connect를 BI 도구와 통합하여 통찰력을 확보하고, 성능을 추적하고, 보다 현명한 비즈니스 의사 결정을 유도하는 방법에 대해 알아봅니다.</p>
+                    <p class="is-size-6">Kohler가 Workfront을 사용하여 크리에이티브 브리프를 어떻게 변형하여 프로세스를 간소화하고 효율성을 개선했는지 살펴보십시오.</p>
                 </div>
-                <a href="workshop-rewind/workflow/data-connect.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="workshop-rewind/workflow/creative-briefs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
                 </a>
             </div>
@@ -155,7 +155,7 @@ Workfront 관리자, 프로젝트 관리자 또는 일반 사용자 등 이 섹�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/blueprints.md" title="상위 3 - Creative의 블루프린트 접근 방식" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465318/?captions=kor&format=jpeg&nocache=1763675712911" alt="상위 3 - Creative의 블루프린트 접근 방식"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1765315877555" alt="상위 3 - Creative의 블루프린트 접근 방식"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +178,7 @@ Workfront 관리자, 프로젝트 관리자 또는 일반 사용자 등 이 섹�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/versus/groups-vs-teams.md" title="Versus! - 그룹 대 팀" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467360/?captions=kor&format=jpeg&nocache=1763675712903" alt="Versus! - 그룹 대 팀"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1765315877551" alt="Versus! - 그룹 대 팀"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -219,7 +219,7 @@ Workfront Expert Insights 시리즈는 숙련된 Workfront 전문가의 실용�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption.md" title="전문가 통찰력 - Leslie Spier로 채택" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469934/?captions=kor&format=jpeg&nocache=1763675713371" alt="전문가 통찰력 - Leslie Spier로 채택"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469893/?format=jpeg&nocache=1765315878072" alt="전문가 통찰력 - Leslie Spier로 채택"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -242,7 +242,7 @@ Workfront Expert Insights 시리즈는 숙련된 Workfront 전문가의 실용�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption-surveys.md" title="전문가 인사이트 - Jaime Davidson의 입양 조사" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469957/?captions=kor&format=jpeg&nocache=1763675713377" alt="전문가 인사이트 - Jaime Davidson의 입양 조사"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469895/?format=jpeg&nocache=1765315878064" alt="전문가 인사이트 - Jaime Davidson의 입양 조사"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -265,7 +265,7 @@ Workfront Expert Insights 시리즈는 숙련된 Workfront 전문가의 실용�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/agile.md" title="전문가 인사이트 - Natalie Mitchell과 애자일" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469923/?captions=kor&format=jpeg&nocache=1763675713389" alt="전문가 인사이트 - Natalie Mitchell과 애자일"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469891/?format=jpeg&nocache=1765315878067" alt="전문가 인사이트 - Natalie Mitchell과 애자일"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
