@@ -9,10 +9,10 @@ doc-type: Event
 duration: 2786
 last-substantial-update: 2025-12-09T00:00:00Z
 jira: KT-19776
-source-git-commit: 8762eada888ea3ed55ddefe70d587c76ae6bfa16
+source-git-commit: 371ba5246679b71dd4710e5034eb10b9b01f6789
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 1%
+source-wordcount: '76'
+ht-degree: 0%
 
 ---
 
@@ -23,10 +23,7 @@ Kohler가 생산성과 효율성을 높이기 위해 Workfront을 사용하여 C
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477114/?learn=on&enablevpops)
 
-## 리소스
 
-* [text](https://experienceleague.adobe.com/fr/events) 이벤트에서 실시간으로 확인하세요.
-* [text](https://experienceleague.adobe.com/fr/events) 이벤트에서 실시간으로 확인하세요.
 
 
 
