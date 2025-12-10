@@ -3,9 +3,9 @@ user-guide-title: Workfront 이벤트
 breadcrumb-title: Workfront 이벤트
 user-guide-description: Workfront 이벤트
 solution: Workfront
-source-git-commit: 8762eada888ea3ed55ddefe70d587c76ae6bfa16
+source-git-commit: df552b4f2b2fa1d8e4e8941aa9d58acecc60dd2b
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '312'
 ht-degree: 1%
 
 ---
@@ -51,6 +51,11 @@ ht-degree: 1%
    + 상위 3 {#top3}
       + [블루프린트를 통한 Creative 접근 방식](quick-takes/top3/blueprints.md)
       + [오피스 아워(Office Hours)에 대한 상위 3가지 접근 방식](quick-takes/top3/office-hours.md)
+      + [상위 3개 달력](quick-takes/top3/calendar-hacks.md)
+      + [사용자 지정 Forms에서 이미지 사용](quick-takes/top3/add-image-custom-forms.md)
+      + [레이아웃 템플릿을 사용해야 하는 주요 이유](quick-takes/top3/layout-templates.md)
+      + [Workfront 워크숍에 참석해야 하는 주요 이유](quick-takes/top3/reason-attend-workshop.md)
+      + [Workfront에서 보고서 예약 최대화](quick-takes/top3/report-scheduling.md)
    + Versus! {#versus}
       + [그룹 대 팀](quick-takes/versus/groups-vs-teams.md)
 + 전문가 인사이트 {#expert-insights}
@@ -60,6 +65,7 @@ ht-degree: 1%
    + [컨텐츠 Supply chain](expert-insights/content-supply-chain.md)
    + [Fusion](expert-insights/fusion.md)
    + [거버넌스 및 Center of Excellence](expert-insights/centers-of-excellence.md)
+   + [기본 텍스트 모드](expert-insights/text-mode.md)
    + [비기존 Workfront 워크플로](expert-insights/non-traditional-workfront-workflows.md)
    + [보고 사례](expert-insights/reporting-practices.md)
    + [리소스 관리](expert-insights/resource-management.md)
