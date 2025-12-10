@@ -19,7 +19,7 @@ ht-degree: 0%
 
 놀라운 것은 아닙니다. 레이아웃 템플릿을 사용하면 Adobe Workfront 인스턴스가 시스템 관리자로서 특정 요구 사항에 더 맞게 조정되므로 레이아웃 템플릿을 사용해야 하는 세 가지 주요 이유를 확인해 보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477026/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477047/?captions=kor&learn=on&enablevpops)
 
 추가 리소스는 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-layout-templates-in-adobe-workfront/m-p/575531?profile.language=ko#M313)을 확인하세요!
 

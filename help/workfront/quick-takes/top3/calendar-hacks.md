@@ -24,7 +24,7 @@ ht-degree: 1%
 * 달력에 직접 표시되는 요청(신규 직원 온보딩 예제)
 * 그리고 보너스 팁도!
 
->[!VIDEO](https://video.tv.adobe.com/v/3477039/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477070/?captions=kor&learn=on&enablevpops)
 
 추가 리소스는 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-fave-calendar-hacks/td-p/591047?profile.language=ko)을 확인하세요!
 

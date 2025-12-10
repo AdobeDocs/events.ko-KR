@@ -21,7 +21,7 @@ ht-degree: 0%
 
 여기에는 커뮤니케이션을 개선하고 최종 사용자에게 보다 흥미로운 요청을 작성할 수 있는 재미있고 기능적인 팁이 모두 포함되어 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477027/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477059/?captions=kor&learn=on&enablevpops)
 
 추가 리소스는 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-add-an-image-to-custom-forms/m-p/576903?profile.language=ko#M374)을 확인하세요!
 

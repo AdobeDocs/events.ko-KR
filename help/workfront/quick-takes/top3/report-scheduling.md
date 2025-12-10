@@ -21,7 +21,7 @@ ht-degree: 0%
 
 이번에는 예약 보고서를 최대한 활용할 수 있는 방법을 공유하려고 합니다. 이 비디오에서 이 기능을 사용하여 작성한 모든 환상적인 보고서에서 더 많은 것을 얻는 방법에 대한 예를 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477040/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477081/?captions=kor&learn=on&enablevpops)
 
 추가 리소스는 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285?profile.language=ko)을 확인하세요!
 
