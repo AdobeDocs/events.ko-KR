@@ -21,5 +21,5 @@ Adobe Workfront 워크숍은 제품에 익숙해질 수 있는 훌륭한 방법�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477025/?learn=on&enablevpops)
 
-완료되면 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/en/events?filters=Workfront)&#x200B;(으)로 이동하여 향후 워크샵에 등록하십시오.
+완료되면 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events?filters=Workfront)&#x200B;(으)로 이동하여 향후 워크샵에 등록하십시오.
 

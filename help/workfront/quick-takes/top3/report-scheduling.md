@@ -23,6 +23,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477040/?learn=on&enablevpops)
 
-추가 리소스는 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285)을 확인하세요!
+추가 리소스는 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285?profile.language=ko)을 확인하세요!
 
-새로운 아이디어와 창의적인 접근 방식에 대해 배우는 것이 좋다면 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/en/events)에서 예정된 워크숍에 등록하는 것을 잊지 마세요.
+새로운 아이디어와 창의적인 접근 방식에 대해 배우는 것이 좋다면 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events)에서 예정된 워크숍에 등록하는 것을 잊지 마세요.
