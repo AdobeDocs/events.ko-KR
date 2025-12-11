@@ -2,9 +2,9 @@
 user-guide-title: Adobe Developers Live 이벤트
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Adobe Developer Live 콘텐츠 이벤트의 녹화본 컬렉션
-source-git-commit: c069bbf422ed534b7459bf740c3c4df5f1f8cc3a
+source-git-commit: ea82ddf49a9cddc4292b46a1070200083135ca3d
 workflow-type: tm+mt
-source-wordcount: '906'
+source-wordcount: '929'
 ht-degree: 6%
 
 ---
@@ -13,6 +13,12 @@ ht-degree: 6%
 # Adobe Developers Live 이벤트 {#adobe-developers-live-recordings}
 
 + [개요](overview.md)
++ 2025 {#2025}
+   + [Keynote - Agentic 웹 키노트 작성](2025/keynote.md)
+   + [AEM의 무의미한 진화](2025/agentic-evolution-aem.md)
+   + [Adobe 프로젝트의 AI](2025/ai-in-projects.md)
+   + [AI 코딩 대결](2025/coding-agent.md)
+   + [Adobe Experience Manager 에이전트 살펴보기](2025/aem-agents.md)
 + 2024 {#2024}
    + 11월 {#nov2024}
       + [Keynote](2024/nov/keynote.md)
