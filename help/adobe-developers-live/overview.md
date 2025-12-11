@@ -85,7 +85,7 @@ Adobe Experience Cloud, Document Cloud 및 Creative Cloud의 Adobe 제품 팀은
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-in-projects.md" title="Adobe 프로젝트의 AI - 실용적인 사례" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477606/?format=jpeg&nocache=1765410870539" alt="Adobe 프로젝트의 AI - 실용적인 사례"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477632/?captions=kor&format=jpeg&nocache=1765410870539" alt="Adobe 프로젝트의 AI - 실용적인 사례"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -108,7 +108,7 @@ Adobe Experience Cloud, Document Cloud 및 Creative Cloud의 Adobe 제품 팀은
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/coding-agent.md" title="AI 코딩 쇼다운 - 좋은, 나쁜, 추한" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477619/?format=jpeg&nocache=1765410870512" alt="AI 코딩 쇼다운 - 좋은, 나쁜, 추한"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477655/?captions=kor&format=jpeg&nocache=1765410870512" alt="AI 코딩 쇼다운 - 좋은, 나쁜, 추한"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -131,7 +131,7 @@ Adobe Experience Cloud, Document Cloud 및 Creative Cloud의 Adobe 제품 팀은
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-agents.md" title="Adobe Experience Manager 에이전트 살펴보기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477620/?format=jpeg&nocache=1765410870551" alt="Adobe Experience Manager 에이전트 살펴보기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477667/?captions=kor&format=jpeg&nocache=1765410870551" alt="Adobe Experience Manager 에이전트 살펴보기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
