@@ -3,9 +3,9 @@ user-guide-title: Adobe Experience Manager GEMS 이벤트
 user-guide-description: Adobe Experience Manager 전문가가 제공하는 일련의 기술적인 분석인 AEM Gems에 대해 알아봅니다.
 breadcrumb-title: AEM GEM 이벤트
 solution: Experience Manager
-source-git-commit: 78e56de853566bed74975bb7ef44f2cbd53cde8d
+source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '243'
 ht-degree: 2%
 
 ---
@@ -34,14 +34,11 @@ ht-degree: 2%
    + [On-Premise 및 AMS 환경을 위한 AEM Best Practices Analyzer](gems2023/aem-best-practices-analyzer.md)
 + 2022 {#gems2022}
    + [사용 중인 AEM Headless의 고객 사용 사례 및 구현](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
-   + [자세히 살펴보기 - Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
    + [AEM 및 CIF 프레임워크를 통합하여 풍부하고 매력적인 전자 상거래 경험 구축](gems2022/aem-and-cif-framework-integration.md)
    + [AEM Headless 및 App Builder을 사용하여 보다 빠르게 웹 사이트 구축](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
-   + [Adobe Experience Manager as a Cloud Service: 2021년 검토 및 2022년 전망](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + 2020 {#gems2020}
    + [AEM 6.5 전 세계 지원 - 번역 통합 및 모범 사례](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
 + 2019년 {#gems2019}
-   + [Experience Manager 6.5 [!DNL Sites]의 새로운 기능](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
    + [AEM 리치 텍스트 편집기(RTE) 심층 분석](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
    + [ContextHub의 저장소, 모듈 및 세그먼트에 대한 구현 세부 사항에 대해 자세히 알아봅니다](gems2019/contexthub-deep-dive.md)
    + [AEM 6.5를 사용하여 헤드리스 옴니채널 경험 만들기](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)

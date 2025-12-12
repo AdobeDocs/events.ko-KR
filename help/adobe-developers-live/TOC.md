@@ -2,10 +2,10 @@
 user-guide-title: Adobe Developers Live 이벤트
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Adobe Developer Live 콘텐츠 이벤트의 녹화본 컬렉션
-source-git-commit: ea82ddf49a9cddc4292b46a1070200083135ca3d
+source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
 workflow-type: tm+mt
-source-wordcount: '929'
-ht-degree: 6%
+source-wordcount: '984'
+ht-degree: 5%
 
 ---
 
@@ -16,9 +16,22 @@ ht-degree: 6%
 + 2025 {#2025}
    + [Keynote - Agentic 웹 키노트 작성](2025/keynote.md)
    + [AEM의 무의미한 진화](2025/agentic-evolution-aem.md)
+   + [LLM Optimizer이 포함된 AI 에이전트](2025/llm-optimizer.md)
    + [Adobe 프로젝트의 AI](2025/ai-in-projects.md)
    + [AI 코딩 대결](2025/coding-agent.md)
+   + [AI Commerce 개발 혁신](2025/app-builder-extensions.md)
+   + [AEM을 사용한 AI 콘텐츠 검색](2025/ai-content-discovery.md)
+   + [Brand Concierge](2025/brand-concierge.md)
+   + [AEM의 콘텐츠 AI](2025/content-ai.md)
+   + [규모에 맞게 문서 작성](2025/document-authoring-at-scale.md)
+   + [동적 게시](2025/dynamic-publishing.md)
    + [Adobe Experience Manager 에이전트 살펴보기](2025/aem-agents.md)
+   + [경험 마이그레이션 및 현대화](2025/modernize-experiences.md)
+   + [Edge Delivery Services을 통한 콴타스 현대화](2025/modernizing-qantas.md)
+   + [AEM Sites Optimizer으로 코드 최적화](2025/code-optimization.md)
+   + [신속한 개발 환경 스냅샷](2025/rapid-development-snapshots.md)
+   + [AI를 통한 정부 서비스 능률화](2025/government-digital-services.md)
+   + [AEM에서 AI 잠금 해제](2025/transform-aem-with-agents.md)
 + 2024 {#2024}
    + 11월 {#nov2024}
       + [Keynote](2024/nov/keynote.md)
