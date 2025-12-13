@@ -19,7 +19,7 @@ ht-degree: 1%
 
 AI가 Adobe Experience Manager을 통해 콘텐츠 검색을 변환하는 방법에 대해 알아봅니다. 시맨틱 검색 및 AI 기반 에셋 권장 사항에 콘텐츠 관리자를 사용하는 방법을 알아봅니다. 이 세션에서는 Campaign Brief 기반의 검색 및 Dynamic Media 렌디션에 대한 신속한 액세스를 다루며, OpenAPI 스택을 통해 콘텐츠 재사용 및 전달을 간소화합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477673/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477747/?captions=kor&learn=on&enablevpops)
 
 이 세션(Channel Ready Renditions 포함 AI 기반 콘텐츠 검색)에서는 Matt Briscoe, Deepa Gupta 및 Mathias Siegel이 개발자가 Content Advisor를 사용하여 의미 체계 검색 및 AI 기반 권장 사항을 통해 에셋 및 콘텐츠 조각을 검색하는 방법을 보여줍니다. Scene7 및 DM에서 Campaign Brief 기반의 검색 및 Dynamic Media 표현물에 대한 신속한 액세스를 통해 OpenAPI 스택을 통해 콘텐츠 재사용 및 전달을 간소화하는 방법에 대해 알아봅니다. San Jose에서 생방송으로 녹화됨.
 

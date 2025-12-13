@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Adobe Commerce이 AI를 활용하여 앱 개발을 전환하고 사용자 정의를 간소화하는 방법에 대해 알아봅니다. JavaScript 코드를 빠르게 생성하는 자동화된 코드 분석, 지능형 마이그레이션 보고서 및 자연어 프롬프트에 대해 알아봅니다. 이 세션에서는 Adobe Commerce의 도구 생태계의 혁신을 강조하여 팀이 레거시 시스템을 효율적으로 현대화하고 기술 부채를 줄일 수 있도록 지원합니다. 대화에 참여하고 다가오는 이벤트를 탐색하여 최신 개선 사항을 최신 상태로 유지하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477672/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477688/?captions=kor&learn=on&enablevpops)
 
 이 세션(Commerce의 Adobe App Builder 확장을 위한 AI 기반 개발)에서는 Commerce Cloud의 수석 제품 관리자인 Matt Johnson이 Adobe Commerce이 어떻게 AI 기반 도구 에코시스템을 구축하여 팀이 이전 사용자 정의를 보다 빠르게 식별하고 현대화할 수 있는지 보여줍니다. 자동화된 코드 분석, 지능적인 마이그레이션 보고서 및 자연어 프롬프트가 어떻게 App Builder과 호환되는 JavaScript 코드를 몇 분 만에 생성하여 현대화 작업을 능률화하고 기술 부담을 줄이는지 확인하십시오. San Jose에서 생방송으로 녹화됨.
 
