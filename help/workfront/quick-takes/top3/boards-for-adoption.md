@@ -23,7 +23,7 @@ ht-degree: 0%
 
 게시판 기능을 실험해 볼 기회가 없었다면 걱정하지 마십시오! 이 비디오에서는 사용자에게 액세스 권한을 제공하는 방법과 을 통해 빠르게 시작할 수 있는 몇 가지 방법을 공유합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470075/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470105/?captions=kor&learn=on&enablevpops)
 
 ## 추가 리소스
 

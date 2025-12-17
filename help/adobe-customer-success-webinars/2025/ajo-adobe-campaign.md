@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Adobe Journey Optimizer과 Adobe Campaign이 함께 작동하여 캠페인 실행을 변환하는 방법을 살펴봅니다. 이 세션은 Journey Optimizer의 실시간 참여 기능과 Campaign의 강력한 관리 기능의 시너지를 보여 줍니다. 워크플로우를 간소화하고 민첩성을 향상시키며 더 심층적인 고객 통찰력을 확보하여 의미 있는 상호 작용을 보장하는 실용적인 전략을 얻을 수 있습니다. 원활한 크로스 채널 경험을 위해 이들 도구를 조화롭게 사용하고, 모든 고객 상호 작용을 위한 개인화 및 타이밍을 개선하는 방법을 알아봅니다. 이러한 통합을 통해 효과적인 캠페인을 더 빠르고 정확하게 제공할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477880/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477900/?captions=kor&learn=on&enablevpops)
 
 ## 주요 학습 사항
 

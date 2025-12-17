@@ -23,7 +23,7 @@ ht-degree: 0%
 * 프로젝트 관리자/플래너
 * 작업자/요청자
 
->[!VIDEO](https://video.tv.adobe.com/v/3470072/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470183/?captions=kor&learn=on&enablevpops)
 
 ## 추가 리소스
 

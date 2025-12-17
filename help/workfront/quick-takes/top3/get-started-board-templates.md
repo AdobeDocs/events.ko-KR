@@ -19,7 +19,7 @@ ht-degree: 0%
 
 &quot;온디맨드 Workfront CSM&quot; 신시아 분께서 인사드립니다! Workfront 보드 사용에 관심이 있지만 어디서부터 시작해야 할지 잘 모르겠습니까? 시작하기 가장 쉬운 방법은 사전 제작된 템플릿을 사용하는 것입니다!
 
->[!VIDEO](https://video.tv.adobe.com/v/3470067/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470138/?captions=kor&learn=on&enablevpops)
 
 다음은 단계별 지침을 제공하는 문서입니다.
 

@@ -23,7 +23,7 @@ ht-degree: 0%
 
 텍스트 모드를 사용하여 정보를 보고서에 결합하는 방법에 대한 질문이 많으므로 단계별 비디오와 몇 가지 아래 리소스를 통해 시작하겠습니다. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470076/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470127/?captions=kor&learn=on&enablevpops)
 
 더 많은 정보를 찾고 계십니까? **Experience League 커뮤니티 게시물**&#x200B;에 [3개의 추가 팁](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641?profile.language=ko)이 있습니다!
 

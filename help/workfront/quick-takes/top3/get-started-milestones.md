@@ -23,7 +23,7 @@ ht-degree: 4%
 
 프로젝트 대시보드에 마일스톤 보고서를 포함하거나 이 보고서를 공유하면(더 나은 방식으로, 정기 게재를 위해 자동으로 예약함) 이해 당사자(Workfront 사용자가 아닌 사용자도 프로젝트 진행 상황에 참여할 수 있도록 유지할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470066/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470161/?captions=kor&learn=on&enablevpops)
 
 ## 추가 리소스
 
