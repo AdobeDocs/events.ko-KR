@@ -23,8 +23,8 @@ ht-degree: 0%
 
 다음은 단계별 지침을 제공하는 문서입니다.
 
-[템플릿을 사용하여 새 게시판 만들기](https://experienceleague.adobe.com/en/docs/workfront/using/agile/boards-in-workfront/create-edit-board#create-a-new-board) 
+[템플릿을 사용하여 새 게시판 만들기](https://experienceleague.adobe.com/ko/docs/workfront/using/agile/boards-in-workfront/create-edit-board#create-a-new-board) 
 
-동영상에 대해 공유할 아이디어 또는 후속 질문이 있으십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-getting-started-with-boards-templates/td-p/694307)의 댓글에 자유롭게 드롭하세요!
+동영상에 대해 공유할 아이디어 또는 후속 질문이 있으십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-getting-started-with-boards-templates/td-p/694307?profile.language=ko)의 댓글에 자유롭게 드롭하세요!
 
 

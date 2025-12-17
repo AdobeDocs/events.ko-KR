@@ -23,6 +23,6 @@ ht-degree: 0%
 
 고객이 보드를 사용하는 방법에 대한 예를 찾고 계십니까? 2024년 Adobe Summit의 Mattel 팀의 게시판 프레젠테이션보다 더 나아가서 살펴보십시오!  
 
-[2024 Summit 세션: Mattel이 Workfront 보드를 활용하는 방법](https://business.adobe.com/summit/2024/sessions/skill-exchange-how-mattel-is-leveraging-workfront-s956.html)
+[2024 Summit 세션: Mattel이 Workfront 보드를 활용하는 방법](https://business.adobe.com/kr/summit/2024/sessions/skill-exchange-how-mattel-is-leveraging-workfront-s956.html)
 
 

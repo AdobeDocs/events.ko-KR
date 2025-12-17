@@ -21,6 +21,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470070/?learn=on&enablevpops)
 
-회사를 사용하기 위한 추가 리소스 또는 아이디어를 찾고 계십니까? 자세한 모범 사례는 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-companies/td-p/670313)을 확인하세요!
+회사를 사용하기 위한 추가 리소스 또는 아이디어를 찾고 계십니까? 자세한 모범 사례는 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-companies/td-p/670313?profile.language=ko)을 확인하세요!
 
 

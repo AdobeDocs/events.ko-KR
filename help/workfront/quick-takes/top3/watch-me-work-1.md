@@ -27,4 +27,4 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-더 많은 정보를 찾고 계십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-special-edition-watch-me-work-3-ways/td-p/656910)을 확인해 보세요!
+더 많은 정보를 찾고 계십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-special-edition-watch-me-work-3-ways/td-p/656910?profile.language=ko)을 확인해 보세요!

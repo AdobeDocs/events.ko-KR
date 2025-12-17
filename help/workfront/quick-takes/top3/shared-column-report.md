@@ -25,6 +25,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470076/?learn=on&enablevpops)
 
-더 많은 정보를 찾고 계십니까? **Experience League 커뮤니티 게시물**&#x200B;에 [3개의 추가 팁](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641)이 있습니다!
+더 많은 정보를 찾고 계십니까? **Experience League 커뮤니티 게시물**&#x200B;에 [3개의 추가 팁](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641?profile.language=ko)이 있습니다!
 
 

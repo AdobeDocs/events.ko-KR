@@ -29,8 +29,8 @@ ht-degree: 4%
 
 이정표에 대한 자세한 내용은 다음 무료 리소스를 확인하십시오.
 
-* [마일스톤 경로 및 마일스톤 단계 만들기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
-* [마일스톤 보기 사용](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
+* [마일스톤 경로 및 마일스톤 단계 만들기](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
+* [마일스톤 보기 사용](https://experienceleague.adobe.com/ko/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
 * [보고서 보내기 및 공유](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports)
 
 

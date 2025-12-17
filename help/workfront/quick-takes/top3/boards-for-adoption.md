@@ -29,9 +29,9 @@ ht-degree: 0%
 
 비디오에서 약속한 대로 기사 및 짧은 비디오 데모를 포함하여 공유할 리소스가 많습니다.
 
-* [Adobe Workfront에서 보드 시작](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=en)
-* [Adobe Workfront 보드에 대한 초기 기능 옵트인](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
-* [게시판 만들기 또는 편집 - 각 게시판 템플릿에 대한 설명을 포함합니다](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
-* [Adobe Workfront 게시판 - 짧은 비디오 데모](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)
+* [Adobe Workfront에서 보드 시작](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=ko)
+* [Adobe Workfront 보드에 대한 초기 기능 옵트인](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=ko)
+* [게시판 만들기 또는 편집 - 각 게시판 템플릿에 대한 설명을 포함합니다](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=ko)
+* [Adobe Workfront 게시판 - 짧은 비디오 데모](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=ko)
 
 

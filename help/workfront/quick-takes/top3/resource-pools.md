@@ -29,7 +29,7 @@ ht-degree: 1%
 
 ## 추가 리소스
 
-* 자세한 내용은 [리소스 풀 개요 문서](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools)를 참조하세요.
-* 더 많은 정보를 찾고 계십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866)을 확인해 보세요!
+* 자세한 내용은 [리소스 풀 개요 문서](https://experienceleague.adobe.com/ko/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools)를 참조하세요.
+* 더 많은 정보를 찾고 계십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866?profile.language=ko)을 확인해 보세요!
 
 
