@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 45be7126bdcf2ae97d812dc3aa708efa7c173c98
+source-git-commit: 04cd7f4e1881d75f6fde97c48e2fb7a4f587a9ee
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 17%
+source-wordcount: '165'
+ht-degree: 18%
 
 ---
 
@@ -25,16 +25,8 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 <table>
     <tr>
-         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-12-16-25.md">
-              <img alt="2025년 12월 16일 Experience League 라이브" src="episodes/assets/WebBanner_Dec16_2025.jpg">
-            </a>
-            <div>
-              <a href="episodes/exl-live-episode-12-16-25.md">
-                <strong>제품 지원 에이전트를 사용하여 문제 해결 및 지원 사례 관리 간소화</strong>
-              </a>
-              <br/><em>Daniel Wright, Huong Vu 및 Shreya Anantha Raman과 함께</em>
-              <br/><em>2025년 12월 16일</em>
-            </div>
+         <td style="vertical-align: top;">
+            곧 새로운 쇼가 시작됩니다. 사용 가능한 프로그램을 보려면 이 페이지로 돌아오십시오.
         </td>
     </tr>
 
@@ -101,5 +93,5 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/ko#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
+>기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
 
