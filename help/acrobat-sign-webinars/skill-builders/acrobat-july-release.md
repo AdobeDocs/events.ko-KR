@@ -1,5 +1,5 @@
 ---
-title: 웨비나 - 최신 개선 사항 - Adobe Acrobat Sign 2025년 7월 릴리스에 대해 모두 알아봅니다.
+title: 최신 개선 사항 - Acrobat Sign 2025년 7월 릴리스에 대해 모두 알아봅니다.
 description: Acrobat Sign의 2025년 7월 업데이트 - PDF/A 준수, WhatsApp 알림, 리더 및 관리자를 위한 향상된 계약 보안 기능을 살펴보십시오.
 solution: Acrobat Sign
 feature-set: Document Cloud
@@ -10,15 +10,15 @@ doc-type: Event
 duration: 3588
 last-substantial-update: 2025-09-05T00:00:00Z
 jira: KT-19007
-source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
+exl-id: 0b442d68-25ba-4c79-9786-20c1600cfa15
+source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
 
-
-# 웨비나: 최신 개선 사항: Adobe Acrobat Sign 2025년 7월 릴리스
+# 최신 개선 사항 - Acrobat Sign 2025년 7월 릴리스에 대해 모두 알아봅니다.
 
 Acrobat Sign을 통해 성공을 이끌고, 관리하고, 추진하는 사용자를 위해 구축된 새로운 기능 및 기능을 살펴보십시오.
 
@@ -28,7 +28,7 @@ Acrobat Sign을 통해 성공을 이끌고, 관리하고, 추진하는 사용자
 * WhatsApp을 통해 계약 알림 보내기
 * 중요한 계약 보호: 계정 공유 및 제한된 계약 액세스
 
-Acrobat Sign을 처음 사용하는 사용자와 그러한 웹세미나를 통해 잠재력을 극대화하고자 하는 사용자 간에 이 웨비나는 문서 프로세스를 손쉽게 디지털화할 수 있는 실용적인 통찰력과 데모를 제공합니다.
+Acrobat Sign을 처음 사용하는 사용자와 그 잠재력을 극대화하려는 사용자 간에 이 웨비나는 실용적인 통찰력과 데모를 제공하여 문서 프로세스를 손쉽게 디지털화할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3473003/?learn=on&enablevpops)
 

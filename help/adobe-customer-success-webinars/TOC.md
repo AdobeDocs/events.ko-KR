@@ -2,9 +2,9 @@
 user-guide-title: Adobe 고객 성공 웨비나
 breadcrumb-title: Adobe 고객 성공 웨비나
 user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: d17c517cdcdeddb2ba8d7db4c244f16d678bab96
+source-git-commit: fa067dfc5293d58cbd73c5d1a87be0ccf82b8f3e
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '569'
 ht-degree: 4%
 
 ---
@@ -59,7 +59,10 @@ ht-degree: 4%
       + [운영 모델 디자인](2025/design-an-operating-model-ajo.md)
       + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
       + [NorthStar 아키텍처 활용](2025/northstar-architecture-enable-adobe-journey-optimzier.md)
+      + [캠페인 현대화](2025/ajo-adobe-campaign.md)
       + [Adobe Journey Optimizer을 통한 가치 창출 로드맵](2025/ajo-roadmap-to-value.md)
+   + Marketo {#marketo2025}
+      + [새 이메일 편집기](2025/marketo-new-email-editor.md)
    + 멀티 솔루션 {#multisolution2025}
       + [콘텐츠 공급망 기본 사항](2025/content-supply-chain-basics.md)
       + [AI 인사이트를 통한 디지털 경험 최적화](2025/accelerating-digital-experience-optimization.md)

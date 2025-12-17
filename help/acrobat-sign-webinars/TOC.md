@@ -1,10 +1,10 @@
 ---
 user-guide-title: Acrobat Sign 웨비나
 user-guide-description: Adobe 전문가로부터 Acrobat Sign의 새로운 전자 서명 워크플로를 마스터하는 방법을 알아보십시오.
-source-git-commit: d0f48c3f308badf6e06e17e369765aa4a53ceb27
+source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 0%
+source-wordcount: '105'
+ht-degree: 4%
 
 ---
 
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 + [개요](overview.md)
 + 릴리스 웨비나 {#releases}
-   + [Adobe Acrobat Sign 2025년 10월 릴리스](skill-builders/acrobat-sign-october-2025-release.md)
-   + [Adobe Acrobat Sign 2025년 7월 릴리스](skill-builders/acrobat-july-release.md)
+   + [2025년 10월](skill-builders/acrobat-sign-october-2025-release.md)
+   + [2025년 7월](skill-builders/acrobat-july-release.md)
 + 혁신 - 새로운 기능 특징 {#newfeatures}
    + [모바일 전자 서명 최적화](./skill-builders/mobile-e-signing.md)
 + 101 - 사용자용 시작하기 {#getstartedusers}
