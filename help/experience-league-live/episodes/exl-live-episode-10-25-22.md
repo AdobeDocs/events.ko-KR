@@ -1,8 +1,8 @@
 ---
 title: 의사 결정 관리를 통해 적시에 적절한 오퍼 제공
-description: Adobe Target과 Adobe Real-time Customer Data Platform을 통합하여 보다 개인화된 고객 경험을 제공할 수 있습니다. 이 라이브스트림 이벤트에서 이 두 플랫폼을 통합하여 기업이 실시간으로 데이터를 수집한 다음 타겟팅된 경험을 생성하고 테스트하는 방법을 살펴보십시오. 라이브 데모에서 이 강력한 기능의 전체적인 프로세스를 확인하십시오.
+description: Adobe Target 및 Adobe Real-time Customer Data Platform을 통합하여 보다 개인화된 고객 경험을 제공할 수 있습니다. 이 라이브스트림 이벤트에서 이 두 플랫폼을 통합하여 기업이 실시간으로 데이터를 수집한 다음 타겟팅된 경험을 생성하고 테스트하는 방법을 살펴보십시오. 라이브 데모에서 이 강력한 기능의 전체 프로세스를 확인하세요.
 solution: Journey Optimizer
-kt: 11028
+kt: 11308
 feature: Offers
 role: User
 event-cta-text: Set Reminder
@@ -11,10 +11,10 @@ event-start-time: 2022-10-25 09:00-7
 event-guests: Sandra Hausmann,Ben Tepfer,Brandon Poyfair,Jason Hickey
 exl-id: 468f1e46-7b69-41c3-8c49-948aaf2e92a3
 duration: 3666
-source-git-commit: a47449aa7716236520bcd66c10db2bff7150fc12
+source-git-commit: 1dec49906e5964da928fcce8ab173dce3f2fac14
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410560/?quality=12&learn=on)
 
-이 라이브 스트림 이벤트에서 Adobe 제품 전문가가 최신 지능형 오퍼 순위 기능을 소개하고 Adobe Journey Optimizer의 여정 및 캠페인에 오퍼를 추가하는 방법을 보여 주었습니다.  또한 이메일, SMS 및 모바일 앱과 같은 기본 Journey Optimizer 채널뿐만 아니라 Adobe Target과 같은 외부 시스템 및 통합 애플리케이션에 오퍼를 배치할 수 있는 방법을 보여 주었습니다.
+이 라이브 스트림 이벤트에서 Adobe 제품 전문가들은 최신 지능형 오퍼 순위 기능을 소개하고 Adobe Journey Optimizer의 여정 및 캠페인에 오퍼를 추가하는 방법을 보여주었습니다.  또한 이메일, SMS 및 모바일 앱과 같은 기본 Journey Optimizer 채널뿐만 아니라 Adobe Target과 같은 외부 시스템 및 통합 애플리케이션에 오퍼를 배치할 수 있는 방법을 보여 주었습니다.
 
-Adobe Experience League [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802?profile.language=ko#M55)에서 이 주제에 대한 토론을 계속합니다.
+Adobe Experience League [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55)에서 이 주제에 대한 토론을 계속합니다.
