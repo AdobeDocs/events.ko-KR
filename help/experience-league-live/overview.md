@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 04cd7f4e1881d75f6fde97c48e2fb7a4f587a9ee
+source-git-commit: df3b95c0f462a8cd72318e7b33c9b1827d3ea8ed
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 18%
+source-wordcount: '185'
+ht-degree: 16%
 
 ---
 
@@ -24,15 +24,19 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 ## 예정된 Experience League LIVE 이벤트
 
 <table>
-    <tr>
-         <td style="vertical-align: top;">
-            곧 새로운 쇼가 시작됩니다. 사용 가능한 프로그램을 보려면 이 페이지로 돌아오십시오.
-        </td>
-    </tr>
-
+<tr>
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-28-26.md">
+      <img alt="Experience League 라이브 2026년 1월 28일" src="episodes/assets/WebBanner-1-28-26.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-01-28-26.md"><strong>Audience Agent에서 대상 인사이트를 파악하고 몇 분 안에 바로 사용할 수 있는 대상을 만들 수 있습니다. </strong></a>
+      <br/><em>셸비 만수리, 키아라 파우셋, 알리사 에스피리투와 함께</em>
+      <br/><em>2026년 1월 28일 오후 8시 30분</em>
+      <br/><br/><a href="https://www.youtube.com/live/V7n2KuhrhqQ">미리 알림 설정</a>
+    </div>
+  </td>
+</tr>
 </table>
-
-
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -93,5 +97,5 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/ko#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
+>기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
 
