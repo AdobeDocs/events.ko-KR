@@ -33,12 +33,12 @@ Adobe Marketo Engage에서 이메일 작성을 더 쉽게 할 수 있도록 새�
 
 ## 추가 리소스
 
-* [전자 메일 Designer 개요](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
-* [AI 어시스턴트](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
-* [사용자 지정 가능한 조각](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
-* [조건부 콘텐츠](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
-* [브랜드 테마](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
-* [기능 비교 이전 메일과 새 이메일 Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
+* [전자 메일 Designer 개요](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
+* [AI 어시스턴트](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
+* [사용자 지정 가능한 조각](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
+* [조건부 콘텐츠](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
+* [브랜드 테마](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
+* [기능 비교 이전 메일과 새 이메일 Designer](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
 * [릴리스 정보](https://experienceleague.adobe.com/ko/docs/marketo/using/release-notes/current)
-* [챔피언 딥다이브: Marketo Engage에서 새 이메일 Designer을 검색하세요](https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
+* [챔피언 딥다이브: Marketo Engage에서 새 이메일 Designer을 검색하세요](https://experienceleague.adobe.com/ko/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
 * [Q&amp;A로 커뮤니티에 있는 대화에 참여](https://nation.marketo.com/t5/product-blogs/watch-on-demand-learn-from-your-peers-webinar-beyond-the-launch/ba-p/359083)
