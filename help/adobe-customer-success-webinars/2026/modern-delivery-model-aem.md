@@ -19,4 +19,4 @@ ht-degree: 0%
 
 오늘날의 디지털 환경에서는 채널 및 지역 전반에 걸쳐 고성능의 경험을 제공하는 것이 중요합니다. 조직에서 속도와 유연성을 높이기 위해 최신 게재 모델을 채택하는 이유를 알아보십시오. Headful, Headless, Hybrid 및 Edge Delivery 서비스 간의 차이점에 대해 알아봅니다. 핵심 구성 요소와 현지화 프레임워크가 어떻게 다중 브랜드 및 다중 지역 전략을 지원하는지 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478775/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478782/?captions=kor&learn=on&enablevpops)
