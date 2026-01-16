@@ -32,7 +32,7 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
       <a href="episodes/exl-live-episode-01-28-26.md"><strong>Audience Agent에서 대상 인사이트를 파악하고 몇 분 안에 바로 사용할 수 있는 대상을 만들 수 있습니다. </strong></a>
       <br/><em>셸비 만수리, 키아라 파우셋, 알리사 에스피리투와 함께</em>
       <br/><em>2026년 1월 28일 오후 8시 30분</em>
-      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&amp;mv=other">지금 등록하세요!</a></b>
+      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&mv=other">지금 등록하세요!</a></b>
     </div>
   </td>
 </tr>
