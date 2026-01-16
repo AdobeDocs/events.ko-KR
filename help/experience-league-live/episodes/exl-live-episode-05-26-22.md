@@ -24,8 +24,8 @@ ht-degree: 1%
 ## 몇 가지 유용한 링크
 
 * [자습서: Web SDK에서 Adobe Experience Cloud 구현](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=ko-KR){target="_blank"}
-* [웹 SDK에서 자동으로 수집된 정보](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
+* [웹 SDK에서 자동으로 수집된 정보](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=ko){target="_blank"}
 * [무료 웹 SDK 프로비저닝](https://adobe.ly/websdkaccess){target="_blank"}
-* [웹 SDK의 자사 장치 ID에 대한 정보](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
-* [Adobe Experience Platform Debugger 개요 및 다운로드](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
+* [웹 SDK의 자사 장치 ID에 대한 정보](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html?lang=ko){target="_blank"}
+* [Adobe Experience Platform Debugger 개요 및 다운로드](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=ko){target="_blank"}
 * [모바일 SDK 문서](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
