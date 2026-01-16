@@ -21,7 +21,7 @@ Adobe Experience Cloud의 데이터 수집에 대한 세 가지 라이브스트�
 
 >[!VIDEO](https://video.tv.adobe.com/v/343335/?quality=12&learn=on)
 
-**Experience League 커뮤니티**&#x200B;에서 [토론을 계속합니다](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-the-basics-of-web/m-p/454159#M283){target="_blank"}!
+**Experience League 커뮤니티**&#x200B;에서 [토론을 계속합니다](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-the-basics-of-web/m-p/454159?profile.language=ko#M283){target="_blank"}!
 
 ## 이 데이터 수집 시리즈의 추가 Experience League 라이브 세션
 
@@ -30,10 +30,10 @@ Adobe Experience Cloud의 데이터 수집에 대한 세 가지 라이브스트�
 ### 몇 가지 유용한 링크
 
 * [자습서: Web SDK에서 Adobe Experience Cloud 구현](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=ko-KR){target="_blank"}
-* [웹 SDK에서 자동으로 수집된 정보](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
+* [웹 SDK에서 자동으로 수집된 정보](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=ko){target="_blank"}
 * [무료 웹 SDK 프로비저닝](https://adobe.ly/websdkaccess){target="_blank"}
-* [웹 SDK의 자사 장치 ID에 대한 정보](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
-* [Adobe Experience Platform Debugger 개요 및 다운로드](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
+* [웹 SDK의 자사 장치 ID에 대한 정보](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html?lang=ko){target="_blank"}
+* [Adobe Experience Platform Debugger 개요 및 다운로드](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=ko){target="_blank"}
 * [모바일 SDK 문서](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
-* [하이브리드 앱 컬렉션 정보](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}
+* [하이브리드 앱 컬렉션 정보](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html?lang=ko){target="_blank"}
 
