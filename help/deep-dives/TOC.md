@@ -1,6 +1,6 @@
 ---
-user-guide-title: 깊이 들어가기
-user-guide-breadcrumb: Deep Dives
+user-guide-title: Marketo 딥 다이브
+user-guide-breadcrumb: Marketo Deep Dives
 user-guide-description: 딥 다이브 음반 목록
 type: Event
 solution: Marketo Engage
@@ -10,15 +10,15 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
+source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '95'
 ht-degree: 3%
 
 ---
 
 
-# 깊이 들어가기 {#deep-dives-recordings}
+# Marketo 딥 다이브 {#deep-dives-recordings}
 
 + [개요](overview.md)
 + Marketo의 딥 다이브 {#deep-dives-marketo}

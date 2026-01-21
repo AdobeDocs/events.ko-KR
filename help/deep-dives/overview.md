@@ -1,18 +1,18 @@
 ---
-title: 깊이 들어가기
+title: Marketo 딥 다이브
 description: 딥다이브는 전문가와 동료가 Adobe Marketo을 가장 잘 사용하는 방법에 대한 생각과 아이디어를 공유한 비디오 라이브러리입니다.
 exl-id: 21242f9e-8084-4482-8461-ba8a9e2fbd26
 duration: 15
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
 workflow-type: tm+mt
-source-wordcount: '1266'
+source-wordcount: '1268'
 ht-degree: 1%
 
 ---
 
-# 심도 있는 이벤트
+# Marketo 딥다이브 이벤트
 
-Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이러한 리소스를 Adobe Marketo [설명서](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=ko) 및 [튜토리얼](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ko)과(와) 결합하여 사용하면 Adobe Marketo을 사용하여 비즈니스를 지원하는 방법을 더 잘 이해할 수 있습니다.
+Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이러한 리소스를 Adobe Marketo [설명서](https://experienceleague.adobe.com/docs/marketo-engage.html) 및 [튜토리얼](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)과(와) 결합하여 사용하면 Adobe Marketo을 사용하여 비즈니스를 지원하는 방법을 더 잘 이해할 수 있습니다.
 
 <!-- CARDS
 
@@ -69,7 +69,7 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="admin-console.md" title="Adobe Identity에서 Marketo Engage 준비" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432371/?format=jpeg&nocache=1752782691676&captions=kor" alt="Adobe Identity에서 Marketo Engage 준비"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1752782691676" alt="Adobe Identity에서 Marketo Engage 준비"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -92,7 +92,7 @@ Deep Dives 온디맨드 이벤트 녹화에 오신 것을 환영합니다. 이�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="api.md" title="API" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432505/?format=jpeg&nocache=1752782691708&captions=kor" alt="API"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1752782691708" alt="API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
