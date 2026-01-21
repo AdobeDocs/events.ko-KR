@@ -28,6 +28,6 @@ Adobe Commerce과 협력하여 DotDigital이 혁신, 개인화 및 일대일 메
 + Matt Palmer, 수석 파트너 영업 관리자 - Adobe
 + Graham Bell, ANZ 영업 책임자 - DotDigital
 
->[!VIDEO](https://video.tv.adobe.com/v/3429273/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455518/?captions=kor&learn=on)
 
 [&lt; Adobe Commerce Accelerator Day로 돌아가기](./overview.md)

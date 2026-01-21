@@ -25,6 +25,6 @@ ht-degree: 0%
 
 + Jason Ford, ANZ Solution Engineering 책임자 - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429272/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455459/?captions=kor&learn=on)
 
 [&lt; Adobe Commerce Accelerator Day로 돌아가기](./overview.md)

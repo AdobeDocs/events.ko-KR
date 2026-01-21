@@ -24,6 +24,6 @@ Commerce의 AI, Adobe Express을 통한 Adobe의 최신 생성 AI 및 이를 실
 
 + Eroka O&#39;Connor, 선임 솔루션 컨설턴트 제공 - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429269/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456491/?captions=kor&learn=on)
 
 [&lt; Adobe Commerce Accelerator Day로 돌아가기](./overview.md)

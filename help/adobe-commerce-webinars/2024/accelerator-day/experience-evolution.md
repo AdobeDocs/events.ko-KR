@@ -25,6 +25,6 @@ ht-degree: 0%
 
 + 엔터프라이즈 Commerce 전문가 Mike Lynch 제공 - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429266/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454445/?captions=kor&learn=on)
 
 [&lt; Adobe Commerce Accelerator Day로 돌아가기](./overview.md)
