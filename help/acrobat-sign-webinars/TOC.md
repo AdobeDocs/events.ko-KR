@@ -1,7 +1,8 @@
 ---
 user-guide-title: Acrobat Sign 웨비나
 user-guide-description: Adobe 전문가로부터 Acrobat Sign의 새로운 전자 서명 워크플로를 마스터하는 방법을 알아보십시오.
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+solution: Document Cloud
+source-git-commit: 1f319b1ce03161122a26d569f1d17181b45f983f
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 4%
