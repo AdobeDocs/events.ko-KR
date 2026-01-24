@@ -20,4 +20,4 @@ ht-degree: 0%
 
 콘텐츠 공급망 최적화를 위한 실용적인 로드맵을 살펴보십시오. 워크플로우 및 계획, 생성 및 프로덕션, 자산 관리, 게재 및 활성화, 보고 및 통찰력을 통합하여 측정 가능한 결과를 도출하는 방법에 대해 알아봅니다. 일반적인 업계 패턴을 탐색하고, 목표를 Adobe 솔루션에 매핑하고, 로드맵을 사용하여 다음 단계를 안내하고 영향을 측정합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479086/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479093/?captions=kor&learn=on&enablevpops)
