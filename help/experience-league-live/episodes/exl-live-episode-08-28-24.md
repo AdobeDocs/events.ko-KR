@@ -30,4 +30,4 @@ ht-degree: 0%
 
 이 여름 이벤트는 옴니채널 마케팅 전략을 향상시키고 시즌의 참여 기회를 최대한 활용합니다. Adobe Journey Optimizer의 성공을 유도하기 위해 고객 여정 및 캠페인을 높일 수 있는 이 기회를 놓치지 마십시오.
 
-**Journey Optimizer 커뮤니티 포럼의 [Adobe Journey Optimizer 커뮤니티 Q&amp;A Coffee Break](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-leagu[...]ugust-28th-8-30-am-pt-supercharge-your/td-p/697931)에서 토론을 계속합니다.**
+**Journey Optimizer 커뮤니티 포럼의 [Adobe Journey Optimizer 커뮤니티 Q&amp;A Coffee Break](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-leagu?profile.language=ko[...]ugust-28th-8-30-am-pt-supercharge-your/td-p/697931)에서 토론을 계속합니다.**

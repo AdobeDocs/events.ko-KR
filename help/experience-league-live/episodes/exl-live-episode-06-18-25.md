@@ -24,7 +24,7 @@ ht-degree: 8%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464052/?quality=12&learn=on)
 
-대화를 계속하려면 6월 25일 수요일 오전 8시~오전 9시(PT)에 [Adobe Journey Optimizer 커뮤니티 Ask Me Anything](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-[...]with-여정-optimizer-product-experts/ev-p/757473)에 참여하십시오.
+대화를 계속하려면 6월 25일 수요일 오전 8시~오전 9시(PT)에 [Adobe Journey Optimizer 커뮤니티 Ask Me Anything](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-?profile.language=ko[...]with-여정-optimizer-product-experts/ev-p/757473)에 참여하십시오.
 
 ## 자세히 알아보시겠습니까?
 
