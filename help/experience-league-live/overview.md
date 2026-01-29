@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 31397e559777e599a86445841e6b5a134659151f
+source-git-commit: 2ee0d38018d33911249523445375809c82567b59
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 19%
+source-wordcount: '175'
+ht-degree: 17%
 
 ---
 
@@ -25,14 +25,14 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 <table>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-28-26.md">
-      <img alt="Experience League 라이브 2026년 1월 28일" src="episodes/assets/WebBanner-1-28-26.jpg">
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-03-26.md">
+      <img alt="Experience League 라이브 2026년 3월 3일" src="episodes/assets/WebBannerExlLive-Mar03-2026.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-01-28-26.md"><strong>Audience Agent에서 대상 인사이트를 파악하고 몇 분 안에 바로 사용할 수 있는 대상을 만들 수 있습니다. </strong></a>
-      <br/><em>셸비 만수리, 키아라 파우셋, 알리사 에스피리투와 함께</em>
-      <br/><em>2026년 1월 28일 오후 8시 30분</em>
-      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&mv=other">지금 등록하세요!</a></b>
+      <a href="episodes/exl-live-episode-03-03-26.md"><strong>Adobe Experience Cloud의 Anjul Bhambhri 수석 부사장과 통찰력 있는 Q&amp;A 세션에 참여하여 혁신적인 Agentic AI 기능에 대한 Adobe의 대담한 비전에 대해 알아보십시오.</strong></a>
+      <br/><em>Anjul Bhambhri 및 Daniel Wright와 함께</em>
+      <br/><em>2026년 3월 3일 오후 9시</em>
+      <br/><br/><b><a href="episodes/exl-live-episode-03-03-26.md">이 세션에 대해 자세히 알아보세요!</a></b>
     </div>
   </td>
 </tr>
@@ -87,5 +87,5 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/ko#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
+>기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
 

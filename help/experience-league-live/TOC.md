@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: a004d7aa2c01ccd1d4d65749c4aa0440290f8023
+source-git-commit: 2ee0d38018d33911249523445375809c82567b59
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 14%
+source-wordcount: '343'
+ht-degree: 13%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 14%
 
 + [개요](overview.md)
 + 에피소드 {#episodes}
+   + [마케팅 효율성 향상 및 비즈니스 성과 향상을 위한 Adobe Experience Platform 에이전트](episodes/exl-live-episode-03-03-26.md)
    + [작업 중인 에이전트: 대상자 및 여정 만들기 및 활성화](episodes/exl-live-episode-01-28-26.md)
    + [제품 지원 에이전트를 사용하여 문제 해결 및 지원 사례 관리 간소화](episodes/exl-live-episode-12-16-25.md)
    + [실험의 다음 시대: Agentic AI가 어떻게 더 스마트한 테스트와 성장을 촉진하는지](episodes/exl-live-episode-10-30-25.md)
