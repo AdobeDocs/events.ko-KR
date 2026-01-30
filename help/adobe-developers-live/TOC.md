@@ -2,10 +2,10 @@
 user-guide-title: Adobe Developers Live 이벤트
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Adobe Developer Live 콘텐츠 이벤트의 녹화본 컬렉션
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+source-git-commit: f75cc13d597e8a9e7b4e54335ef69a8a8c581e0e
 workflow-type: tm+mt
-source-wordcount: '984'
-ht-degree: 5%
+source-wordcount: '608'
+ht-degree: 8%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 5%
 # Adobe Developers Live 이벤트 {#adobe-developers-live-recordings}
 
 + [개요](overview.md)
-+ 2025 {#2025}
++ 2025년 {#2025}
    + [Keynote - Agentic 웹 키노트 작성](2025/keynote.md)
    + [AEM의 무의미한 진화](2025/agentic-evolution-aem.md)
    + [LLM Optimizer이 포함된 AI 에이전트](2025/llm-optimizer.md)
@@ -32,7 +32,7 @@ ht-degree: 5%
    + [신속한 개발 환경 스냅샷](2025/rapid-development-snapshots.md)
    + [AI를 통한 정부 서비스 능률화](2025/government-digital-services.md)
    + [AEM에서 AI 잠금 해제](2025/transform-aem-with-agents.md)
-+ 2024 {#2024}
++ 2024년 {#2024}
    + 11월 {#nov2024}
       + [Keynote](2024/nov/keynote.md)
       + AEM 클라우드 서비스 {#aem-cloud-service}
@@ -62,7 +62,7 @@ ht-degree: 5%
          + [AEM Assets 및 GenAI가 포함된 Commerce](2024/nov/commerce-aem-assets-gen-ai.md)
          + [Edge Delivery Services 및 Adobe Commerce](2024/nov/commerce-storefront-eds.md)
          + [Headless 구현을 위한 Commerce API 오케스트레이션](2024/nov/commerce-api-headless.md)
-+ 2023 {#2023}
++ 2023년 {#2023}
    + 11월 {#nov2023}
       + [Keynote 열기](2023/november/keynote.md)
       + [Keynote(APAC) 열기](2023/november/keynote-apac.md)
@@ -132,95 +132,22 @@ ht-degree: 5%
 + 2021 {#2021}
    + 2월 - 콘텐츠 {#feb2021}
       + [개요](2021/february/overview.md)
-      + [Adobe 클라이언트 데이터 레이어](2021/february/adobe-client-data-layer.md)
-      + [ADOBE EXPERIENCE PLATFORM SDK](2021/february/experience-platform-sdk-launch.md)
       + [Experience Manager Cloud Service을 사용한 API 인증](2021/february/api-authentication.md)
-      + [일괄 에셋 수집](2021/february/asset-bulk-ingestion.md)
       + [Asset Compute 서비스 확장성](2021/february/asset-compute-service-extensibility.md)
-      + [GraphQL을 통한 CIF 확장성](2021/february/cif-extensibility-graphql.md)
-      + [Experience Manager을 사용한 컨텐츠 및 Commerce](2021/february/content-commerce.md)
-      + [Experience Manager Cloud Service을 사용한 컨텐츠 전달](2021/february/content-delivery.md)
-      + [사용자 정의 기능 테스트](2021/february/custom-functional-tests-cicd.md)
-      + [개발자 경험](2021/february/developer-experience.md)
-      + [AEM Forms Cloud를 사용하여 개발](2021/february/developing-aem-forms-cloud.md)
-      + [디지털 등록 환경](2021/february/digital-enrollment-aem-forms-cloud.md)
-      + [환경 변수](2021/february/environment-variables-aemcs.md)
-      + [Experience Manager Cloud Service](2021/february/experience-manager-as-cloud-service.md)
-      + [Experience Manager Screens Cloud Service](2021/february/screens-as-a-cloud-service.md)
       + [Experience Manager 업데이트](2021/february/experience-manager-updates.md)
       + [Experience Platform Launch 데모](2021/february/experience-platform-launch-demo.md)
-      + [Experience Cloud 확장](2021/february/extend-experience-cloud.md)
       + [Experience Manager Sites을 통한 빠른 가치 창출](2021/february/time-to-value-aem-sites.md)
-      + [컨텐츠 조각이 있는 GraphQL](2021/february/headless-graphql-content-fragments.md)
-      + [HTTP 시작 방법](2021/february/http-how-started-going.md)
-      + [로컬 빌드 분석기](2021/february/local-build-analyzers.md)
-      + [마이그레이션 모범 사례](2021/february/get-ready-aem-cloud.md)
-      + [클라우드로 Experience Manager 이동](2021/february/moving-aem-to-cloud.md)
-      + [OSGI Inside](2021/february/osgi-inside.md)
-      + [Adobe Developer App Builder](2021/february/app-builder.md)
-      + [신속한 프론트엔드 개발](2021/february/rapid-frontend-devlopment.md)
-      + [SPA 편집기 2.0](2021/february/spa-editor-2-0.md)
-      + [모든 사이트를 점진적 웹 앱으로 변환](2021/february/any-site-into-pwa.md)
    + 10월 {#oct2021}
       + [개요](2021/october/overview.md)
-      + [Keynote 열기](2021/october/keynote.md)
-      + [Experience Manager CS로의 전환 가속화](2021/october/accelerate-transistion.md)
-      + [2021년에 알아야 하는 Adobe [!DNL Analytics] API](2021/october/analytics-api.md)
-      + [Adobe 클라이언트 데이터 레이어](2021/october/adobe-client-data-layer.md)
-      + [Adobe Commerce 및 커뮤니티 기여도 모델](2021/october/community-contribution-model.md)
       + [Adobe Exchange - 서드파티 개발자 마켓플레이스](2021/october/app-builder-exchange.md)
-      + [Adobe I/O Open Source 프로젝트 및 기여](2021/october/app-builder-adobeio.md)
-      + [Adobe I/O 기반 Experience Manager Assets 내보내기](2021/october/app-builder-asset-export.md)
-      + [Experience Manager CS를 사용한 고급 네트워킹](2021/october/advanced-networking.md)
-      + [App Builder에 구축된 예외 항목 탐지 도구](2021/october/data-anomaly-detection.md)
-      + [App Builder 아키텍처 및 기술 심층 분석](2021/october/app-builder-architecture.md)
-      + [PDF Services API를 사용하여 PDF 생성 및 조작 자동화](2021/october/automate-pdf-services-api.md)
-      + [구성 요소 스크립트 개발에 대한 우수 사례](2021/october/component-script-development.md)
-      + [Creative Cloud 플러그인 빌드](2021/october/cc-extensibility.md)
-      + [Experience Manager 이벤트 사용](2021/october/consume-aem-events.md)
       + [컨텐츠 유지](2021/october/content-upkeep.md)
-      + [Experience Manager을 위한 클라우드 네이티브 확장성](2021/october/aem-cloud-native.md)
-      + [XD와 공동 PWA 상점 디자인](2021/october/commerce-storefront-xd.md)
-      + [Creative Cloud 앱 엔진 API](2021/october/cc-app-api.md)
-      + [데이터 수집](2021/october/data-collection.md)
-      + [Commerce 경험 전달](2021/october/delivering-commerce-experiences.md)
-      + [Experience Manager을 통한 빠른 경험 제공](2021/october/fast-experiences.md)
-      + [효율적인 사이트 구조 - 향상된 성능](2021/october/efficient-site-structure.md)
-      + [관련 콘텐츠를 사용하여 Commerce 경험 강화](2021/october/associated-content.md)
-      + [TCO 절감을 위한 Adobe Commerce의 발전](2021/october/reduce-tco.md)
-      + [Experience Manager Assets 새로운 기능](2021/october/aem-assets-whats-new.md)
-      + [App Builder 및 Photoshop API를 사용하는 Experience Manager Assets Compute Worker](2021/october/app-builder-asset-compute.md)
-      + [Experience Manager 비하인드 더 슈즈](2021/october/aem-behind-scenes.md)
-      + [Experience Manager 연속 게재 모델](2021/october/continuous-delivery.md)
-      + [PWA Studio용 Experience Manager 확장](2021/october/aem-pwa-studio.md)
-      + [Experience Manager Forms CS - API를 사용한 개발 빠른 추적](2021/october/aem-forms-cs-apis.md)
-      + [Experience Manager Forms CS - 안전한 다중 채널 디지털 등록](2021/october/multichannel-digital-enrollment.md)
-      + [Experience Platform Destination SDK](2021/october/destination-sdk.md)
-      + [Experience Platform 통합](2021/october/aep-integration.md)
-      + [App Builder을 사용하여 AEM 확장](2021/october/extend-aem-app-builder.md)
-      + [Adobe I/O을 사용하여 Adobe Commerce 확장](2021/october/commerce-io.md)
-      + [이벤트 주도 경험](2021/october/event-driven-experiences.md)
-      + [프론트엔드 코드 파이프라인](2021/october/front-end-code.md)
       + [Adobe Sign API를 사용하여 문서 생성 및 전자 서명 캡처](2021/october/esignatures-sign-api.md)
-      + [문서 생성 API를 사용하여 문서 생성 및 전자 서명 캡처](2021/october/esignatures-document-generation-api.md)
-      + [헤드리스 Experience Manager Sites](2021/october/headless.md)
-      + [Experience Manager에서 일반적인 위험을 방지하는 방법](2021/october/common-pitfalls-aem.md)
       + [Experience Manager Assets으로 에셋을 수집하고 처리하는 방법](2021/october/ingest-process-assets.md)
       + [Experience Manager CS와 Adobe IO 이벤트 통합](2021/october/integrate-aem-io-events.md)
       + [App Builder 소개](2021/october/introduction-app-builder.md)
-      + [Adobe Developer Console 소개](2021/october/app-builder-adc.md)
-      + [Creative Cloud Libraries 소개](2021/october/cc-libraries.md)
       + [JSON 및 PDF Extract API](2021/october/parsing-pdf.md)
       + [서버측 실행](2021/october/launch-server-side.md)
       + [로그 전달로 App Builder 앱 모니터링](2021/october/log-forwarding.md)
       + [Experience Manager의 과거, 현재 및 미래](2021/october/past-present-future-aem.md)
-      + [PDF 포함 API](2021/october/pdf-embed-api.md)
       + [PDF 추출 API](2021/october/pdf-extract-api.md)
-      + [Adobe PDF 서비스 API 소개](2021/october/pdf-services-api.md)
       + [초보자를 위한 PWA Studio 우수 사례](2021/october/pwa-studio-best-practices.md)
-      + [빠른 사이트 생성](2021/october/quick-site-creation.md)
-      + [관련 검색 및 전자 상거래](2021/october/relevant-search-ecommerce.md)
-      + [Screens Cloud Service](2021/october/aem-screens-cs.md)
-      + [Headless 구현에서 Adobe Commerce Cloud 크기 조정](2021/october/commerce-headless.md)
-      + [URL을 통해 이미지 변환, 조정 및 최적화](2021/october/smart-imaging.md)
-      + [Workfront 및 Experience Manager Assets](2021/october/workfront-aem-assets.md)
