@@ -23,4 +23,4 @@ Audience Agent에서 대상 인사이트 발견 및 즉시 사용할 수 있는 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479512/?quality=12&learn=on)
 
-이 쇼에 대해 질문이 있습니까? [Experience League 대화에서 토론을 계속합니다.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-agents-at-work-creating-and-activating-audiences-and-journeys-aep-247707?postid=745171#post745171){target="_blank"}
+이 쇼에 대해 질문이 있습니까? [Experience League 대화에서 토론을 계속합니다.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-agents-at-work-creating-and-activating-audiences-and-journeys-aep-247707?profile.language=ko&postid=745171#post745171){target="_blank"}
