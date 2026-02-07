@@ -2,9 +2,9 @@
 user-guide-title: Adobe 고객 성공 웨비나
 breadcrumb-title: Adobe 고객 성공 웨비나
 user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: b64778a37558a91bb44bd3573d6d6fb6e7e5fee9
+source-git-commit: d158d7a10bd2651a11d54822908bb63315da0a94
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '615'
 ht-degree: 5%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 5%
 
 + [Adobe 고객 성공 웨비나](overview.md)
 + 2026 {#2026}
+   + Customer Journey Analytics {#cja2026}
+      + [Customer Journey Analytics용 BRD-SDR 파일 생성](2026/brd-sdr-file-best-practices.md)
    + Experience Manager {#aem2026}
       + [콘텐츠 공급망 극대화](2026/value-with-content-supply-chain.md)
       + [AEM Sites을 위한 최신 게재 모델](2026/modern-delivery-model-aem.md)
@@ -22,6 +24,7 @@ ht-degree: 5%
       + [임베디드 인텔리전스 시프트](2026/embedded-intelligence.md)
    + 일반 {#general2026}
       + [휴일 성공을 위한 AI 전략](2026/2025-holiday-results.md)
+      + [컨텐츠 Supply chain을 위한 기본 아키텍처](2026/csc-architecture.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
       + [Adobe Experience Platform으로 Adobe Commerce 강화](2025/enriching-adobe-commerce.md)
@@ -60,7 +63,7 @@ ht-degree: 5%
       + [ID 그래프 사용 사례 및 문제 해결](2025/identity-graph.md)
       + [AEP 프로젝트에 대한 경영진 후원 수상](2025/exec-sponsorship-aep-projects.md)
    + GenStudio for Performance Marketing {#genstudio2025}
-      + [컨텐츠 공급망 및 Adobe GenStudio](2025/csc-gen-studio.md)
+      + [컨텐츠 Supply chain 및 Adobe GenStudio](2025/csc-gen-studio.md)
       + [GenStudio for Performance Marketing 운영 모델](2025/genstudio-for-performance-marketing-operating-model.md)
    + Journey Optimizer {#ajo2025}
       + [경영진 후원 구축](2025/build-executive-sponsorship-ajo.md)
@@ -73,7 +76,7 @@ ht-degree: 5%
    + Marketo {#marketo2025}
       + [새 이메일 편집기](2025/marketo-new-email-editor.md)
    + 멀티 솔루션 {#multisolution2025}
-      + [콘텐츠 공급망 기본 사항](2025/content-supply-chain-basics.md)
+      + [컨텐츠 Supply chain 기본 사항](2025/content-supply-chain-basics.md)
       + [AI 인사이트를 통한 디지털 경험 최적화](2025/accelerating-digital-experience-optimization.md)
       + [Personalization 및 데이터를 통한 로열티 프로그램 강화](2025/enhance-loyalty-programs.md)
       + [Personalization 향상](2025/enhancing-personalization.md)
@@ -122,7 +125,7 @@ ht-degree: 5%
    + [Adobe Admin Console 마스터링](2024/adobe-admin-console.md)
    + [쿠키 및 데이터 개인 정보 보호 마스터링](2024/mastering-cookies-data-privacy.md)
    + [순차 논리 마스터링](2024/sequential-logic.md)
-   + [콘텐츠 공급망에 대한 조직의 준비](2024/organizational-readiness-content-supply-chain.md)
+   + [컨텐츠 Supply chain에 대한 조직 준비](2024/organizational-readiness-content-supply-chain.md)
    + [Real-Time Customer Data Platform 및 Marketo 통합](2024/aep-marketo-integration.md)
    + [실시간 고객 데이터 플랫폼 마이그레이션 준비](2024/rtcdp-migration-readiness.md)
    + [전략적 리더십](2024/strategic-leadership.md)
