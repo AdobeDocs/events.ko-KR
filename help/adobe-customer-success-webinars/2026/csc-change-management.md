@@ -20,7 +20,7 @@ ht-degree: 0%
 
 입증된 변경 관리 렌즈를 사용하여 조직을 데이터 기반 콘텐츠 Supply chain으로 이끄는 방법을 알아봅니다. 이 세션에서는 리더를 조정하고, 팀을 구성하고, 하드 와이어로 새로운 작업 방식을 구현함으로써 팀, 자동화 및 공유 데이터가 실제로 출시 시기를 앞당기고, 자산 재사용을 높이고, 거버넌스를 강화하는 방법을 보여줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479816/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479824/?captions=kor&learn=on&enablevpops)
 
 * **도구뿐만 아니라 변화의 주도** 진정한 매입 기능을 구축하는 비즈니스 측면에서 자동화된 콘텐츠 Supply chain으로 전환하는 방법을 알아봅니다. &quot;왜 지금인가&quot;를 명확히 하고 경영진을 정렬하며 초기 파일럿을 더 넓은 조직을 위한 추진력으로 전환합니다.
 
