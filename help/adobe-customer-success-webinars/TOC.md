@@ -2,9 +2,9 @@
 user-guide-title: Adobe 고객 성공 웨비나
 breadcrumb-title: Adobe 고객 성공 웨비나
 user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: d158d7a10bd2651a11d54822908bb63315da0a94
+source-git-commit: fbfcb7835f5a51aea9a295fa1adb63b61585adb2
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '632'
 ht-degree: 5%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 5%
    + Customer Journey Analytics {#cja2026}
       + [Customer Journey Analytics용 BRD-SDR 파일 생성](2026/brd-sdr-file-best-practices.md)
    + Experience Manager {#aem2026}
+      + [Edge Delivery Services에서 작성](2026/authoring-eds.md)
       + [콘텐츠 공급망 극대화](2026/value-with-content-supply-chain.md)
       + [AEM Sites을 위한 최신 게재 모델](2026/modern-delivery-model-aem.md)
       + [AEM Cloud Service의 전략적 이점](2026/moving-to-aemcs.md)
@@ -24,7 +25,9 @@ ht-degree: 5%
       + [임베디드 인텔리전스 시프트](2026/embedded-intelligence.md)
    + 일반 {#general2026}
       + [휴일 성공을 위한 AI 전략](2026/2025-holiday-results.md)
+      + [컨텐츠 Supply chain 변경 관리 전략](2026/csc-change-management.md)
       + [컨텐츠 Supply chain을 위한 기본 아키텍처](2026/csc-architecture.md)
+      + [컨텐츠 Supply chain의 운영 모델](2026/csc-operating-model.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
       + [Adobe Experience Platform으로 Adobe Commerce 강화](2025/enriching-adobe-commerce.md)
