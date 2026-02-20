@@ -3,9 +3,9 @@ user-guide-title: Acrobat Sign 웨비나
 user-guide-description: Adobe 전문가로부터 Acrobat Sign의 새로운 전자 서명 워크플로를 마스터하는 방법을 알아보십시오.
 cloud: Document Cloud
 solution: Document Cloud
-source-git-commit: 149f4c2e962eaecd657d2a17a5938e972464dcac
+source-git-commit: a9eddbd6554ae26c3ed54c29e6894c9e2d1a63a0
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '106'
 ht-degree: 4%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 4%
    + [워크플로우 만들기 및 사용](./skill-builders/create-use-workflows.md)
 + 101 - 관리자용 시작하기 {#getstartedadmins}
    + [Acrobat Sign 관리 환경 강화](./skill-builders/acrobat-sign-admin-experience.md)
+   + [ETLA 관리자](./skill-builders/acrobat-sign-admin-etla.md)
    + [고급 보고](./skill-builders/advanced-reporting.md)
 + 102 - 고급 작업 {#advancedtasks}
    + [서명을 위한 문서 전송을 위한 고급 팁](./skill-builders/advanced-sending-documents-signature.md)
