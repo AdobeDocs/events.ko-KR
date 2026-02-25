@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 220b114c82508f2c97b239c64b33a4e66feb03a7
+source-git-commit: ae1e04b960662d9156efafaa3ed09bd0de545397
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '220'
 ht-degree: 14%
 
 ---
@@ -30,7 +30,7 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
     </a>
     <div>
       <a href="episodes/exl-live-episode-03-03-26.md"><strong>Adobe Experience Cloud의 Anjul Bhambhri 수석 부사장과 통찰력 있는 Q&amp;A 세션에 참여하여 혁신적인 Agentic AI 기능에 대한 Adobe의 대담한 비전에 대해 알아보십시오.</strong></a>
-      <br/><em>Anjul Bhambhri 및 Daniel Wright와 함께</em>
+      <br/><em>Anjul Bhambhri, Gina Casagrande, Daniel Wright와 함께</em>
       <br/><em>2026년 3월 3일 오후 9시</em>
       <br/><br/><b><a href="episodes/exl-live-episode-03-03-26.md">이 세션에 대해 자세히 알아보세요!</a></b>
     </div>
@@ -102,5 +102,5 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/ko#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
+>기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
 
