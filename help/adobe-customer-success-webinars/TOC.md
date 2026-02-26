@@ -2,9 +2,9 @@
 user-guide-title: Adobe 고객 성공 웨비나
 breadcrumb-title: Adobe 고객 성공 웨비나
 user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: a9eddbd6554ae26c3ed54c29e6894c9e2d1a63a0
+source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '639'
 ht-degree: 5%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 5%
 + 2026 {#2026}
    + Customer Journey Analytics {#cja2026}
       + [Customer Journey Analytics용 BRD-SDR 파일 생성](2026/brd-sdr-file-best-practices.md)
+      + [ID 잠금 해제](2026/unlock-identities.md)
    + Experience Manager {#aem2026}
       + [Edge Delivery Services에서 작성](2026/authoring-eds.md)
       + [콘텐츠 공급망 극대화](2026/value-with-content-supply-chain.md)

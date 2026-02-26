@@ -10,10 +10,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 3%
+source-wordcount: '102'
+ht-degree: 2%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 3%
    + [Admin Console 마이그레이션](admin-console.md)
    + [API](api.md)
    + [Marketo에서 AI 적용](applying-ai.md)
+   + [Webhooks 및 셀프서비스 플로우 단계를 통한 스마트한 플로우](building-smarter-flows.md)
    + [Marketo API를 사용한 캠페인 작업 자동화 및 능률화](campaign-operations.md)
    + [인증](certification.md)
    + [Marketo Engage에서 새 이메일 Designer 살펴보기](email-designer.md)
