@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 88f804bf4c61e98f8c96011fb8315b9c4e94f64a
+source-git-commit: e9b4e1e5bc05103856aab261638fcf0e739b5d7f
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 14%
+source-wordcount: '192'
+ht-degree: 25%
 
 ---
 
@@ -25,26 +25,11 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 <table>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-03-26.md">
-      <img alt="Experience League 라이브 2026년 3월 3일" src="episodes/assets/WebBanner_Mar03_2026-v2.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-03-03-26.md"><strong>Adobe Experience Cloud의 Anjul Bhambhri 수석 부사장과 통찰력 있는 Q&amp;A 세션에 참여하여 혁신적인 Agentic AI 기능에 대한 Adobe의 대담한 비전에 대해 알아보십시오.</strong></a>
-      <br/><em>Anjul Bhambhri, Gina Casagrande, Daniel Wright와 함께</em>
-      <br/><em>2026년 3월 3일 오후 9시</em>
-      <br/><br/><b><a href="episodes/exl-live-episode-03-03-26.md">이 세션에 대해 자세히 알아보세요!</a></b>
-    </div>
-  </td>
-</tr>
-</table>
-
-<table>
-<tr>
     <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-12-26.md">
       <img alt="Experience League 라이브 2026년 3월 3일" src="episodes/assets/WebBannerExlLive-Mar12-2026.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-03-12-26.md"><strong>대상 만들기에서 시작에 이르기까지 Journey Optimizer의 Campaign Orchestration이 대규모의 일대다 다중 채널 마케팅 프로그램을 관리하는 방법을 알아봅니다.</strong></a>
+      <a href="episodes/exl-live-episode-03-12-26.md"><strong>대상 만들기에서 시작까지, Journey Optimizer의 Campaign Orchestration이 대규모의 일대다 다중 채널 마케팅 프로그램을 관리하는 방법을 알아봅니다.</strong></a>
       <br/><em>산드라 하우스만, 브리짓 달링, 차크라바르시 칼바, 리 헨더슨과 함께</em>
       <br/><em>2026년 3월 12일 오후 8시 30분</em>
       <br/><br/><b><a href="episodes/exl-live-episode-03-12-26.md">이 세션에 대해 자세히 알아보세요!</a></b>
@@ -102,5 +87,5 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/ko#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
+>기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
 
