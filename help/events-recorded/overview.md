@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Adobe Experience League 이벤트 레코딩 {#events}
 
-## Experience League에서 학습은 이벤트입니다.****
+## Experience League에서 학습은 이벤트입니다.**&#x200B;**
 
 독점 이벤트 및 웨비나에 대한 루프에 머물며 학습을 확장하십시오. 이 스페이스를 자주 방문하여 Experience League LIVE, Skill Builders, Developers Live 등과 같은 이전 이벤트 녹화본을 볼 수 있습니다. 예정된 이벤트에 등록하려면 Experience League에서 [예정된 이벤트](https://%65xperienceleague.adobe.com/events/?lang=en)를 확인하세요.
 
