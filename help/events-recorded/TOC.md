@@ -14,7 +14,7 @@ ht-degree: 11%
 
 + [개요](overview.md)
 + 계열별 {#series}
-   + [Acrobat Analyzer 웨비나](https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html)
+   + [Acrobat Analyzer 웨비나](https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html?lang=ko)
    + [Acrobat Sign 웨비나](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=ko)
    + [Adobe Commerce Intelligence 웨비나](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html?lang=ko)
    + [Adobe 고객 성공 웨비나](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=ko)
@@ -41,7 +41,7 @@ ht-degree: 11%
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html?lang=ko)
 + 솔루션별 {#solution}
    + Acrobat Analyzer {#aaa}
-      + [Acrobat Analyzer 웨비나](https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html)
+      + [Acrobat Analyzer 웨비나](https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html?lang=ko)
    + Acrobat Sign {#as}
       + [Acrobat Sign 웨비나](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=ko)
    + Adobe Acrobat 서비스 {#aas}
