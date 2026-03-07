@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Skill Exchange의 &quot;시작하기&quot; 세그먼트는 Adobe Analytics을 처음 시작하는 사용자를 위한 것입니다. 세션이 끝날 때까지 시청자는 Adobe Analytics 용어 및 도구에 대해 더 잘 이해할 수 있어야 하며 Analysis Workspace의 주요 기능에 대한 초보자 수준의 소개를 받아야 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425985/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480569/?captions=kor&learn=on)
