@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: ' [!DNL Experience Makers Learn from your peers]의 녹음/녹화 컬렉션'
-source-git-commit: 92da52440ae10b82194a9e695e56fd7904d47905
+source-git-commit: 986f7ff44677a9654a0285290ff9c26eeef04a51
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '361'
 ht-degree: 7%
 
 ---
@@ -33,6 +33,8 @@ ht-degree: 7%
    + 2024 {#2024}
       + [Agile SDLC의 통신, 요구 사항 및 테스트](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
+   + 2026 {#2026}
+      + [Dynamic Media를 사용하여 옴니채널 경험 크기 조정](experience-manager/2026/omnichannel-dynamic-media.md)
    + 2025 {#2025}
       + [메타데이터 대혼란에서 숙달로](experience-manager/2025/metadata-mayhem.md)
       + [AEM 스마트 태그](experience-manager/2025/smart-tags.md)
@@ -62,11 +64,11 @@ ht-degree: 7%
       + [Marketo Engage 및 Dynamic Chat](marketo/2023/dynamic-chat.md)
       + [Marketo Engage으로 이메일 전달성 향상](marketo/2023/email-deliverability.md)
       + [마케팅 캠페인 추적, 분석 및 최적화](marketo/2023/marketing-campaigns.md)
-      + [&#x200B; [!DNL Marketo Engage]을(를) 사용하여 확장 코드에서 Personalization 크래킹](marketo/2023/personalization-at-scale.md)
-      + [&#x200B; [!DNL Adobe Marketo Engage] 콘텐츠를 확장 가능하게 하는 방법](marketo/2023/templates-tokens-teamwork.md)
+      + [ [!DNL Marketo Engage]을(를) 사용하여 확장 코드에서 Personalization 크래킹](marketo/2023/personalization-at-scale.md)
+      + [ [!DNL Adobe Marketo Engage] 콘텐츠를 확장 가능하게 하는 방법](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
-      + [메타데이터 난동](https://experienceleague.adobe.com/ko/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [메타데이터 난동](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [아티큘레이션 영향 - Workfront 가치 측정 및 공유 방법](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [자동화를 통한 자원 계획 단순화](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
