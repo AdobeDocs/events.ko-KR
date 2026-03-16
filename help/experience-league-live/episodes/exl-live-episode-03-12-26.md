@@ -23,4 +23,4 @@ Campaign 오케스트레이션 캔버스와 관계형 스키마를 통해 복잡
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481409/?quality=12&learn=on)
 
-이 주제에 대한 대화를 계속하려면 [Experience League 커뮤니티 토론](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/post-session-discussion-experience-league-live-get-to-know-campaign-orchestration-in-adobe-journey-optimizer-249161){target="_blank"}을 참조하세요.
+이 주제에 대한 대화를 계속하려면 [Experience League 커뮤니티 토론](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/post-session-discussion-experience-league-live-get-to-know-campaign-orchestration-in-adobe-journey-optimizer-249161?profile.language=ko){target="_blank"}을 참조하세요.
