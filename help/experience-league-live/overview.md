@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: e9b4e1e5bc05103856aab261638fcf0e739b5d7f
+source-git-commit: b91477fce8357e25653647ca54e086d5808b7344
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 25%
+source-wordcount: '154'
+ht-degree: 31%
 
 ---
 
@@ -25,15 +25,8 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 <table>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-12-26.md">
-      <img alt="Experience League 라이브 2026년 3월 3일" src="episodes/assets/WebBannerExlLive-Mar12-2026.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-03-12-26.md"><strong>대상 만들기에서 시작까지, Journey Optimizer의 Campaign Orchestration이 대규모의 일대다 다중 채널 마케팅 프로그램을 관리하는 방법을 알아봅니다.</strong></a>
-      <br/><em>산드라 하우스만, 브리짓 달링, 차크라바르시 칼바, 리 헨더슨과 함께</em>
-      <br/><em>2026년 3월 12일 오후 8시 30분</em>
-      <br/><br/><b><a href="episodes/exl-live-episode-03-12-26.md">이 세션에 대해 자세히 알아보세요!</a></b>
-    </div>
+    <td style="vertical-align: top;">
+      예정된 Experience League LIVE 프로그램을 보려면 곧 이 페이지로 돌아오십시오!
   </td>
 </tr>
 </table>
@@ -87,5 +80,5 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/ko#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
+>기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
 
