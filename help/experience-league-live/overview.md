@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: b91477fce8357e25653647ca54e086d5808b7344
+source-git-commit: 906af81ca9bfea0d33221278bd41136ecad48069
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 31%
+source-wordcount: '171'
+ht-degree: 28%
 
 ---
 
@@ -25,8 +25,16 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 <table>
 <tr>
-    <td style="vertical-align: top;">
-      예정된 Experience League LIVE 프로그램을 보려면 곧 이 페이지로 돌아오십시오!
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-08-26.md">
+      <img alt="Experience League LIVE 4월 21일" src="episodes/assets/April-8-2026-WebBanner.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-06-26-24.md">
+        <strong>고객 참여에 대한 새로운 사용 사례: iOS 라이브 활동, 웹 푸시 및 영구 메시징</strong>
+      </a>
+      <br/><em>Don Huynh, Robert Calangiu, Brent Kostak</em>
+      <br/><em>2026년 4월 8일</em>
+    </div>
   </td>
 </tr>
 </table>
@@ -80,5 +88,5 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/ko#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
+>기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
 
