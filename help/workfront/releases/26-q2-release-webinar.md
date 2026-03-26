@@ -17,6 +17,6 @@ ht-degree: 6%
 
 # Adobe Workfront 2026년 2분기 릴리스 웨비나
 
->[!VIDEO](https://video.tv.adobe.com/v/3481835/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481867/?captions=kor&learn=on&enablevpops)
 
 매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events)를 확인하십시오.

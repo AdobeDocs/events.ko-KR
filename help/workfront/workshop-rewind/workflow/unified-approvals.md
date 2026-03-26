@@ -19,6 +19,6 @@ ht-degree: 4%
 
 방향, 보고 및 예정된 기능을 포함하여 통합 승인의 주요 측면에 대해 알아봅니다. 이 워크숍 되감기는 최신 정보를 숙지하고 워크플로우를 최적화하는 데 도움이 되는 유용한 통찰력을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481834/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481856/?captions=kor&learn=on&enablevpops)
 
 매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events)를 확인하십시오.
