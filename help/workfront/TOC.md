@@ -3,9 +3,9 @@ user-guide-title: Workfront 이벤트
 breadcrumb-title: Workfront 이벤트
 user-guide-description: Workfront 이벤트
 solution: Workfront
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '534'
 ht-degree: 1%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 1%
 + [Workfront 온디맨드 워크숍](overview.md)
 
 + 릴리스 웨비나 {#releases}
+   + [2026년 2분기 릴리스 웨비나](releases/26-q2-release-webinar.md)
+   + [2026년 1분기 릴리스 웨비나](releases/26-q1-release-webinar.md)
    + [2025년 4분기 릴리스 웨비나](releases/25-q4-release-webinar.md)
    + [25.7 릴리스](releases/25-7-release-webinar.md)
    + [25.4 릴리스](releases/25-4-release-webinar.md)
@@ -23,22 +25,29 @@ ht-degree: 1%
    + [24.1 릴리스](releases/24-1-release-webinar.md)
 + 워크숍 되감기 {#workshop-rewind}
    + Fusion {#fusion}
+      + [Workfront Fusion으로 브랜드 PDF 자동화](workshop-rewind/fusion/automating-branded-pdfs.md)
       + [이름 지정 규칙 자동화](workshop-rewind/fusion/automating-naming-conventions.md)
       + [작업 프로세스 자동화](workshop-rewind/fusion/automate-work-processes.md)
       + [Fusion 이점 및 모범 사례](workshop-rewind/fusion/benefits-best-practices.md)
       + [데이터 가져오기](workshop-rewind/fusion/data-imports.md)
       + [Fusion 이점 및 사용 사례](workshop-rewind/fusion/case-for-fusion.md)
       + [Fusion Decode](workshop-rewind/fusion/fusion-decoded.md)
+      + [Fusion Decoded Part 2 - 빌딩 시작](workshop-rewind/fusion/fusion-decoded-part-2.md)
       + [Workfront Fusion이 인간을 돕는 방법](workshop-rewind/fusion/inside-mayo-clinic.md)
       + [다중 선택 필드의 변경 사항을 쉽게 탐색](workshop-rewind/fusion/mulit-select-fields.md)
       + [사전 예외 처리](workshop-rewind/fusion/proactive-exception-handling.md)
+      + [슈나이더 일렉트릭 드라이브 Workfront 효율성](workshop-rewind/fusion/schneider-electric-efficiency.md)
       + [워크플로우 능률화](workshop-rewind/fusion/automate-workflows.md)
+      + [팁, 요령 및 릴리스 특징](workshop-rewind/fusion/tips-tricks-release-highlights.md)
       + [실제 이벤트 비용 잠금 해제](workshop-rewind/fusion/event-costs.md)
       + [이벤트 구독 V2로 업그레이드](workshop-rewind/fusion/event-subscriptions-v2.md)
       + [Workfront Fusion + JSONata](workshop-rewind/fusion/jsonata.md)
    + 계획 수립 {#planning}
       + [Workfront Planning의 최신](workshop-rewind/planning/workfront-planning.md)
       + [Adobe Workfront 계획 데모](workshop-rewind/planning/planning-demo.md)
+      + [기본 구현 구축](workshop-rewind/planning/base-implementation.md)
+      + [계획, 워크플로우 및 캔버스 대시보드 연결](workshop-rewind/planning/planning-workflow-canvas.md)
+      + [Syracuse에서 Planning을 활용하는 방법](workshop-rewind/planning/syracuse-planning.md)
       + [SNHU의 Creative 활용 사례](workshop-rewind/planning/planning-reimagined.md)
       + [Workfront Planning을 통한 팀 수준 성공](workshop-rewind/planning/team-success-workfront-planning.md)
       + [Workfront 계획 릴리스 및 로드맵](workshop-rewind/planning/planning-release-roadmap.md)
@@ -47,6 +56,7 @@ ht-degree: 1%
       + [효율성 향상](workshop-rewind/workflow/cognizant-project-excellence.md)
       + [Workfront의 변경 관리](workshop-rewind/workflow/change-management.md)
       + [컨텐츠 Supply chain 통합](workshop-rewind/workflow/content-supply-chain.md)
+      + [데이터 수집](workshop-rewind/workflow/data-collection.md)
       + [Workfront 값 정의 및 통신](workshop-rewind/workflow/workfront-value.md)
       + [Workfront의 효과적인 커뮤니케이션 팁](workshop-rewind/workflow/communication-tips.md)
       + [거버넌스, 실행 및 채택 팁](workshop-rewind/workflow/governance-execution-adoption.md)
@@ -60,13 +70,18 @@ ht-degree: 1%
       + [프로젝트 템플릿](workshop-rewind/workflow/project-templates.md)
       + [Creative Brief 다시 만들기](workshop-rewind/workflow/creative-briefs.md)
       + [리소스 관리 기본 사항](workshop-rewind/workflow/resource-management.md)
+      + [신속한 채택과 가치 실현을 위한 자료](workshop-rewind/workflow/accelerate-adoption.md)
+      + [리소스 관리 재고하기](workshop-rewind/workflow/rethink-resource-management.md)
       + [경영진 후원 보호](workshop-rewind/workflow/secure-executive-sponsorship.md)
       + [독학으로 성공한 사람](workshop-rewind/workflow/self-taught-to-success.md)
       + [Workfront 보고서로 봄 정리](workshop-rewind/workflow/workfront-reports-cleanup.md)
+      + [10가지 커뮤니케이션 팁](workshop-rewind/workflow/10-communication-tips.md)
       + [10개의 텍스트 모드 팁](workshop-rewind/workflow/text-mode-tips.md)
       + [10개의 추가 텍스트 모드 팁](workshop-rewind/workflow/10-more-text-mode-tips.md)
       + [사용자 혼동을 신뢰도로 변환](workshop-rewind/workflow/avalara-user-transformation.md)
       + [Workfront 계산된 필드 문제 해결](workshop-rewind/workflow/troubleshoot-calculated-expressions.md)
+      + [블루프린트를 교육 프로그램으로 변환](workshop-rewind/workflow/blueprints-to-planning.md)
+      + [통합 승인 이해](workshop-rewind/workflow/unified-approvals.md)
       + [Workfront 보드 잠금 해제](workshop-rewind/workflow/unlock-boards.md)
       + [Workfront Data Connect의 강력한 기능](workshop-rewind/workflow/data-connect.md)
       + [효과적인 보고를 위해 Workfront 사용](workshop-rewind/workflow/effective-reorgs.md)
