@@ -24,6 +24,6 @@ ht-degree: 2%
 
 만약 여러분이 세션을 놓쳤다면, 걱정하지 마세요! [슬라이드 데크](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/032626+-Understanding+Unified+Approvals.pdf)를 검토하고 온디맨드 녹화를 시청하여 계속 진행하십시오.
 
-이벤트에서 추가 리소스 또는 Q&amp;A를 찾고 계십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-understanding-unified-approvals-direction-reporting-and-what-s-next-3-26-26-249480)을 확인해 보세요!
+이벤트에서 추가 리소스 또는 Q&amp;A를 찾고 계십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-understanding-unified-approvals-direction-reporting-and-what-s-next-3-26-26-249480?profile.language=ko)을 확인해 보세요!
 
 매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events)를 확인하십시오.
