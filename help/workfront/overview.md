@@ -51,7 +51,7 @@ ht-degree: 2%
 
 ## 워크숍 되감기
 
-선별된 추천 이벤트를 통해 Adobe Workfront 커뮤니티의 최신 버전을 살펴보십시오. 매월 Workfront을 최대한 활용할 수 있도록 다양한 주제에 대한 무료 라이브 세션을 진행합니다. 라이브 이벤트를 놓쳤습니까? 문제 없습니다! 고객 사례, 검증된 Best Practice, 그리고 학습한 소중한 교훈을 소개하는 온디맨드 녹화본을 만나보십시오. 실시간으로 연결하시겠습니까? 예정된 라이브 이벤트에 참여하여 질문을 하고, 인사이트를 공유하고, 동료와 공동 작업하십시오. [Experience League Workfront 이벤트 페이지](https://experienceleague.adobe.com/en/events?filters=Workfront)를 정기적으로 방문하여 다음 항목을 확인하십시오!
+선별된 추천 이벤트를 통해 Adobe Workfront 커뮤니티의 최신 버전을 살펴보십시오. 매월 Workfront을 최대한 활용할 수 있도록 다양한 주제에 대한 무료 라이브 세션을 진행합니다. 라이브 이벤트를 놓쳤습니까? 문제 없습니다! 고객 사례, 검증된 Best Practice, 그리고 학습한 소중한 교훈을 소개하는 온디맨드 녹화본을 만나보십시오. 실시간으로 연결하시겠습니까? 예정된 라이브 이벤트에 참여하여 질문을 하고, 인사이트를 공유하고, 동료와 공동 작업하십시오. [Experience League Workfront 이벤트 페이지](https://experienceleague.adobe.com/ko/events?filters=Workfront)를 정기적으로 방문하여 다음 항목을 확인하십시오!
 
 <!-- CARDS 
 
