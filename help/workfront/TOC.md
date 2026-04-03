@@ -3,9 +3,9 @@ user-guide-title: Workfront 이벤트
 breadcrumb-title: Workfront 이벤트
 user-guide-description: Workfront 이벤트
 solution: Workfront
-source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
+source-git-commit: 88adf7e72d49b8f8e8cf8199e320152556304d46
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '538'
 ht-degree: 1%
 
 ---
@@ -114,6 +114,7 @@ ht-degree: 1%
    + [입양 조사](expert-insights/adoption-surveys.md)
    + [애자일](expert-insights/agile.md)
    + [컨텐츠 Supply chain](expert-insights/content-supply-chain.md)
+   + [인스턴스의 발전](expert-insights/evolution-of-an-instance.md)
    + [Fusion](expert-insights/fusion.md)
    + [거버넌스 및 Center of Excellence](expert-insights/centers-of-excellence.md)
    + [기본 텍스트 모드](expert-insights/text-mode.md)
