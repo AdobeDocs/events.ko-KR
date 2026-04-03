@@ -34,9 +34,9 @@ ht-degree: 0%
 ## 리소스
 
 또한 Jen은 Fusion 템플릿, 블루프린트 및 공유 우수 사례가 모든 변화를 가져올 수 있는 이유 등 자주 사용하는 리소스 중 일부를 공유합니다. 자세히 알아보기:
-* [사용 가능한 Fusion 템플릿 목록](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
-* [사용 가능한 블루프린트 목록](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
-* [Experience League Workfront 커뮤니티](https://experienceleaguecommunities.adobe.com/adobe-workfront-22)
+* [사용 가능한 Fusion 템플릿 목록](https://experienceleague.adobe.com/ko/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
+* [사용 가능한 블루프린트 목록](https://experienceleague.adobe.com/ko/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
+* [Experience League Workfront 커뮤니티](https://experienceleaguecommunities.adobe.com/adobe-workfront-22?profile.language=ko)
 
 잠깐!  그녀는 공유할 조언이 더 많아!
 
