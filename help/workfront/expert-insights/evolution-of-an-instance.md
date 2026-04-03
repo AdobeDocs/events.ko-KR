@@ -21,7 +21,7 @@ ht-degree: 0%
 
 이 에피소드에서는 Workfront을 처음 사용하는 사용자로부터 신뢰할 수 있는 전문가에 이르기까지 여정을 공유하며, 변경 사항을 관리하고 의도적으로 인스턴스를 확장하기 위한 실용적인 조언을 제공하는 Adobe의 기술 성공 고문인 놀라운 Jen Desmond와 함께 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483111/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483118/?captions=kor&learn=on&enablevpops)
 
 다음을 포함한 사려 깊은 통찰력을 통해 떠나게 됩니다.
 
