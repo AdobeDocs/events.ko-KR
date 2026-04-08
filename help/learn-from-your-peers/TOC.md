@@ -70,7 +70,7 @@ ht-degree: 7%
    + 2026 {#2026}
       + [지속 가능한 Workfront 채택](workfront/2026/workfront-adoption.md)
    + 2025 {#2025}
-      + [메타데이터 난동](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [메타데이터 난동](https://experienceleague.adobe.com/ko/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [아티큘레이션 영향 - Workfront 가치 측정 및 공유 방법](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [자동화를 통한 자원 계획 단순화](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
