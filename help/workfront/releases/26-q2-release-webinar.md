@@ -21,6 +21,6 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483385/?learn=on&enablevpops)
 
-추가 정보를 찾고 계십니까? Experience League에서 [릴리스 정보](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q2/26-q2-release-overview)를 검토하고 슬라이드 데크, 개별 데모 비디오 등에 대한 링크가 있는 [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-adobe-workfront-second-quarter-2026-release-webinar-april-9-2026-249769?fid=23&tid=249769)을 확인하십시오!
+추가 정보를 찾고 계십니까? Experience League에서 [릴리스 정보](https://experienceleague.adobe.com/ko/docs/workfront/using/product-announcements/product-releases/release-26-q2/26-q2-release-overview)를 검토하고 슬라이드 데크, 개별 데모 비디오 등에 대한 링크가 있는 [커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-adobe-workfront-second-quarter-2026-release-webinar-april-9-2026-249769?profile.language=ko&fid=23&tid=249769)을 확인하십시오!
 
 매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events)를 확인하십시오.
