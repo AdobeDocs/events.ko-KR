@@ -7,13 +7,13 @@ doc-type: Event
 duration: 1201
 last-substantial-update: 2026-04-03T00:00:00Z
 jira: KT-20745
-source-git-commit: 88adf7e72d49b8f8e8cf8199e320152556304d46
+exl-id: b4f70c4f-9d01-4b06-afcf-ec963f3604c5
+source-git-commit: 327b4b3fe5c69e163190b3b2cdfdb5b426b417af
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Expert Insights - Jen Desmond가 있는 인스턴스의 발전
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 이 에피소드에서는 Workfront을 처음 사용하는 사용자로부터 신뢰할 수 있는 전문가에 이르기까지 여정을 공유하며, 변경 사항을 관리하고 의도적으로 인스턴스를 확장하기 위한 실용적인 조언을 제공하는 Adobe의 기술 성공 고문인 놀라운 Jen Desmond와 함께 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483118/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483111/?learn=on&enablevpops)
 
 다음을 포함한 사려 깊은 통찰력을 통해 떠나게 됩니다.
 
@@ -34,9 +34,9 @@ ht-degree: 0%
 ## 리소스
 
 또한 Jen은 Fusion 템플릿, 블루프린트 및 공유 우수 사례가 모든 변화를 가져올 수 있는 이유 등 자주 사용하는 리소스 중 일부를 공유합니다. 자세히 알아보기:
-* [사용 가능한 Fusion 템플릿 목록](https://experienceleague.adobe.com/ko/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
-* [사용 가능한 블루프린트 목록](https://experienceleague.adobe.com/ko/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
-* [Experience League Workfront 커뮤니티](https://experienceleaguecommunities.adobe.com/adobe-workfront-22?profile.language=ko)
+* [사용 가능한 Fusion 템플릿 목록](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
+* [사용 가능한 블루프린트 목록](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
+* [Experience League Workfront 커뮤니티](https://experienceleaguecommunities.adobe.com/adobe-workfront-22)
 
 잠깐!  그녀는 공유할 조언이 더 많아!
 
