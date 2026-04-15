@@ -22,7 +22,7 @@ ht-degree: 1%
 
 웨비나는 이러한 개념을 통합하여 효율성을 높이고 고객 경험을 향상시키며 조직 내에서 데이터 중심의 의사 결정을 지원하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432998/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457015/?captions=kor&learn=on)
 
 ## 주요 학습 사항
 

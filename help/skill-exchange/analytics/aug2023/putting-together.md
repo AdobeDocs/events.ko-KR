@@ -22,4 +22,4 @@ ht-degree: 0%
 
 이 세션은 Adobe Analytics이 웹 사이트 데이터를 추적하고 시각화를 활용하여 추가 insight을 얻는 방법을 이해함으로써 마무리됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425988/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456725/?captions=kor&learn=on)

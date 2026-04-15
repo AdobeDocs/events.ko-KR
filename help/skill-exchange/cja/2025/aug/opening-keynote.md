@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Keynote 열기
 
->[!VIDEO](https://video.tv.adobe.com/v/3471108/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471131/?captions=kor&learn=on&enablevpops)
 
 ## Analyst Excellence: Essential Skills
 

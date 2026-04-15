@@ -21,7 +21,7 @@ ht-degree: 2%
 
 통합 승인은 Workfront의 향후 승인을 나타냅니다. Adobe 제품 관리 팀에 참여하여 Workfront에서 승인에 대한 제품 방향, 현재 증명 방식과 어떻게 다른지, 시간이 지남에 따라 전환이 어떻게 표시되는지 등을 공유하면 자세한 내용을 알 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481834/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481856/?captions=kor&learn=on&enablevpops)
 
 만약 여러분이 세션을 놓쳤다면, 걱정하지 마세요! [슬라이드 데크](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/032626+-Understanding+Unified+Approvals.pdf)를 검토하고 온디맨드 녹화를 시청하여 계속 진행하십시오.
 

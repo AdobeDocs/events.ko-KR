@@ -28,4 +28,4 @@ Adobe Analytics의 세그먼트는 매우 강력할 수 있지만, 이 기능을
 * exclude 논리의 힘
 * 성공에 적합한 구성 선택
 
->[!VIDEO](https://video.tv.adobe.com/v/3432748/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456936/?captions=kor&learn=on)

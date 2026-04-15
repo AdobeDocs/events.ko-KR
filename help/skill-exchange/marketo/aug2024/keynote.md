@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Raj Patel이 등장하는 Keynote
 
->[!VIDEO](https://video.tv.adobe.com/v/3432957/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453062/?captions=kor&learn=on)

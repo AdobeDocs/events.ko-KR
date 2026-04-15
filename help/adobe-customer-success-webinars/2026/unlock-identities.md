@@ -22,7 +22,7 @@ ht-degree: 1%
 
 이 세션에서는 Customer Journey Analytics(CJA)가 데이터 사일로를 분류하고 채널 및 장치 간 ID 결합을 활성화하여 통합 고객 인사이트를 잠금 해제하는 방법을 알아봅니다. 고객 데이터 연결, 속성 정확성 향상 및 보다 현명한 비즈니스 의사 결정을 위한 실용적인 전략을 이해하고자 하는 모든 사용자에게 권장됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480150/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480159/?captions=kor&learn=on&enablevpops)
 
 ## 주요 학습 사항
 
