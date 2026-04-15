@@ -23,7 +23,7 @@ Steve Teitelbaum, Adobe의 Enterprise Architect Content Supply chain과 협력�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481821/?learn=on&enablevpops)
 
-이 세션은 이전 워크샵인 [거버넌스, 실행 및 채택을 위한 Workfront Pro 팁](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/workflow/governance-execution-adoption)에서 논의에 대해 확장되었습니다.
+이 세션은 이전 워크샵인 [거버넌스, 실행 및 채택을 위한 Workfront Pro 팁](https://experienceleague.adobe.com/ko/docs/events/workfront-recordings/workshop-rewind/workflow/governance-execution-adoption)에서 논의에 대해 확장되었습니다.
 
 만약 여러분이 세션을 놓쳤다면, 걱정하지 마세요! [슬라이드 데크](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Pro+Tips+Part+2_Dec2025.pdf)를 검토하고 온디맨드 녹화를 시청하여 계속 진행하십시오.
 

@@ -37,13 +37,13 @@ ht-degree: 0%
 ## 리소스
 
 추가 리소스를 찾고 계십니까? 놈들을 잡았어요!
-* [고객 패널: 베테랑 Workfront 관리자로부터 얻은 교훈](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861#M3487) - Katherine이 더 많은 통찰력을 공유했습니다!
-* [보고서에서 컬렉션 참조](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
-* [API 탐색기](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
-* [보고 Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
-* 또한 보고를 처음 사용하는 경우 Adobe Workfront에서 간단하고 효과적인 보고서를 만드는 [8단계](https://experienceleague.adobe.com/en/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront)인 Nichole의 Perspective 문서를 시작하십시오.
+* [고객 패널: 베테랑 Workfront 관리자로부터 얻은 교훈](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861?profile.language=ko#M3487) - Katherine이 더 많은 통찰력을 공유했습니다!
+* [보고서에서 컬렉션 참조](https://experienceleague.adobe.com/ko/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
+* [API 탐색기](https://experienceleague.adobe.com/ko/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
+* [보고 Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=ko#M1406)
+* 또한 보고를 처음 사용하는 경우 Adobe Workfront에서 간단하고 효과적인 보고서를 만드는 [8단계](https://experienceleague.adobe.com/ko/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront)인 Nichole의 Perspective 문서를 시작하십시오.
 
-텍스트 모드 복사/붙여넣기를 포함한 추가 리소스를 보려면 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717#M4848)을 확인하십시오.
+텍스트 모드 복사/붙여넣기를 포함한 추가 리소스를 보려면 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717?profile.language=ko#M4848)을 확인하십시오.
 
 
 ## 발표자 정보

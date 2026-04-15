@@ -23,6 +23,6 @@ Workfront 데이터를 관련자가 즉시 사용할 수 있는 세련된 결과
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481825/?learn=on&enablevpops)
 
-세션 중에 논의된 슬라이드 데크 및 zip 파일을 포함하여 이벤트에서 더 많은 리소스를 찾고 계십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-from-data-to-design-automating-branded-pdfs-with-workfront-fusion-february-17-2026-248587)을 확인해 보세요!
+세션 중에 논의된 슬라이드 데크 및 zip 파일을 포함하여 이벤트에서 더 많은 리소스를 찾고 계십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-from-data-to-design-automating-branded-pdfs-with-workfront-fusion-february-17-2026-248587?profile.language=ko)을 확인해 보세요!
 
 매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events)를 확인하십시오.

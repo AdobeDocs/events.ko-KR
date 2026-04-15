@@ -24,6 +24,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475370/?quality=12&learn=on)
 
-[Adobe Journey Optimizer Community Ask Me Anything!에 참여하세요.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-october-15th-with-journey-optimizer-product/ec-p/778477) **수요일, 10월 15일 오전 8시~오전 9시(PT)**&#x200B;에 Nikhil Sharma(@snikhil) - Sr. Engineering Manager, Travis Jordan(@Travis_Jordan) - Principal Product Manager, Sandra Hausmann(@SHausmann) - Sr. Technical Marketing Engineer와 같은 Adobe Journey Optimizer 전문가가 참여합니다.
+[Adobe Journey Optimizer Community Ask Me Anything!에 참여하세요.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-october-15th-with-journey-optimizer-product/ec-p/778477?profile.language=ko) **수요일, 10월 15일 오전 8시~오전 9시(PT)**&#x200B;에 Nikhil Sharma(@snikhil) - Sr. Engineering Manager, Travis Jordan(@Travis_Jordan) - Principal Product Manager, Sandra Hausmann(@SHausmann) - Sr. Technical Marketing Engineer와 같은 Adobe Journey Optimizer 전문가가 참여합니다.
 
 이 라이브 채팅 중에 질문에 답변해 드리겠습니다.

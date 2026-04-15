@@ -23,6 +23,6 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481830/?learn=on&enablevpops)
 
-세션 중에 공유된 슬라이드 데크를 포함하여 이벤트에서 더 많은 리소스를 찾고 계십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-s-power-trio-connecting-planning-workflow-and-canvas-dashboards-march-12-2026-249160)을 확인해 보세요!
+세션 중에 공유된 슬라이드 데크를 포함하여 이벤트에서 더 많은 리소스를 찾고 계십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-s-power-trio-connecting-planning-workflow-and-canvas-dashboards-march-12-2026-249160?profile.language=ko)을 확인해 보세요!
 
 매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events)를 확인하십시오.

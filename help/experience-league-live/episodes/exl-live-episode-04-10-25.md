@@ -28,8 +28,8 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457557/?quality=12&learn=on)
 
-**Experience League [커뮤니티 게시물에 대해 토론을 계속합니다.](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-le[...]live-post-session-discussion-don-t-wait/td-p/748173){target="_blank"}**
+**Experience League [커뮤니티 게시물에 대해 토론을 계속합니다.](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-le?profile.language=ko[...]live-post-session-discussion-don-t-wait/td-p/748173){target="_blank"}**
 
 ## 추가 리소스
 
-[Real-Time CDP Collaboration 비디오](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-overview)
+[Real-Time CDP Collaboration 비디오](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-overview)
