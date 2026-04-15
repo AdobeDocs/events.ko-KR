@@ -2,6 +2,7 @@
 title: XDM 스키마 모델링에 대한 우수 사례 및 통찰력
 description: 확장 가능한 실시간 개인화 및 세그멘테이션을 위한 XDM 스키마, ID 관리 및 모범 사례를 사용한 AEP의 기본 데이터 모델링.
 solution: Experience Platform
+feature: Personalization
 topic: Personalization
 role: Developer
 level: Intermediate
@@ -10,9 +11,9 @@ duration: 3488
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18019
 exl-id: 3327dc51-b5e4-49bd-884a-4defea8664eb
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458042/?learn=on&enablevpops)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 **Adobe Experience Platform(AEP)의 데이터 모델링**
 

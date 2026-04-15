@@ -1,14 +1,16 @@
 ---
 title: 전문가에게 문의 - API 탐색기를 사용하여 기본 텍스트 모드 보고
 description: API 탐색기, API 탐색기 사용 방법, 기본 텍스트 모드를 활용하여 보고서를 향상시키는 방법에 대해 알아봅니다. 이 웨비나는 2020년 1월 22일에 녹화되었습니다.
+feature: Reports and Dashboards, System Setup and Administration
+topic: Integrations, Development
 doc-type: feature video
 team: Technical Marketing
 kt: 9918
 exl-id: f859c4eb-8b3c-4d91-9765-9957dc4678f5
 duration: 4068
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '1658'
+source-wordcount: '1667'
 ht-degree: 0%
 
 ---

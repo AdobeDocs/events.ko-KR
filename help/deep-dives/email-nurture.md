@@ -1,6 +1,8 @@
 ---
 title: Adobe [!DNL Marketo Engage] 챔피언 딥다이브 이메일 육성
 description: 이 세션에서는 리드 육성 및 드립 마케팅의 잠재력을 최대한 활용하십시오. 여기에서는 효과적인 전략을 수립하기 위한 주요 요인을 배우고, 성공적인 사례를 살펴보고, 조직 전체에 이러한 기술을 적용하여 고유한 목표를 달성하는 방법을 살펴볼 수 있습니다.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ jira: KT-13153
 thumbnail: 3418903.jpeg
 exl-id: b0773186-bffb-49f7-a9e1-7254c33c03b3
 duration: 3462
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---

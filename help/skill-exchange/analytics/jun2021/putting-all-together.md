@@ -2,13 +2,15 @@
 title: Adobe Analytics - 종합
 description: Adobe Analytics이 웹 사이트 데이터를 추적하는 방법, 저장, 공유 및 공동 작업 방법을 이해하여 마무리하십시오. 생산성을 높일 수 있는 팁과 함께 이 세션을 종료하십시오.
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Beginner
 kt: 10319
 thumbnail: 342529.jpeg
 exl-id: 9f0cd70d-4f6a-425d-8e49-9056556f6d8b
 duration: 2625
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%

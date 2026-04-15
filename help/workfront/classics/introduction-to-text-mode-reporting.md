@@ -1,14 +1,16 @@
 ---
 title: 전문가에게 문의 - 텍스트 모드 보고 소개
 description: 텍스트 모드에서는 보고 기능을 확장하여 더 복잡한 보기, 필터, 그룹화 및 프롬프트를 만들 수 있습니다. 이 웨비나는 2020년 7월 15일에 녹화되었습니다.
+feature: Reports and Dashboards
+topic: Integrations
 doc-type: feature video
 team: Technical Marketing
 kt: 9919
 exl-id: 9199bf64-c019-4ffd-9e12-50d4f6ced4a1
 duration: 3671
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---

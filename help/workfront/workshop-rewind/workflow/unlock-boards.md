@@ -1,19 +1,21 @@
 ---
 title: Workfront 보드 잠금 해제
 description: Adobe Workfront 보드를 사용하여 워크플로우를 간소화하고 팀 공동 작업을 향상시키는 방법을 알아봅니다. 작업 및 프로젝트를 효율적으로 관리하는 데 적합합니다.
+feature: Work Management
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3729
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19751
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: de39bb1c-e112-47a1-99b7-5d49fe750337
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
-
 
 # Workfront 보드 잠금 해제
 

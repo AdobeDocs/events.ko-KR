@@ -2,19 +2,20 @@
 title: Marketo Engage에서 새 이메일 Designer 살펴보기
 description: Adobe 전문가와 함께 Marketo Engage의 새로운 이메일 디자이너를 살펴보십시오. 이메일 마케팅을 향상시킬 수 있는 기능, 모범 사례, 팁, 마이그레이션 전략 등을 알아보십시오.
 feature: Email Editor
+topic: Migration
 role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3725
 last-substantial-update: 2025-04-02T00:00:00Z
 jira: KT-17621
-source-git-commit: e1d87cd15d45ea0c9ea94bfe8063e7a5ace97214
+exl-id: 8924f69c-0158-4962-b4a5-5d26f7b3c5f5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
-
 
 # Marketo Engage에서 새 이메일 Designer 살펴보기
 

@@ -1,19 +1,21 @@
 ---
 title: Workfront Fusion의 사전 예방 예외 처리
 description: Workfront Fusion에서 사전 예방적으로 예외를 관리하여 원활한 자동화와 향상된 사용자 경험을 제공하는 방법에 대해 알아봅니다.
+feature: Workfront Fusion, Reports and Dashboards
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3539
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19765
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: c6933b1b-3dce-40c6-a5f7-4312025054f7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Fusion의 사전 예방 예외 처리 프레임워크
 

@@ -1,19 +1,21 @@
 ---
 title: Workfront Success Toolkit - 채택과 가치를 가속화하는 리소스
 description: Workfront 채택 및 가치를 최적화하는 리소스 및 도구를 살펴보십시오. 워크숍, 커뮤니티 포럼 및 전문 서비스 인사이트에 액세스합니다.
+feature: Work Management, Workfront Fusion
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3282
 last-substantial-update: 2026-03-26T00:00:00Z
 jira: KT-20606
-source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
+exl-id: 9ace3404-e1b2-4bc8-8e8e-9029bd5e4072
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 1%
 
 ---
-
 
 # Workfront Success Toolkit - 채택과 가치를 가속화하는 리소스
 
@@ -25,8 +27,6 @@ Adobe Workfront 챔피언 프로그램, Experience League 커뮤니티 어드바
 
 만약 여러분이 세션을 놓쳤다면, 걱정하지 마세요! [슬라이드 데크](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Success+Toolkit+Slide+Deck+021226.pdf)를 검토하고 온디맨드 녹화를 시청하여 계속 진행하십시오.
 
-이벤트에서 더 많은 리소스를 찾고 계십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-your-workfront-success-toolkit-resources-to-accelerate-adoption-february-12-2026-248480?profile.language=ko)을 확인해 보세요!
+이벤트에서 더 많은 리소스를 찾고 계십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-your-workfront-success-toolkit-resources-to-accelerate-adoption-february-12-2026-248480)을 확인해 보세요!
 
 매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events)를 확인하십시오.
-
-

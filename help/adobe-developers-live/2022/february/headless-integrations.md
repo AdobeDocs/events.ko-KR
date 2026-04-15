@@ -1,13 +1,15 @@
 ---
 title: Headless 통합으로 혁신
-description: 파트너가 Adobe 상거래 API의 잠재력을 잠금 해제하고 확장하여 어떻게 경험을 혁신하고 창출했는지 자세히 살펴보십시오.
+description: Adobe 상거래 API의 잠재력을 최대한 활용하고 확장하여 파트너가 어떻게 혁신을 이루고 경험을 만들었는지 자세히 살펴보십시오.
+feature: Edge Delivery Services, Release Information
+topic: Headless, Integrations, Development
 role: User
 level: Beginner
 kt: 9790
 thumbnail: 340623.jpeg
 exl-id: 33c44945-5838-471e-972d-5b331549a9e3
 duration: 1714
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%

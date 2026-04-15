@@ -2,19 +2,21 @@
 title: Journey Optimizer Mobile 기능
 description: Adobe Journey Optimizer에 대한 이 소개 세션은 초보자가 개인화를 사용하여 결과를 도출하는 SMS 및 푸시 채널 고객 경험을 만들 수 있는 권한을 부여합니다. 조각 사용 및 개인화에 대해 설명합니다.
 solution: Journey Optimizer
+feature: Journeys, Email Design, Audiences
+topic: Artificial Intelligence, Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3294
 last-substantial-update: 2024-08-27T00:00:00Z
 jira: KT-16036
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: 2ff99ad3-4876-4760-af0f-c48a0c772e2e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
-
 
 # Journey Optimizer Mobile 기능
 
@@ -37,7 +39,7 @@ Adobe Journey Optimizer에 대한 이 소개 세션은 초보자가 개인화를
 **푸시 알림 구성**
 
 * 대상자 정의, 예약 및 개인화된 콘텐츠 및 미디어로 푸시 알림 작성.
-* 브랜드 스타일을 기반으로 개인화된 이미지를 만들기 위해 Firefly과 같은 생성 AI를 활용합니다.
+* Firefly과 같은 생성 AI를 활용하여 브랜드 스타일을 기반으로 개인화된 이미지를 만듭니다.
 
 **앱 개발 및 서비스**
 

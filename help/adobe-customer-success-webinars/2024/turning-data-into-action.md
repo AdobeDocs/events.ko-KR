@@ -1,6 +1,8 @@
 ---
 title: 측정의 전략적 능력 - 데이터를 행동으로 전환
 description: 효과적인 측정 전략은 이해 당사자를 참여시키고, 데이터에 대한 친숙도를 보장하며, 의사 결정에 대한 신뢰도를 높여 신뢰와 권한을 강화하는 반면, 투명성, 데이터 거버넌스 및 이해 당사자 정렬을 통해 신뢰를 구축하고, 교육, 액세스 가능한 도구 및 실행 가능한 데이터를 통해 권한을 부여함으로써 비즈니스 영향과 운영 효율성을 통해 분석의 가치를 입증하는 데 기여합니다.
+feature: Metrics, Data Governance
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3391
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16628
 exl-id: eaa9642c-c460-410b-9af5-3ff42e50ef89
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440935/?learn=on&enablevpops)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 **측정 전략**
 

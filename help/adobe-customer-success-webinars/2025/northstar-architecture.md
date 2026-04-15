@@ -2,6 +2,8 @@
 title: EA Northstar 아키텍처 계획
 description: 솔루션 간 아키텍처 설계(Cross-Solution Architecture Design)에 대한 TWebinar는 개발자, 리더 및 사용자를 위한 주요 통찰력과 함께 Northstar 다이어그램의 가치 및 작성에 대해 다룹니다.
 solution: General
+feature: Developer Tools
+topic: Development
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3546
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18244
 exl-id: 54e7d661-eecb-42ec-8bff-7776bafbdb31
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---

@@ -1,19 +1,21 @@
 ---
 title: 효율성 극대화 - Adobe Workfront의 AI 기반 자동화
 description: Adobe Workfront의 AI 기반 자동화를 통해 프로젝트 관리를 간소화하고 효율성을 높이며 보다 스마트하고 데이터 중심적인 의사 결정을 지원하는 방법에 대해 알아봅니다.
+feature: Resource Management
+topic: Administration, Integrations
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3379
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18241
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: 7d8d5e87-52d9-4b4a-a123-b9e2a3e4f065
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
-
 
 # 효율성 극대화: Adobe Workfront의 AI 기반 자동화
 

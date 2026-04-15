@@ -1,7 +1,8 @@
 ---
-title: AEM의 콘텐츠 개인화를 통해 비즈니스 가치 촉진
+title: AEM의 컨텐츠 개인화를 통해 비즈니스 가치 촉진
 description: Adobe Experience Manager 및 Adobe Target 전반의 개인화 기능을 사용하여 전환이 보장되는 풍부하고 매력적인 경험을 제공하는 방법에 대해 알아보십시오.
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
 role: User
 level: Beginner, Intermediate, Experienced
 topic: Personalization
@@ -9,14 +10,14 @@ kt: 10948
 thumbnail: 346384.jpeg
 exl-id: 8bbd96e2-5a74-46a7-a622-b8f3f1a85e5f
 duration: 2309
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-# AEM의 콘텐츠 개인화를 통해 비즈니스 가치 촉진
+# AEM의 컨텐츠 개인화를 통해 비즈니스 가치 촉진
 
 Adobe Experience Manager 및 Adobe Target 전반의 개인화 기능을 사용하여 전환이 보장되는 풍부하고 매력적인 경험을 제공하는 방법에 대해 알아보십시오.
 

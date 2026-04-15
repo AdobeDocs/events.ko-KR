@@ -1,19 +1,21 @@
 ---
 title: Adobe Workfront의 10가지 추가 텍스트 모드 팁
 description: Adobe Workfront 워크플로를 개선하기 위한 10가지 필수 텍스트 모드 팁을 살펴보십시오. 효율성을 극대화하고 프로세스를 간소화하는 방법에 대해 알아봅니다.
+feature: Reports and Dashboards, System Setup and Administration
+topic: Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3566
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19758
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: f9d40c97-67af-420e-8519-9a6a068faa3a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Workfront의 10가지 추가 텍스트 모드 팁
 

@@ -1,19 +1,21 @@
 ---
 title: Agentic 웹 키노트 작성
 description: AEM 에이전트 등을 포함하는 아젠틱 웹에 대한 Adobe의 비전을 통해 디지털 경험에서 AI의 역할을 살펴보십시오.
+feature: Edge Delivery Services, Release Information
+topic: Artificial Intelligence, Development
 role: Developer
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 4240
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19962
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: e0f0188d-c97c-4541-993e-cb88e3081eba
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '152'
 ht-degree: 1%
 
 ---
-
 
 # Keynote: Agentic 웹 구축
 
@@ -29,4 +31,3 @@ Adobe Developers Live 2025를 지원해준 우리의 후원자인 Algolia와 Ens
 
 * [Experience League](https://adobe.ly/47ss08A)에서 대화 계속
 * [예정된 이벤트](https://developerevents.adobe.com) 검색
-

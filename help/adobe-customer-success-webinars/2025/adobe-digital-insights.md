@@ -2,6 +2,8 @@
 title: Adobe 디지털 인사이트 - 2024년 휴일 결과 및 2025년 초 트렌드 래핑 해제
 description: Adobe의 웨비나에 참여하여 2024년 명절 쇼핑 트렌드 및 2025년 초 시장 예측에 대한 통찰력을 얻고, 고성장 제품 카테고리를 탐색하고, AI 및 고급 기술을 사용하여 개인화된 쇼핑 경험을 만들기 위한 모범 사례를 알아보십시오.
 solution: General
+feature: Generative AI, Personalization
+topic: Artificial Intelligence, Personalization, Performance
 role: Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3049
 last-substantial-update: 2025-02-20T00:00:00Z
 jira: KT-17395
 exl-id: bf20e43a-efc6-4d54-af79-15f89d4fd02b
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -29,7 +31,7 @@ Adobe의 업계 전문가들의 최신 통찰력을 통해 2024년 연말연시 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446271/?learn=on&enablevpops)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 * **2024년 연말연시 성과** 2024년 연말연시 성적은 전년 대비 8.7% 증가했으며, 2,414억 달러의 기록적인 지출로 연간 총 1조 500억 달러에 기여했습니다. 가격 민감성, 소셜 및 마케팅 채널, 모바일 쇼핑 등이 핵심 동인으로 나타났다.
 

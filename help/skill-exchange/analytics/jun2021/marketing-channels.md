@@ -1,16 +1,18 @@
 ---
 title: 마케팅 채널, 책임 있게 사용하십시오.
-description: 각 브랜드의 터치 포인트가 마케팅 채널 및 속성 모델과 함께 클라이언트의 여정에 미치는 영향을 파악합니다. 이 세션에서는 ... (설명은 60~160자 사이여야 함)
+description: 각 브랜드의 터치 포인트가 마케팅 채널 및 속성 모델과 함께 클라이언트의 여정에 미치는 영향을 이해합니다.이 세션에서는... (설명은 60~160자 사이여야 함)
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10322
 thumbnail: 342532.jpeg
 exl-id: 858fbd40-c520-4974-a6f1-2d573b0a1bf6
 duration: 1952
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---

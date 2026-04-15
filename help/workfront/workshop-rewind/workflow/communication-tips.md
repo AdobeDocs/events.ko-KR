@@ -1,19 +1,21 @@
 ---
 title: Workfront의 효과적인 커뮤니케이션 팁
 description: Adobe Workfront에서 워크플로우 효율성을 높이고 공동 작업 및 생산성을 향상시키기 위한 10가지 커뮤니케이션 팁을 살펴보십시오.
+feature: Workfront Fusion
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3317
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19762
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 24aedd87-d213-46c9-b6c5-d55906105115
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
-
 
 # Workfront의 효과적인 커뮤니케이션 팁
 

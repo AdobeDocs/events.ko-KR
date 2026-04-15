@@ -3,6 +3,7 @@ title: 고급 스마트 목록 논리 및 일반적인 위험
 description: 복잡하고 고급 스마트 목록 논리, ALL, ANY 및 고급 필터, 여러 트리거, 네거티브 필터 및 네거티브 제한, 일반적인 문제 및 문제 해결 팁 개요
 feature-set: Marketo Engage
 feature: Smart Lists
+topic: Artificial Intelligence, Personalization
 role: Admin, User
 level: Beginner
 doc-type: Event
@@ -11,7 +12,7 @@ jira: KT-13817
 thumbnail: 3422531.jpeg
 exl-id: 334e7cb4-3417-448e-b209-e197bbf0b781
 duration: 2937
-source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%

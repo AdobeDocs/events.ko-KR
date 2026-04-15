@@ -1,19 +1,21 @@
 ---
 title: Workfront의 Power Trio - 계획, 워크플로 및 캔버스 대시보드 연결
 description: 간소화된 프로젝트 관리를 위해 Workfront에서 계획, 워크플로우 및 캔버스 대시보드를 통합하는 방법을 알아봅니다.
+feature: Reports and Dashboards, Work Management, Strategic Planning
+topic: Integrations, Security, Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3585
 last-substantial-update: 2026-03-26T00:00:00Z
 jira: KT-20609
-source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
+exl-id: 1038eeb7-584f-421c-88cd-9084746a5974
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 2%
 
 ---
-
 
 # Workfront의 Power Trio - 계획, 워크플로 및 캔버스 대시보드 연결
 
@@ -21,8 +23,6 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481830/?learn=on&enablevpops)
 
-세션 중에 공유된 슬라이드 데크를 포함하여 이벤트에서 더 많은 리소스를 찾고 계십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-s-power-trio-connecting-planning-workflow-and-canvas-dashboards-march-12-2026-249160?profile.language=ko)을 확인해 보세요!
+세션 중에 공유된 슬라이드 데크를 포함하여 이벤트에서 더 많은 리소스를 찾고 계십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-s-power-trio-connecting-planning-workflow-and-canvas-dashboards-march-12-2026-249160)을 확인해 보세요!
 
 매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events)를 확인하십시오.
-
-

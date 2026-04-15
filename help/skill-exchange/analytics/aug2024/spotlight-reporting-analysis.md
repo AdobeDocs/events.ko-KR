@@ -2,19 +2,21 @@
 title: Experience Makers Spotlight
 description: 프로젝트에서 사용하지 않을 수 있는 몇 가지 Workspace 기능에 대해 알아보기 이러한 기능을 사용하여 귀하와 Workspace 프로젝트 최종 사용자에게 통찰력을 제공하는 방법을 알아보십시오. 조직의 Workspace 프로젝트에 적용할 수 있는 몇 가지 사용 사례 예를 확인하십시오.
 solution: Analytics
+feature: Analysis Workspace, Visualizations
+topic: Security
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 2569
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-15972
-source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
+exl-id: b59ee10f-cc6e-4b85-8ea6-ce639e63bf5a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
-
 
 # Experience Makers Spotlight
 

@@ -2,19 +2,21 @@
 title: AJO 성공을 위한 운영 모델 디자인
 description: 일관된 운영 모델을 통해 효율성을 높이고, 리소스 조달 문제를 방지하며, 마케팅 프로그램을 확장하여 장기적인 성공을 거두는 방법에 대해 알아봅니다.
 solution: Journey Optimizer
+feature: Email Design
+topic: Personalization, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3581
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19551
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 7c10159b-9ae3-447d-8cfa-e46802e63ea8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
-
 
 # AJO 성공을 위한 운영 모델 디자인
 
@@ -51,4 +53,3 @@ AJO 운영 모델은 전략적 비전을 효과적인 가치 중심 운영으로
    * **임베드됨** 15-20명의 특수 멤버, 높은 확장성, 지속적인 교육.
 
 명확한 거버넌스 및 팀 성숙도는 일관된 전달 및 측정 가능한 결과를 도출합니다.
-

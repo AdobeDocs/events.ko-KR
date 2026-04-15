@@ -3,6 +3,7 @@ title: Experience Makers Spotlight - 성장 준비 및 지속적인 효율성
 description: Experience Makers Spotlight 세션에 참여하여 세 곳의 매우 다른 조직에서 Workfront 인스턴스 성장 및 확장에 어떻게 접근했는지에 대한 이야기를 들어보십시오.
 solution: Workfront
 feature: System Setup and Administration
+topic: Administration
 role: User, Admin
 level: Intermediate, Experienced
 doc-type: Event
@@ -11,7 +12,7 @@ jira: KT-14574
 thumbnail: 3425813.jpeg
 exl-id: fd18358c-1027-42b9-a9da-c8b7af2b6820
 duration: 3081
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%

@@ -1,6 +1,9 @@
 ---
 title: Adobe Developer App Builder
+solution: Commerce
+feature: App Builder
 description: App Builder 전문가 지침 및 라이브 데모를 사용하여 Adobe Commerce을 모든 eCommerce 애플리케이션과 통합
+topic: Personalization, Integrations, Performance
 role: Admin, Developer
 level: Intermediate, Experienced
 doc-type: Event
@@ -8,9 +11,9 @@ duration: 3460
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17171
 exl-id: 0a645dc1-0f5d-4b85-bd09-80a453754434
-source-git-commit: 0f08a5e73b4c8842b2639d89552a69b06b7a6788
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '356'
 ht-degree: 2%
 
 ---
@@ -21,7 +24,7 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443027/?learn=on&enablevpops)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 * **Adobe Commerce App Builder 소개** 웨비나에서는 개발자가 특정 요구 사항에 맞게 응용 프로그램 및 확장을 만들고, 사용자 지정하고, 개발할 수 있도록 함으로써 Adobe Commerce 환경을 개선하고 간소화하는 기능을 강조 표시하는 Adobe Commerce App Builder을 도입했습니다.
 

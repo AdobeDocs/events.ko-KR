@@ -2,19 +2,21 @@
 title: Adobe Journey Optimizer 채택을 위한 변경 관리 전략
 description: Adobe Journey Optimizer의 가치를 극대화하기 위한 리더십, 공동 작업 및 실시간 참여에 대한 전략을 살펴보십시오.
 solution: Journey Optimizer
+feature: Journeys
+topic: Security, Development
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2589
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19689
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 43fcdd6f-5cc7-4cac-9f04-073d05233e06
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Journey Optimizer 채택을 위한 변경 관리 전략
 
@@ -55,4 +57,3 @@ ht-degree: 0%
 * 고객 요구에 즉시 응답함으로써 AJO의 잠재력을 최대한 발휘하십시오.
 
 실시간 응답성을 통해 팀은 보다 관련성이 높고 영향력 있는 고객 경험을 제공할 수 있습니다.
-

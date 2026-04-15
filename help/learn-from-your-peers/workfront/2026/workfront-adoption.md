@@ -1,6 +1,8 @@
 ---
 title: 지속 가능한 Workfront 채택 구성 - 아키텍처에서 일상적인 사용
 description: 거버넌스, 템플릿, 자동화, 장기적인 성공을 위한 사용자 참여를 포함하여 지속 가능한 Workfront 채택을 위한 전략을 살펴보십시오.
+feature: Workfront Fusion, System Setup and Administration
+topic: Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,13 +11,13 @@ last-substantial-update: 2026-04-08T00:00:00Z
 hidefromtoc: true
 hide: true
 jira: KT-20786
-source-git-commit: a74b16144c63581e387e590ff4aa98f9a218ec84
+exl-id: d751d2d8-0779-451f-a2bf-351d26a56eab
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # 지속 가능한 Workfront 채택 구성: 아키텍처에서 일상적인 사용에 이르기까지
 
@@ -25,7 +27,7 @@ Workfront 채택은 일회성 출시가 아니라 장기적인 전략입니다. 
 
 이 두 사람은 팀을 산발적인 사용 및 임시 구성에서 유지 관리, 확장 및 진화가 더 용이한 반복 가능한 insight 기반 프로세스로 전환하는 방법에 대해 논의했습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483207/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483200/?learn=on&enablevpops)
 
 ## 주요 사항
 
@@ -33,6 +35,3 @@ Workfront 채택은 일회성 출시가 아니라 장기적인 전략입니다. 
 * 작업을 일관되게 시스템에 입력하고 효율적으로 이동하며 팀과의 마찰 없이 리더에게 필요한 가시성을 제공할 수 있도록 접수 및 워크플로를 표준화하기 위한 팁
 * 자동화를 사용하여 참여 및 책임 추구를 촉진하는 실용적인 방법
 * 채택 평가 및 개선을 위한 명확하고 실행 가능한 프레임워크를 통해 팀이 위험 영역을 식별하고 적절한 개선 사항의 우선 순위를 지정할 수 있습니다.
-
-
-

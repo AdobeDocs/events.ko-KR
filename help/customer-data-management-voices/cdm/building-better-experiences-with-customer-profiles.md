@@ -3,6 +3,7 @@ title: 고객 프로필을 통해 더 나은 경험 구축
 description: 우수한 고객 경험을 제공하려면 고객에 대해 알고 있는 모든 사항을 실시간 고객 프로필에 병합해야 합니다.
 solution: Real-Time Customer Data Platform
 feature: Profiles
+topic: Personalization, Artificial Intelligence
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 thumbnail: 336939.jpg
@@ -10,9 +11,9 @@ kt: 8866
 type: Event
 exl-id: 5adf4fd4-2302-4bd0-86eb-d20b8a3f5a7c
 duration: 2788
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---

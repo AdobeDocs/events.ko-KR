@@ -2,19 +2,20 @@
 title: Marketo을 통해 이메일 전달성 극대화 - 대상자에게 도달하기 위한 모범 사례
 description: 이메일이 의도한 대상자에게 도달하는지 확인하는 것은 참여를 유도하고 마케팅 목표를 달성하는 데 중요합니다.
 feature: Deliverability
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3641
 last-substantial-update: 2024-12-11T00:00:00Z
 jira: KT-16364
-source-git-commit: c2a8ab10557ecf32d60b2f173c4eb5de9b9d3f81
+exl-id: b8b6d108-bdf0-49e9-8bd5-a2a35b1ebc22
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
-
 
 # Marketo Engage을 통해 이메일 전달성 극대화: 대상자에게 도달하기 위한 모범 사례
 

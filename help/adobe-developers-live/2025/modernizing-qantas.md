@@ -1,19 +1,21 @@
 ---
 title: Edge Delivery Services을 통한 콴타스 현대화
 description: Qantas가 Adobe Edge Delivery Services를 사용하여 웹 사이트를 변환하여 속도, SEO 및 작성 기능을 향상시키는 방법을 살펴봅니다.
+feature: Edge Delivery Services, Authoring
+topic: Administration, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1810
 last-substantial-update: 2025-12-12T00:00:00Z
 jira: KT-19984
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: 95c84a15-4c4d-4f0c-a221-11b12b82ec3d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
-
 
 # EDS(Edge Delivery Services)를 사용한 Qantas.com 현대화
 

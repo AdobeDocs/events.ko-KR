@@ -1,19 +1,21 @@
 ---
 title: AI 기반 인사이트를 통한 디지털 경험 최적화 가속화
 description: Adobe Analytics, Target 및 CJA의 AI가 어떻게 insight 속도, 개인화 및 크로스 채널 최적화를 향상시켜 보다 스마트하고 빠른 마케팅 의사 결정을 가능하게 하는지 알아보십시오.
+feature: Basics, Use Cases
+topic: Personalization
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 2970
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18243
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: fcf25ec0-1e23-4efe-a869-9e108456380c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
-
 
 # AI 기반 인사이트를 통한 디지털 경험 최적화 가속화
 

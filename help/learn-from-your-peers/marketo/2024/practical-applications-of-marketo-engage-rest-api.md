@@ -3,6 +3,7 @@ title: 강력한 워크플로우 자동화 잠금 해제 - Marketo Engage REST A
 description: Marketo Engage REST API의 잠재력을 활용하여 마케팅 워크플로우를 자동화하고, Zapier와 같은 도구를 통합하고, Python을 대량 작업에 활용하고, 리드 병합, UTM 추적 및 활동 데이터 추출과 같은 작업을 간소화합니다.
 solution: Marketo Engage
 feature: REST API
+topic: Integrations
 role: Admin
 level: Beginner, Intermediate
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 2447
 last-substantial-update: 2024-04-19T00:00:00Z
 jira: KT-15347
 exl-id: bdfc3a26-0af1-4f39-b9ed-2842fecea17c
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---

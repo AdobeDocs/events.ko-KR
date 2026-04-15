@@ -2,19 +2,21 @@
 title: Resourcing Excellence - 업무 균형자 사용자 정의
 description: 다른 도구(업무 균형자 또는 리소스 플래너)보다 한 도구를 선택할 수 있는 경우 또는 두 가지 모두 사용할 수 있는 상황 보고에서 필요한 데이터를 정확하게 확인하기 위해 필터 및 보기를 사용자 정의하는 방법 정확한 용량 계획에 휴무를 입력하는 것이 중요한 이유 Workfront의 리소스 관리 도구를 사용하여 Steve와 그의 팀이 향후 3개월 동안 일상적인 리소스 용량과 향후 리소스 계획을 결정하는 방법
 solution: Workfront
+feature: Resource Management, Reports and Dashboards, Strategic Planning
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 2623
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16102
-source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
+exl-id: 16622bad-db10-4deb-9182-753d0abdcd55
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
-
 
 # 리소스 우수성: 업무 균형자 사용자 정의
 

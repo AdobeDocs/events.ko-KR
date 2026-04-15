@@ -1,23 +1,24 @@
 ---
-title: Analysis Workspace을 통한 데이터 스토리텔링
+title: Data Storytelling With Analysis Workspace
 description: Adobe Analysis Workspace 대시보드를 영향력, insight 및 관련자 작업을 유도하는 매력적인 데이터 스토리로 변환하는 5가지 전략에 대해 알아봅니다.
 solution: Analytics
 feature: Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18820
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: cf6a1931-094a-4a2e-b3df-6e20d07e1487
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
 
-
-# Analysis Workspace을 통한 데이터 스토리텔링
+# Data Storytelling With Analysis Workspace
 
 대시보드는 훌륭하지만 종종 어떤 영향도 주지 않습니다. 이 세션에서는 Adobe Analysis Workspace 프로젝트를 주목받고 작업을 유도하는 실제 데이터 스토리로 만드는 방법을 안내합니다.
 
@@ -26,12 +27,12 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/3471116/?learn=on&enablevpops)
 
 
-## 효과적인 데이터 스토리텔링 잠금 해제
+## 영향력 있는 데이터 Storytelling 잠금 해제
 
 기존의 보고 수준을 넘어 실제 관련자 작업을 유도하는 대시보드를 만드는 방법을 알아봅니다.
 
-* **스토리텔링이 작업을 유도함** 이해 당사자는 원시 데이터뿐만 아니라 insight, 긴급성 및 정서적 관련성에 응답합니다.
-* **이야기 구조 문제** 설정, 긴장 및 해결을 사용하여 효과적인 스토리텔링을 미러링하면서 대시보드를 통해 사용자를 안내합니다.
+* **Storytelling이 작업을 유도함** 이해 당사자는 원시 데이터뿐만 아니라 insight, 긴급성 및 정서적 관련성에 응답합니다.
+* **이야기 구조 문제** 설정, 긴장 및 해결을 사용하여 효과적인 storytelling을 미러링하여 사용자를 대시보드를 통해 안내합니다.
 * **시각화 및 컨텍스트** 고급 시각화 및 컨텍스트 텍스트를 통해 사용자는 중요한 것에 집중하고 감정적인 참여를 구축할 수 있습니다.
 * **프레젠테이션은 중요합니다** 데이터 스토리를 표시하는 방식은 그 효과를 만들어 내거나 손상시킬 수 있습니다. 개인 전달은 감정과 명확성을 더합니다.
 

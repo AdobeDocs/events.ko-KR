@@ -1,19 +1,21 @@
 ---
 title: 그건 그렇고 누구의 양식이죠? AEM Forms과 비교하여 Marketo 양식에 대해 자세히 알아보기
 description: 사용자 지정 PDF와 같은 개인화된 경험을 위해 Marketo 및 AEM Forms을 통합합니다. AEM Forms은 실시간 유효성 검사와 중앙 집중식 관리를 통해 복잡한 양식을 처리합니다.
+feature: Programs, Reporting
+topic: Personalization, Integrations
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2753
 last-substantial-update: 2025-03-04T00:00:00Z
 jira: KT-17434
-source-git-commit: b846c1d38ce66dd6d4223d44964eebf1ccc7144c
+exl-id: 44986108-d59e-4729-bfa5-4cb3adb3719e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
-
 
 # 그건 그렇고 누구의 양식이죠? AEM Forms과 비교하여 Marketo 양식에 대해 자세히 알아보기
 
@@ -21,7 +23,7 @@ Marketo Forms와 AEM Forms를 사용하는 다양한 방법 및 사용 사례를
 
 >[!VIDEO](https://video.tv.adobe.com/v/3448534/?learn=on&enablevpops)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 * **Marketo과 AEM Forms 통합** Marketo과 AEM Forms을 통합하여 개인화되고 동적인 사용자 경험을 만드는 방법에 대해 중점적으로 다룹니다. 예를 들어 AEM Forms을 사용하여 Marketo의 사용자 데이터를 기반으로 하여 사용자 정의 PDF를 생성할 수 있습니다.
 

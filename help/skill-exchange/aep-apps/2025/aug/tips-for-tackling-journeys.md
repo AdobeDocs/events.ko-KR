@@ -3,19 +3,20 @@ title: 고객 혼란 진정 - Adobe Journey Optimizer에서 복잡한 여정을 
 description: Adobe Journey Optimizer에서 매끄러운 오케스트레이션을 위해 복잡한 여정을 분류하고, 태그를 사용하고, 데이터 관리를 간소화하는 실용적인 팁을 알아봅니다.
 solution: Experience Platform, Journey Optimizer
 feature: Journeys
+topic: Administration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-28T00:00:00Z
 jira: KT-18849
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+exl-id: e2b632ee-aa96-41db-8587-f880595a5143
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
-
 
 # 고객 혼란 진정: Adobe Journey Optimizer(AJO)의 복잡한 여정을 해결하기 위한 팁
 

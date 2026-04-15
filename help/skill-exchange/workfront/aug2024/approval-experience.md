@@ -2,19 +2,21 @@
 title: 승인 경험을 향상시킬 수 있는 긍정적인 방법
 description: 인스턴스에서 이상적인 Proof 권한을 찾아 설정하여 사용자에게 알림을 최소화하는 방법 사용자 교육을 위한 실용적인 예 Proof을 일관되게 사용하는 방법 Workfront 보고를 사용하여 승인 프로세스를 추적하고 이해 당사자에게 방법의 모든 단계를 지속적으로 알려주는 방법 Monique가 Frame.io의 통합으로 프로세스를 더 발전시킬 수 있는 방법을 살펴봅니다.
 solution: Workfront
+feature: Reports and Dashboards, System Setup and Administration
+topic: Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 2084
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16101
-source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
+exl-id: c41bb2ad-001d-43f7-90a4-40fda4c63523
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
-
 
 # 승인 경험을 향상시킬 수 있는 긍정적인 방법
 

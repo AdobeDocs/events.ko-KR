@@ -1,19 +1,21 @@
 ---
 title: Admin Essentials 그룹
 description: Adobe Workfront의 효과적인 그룹 관리를 위한 역할, 이점 및 신뢰 구축 전략을 살펴봅니다.
+feature: System Setup and Administration
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3512
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19763
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 7a55ea8d-2e5e-4c74-9beb-d99366a850a0
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
-
 
 # Admin Essentials 그룹
 

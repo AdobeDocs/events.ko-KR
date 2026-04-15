@@ -1,30 +1,32 @@
 ---
 title: Customer Journey Analytics에서 Adobe Journey Optimizer Analysis 시작하기
-description: 이 세션은 Customer Journey Analytics과 Adobe Journey Optimizer이 협력하여 여러 Adobe Journey Optimizer 캠페인 및 여정의 측정을 간소화하는 방법을 보여 주기 위한 것입니다.
+description: 이 세션은 Customer Journey Analytics과 Adobe Journey Optimizer이 협력하여 여러 Adobe Journey Optimizer 캠페인 및 여정에 대한 측정을 간소화하는 방법을 보여 주기 위한 것입니다.
 solution: Customer Journey Analytics, Journey Optimizer
+feature: Integrations, Journeys
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3218
 last-substantial-update: 2024-08-28T00:00:00Z
 jira: KT-16031
-source-git-commit: 12447442bb31bec89d2c82b45cf15a8c99bd34ce
+exl-id: 5cdd8fe0-32e5-4799-9695-73f37c80917c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
-
 # Customer Journey Analytics에서 Adobe Journey Optimizer Analysis 시작하기
 
-이 세션은 Customer Journey Analytics과 Adobe Journey Optimizer이 협력하여 여러 Adobe Journey Optimizer 캠페인 및 여정의 측정을 간소화하는 방법을 보여 주기 위한 것입니다.
+이 세션은 Customer Journey Analytics과 Adobe Journey Optimizer이 협력하여 여러 Adobe Journey Optimizer 캠페인 및 여정에 대한 측정을 간소화하는 방법을 보여 주기 위한 것입니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432996/?learn=on)
 
 이 웨비나는 사용자가 보다 심층적인 분석과 통찰력을 위해 이러한 도구를 함께 사용할 때의 가치와 이점을 이해하는 데 도움이 되도록 Adobe Journey Optimizer Analytics에서 Agile Analytics의 통합과 기능을 보여 줍니다.
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 * Agile Analytics를 Adobe Journey Optimizer Analytics와 통합하면 다양한 소스의 데이터를 결합하여 더 의미 있는 지표를 생성하여 더 깊이 있는 분석과 통찰력을 얻을 수 있습니다.
 

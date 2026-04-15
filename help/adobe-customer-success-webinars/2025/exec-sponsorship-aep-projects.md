@@ -2,19 +2,21 @@
 title: Adobe Experience Platform 프로젝트에 대한 경영진 후원 수상
 description: 비즈니스 목표에 따라 비전을 조정하고, 경영진 인수를 확보하고, AEP/RT-CDP를 사용하여 가치를 창출함으로써 열정적인 프로젝트를 영향력 있는 이니셔티브로 만드는 방법에 대해 알아봅니다.
 solution: Experience Platform
+feature: Personalization
+topic: Personalization, Integrations, Administration
 role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3308
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18018
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 2ac66f9c-5a75-437f-8dc5-623b67efbfea
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Experience Platform(AEP) 프로젝트를 위한 경영진 후원 수상
 
@@ -28,7 +30,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458041/?learn=on&enablevpops)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 * **AEP 및 Real Time-CDP의 핵심 기능** 이러한 플랫폼은 실시간 실행 가능한 프로필, 데이터 통합 및 통합, 고객 세분화, 개인화, 예측 분석 및 강력한 데이터 거버넌스를 제공합니다. 이러한 기능은 비용을 절감하고 효율성을 높이며 매출 성장을 촉진하는 데 도움이 될 수 있습니다.
 

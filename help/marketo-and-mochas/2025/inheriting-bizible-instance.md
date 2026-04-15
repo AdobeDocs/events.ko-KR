@@ -1,19 +1,21 @@
 ---
 title: Marketo Measure 및 Mochas - 새 인스턴스 또는 현재 Bizible 인스턴스 상속
 description: Marketo Measure 및 Mochas 웨비나에서 Carly Gaver 및 Kate Colbert와 함께 Marketo Measure(Bizible) 인스턴스 설정, 구성, 채널 및 보고서를 감사하고 최적화하는 모범 사례에 대해 알아보십시오.
+feature: Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3524
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18158
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: c479f24d-ee7c-4a18-95ac-991810b067a3
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
-
 
 # Marketo Measure 및 Mochas: 새 인스턴스 또는 현재 Bizible 인스턴스 상속
 

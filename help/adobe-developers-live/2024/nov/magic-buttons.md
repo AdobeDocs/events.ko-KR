@@ -2,6 +2,7 @@
 title: 매직 버튼 및 빌드 방법
 description: Adobe의 UI 확장성을 통해 워크플로우 및 사용자 경험을 향상하고, Adobe App Builder을 통해 사용자 정의 통합을 허용하고, "매직 버튼"을 사용하여 복잡한 작업을 단순화하고, 향후 더 많은 Adobe 서비스로 확장하여 엔터프라이즈 시스템과의 원활한 통합을 지원합니다.
 solution: Experience Manager
+feature: Developer Tools, Authoring
 topic: Development
 role: Developer
 level: Beginner, Intermediate
@@ -10,9 +11,9 @@ duration: 1226
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16548
 exl-id: 9dafd048-8b3a-444f-bf0e-d49f76ae7054
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,7 @@ Adobe Experience Manager의 UI를 확장하여 반복적인 콘텐츠 작업을 
 
 Adobe Developers Live 커뮤니티 [토론](https://adobe.ly/3Ywf6kg)에서 대화를 계속합니다.
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 * **UI 확장성** Adobe의 제품 관리자인 Sarah가 개발자가 사용자 정의 통합 및 확장을 만들어 워크플로 및 사용자 경험을 개선할 수 있는 UI 확장성의 개념에 대해 설명합니다.
 * **매직 단추** &quot;매직 단추&quot;라는 아이디어가 도입되어 복잡한 워크플로를 하나의 동작으로 단순화하여 효율성을 높이고 답답함을 줄일 수 있습니다.

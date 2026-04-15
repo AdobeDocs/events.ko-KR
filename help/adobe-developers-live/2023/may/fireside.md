@@ -1,6 +1,7 @@
 ---
 title: AEM 제품 리더와의 Fireside 채팅
-description: 'Adobe Experience Manager 제품 리더와의 Fireside 채팅 고객을 위한 멋진 경험을 구축하기 위해 여러분이 무엇을 구축하고 있는지 듣고 살펴보며 하루를 보냈습니다. 이제 Dell의 제품 리더인 Cedric Huesler, Director 제품 관리 담당, Michael Marth 엔지니어링 담당 수석 Director에게 여러분의 질문을 전달해 보십시오. 주최: 론 나기.'
+description: 'Adobe Experience Manager 제품 리더와의 Fireside 채팅 고객을 위한 멋진 경험을 구축하기 위해 여러분이 무엇을 구축하고 있는지 듣고 살펴보며 하루를 보냈습니다. 이제 제품 관리 책임자인 Cedric Huesler와 엔지니어링 수석 책임자인 Michael Marth에게 여러분의 질문을 전달하십시오. 주최: 론 나기.'
+feature: Edge Delivery Services, Release Information
 product: experience manager
 sub-product: sites
 topic: Development
@@ -12,7 +13,7 @@ jira: KT-13363
 thumbnail: 3419941.jpeg
 exl-id: a8c9fc05-b80d-4c3a-a45a-c2b798757b57
 duration: 3234
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -23,6 +24,6 @@ ht-degree: 0%
 
 Adobe Experience Manager 제품 리더와의 Fireside 채팅
 
-여러분은 고객들을 위한 멋진 경험을 만들기 위해 여러분이 무엇을 구축하고 있는지 듣고 살펴보며 하루를 보냈습니다. 이제 Dell의 제품 리더인 Cedric Huesler, Director 제품 관리 담당, Michael Marth 엔지니어링 담당 수석 Director에게 여러분의 질문을 전달해 보십시오. 주최: 론 나기.
+여러분은 고객들을 위한 멋진 경험을 만들기 위해 여러분이 무엇을 구축하고 있는지 듣고 살펴보며 하루를 보냈습니다. 이제 제품 관리 책임자인 Cedric Huesler와 엔지니어링 수석 책임자인 Michael Marth에게 여러분의 질문을 전달하십시오. 주최: 론 나기.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419941/?learn=on)

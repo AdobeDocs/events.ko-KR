@@ -1,8 +1,9 @@
 ---
 title: Marketo 및 Mochas - 기여도 분석 대시보드 기록의 기본 사항
-description: Adobe의 수석 비즈니스 고문인 Cynthia Chang과 기술 고문인 James Leedom과 함께 Marketo의 기여도 분석 모델 및 MPI(성능 인사이트) 대시보드 마스터하기, 설정, 프로그램 추적, 데이터 동기화 및 매출과 고객 확보에 대한 마케팅의 영향 전시에 대한 심층적인 세션에 참여하십시오.
+description: Adobe의 수석 비즈니스 고문인 Cynthia Chang과 기술 고문인 James Leedom과 함께 Marketo의 속성 모델 및 MPI(Performance Insights) 대시보드 숙달, 설정, 프로그램 추적, 데이터 동기화, 매출과 고객 확보에 미치는 마케팅의 영향 전시에 대한 심층적인 세션에 참여하십시오.
 feature-set: Marketo Engage
 feature: Performance Insights
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -11,9 +12,9 @@ last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14947
 thumbnail: 3427255.jpeg
 exl-id: ce78b2af-e10c-46b8-ba43-ccbca9db788c
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---

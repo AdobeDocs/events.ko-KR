@@ -2,6 +2,7 @@
 title: Commerce & 커피 - 성수기 '무엇이든 물어보세요'
 description: 이 '무엇이든 물어보세요' 세션은 성수기 동안 Commerce 사이트의 마지막 변경 사항에 적응하는 데 도움이 됩니다. 성공적인 성수기를 이끄는 데 도움이 되는 2022년 휴일 예상, 막판 프로모션, 체크아웃 옵션 및 마케팅 전략에 대해 설명합니다. 발표 및 데모에는 Corey Gelato와의 라이브 Q&A가 함께 제공됩니다.
 solution: Commerce
+feature: Payments
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -11,9 +12,9 @@ kt: 11605
 thumbnail: 3412273.jpeg
 exl-id: 77dad94c-5671-4eab-a1b2-d924af236019
 duration: 3104
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---

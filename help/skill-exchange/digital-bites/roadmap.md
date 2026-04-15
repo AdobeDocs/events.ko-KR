@@ -1,6 +1,9 @@
 ---
 title: 가치 매핑 및 가치 실현을 위한 로드맵
+solution: Experience Cloud
+feature: Personalization
 description: 조직에서 비즈니스 가치와 관련하여 기술 사용 사례를 개발, 평가 및 우선 순위를 지정하고, KPI를 설정 및 보고하여 조직이 수량화할 수 있는 결과와 우수한 고객 경험을 도출하는 방법에 대해 알아봅니다.
+topic: Development
 role: Leader, User
 level: Intermediate
 kt: 11123
@@ -8,7 +11,7 @@ thumbnail: 3409242.jpeg
 hidefromtoc: true
 exl-id: 62885d7a-6331-4061-b570-ae04913147f7
 duration: 1720
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%

@@ -1,13 +1,15 @@
 ---
 title: Adobe Experience Manager as a Cloud Service 릴리스 개요
 description: Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한 개요 보기
+feature: Edge Delivery Services, Release Information, Developer Tools
+topic: Development, Headless
 user-guide-breadcrumb: AEM Release Events
 duration: 91
 hidefromtoc: true
 exl-id: eb9580ae-84c9-4c68-84c3-007e67b91a92
-source-git-commit: 4d0f5c7de34d29e86eb0c3a875015508776e8e16
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -31,8 +33,8 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://video.tv.adobe.com/v/3440927/?learn=on&enablevpops&autoplay=true&captions=kor" title="2024.11.0 AEM 릴리스 개요" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456081/?format=jpeg&captions=kor" alt="2024.11.0 AEM 릴리스 개요"
+                    <a href="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops&autoplay=true" title="2024.11.0 AEM 릴리스 개요" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456072/?format=jpeg" alt="2024.11.0 AEM 릴리스 개요"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -86,7 +88,7 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-10-0.md" target="_blank" rel="referrer" title="2024.10.0 AEM 릴리스 개요">2024.10.0 AEM 릴리스 개요</a>
                     </p>
-                    <p class="is-size-6">이 릴리스의 기능은 Experience Manager Assets 및 Cloud Service의 혁신에 중점을 두고 있으며, 다음과 같은 기능이 포함됩니다. Assets Ultimate 및 Asset PrimeAEM AEM Assets을 통한 AEM Assets의 새로운 가격 및 패키징 추가 대상으로 로그 전달 비즈니스 사용자를 위한 파이프라인 없는 URL 리디렉션 ​ RDE 지원 Config Pipeline YAMLs​ Interactive AEM Developer Console Cloud Service</p>
+                    <p class="is-size-6">이 릴리스의 기능은 Experience Manager Assets 및 Cloud Service의 혁신에 중점을 두고 있으며, 다음과 같은 기능이 포함됩니다. Assets Ultimate 및 Asset PrimeAEM AEM Assets을 통한 AEM Assets의 새로운 가격 및 패키징 추가 대상으로 로그 전달 비즈니스 사용자를 위한 파이프라인 없는 URL 리디렉션 ​ RDE 지원 Config Pipeline YAMLs​ Interactive AEM Cloud Service</p>
                 </div>
                 <a href="2024/2024-10-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">추가 세부 정보</span>
@@ -145,7 +147,7 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-7-0.md" title="2024.7.0 AEM 릴리스 개요" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432541/?format=jpeg&nocache=1733938196066&captions=kor" alt="2024.7.0 AEM 릴리스 개요"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431707/?format=jpeg&nocache=1733938196066" alt="2024.7.0 AEM 릴리스 개요"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -191,7 +193,7 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-5-0.md" title="2024.5.0 AEM 릴리스 개요" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448069/?format=jpeg&nocache=1733938196089&captions=kor" alt="2024.5.0 AEM 릴리스 개요"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429503/?format=jpeg&nocache=1733938196089" alt="2024.5.0 AEM 릴리스 개요"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -214,7 +216,7 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-4-0.md" title="2024.4.0 AEM 릴리스 개요" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3446315/?format=jpeg&nocache=1733938196102&captions=kor" alt="2024.4.0 AEM 릴리스 개요"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429111/?format=jpeg&nocache=1733938196102" alt="2024.4.0 AEM 릴리스 개요"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -237,7 +239,7 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-3-0.md" title="2024.3.0 AEM 릴리스 개요" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3450614/?format=jpeg&nocache=1733938196095&captions=kor" alt="2024.3.0 AEM 릴리스 개요"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428344/?format=jpeg&nocache=1733938196095" alt="2024.3.0 AEM 릴리스 개요"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -260,7 +262,7 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-1-0.md" title="2024.1.0 AEM 릴리스 개요" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448936/?format=jpeg&nocache=1733938196099&captions=kor" alt="2024.1.0 AEM 릴리스 개요"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427041/?format=jpeg&nocache=1733938196099" alt="2024.1.0 AEM 릴리스 개요"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

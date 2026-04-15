@@ -2,19 +2,21 @@
 title: Experience Makers Spotlight - 프로세스 흐름을 Workfront Wins로 변환
 description: Accenture의 Adobe Workfront 솔루션 설계자인 Victoria Linn이 비즈니스 요구 사항을 마케팅 크리에이티브 및 운영 팀에 맞는 효과적인 요청 대기열로 변환하는 방법입니다.  단일 인스턴스 내에서도 한 가지 크기의 모든 요구 사항을 충족할 수 있는 접근 방식이 없으므로 템플릿을 만들 때 고려해야 할 사항과 방지해야 할 일반적인 위험에 대한 Quad의 Workfront 컨설턴트인 Madalyn Destaffney의 전문가 팁입니다.
 solution: Workfront
+feature: System Setup and Administration
+topic: Administration, Integrations
 role: User
 level: Beginner
 doc-type: Event
 duration: 2741
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16103
-source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
+exl-id: a3494fbd-803f-4ac3-8d40-c99d61b9d69e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
-
 
 # Experience Makers Spotlight: 프로세스 흐름을 Workfront Wins로 변환
 

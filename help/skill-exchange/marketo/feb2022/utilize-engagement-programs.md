@@ -2,13 +2,15 @@
 title: 육성 101 - 참여 프로그램을 활용하여 고객 참여 유도
 description: 사용 사례와 팁과 요령을 포함하여  [!DNL Marketo Engage] 의 내부 참여 프로그램의 기본 사항에 대해 알아봅니다.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Development
 role: User
 level: Beginner
 kt: 9768
 thumbnail: 340595.jpeg
 exl-id: e809d8b2-37b0-4daf-8cb7-becefa24100b
 duration: 2603
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%

@@ -1,19 +1,21 @@
 ---
 title: Workfront 보드를 사용해야 하는 상위 3가지 이유
 description: Workfront 보드가 간편한 설정, 템플릿 및 추적을 통해 사용자 채택을 촉진하는 방법을 알아봅니다. 팀을 쉽게 참여시키십시오.
+feature: System Setup and Administration, Work Management
+topic: Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 223
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-18652
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 3eba141f-fda3-4688-a82a-91e8ebc543d9
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
-
 
 # 게시판을 채택에 사용해야 하는 상위 3가지 이유
 
@@ -23,15 +25,13 @@ ht-degree: 0%
 
 게시판 기능을 실험해 볼 기회가 없었다면 걱정하지 마십시오! 이 비디오에서는 사용자에게 액세스 권한을 제공하는 방법과 을 통해 빠르게 시작할 수 있는 몇 가지 방법을 공유합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470105/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470075/?learn=on&enablevpops)
 
 ## 추가 리소스
 
 비디오에서 약속한 대로 기사 및 짧은 비디오 데모를 포함하여 공유할 리소스가 많습니다.
 
-* [Adobe Workfront에서 보드 시작](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=ko)
-* [Adobe Workfront 보드에 대한 초기 기능 옵트인](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=ko)
-* [게시판 만들기 또는 편집 - 각 게시판 템플릿에 대한 설명을 포함합니다](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=ko)
-* [Adobe Workfront 게시판 - 짧은 비디오 데모](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=ko)
-
-
+* [Adobe Workfront에서 보드 시작](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=en)
+* [Adobe Workfront 보드에 대한 초기 기능 옵트인](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
+* [보드 만들기 또는 편집 - 각 보드 템플릿에 대한 설명을 포함합니다.](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
+* [Adobe Workfront Boards - 짧은 비디오 데모](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)

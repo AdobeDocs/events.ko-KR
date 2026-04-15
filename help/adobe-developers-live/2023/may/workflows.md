@@ -1,6 +1,7 @@
 ---
 title: 신속한 개발 환경(RDE)을 통해 보다 빠른 배포를 위한 워크플로우 및 팁에 대해 알아봅니다
 description: RDE(신속한 개발 환경)를 사용하여 더 빠른 배포를 위한 워크플로우 및 팁에 대해 알아봅니다. AEM as a Cloud Service용 RDE(신속한 개발 환경)는 변경 사항을 신속하게 배포하고 검토할 수 있도록 하여 기능 테스트에 필요한 시간을 최소화함으로써 개발자 경험을 향상시킵니다. RDE는 반복적인 개발 시나리오를 지원합니다. 예를 들어 Java 코드, 구성, 스크립트, 콘텐츠 및 Dispatcher 구성을 업데이트하는 등의 작업을 수행합니다. 변경 사항은 실행 중인 인스턴스에 직접 적용됩니다. 이 세션에서는 RDE를 자세히 살펴보고 개발자가 이를 활용하여 실험 변경 사항을 직접 배포하고 개발 중 콘텐츠와 코드를 테스트하며 실제 클라우드 환경을 사용하여 변경 사항에 대한 빠른 피드백을 얻을 수 있는 방법을 보여 줍니다.
+feature: Edge Delivery Services, Release Information
 product: experience manager
 sub-product: sites
 topic: Development
@@ -12,9 +13,9 @@ jira: KT-13356
 thumbnail: 3419947.jpeg
 exl-id: 77f81cc0-6513-42a8-9c03-fbb97c4dbf29
 duration: 2643
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---

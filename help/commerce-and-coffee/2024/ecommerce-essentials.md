@@ -1,6 +1,8 @@
 ---
 title: Commerce 및 커피 - Ecommerce Essentials 마스터링
 description: Corey Gelato의 세션은 Adobe Commerce의 eCommerce essentials를 다루며, 개인화된 머천다이징, 충성도 프로그램, 최적화된 결제 및 배송, 고객 참여, 유지 및 전환을 유도하는 효과적인 마케팅 캠페인에 대한 전략을 강조합니다.
+feature: Payments
+topic: Personalization, Security, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3480
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15605
 exl-id: e9061413-76b5-496c-91a2-a8bb54e1d21d
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---

@@ -1,19 +1,21 @@
 ---
 title: IMS 마이그레이션 압축 해제 - Marketo 사용자를 위한 전환 간소화
-description: Marketo 사용자가 Adobe 플랫폼으로 마이그레이션하는 IMS 마이그레이션에는 마이그레이션 후 변경 사항과 지원 및 예정된 이벤트에 제공되는 리소스와 함께 자세한 단계, 준비 및 커뮤니케이션이 포함됩니다.
+description: Marketo 사용자를 Adobe 플랫폼으로 IMS 마이그레이션에는 마이그레이션 후 변경 사항과 지원 및 예정된 이벤트에 제공되는 리소스와 함께 자세한 단계, 준비 및 커뮤니케이션이 포함됩니다.
+feature: Reporting
+topic: Performance, Migration
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 3539
 last-substantial-update: 2025-01-15T00:00:00Z
 jira: KT-16688
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+exl-id: 3c1676c3-e6b5-4f4f-ba76-4c65cc6367cb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
-
 
 # IMS 마이그레이션 압축 해제: Marketo 사용자를 위한 전환 간소화
 
@@ -23,13 +25,13 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441133/?learn=on&enablevpops)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
-**IMS 마이그레이션 개요** 이 모임에서는 Marketo 사용자를 Adobe의 플랫폼으로 마이그레이션하는 IMS(Identity Management 시스템) 마이그레이션에 중점을 두고 전환의 단계 및 이점을 자세히 설명했습니다.
+**IMS 마이그레이션 개요** 이 모임에서는 Marketo 사용자를 Adobe 플랫폼으로 마이그레이션하는 IMS(Identity Management 시스템) 마이그레이션에 중점을 두고 전환의 단계 및 이점을 자세히 설명했습니다.
 
 **마이그레이션 단계**
 
-* **제품 마이그레이션** 첫 번째 단계에는 제품을 Adobe Experience League으로 마이그레이션하는 작업이 포함됩니다.
+* **제품 마이그레이션** 첫 번째 단계에는 제품을 Adobe Experience League로 마이그레이션하는 작업이 포함됩니다.
 * 그런 다음 **사용자 마이그레이션** 사용자는 Marketo 로그인 전자 메일과 일치하는 Adobe ID를 갖도록 하는 데 중점을 두고 마이그레이션됩니다.
 * **지원 티켓 마이그레이션** 마지막으로 지원 티켓이 새 시스템으로 마이그레이션됩니다.
 
@@ -47,7 +49,7 @@ ht-degree: 0%
 
 **리소스 및 지원**
 
-* Adobe Experience League을 통해 지원, 학습, 설명서 및 커뮤니티에 액세스합니다.
+* Adobe Experience League를 통한 지원, 학습, 설명서 및 커뮤니티에 대한 액세스 권한.
 * 추가 지원을 위해 다양한 리소스 및 링크가 제공됩니다.
 
 **과제 및 팁**

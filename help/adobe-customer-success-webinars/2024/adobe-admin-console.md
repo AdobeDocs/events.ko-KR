@@ -1,6 +1,8 @@
 ---
 title: Adobe Admin Console 마스터링
 description: Adobe Admin Console은 Adobe 엔터프라이즈 솔루션 관리를 위한 중앙 집중식 플랫폼으로, 사용자 및 제품 관리, 보안 및 규정 준수 기능, 지원 리소스 및 확장 가능한 Best Practice를 조직에 제공합니다.
+feature: Analytics Basics, Analysis Workspace
+topic: Integrations, Security, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,7 +10,7 @@ duration: 2767
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16630
 exl-id: 2a604f0f-d422-4a7d-8e72-bd38dfca7bf0
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '334'
 ht-degree: 0%
@@ -21,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440937/?learn=on&enablevpops)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 * **Adobe Admin Console 개요** Admin Console은 Creative Cloud, Document Cloud 및 Experience Cloud과 통합하여 Adobe 엔터프라이즈 솔루션을 관리하기 위한 중앙 집중식 플랫폼입니다.
 

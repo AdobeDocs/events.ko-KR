@@ -2,6 +2,7 @@
 title: Adobe Developers Live - 11월 22일 - AEM Rockstar Headless
 description: Adobe Experience Manager 록스타 - Headless 도전우리의 발표자들은 각자 해결해야 하는 미리 제공된 문제 진술에 대한 해결책을 제시함으로써 Adobe Experience Manager 록스타 2022가 될 '경쟁'을 할 것입니다. 청중들은 질문을 던질 수 있는 기회를 갖게 되고 누가 차세대 록스타인지 투표할 수 있는 기회를 갖게 됩니다!
 solution: Experience Manager,Experience Manager Sites
+feature: Edge Delivery Services, Release Information, Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ kt: 11473
 thumbnail: 3411297.jpeg
 exl-id: be040ed9-b843-4576-b61c-f8d2eba32fb7
 duration: 3281
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---

@@ -1,19 +1,21 @@
 ---
 title: 효과적인 보고를 위해 Workfront 사용
 description: Workfront을 통해 원활한 전환과 생산성 유지를 위해 재구성 프로세스를 간소화하는 방법에 대해 알아봅니다.
+feature: System Setup and Administration
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3362
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19750
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 11d08039-0236-44a5-8957-57c39351733a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
-
 
 # Workfront for Reorgs 사용
 

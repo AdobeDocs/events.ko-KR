@@ -3,19 +3,20 @@ title: 일반 지표 파악
 description: Adobe Analytics 지표(방문 횟수, 방문자 수, 페이지 보기 수, 바운스 수, 전환율 등)를 해석하여 보고 정확도와 통찰력을 향상시키는 방법을 알아봅니다.
 solution: Analytics
 feature: Metrics, Analytics Basics
+topic: Security
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18817
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+exl-id: f2f4277d-7778-4100-8768-0fac3edeec55
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
-
 
 # 일반 지표 파악
 
@@ -41,4 +42,3 @@ ht-degree: 0%
 * **보트 트래픽 인식** 보트 지표를 통해 보다 명확한 보고를 위해 사람이 아닌 트래픽을 식별하고 필터링하는 방법을 알아봅니다.
 
 이러한 개념을 숙지하면 요구 사항에 가장 적합한 지표를 선택하고 분석 보고의 가치를 극대화할 수 있습니다.
-

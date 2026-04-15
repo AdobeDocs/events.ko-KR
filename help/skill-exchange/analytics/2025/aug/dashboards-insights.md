@@ -3,19 +3,20 @@ title: 대시보드에서 통찰력이 전달되지 않는 이유(및 실제로 
 description: 대시보드를 넘어 내러티브 보고서, 가설 테스트 및 실행 가능한 분석 전략을 통해 통찰력을 위한 시스템을 구축하는 방법에 대해 알아봅니다.
 solution: Analytics
 feature: Workspace Basics, Analytics Basics, Analytics Dashboards
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18824
-source-git-commit: d942871683ff1319d5f7b16e6f114c23825530b4
+exl-id: 1366ff6f-3b2b-4b7d-b97f-a6cd41e322ed
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
-
 
 # 대시보드에서 통찰력이 전달되지 않는 이유(및 실제로 수행하는 작업)
 

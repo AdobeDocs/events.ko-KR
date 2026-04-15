@@ -2,15 +2,17 @@
 title: 데이터베이스의 숨겨진 보석 - 다시 참여하는 레코드
 description: Alma에서의 재참여 과정을 운영하기 위해 우리가 취한 단계와 그 과정에서 배운 내용을 안내하는 세션에 참여하십시오.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 kt: 9771
 thumbnail: 340591.jpeg
 exl-id: 500c79fc-75cf-40ef-8a6d-376ea30d432c
 duration: 2375
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---

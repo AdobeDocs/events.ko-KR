@@ -4,11 +4,12 @@ description: Journey Optimizer의 campaign orchestration이 대상 생성부터 
 kt: KT-19994
 solution: Journey Optimizer
 feature: Audiences
+topic: Security
 event-cta-url-live: https://www.youtube.com/live/mPVvZIbkJq8
 event-start-time: 2026-03-03 08:30-8
 event-guests: Sandra Hausmann, Bridgette Darling, Chakravarthy Kalva, Lee Henderson
 exl-id: 5ad4e649-d00a-4934-bfee-13d358fdad11
-source-git-commit: b91477fce8357e25653647ca54e086d5808b7344
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -23,4 +24,4 @@ Campaign 오케스트레이션 캔버스와 관계형 스키마를 통해 복잡
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481409/?quality=12&learn=on)
 
-이 주제에 대한 대화를 계속하려면 [Experience League 커뮤니티 토론](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/post-session-discussion-experience-league-live-get-to-know-campaign-orchestration-in-adobe-journey-optimizer-249161?profile.language=ko){target="_blank"}을 참조하세요.
+이 주제에 대한 대화를 계속하려면 [Experience League 커뮤니티 토론](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/post-session-discussion-experience-league-live-get-to-know-campaign-orchestration-in-adobe-journey-optimizer-249161){target="_blank"}을 참조하세요.

@@ -2,6 +2,8 @@
 title: Marketo Engage으로 글로벌 마케팅 잠금 해제 - Adobe 챔피언 딥 다이브 - 2024년 8월
 description: 8월 딥 다이빙에 참여하여 데이터 구조화, 법적 준수, 세분화, 코드 조각, 다이내믹 콘텐츠 등을 다루는 Marketo Engage을 통해 글로벌 마케팅을 강화하고 여러 브랜드 및 인스턴스를 위한 작업 공간 및 파티션을 최적화하는 방법에 대한 통찰력을 얻으십시오.
 solution: Marketo Engage
+feature: Smart Lists, Reporting
+topic: Personalization, Security, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +11,7 @@ duration: 3351
 last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-16119
 exl-id: 297b9baf-95c9-4154-be96-75455100b4d8
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%

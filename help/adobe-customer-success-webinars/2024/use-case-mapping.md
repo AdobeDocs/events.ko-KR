@@ -2,6 +2,8 @@
 title: Real-Time CDP - 솔루션 기능에 대한 사용 사례 매핑
 description: 이 웨비나에서는 사용 사례를 탐색하고 우선 순위를 지정한 후 특정 Real-Time CDP 기능에 매핑하고 비즈니스 결과와 가치에 맞게 조정하는 주요 방법을 살펴봅니다.
 solution: Real-Time Customer Data Platform
+feature: Audiences, Data Governance
+topic: Personalization, Security, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,14 +11,14 @@ duration: 2421
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15560
 exl-id: ebc38b82-52a7-4f8c-8ac7-f6e9f3fd2c55
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
-# Real-time CDP Adobe - 솔루션 기능에 대한 사용 사례 매핑
+# Adobe Real-time CDP - 솔루션 기능에 대한 사용 사례 매핑
 
 이 웨비나에서는 사용 사례를 탐색하고 우선 순위를 지정한 후 특정 Real-Time CDP 기능에 매핑하고 비즈니스 결과와 가치에 맞게 조정하는 주요 방법을 살펴봅니다.
 
@@ -39,7 +41,7 @@ ht-degree: 0%
 
 * 유료 미디어 리타겟팅 및 개인화와 같은 사용 사례에 미치는 영향
 
-**실시간 CDP와 DMP Audience Manager 비교**
+**DMP Audience Manager과 실시간 CDP 비교**
 
 * 데이터 수집, 고객 관리 및 데이터 출력 구조에 주력
 

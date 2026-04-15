@@ -1,19 +1,21 @@
 ---
 title: Marketo 및 Mochas - 상속된 인스턴스 또는 현재 인스턴스 감사
 description: Marketo 인스턴스를 상속했습니까, 감사하시겠습니까? Adobe Advisors Cynthia Chang & Carly Gaver에 참여하여 Marketo Engage 감사 및 최적화를 위한 5가지 주요 단계를 알아보십시오.
+feature: Programs, Reporting
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3956
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18155
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: 66d45044-86a0-4cd8-bbdd-7d04cebf6c8f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 31%
+ht-degree: 32%
 
 ---
-
 
 # Marketo 및 Mochas: 상속된 인스턴스 또는 현재 인스턴스 감사
 

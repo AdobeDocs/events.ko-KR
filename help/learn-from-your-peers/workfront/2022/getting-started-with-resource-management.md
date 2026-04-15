@@ -2,6 +2,7 @@
 title: 리소스 관리 웨비나 시작
 description: 리소스 관리를 위해 Adobe Workfront을 사용하는 방법에 대해 동료로부터 알아보십시오. 리소스 플래너, 업무 균형자 및 온디맨드 웨비나에서 성공적인 구현에 대한 전문가의 팁을 살펴보십시오.
 feature: Get Started with Workfront
+topic: Administration, Integrations
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,16 +11,16 @@ duration: 3629
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15816
 exl-id: 8d1b25a6-1224-4158-9f67-7997b6cf2e67
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
 # 리소스 관리 시작하기
 
-Adobe Workfront을 사용하여 리소스를 관리하는 것은 DREAM입니다. 수행할 작업과 액세스할 수 있는 리소스를 파악하고 가용성에 따라 리소스를 (정확하게!) 할당합니다. 그리고 그것은 절대적으로 현실이다! 수백 명의 Workfront 고객이 매일 이 작업을 정확히 수행합니다.
+Adobe Workfront을 사용하여 리소스를 관리하는 것은 DREAM입니다. 수행할 작업과 액세스할 수 있는 리소스를 파악하고 리소스를 할당합니다(정확하게!). 가용성에 따라. 그리고 그것은 절대적으로 현실이다! 수백 명의 Workfront 고객이 매일 이 작업을 정확히 수행합니다.
 
 이 온디맨드 웨비나에서는 Adobe Workfront의 수석 고객 성공 설계자 Corinna Jevons와 Big Red Rooster의 운영 책임자 Elliot Leson이 다음을 공유합니다.
 

@@ -2,6 +2,8 @@
 title: 글로벌 조합으로 규모에 맞게 성공 잠금
 description: 효율적인 제어, 승인 및 지역별 유연성을 위해 사용자 지정 구성 요소, 블루프린트, 워크플로 및 조각을 사용하여 AEM으로 글로벌 콘텐츠를 확장하십시오.
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Performance
 version: Experience Manager as a Cloud Service
 role: Admin, User
 level: Intermediate
@@ -10,9 +12,9 @@ duration: 3603
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-17926
 exl-id: 40ee87d8-0ff9-44a8-8bd2-8000e7db89ed
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -23,7 +25,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457918/?learn=on&enablevpops)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 * **구성 요소 사용자 지정 및 관리** 이를 통해 지역별 뉘앙스와 요구 사항을 고려하여 지역별로 또는 전역적으로 사용자 지정할 수 있으므로 다양한 요구 사항을 한 곳에서 수용할 수 있습니다.
 

@@ -2,6 +2,8 @@
 title: Experience Cloud에서 Adobe 사용자 그룹 탐색
 description: Adobe 사용자 그룹이 어떻게 공동 작업을 육성하고, 동료가 주도하는 문제 해결을 제공하고, AEM, Analytics, Marketo Engage 및 Workfront 전반에서 리더십 기회를 제공하는지 알아보십시오.
 solution: General
+feature: Developer Tools
+topic: Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3492
 last-substantial-update: 2025-08-01T00:00:00Z
 jira: KT-18677
 exl-id: b0344cef-66f3-4882-b0d8-eb2e298a08d2
-source-git-commit: 64d09d3316d604d92d1186e3785e64ac1bbaa800
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---

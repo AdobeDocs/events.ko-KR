@@ -1,19 +1,21 @@
 ---
 title: Workfront 보고서로 봄 정리
 description: Workfront Reports를 통해 효율적인 데이터 관리를 통해 봄 정리를 간소화하고 생산성을 향상시키는 방법을 살펴볼 수 있습니다.
+feature: Reports and Dashboards, System Setup and Administration
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3594
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19772
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 93a99d21-f0db-45ae-ac37-6e996e0a8649
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
-
 
 # Workfront 보고서로 봄 정리
 

@@ -1,19 +1,21 @@
 ---
 title: Marketo API를 사용한 캠페인 작업 자동화 및 능률화
 description: 이 심층적 분석에서는 Marketo API를 사용하여 마케팅 운영을 간소화하는 방법을 알아봅니다. 여기에서는 이메일 뉴스레터 만들기, 프로그램 추적, 중복 항목 병합, 프로그램 비용 업데이트, 프로그램 복제와 같은 반복적인 작업을 자동화하여 전략적 이니셔티브에 집중할 수 있는 방법을 보여 줍니다.
+feature: Smart Lists
+topic: Integrations, Performance
 role: Admin, Developer, User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 4370
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16520
-source-git-commit: e54e738d55d4037f500d68597d2d29334ddddae9
+exl-id: ff95d1d0-3150-451d-bf45-17e3248689e5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '340'
 ht-degree: 1%
 
 ---
-
 
 # Adobe Marketo Engage 챔피언 심층 분석 - Marketo API를 사용하여 캠페인 작업 자동화 및 능률화
 
@@ -33,11 +35,11 @@ Marketo 사용자는 마케팅 팀이 실행하는 마케팅 캠페인을 지원
 ## 주요 학습 사항
 
 * **포커스** 세션은 Marketo API를 사용하여 캠페인 작업을 자동화하고 간소화하는 데 중점을 둡니다.
-* **API 중요도** API는 반복 작업을 자동화하고, 시스템이 통신할 수 있도록 하며, 시간과 비용을 절약하는 데 중요합니다.API 기본 사항 **&#x200B; Get 및 Post 요청의 차이점 및 작동 방식을 포함하여 * &#x200B;** API가 무엇인지에 대한 설명입니다.
+* **API 중요도** API는 반복 작업을 자동화하고, 시스템이 통신할 수 있도록 하며, 시간과 비용을 절약하는 데 중요합니다.API 기본 사항** Get 및 Post 요청의 차이점 및 작동 방식을 포함하여 * **API가 무엇인지에 대한 설명입니다.
 
 ### 사용 사례
 
 * **일괄 프로그램 만들기** Python 스크립트를 사용하여 프로그램을 복제하고 토큰을 업데이트하며 스마트 캠페인을 활성화합니다. &#x200B;
 * **주문형 프로그램 만들기** Zapier를 사용하여 UTM 매개 변수 생성 및 추적을 위한 * **JIRA 티켓 생성 등 양식 제출을 기반으로 Marketo 프로그램 만들기를 자동화합니다.
-* **API 관리** 다양한 통합을 위한 별도의 시작 지점 서비스 만들기 및 API 호출 사용량 모니터링 등 API 사용 관리에 대한 팁.도구 및 * API 요청 테스트를 위한 Postman 및 Python 코드 생성을 위한 ChatGPT와 같은 도구 사용을 위한 **리소스** Recommendations.
+* **API 관리** 다양한 통합을 위해 별도의 시작 지점 서비스를 만들고 API 호출 사용량을 모니터링하는 등 API 사용 관리에 대한 팁입니다.도구 및 * **리소스** API 요청 테스트를 위한 Postman 및 Python 코드 생성을 위한 ChatGPT와 같은 도구 사용에 대한 권장 사항입니다.
 * **추가 사용 사례** 데이터 변경 내용 되돌리기, 중복 제거, Marketo과 AI 연결 등 Marketo API에 대한 기타 잠재적 사용 사례에 대해 언급합니다.

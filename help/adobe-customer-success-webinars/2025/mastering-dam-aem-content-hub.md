@@ -1,19 +1,21 @@
 ---
 title: 디지털 에셋 관리 마스터링 - Adobe ContentHub 모범 사례
 description: Adobe ContentHub를 AEM Assets과 통합하여 팀 및 업계 전반에 걸쳐 워크플로를 간소화하고, 액세스를 활성화하고, 에셋 관리를 개선하는 방법을 살펴봅니다.
+feature: Edge Delivery Services, Release Information
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3543
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18242
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: 84e7d369-1811-47e3-b9ed-f525f89303ce
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
-
 
 # 디지털 에셋 관리 마스터링: Adobe ContentHub 모범 사례
 

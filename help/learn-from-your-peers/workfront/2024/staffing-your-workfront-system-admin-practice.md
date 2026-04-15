@@ -3,6 +3,7 @@ title: Workfront 시스템 관리 실무 웨비나 직원 채용
 description: Dell 및 Adobe Workfront 전문가로부터 온디맨드 웨비나에서 시스템 관리자의 전략적 중요성에 대해 알아보십시오. Adobe Workfront의 효과적인 설정 및 확장성을 위해 전체 직원 수 보안, 그룹 관리자 역할 활용 및 역할 프로필 정의에 대한 팁을 알아봅니다.
 topic: Administration
 solution: Workfront
+feature: System Setup and Administration, Work Management
 role: Admin, Leader
 level: Beginner
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3638
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15827
 exl-id: 51619ec3-f5d5-48a9-aa29-fbaa2289a576
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---

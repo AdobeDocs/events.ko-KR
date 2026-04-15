@@ -2,13 +2,15 @@
 title: 다이내믹 콘텐츠 및 Personalization의 기능
 description: 이 세션에서는 다이내믹 콘텐츠를 활용하여 더 많은 타겟팅되고 관련성이 있는 콘텐츠를 데이터베이스로 전송하는 방법에 대해 알아봅니다.
 solution: Marketo Engage
+feature: Reporting
+topic: Personalization
 role: User
 level: Beginner
 kt: 9766
 thumbnail: 340597.jpeg
 exl-id: f96fb348-ff59-4dac-ad7d-048a2ba96afc
 duration: 2343
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%

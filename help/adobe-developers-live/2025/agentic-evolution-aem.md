@@ -1,19 +1,21 @@
 ---
 title: AEM의 무의미한 진화
 description: AI가 Adobe Experience Manager을 통해 디지털 경험을 혁신하여 콘텐츠 워크플로우를 개선하고 개발자 생산성을 향상시키는 방법을 살펴봅니다.
+feature: Release Information
+topic: Artificial Intelligence, Integrations, Development
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3254
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19970
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: 12d908ad-d962-4d49-9fa8-a13e170b76b8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '161'
 ht-degree: 1%
 
 ---
-
 
 # Adobe Experience Manager의 무의미한 진화
 

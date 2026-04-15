@@ -1,6 +1,8 @@
 ---
 title: Commerce 상점 최적화
 description: 유지 관리, 보트 활동 및 데이터 관리에 대한 Adobe의 전문 팁을 사용하여 Commerce 인스턴스 최적화
+feature: Integration, Edge Delivery Services
+topic: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3383
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17175
 exl-id: 0b63be70-ada7-4c7f-a38a-b823a59405ea
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -26,7 +28,7 @@ Adobe의 고객 기술 고문인 Andrii Abumuslimov를 통해 Commerce 인스턴
 * Adobe의 디지털 참여 전략가 **Jeff McGuire**
 * **Andre** Adobe Commerce(이전 Magento)를 전문으로 하는 Adobe의 고객 기술 관리자
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 웨비나는 전자 상거래 상점 최적화에 중점을 둡니다.
 이 서비스는 대화형으로 이루어지며 끝에 Q&amp;A 세션이 있습니다.
@@ -35,7 +37,7 @@ Adobe의 고객 기술 고문인 Andrii Abumuslimov를 통해 Commerce 인스턴
 * **다룬 항목**
 
    * 스토리지 사용량 모니터링 및 최적화
-   * 웹 크롤러, 트래픽 탐지 및 완화.
+   * 웹 웹 크롤러, 트래픽 탐지 및 완화.
 
 * **저장소 최적화**
 
@@ -43,9 +45,9 @@ Adobe의 고객 기술 고문인 Andrii Abumuslimov를 통해 Commerce 인스턴
    * 데이터 관리 및 최적화에 대한 모범 사례를 구현합니다.
    * 딥 이미지 최적화를 활성화하여 디스크 공간을 절약합니다.
 
-* **웹 크롤러**
+* **웹 웹 크롤러**
 
-   * New Relic 및 사용자 지정 SQL 쿼리와 같은 도구를 사용하여 남용적인 웹 크롤러를 감지하고 완화합니다.
+   * New Relic 및 사용자 지정 SQL 쿼리와 같은 도구를 사용하여 악의적인 웹 웹 크롤러를 감지하고 완화할 수 있습니다.
    * 비합법적인 봇에 대한 속도 제한 및 차단 전략을 구현합니다.
    * 정교한 보트 감지를 위해 Human Bot Defender와 같은 고급 서비스를 고려하십시오.
 

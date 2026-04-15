@@ -3,18 +3,20 @@ title: AI Assistant - 기본 사항 이상
 description: 워크플로우 효율성 및 마케팅 효과를 높이기 위해 설정, 주요 사용 사례, 실용적인 팁 및 향후 기능을 다루는 AEP에서 AI Assistant를 자신 있게 사용하는 방법을 알아봅니다.
 role: Developer, Leader, User
 solution: Experience Platform
+feature: AI Assistant
+topic: Performance
 level: Intermediate
 doc-type: Event
 duration: 2324
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18247
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: ad9ca09b-6cb2-4118-af19-da395a5d19b2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
-
 
 # AI Assistant - 기본 사항 이상
 
@@ -26,4 +28,4 @@ ht-degree: 0%
 * 주요 사용 사례, 기능의 적용, 성숙도 진행을 위한 팁과 요령을 살펴봅니다.
 * 의 향후 기능 및 개선 사항에 대해 논의합니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3463365/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3463357/?learn=on&enablevpops)

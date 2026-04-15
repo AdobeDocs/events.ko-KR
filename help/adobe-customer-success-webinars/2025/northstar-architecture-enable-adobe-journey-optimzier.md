@@ -2,19 +2,21 @@
 title: NorthStar 아키텍처를 활용하여 Adobe Journey Optimizer 비전 실현
 description: NorthStar 아키텍처 를 활용하여 구현 차이를 진단하고 AJO 및 전체 Adobe 솔루션 스택에 대한 조직 정렬을 유지하는 방법에 대해 알아봅니다.
 solution: Journey Optimizer
+feature: Journeys, Email Design, Audiences
+topic: Personalization, Content Supply Chain, Development
 role: Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3226
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19522
-source-git-commit: 1e74aaa6e67ae372bb6811ebaeac5459353942eb
+exl-id: 19046906-cc6f-41bc-86dd-535dcd3641ad
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
-
 
 # NorthStar 아키텍처를 활용하여 Adobe Journey Optimizer 비전 실현
 
@@ -45,4 +47,3 @@ Northstar 아키텍처 다이어그램은 Adobe 플랫폼의 효과적인 여정
 * **대상** 전자 메일, SMS, 웹 및 인앱 메시지와 같은 채널을 지정합니다.
 
 각 구성 요소는 조직의 업계 및 사용 사례에 맞게 조정되므로 아키텍처가 현재 및 향후 비즈니스 요구 사항을 모두 지원하도록 할 수 있습니다.
-

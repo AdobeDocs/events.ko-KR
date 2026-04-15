@@ -2,15 +2,17 @@
 title: 사용자 정의 객체 및 속도에 대한 톱 로프
 description: 일대다 관계형 데이터와 시간 테스트를 거친 템플릿 엔진 - 고급 이메일 콘텐츠를 위한 완벽한 태그 팀 CO 레코드 정렬, 필터링 및 집계, 레코드 업데이트 감지 및 JSON을 사용한 의사 CO 통합과 같은 CO 스키마 설계를 위한 전술을 알아봅니다.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Integrations
 role: Developer
 level: Beginner
 kt: 9708
 thumbnail: 340313.jpeg
 exl-id: 573d9faa-8259-451a-b729-6714f4172780
 duration: 3981
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---

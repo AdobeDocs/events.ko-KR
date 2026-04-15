@@ -1,19 +1,21 @@
 ---
 title: 실용적인 B2B 사용 사례 개발
 description: Adobe 솔루션을 사용하여 실용적인 B2B 사용 사례를 개발하는 방법에 대해 알아봅니다.
+feature: B2B
+topic: Development
 role: Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2563
 last-substantial-update: 2025-12-01T00:00:00Z
 jira: KT-19855
-source-git-commit: 76919cb28c46b76ad2aace48fbc4fc95ec3fa750
+exl-id: 7b763d6f-27e9-4242-9aff-be112b08f2af
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
-
 
 # 실용적인 B2B 사용 사례 개발
 

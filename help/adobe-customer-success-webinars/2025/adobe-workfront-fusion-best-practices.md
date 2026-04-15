@@ -3,19 +3,20 @@ title: Adobe Workfront Fusion 기본 사항 및 우수 사례
 description: 워크플로우를 자동화하고, 생산성을 높이고, 도구를 로우 코드 솔루션, 템플릿 및 모범 사례와 통합하는 Workfront Fusion 기본 사항에 대해 알아봅니다.
 solution: Workfront
 feature: Workfront Fusion
+topic: Integrations, Development
 role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3397
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18020
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 18a91af4-5c21-4f69-ac04-5d8189528fce
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Workfront Fusion 기본 사항 및 우수 사례
 
@@ -29,7 +30,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458043/?learn=on&enablevpops)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 * **통합의 중요성** 원활한 도구 통합은 공동 작업 개선, 시간 소모적인 프로세스 감소 및 효율성 향상에 중요합니다. Workfront Fusion과 같은 도구는 여러 애플리케이션을 연결하고 워크플로를 자동화하는 데 도움이 됩니다.
 
@@ -40,4 +41,3 @@ ht-degree: 0%
 * **모범 사례** 개인 계정 대신 Fusion 연결에 서비스 계정을 사용하고 적절한 명명 규칙을 유지하며 사용하지 않는 시나리오, 연결 및 웹후크를 정기적으로 정리하여 복잡하지 않도록 합니다.
 
 * **템플릿 및 학습** Fusion 템플릿은 새 사용자가 시나리오를 효율적으로 빌드하는 방법을 배울 수 있는 좋은 시작점입니다. 특정 요구 사항에 맞게 사용자 지정할 수 있는 사전 정의된 워크플로우를 제공합니다.
-

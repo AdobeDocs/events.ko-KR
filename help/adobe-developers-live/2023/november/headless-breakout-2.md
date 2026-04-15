@@ -2,6 +2,7 @@
 title: Adobe Developers Live - 11월 23일 - 헤드리스 브레이크아웃 2
 description: Adobe Developers Live에서 제공하는 이 유용한 세션에서는 Gabriel Walt와 Alex Tondo가 Adobe.com에서 Adobe Experience Manager의 범용 편집기를 사용하여 콘텐츠 전략을 향상시키는 방법에 대한 통찰력을 공유합니다. 2023년 11월 6일에 기록되었으며, 콘텐츠 전달 프로세스를 간소화하는 이 WYSIWYG 편집기의 기능과 콘텐츠 작성을 간소화하는 역할에 대해 설명합니다. 이 세션은 다이내믹하고 매력적인 디지털 경험을 위해 AEM에서 콘텐츠 도구를 효과적으로 사용하는 방법을 이해하려는 사용자에게 적합합니다.
 solution: Experience Manager,Experience Manager Sites
+feature: Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ jira: KT-14425
 thumbnail: 3425635.jpeg
 exl-id: ee24d39f-0440-459c-b5c8-b05f2ab2e6c3
 duration: 1963
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---

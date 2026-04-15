@@ -3,19 +3,20 @@ title: 더욱 스마트한 마케팅 시작 - Google 및 Adobe 통합
 description: Adswerve의 디지털 전략 담당 부사장, Charles Farina 및 Adobe 주요 제품 마케터 Danielle Doolin과 함께 업계 선도적인 플랫폼을 통합하는 혁신적 힘에 대해 알아보는 통찰력 있는 웨비나에 참여하십시오.
 solution: Customer Journey Analytics
 feature: Use Cases
+topic: Personalization, Integrations, Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Value Video
 duration: 3373
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-18029
-source-git-commit: b0f07b52c50ea008e8d0569ef7c8687a9e806f72
+exl-id: 49aa946f-cfc0-49dc-93f5-907ec48048c1
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
-
 
 # 더욱 스마트한 마케팅 시작: Google 및 Adobe 통합
 

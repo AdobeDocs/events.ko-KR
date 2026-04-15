@@ -1,22 +1,23 @@
 ---
-title: Adobe App Builder으로 AEM 확장
+title: Adobe App Builder을 사용하여 AEM 확장
 description: 마이크로서비스 개발, 백엔드 시스템 통합 및 워크플로 자동화는 결코 쉬운 일이 아닙니다.
 solution: Experience Manager
 feature: App Builder
+topic: Integrations, Development
 kt: 9501
 event-cta-url: https://youtu.be/b6jKxNnXFrk
 event-start-time: 2021-12-16 09:00-8
 event-guests: Mark Szulc, Sarah Xu, Zoran Nikolovski
 exl-id: e8c3e768-125b-4595-bcfc-5495f6595c3a
 duration: 3248
-source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-# Adobe App Builder으로 AEM 확장
+# Adobe App Builder을 사용하여 AEM 확장
 
 마이크로서비스 개발, 백엔드 시스템 통합 및 워크플로 자동화는 결코 쉬운 일이 아닙니다.
 

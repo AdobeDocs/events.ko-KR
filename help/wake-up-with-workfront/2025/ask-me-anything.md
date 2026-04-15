@@ -1,6 +1,8 @@
 ---
 title: Workfront에서 일어나기 - 무엇이든 물어보기 기록
 description: Workfront을 통해 생산성 극대화! 모범 사례, 이정표, 블루프린트 및 통합을 사용하십시오. 리소스, 증명 및 시스템 설정을 관리합니다. 사용자 채택을 장려하고 커뮤니케이션을 간소화합니다.
+feature: Resource Management, Reports and Dashboards, System Setup and Administration
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3404
 last-substantial-update: 2025-01-24T00:00:00Z
 jira: KT-17213
 exl-id: 11842d50-a898-4326-be35-634ecaa94487
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443085/?learn=on&enablevpops)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 * **프로젝트 관리 모범 사례**
 

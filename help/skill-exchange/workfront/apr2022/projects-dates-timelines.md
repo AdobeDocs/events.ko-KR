@@ -2,14 +2,16 @@
 title: 프로젝트 마스터링 날짜 및 타임라인
 description: 기본적으로 프로세스를 지향하든 아니면 '우발적 프로젝트 관리자'든 간에, 타임라인과 날짜 제약을 확실히 이해하는 것은 Workfront에서 작업을 계획하고 실행하는 데 있어 매우 중요합니다.
 solution: Workfront
+feature: Strategic Planning
+topic: Administration, Integrations
 role: User
 level: Beginner
 kt: 10310
 exl-id: edd8e9f9-9abe-4fb8-83ea-f150bedd614b
 duration: 2200
-source-git-commit: 64c1e96ddb7688006d5bc0d376b1dadb2bbff492
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---

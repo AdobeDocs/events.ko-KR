@@ -2,6 +2,8 @@
 title: Analytics 학습 Experience Makers Spotlight
 description: 두 명의 전문 고객 및 Adobe Analytics 사용자인 Mandy George & Kaya Walton에게 관심을 가져 주시기 바랍니다. 각 사용자는 최고의 Adobe Analytics 팁과 요령을 공유합니다. 이들의 세션에서는 실시간으로 질문할 수 있는 기회가 이어진다. 놓치고 싶지 않겠지
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event
@@ -10,7 +12,7 @@ kt: 11438
 thumbnail: 3411008.jpeg
 exl-id: e6bee58f-90a5-4d38-bb99-10f5390f567a
 duration: 2474
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%

@@ -1,6 +1,9 @@
 ---
 title: 라이브 검색에 대한 심층 분석
+solution: Commerce
+feature: Headless, Integration
 description: 전문가 지침 및 실용적인 구현 예제를 사용하여 Adobe Commerce에서 라이브 검색 경험을 사용자 지정합니다
+topic: Headless, Integrations, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +11,9 @@ duration: 3515
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17165
 exl-id: 1bf37835-ec68-4195-b373-52718bf39d30
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -23,7 +26,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443021/?learn=on&enablevpops)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 세션의 전반적인 초점은 구성 요소, 위젯 및 기술 세부 정보를 포함한 Adobe Commerce의 라이브 검색이었습니다.
 

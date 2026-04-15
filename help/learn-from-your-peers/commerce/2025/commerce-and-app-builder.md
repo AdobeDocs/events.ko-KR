@@ -2,19 +2,21 @@
 title: Adobe Commerce 및 App Builder Essentials - 기본에서 영향에 이르기까지
 description: 유연성, 민첩성 및 비용 절감을 위해 Adobe Commerce에서 App Builder이 수행하는 역할에 대해 알아봅니다. 모범 사례, 통합 및 클라우드 기반의 이점에 대해 알아봅니다.
 solution: Commerce
+feature: Integration
+topic: Integrations, Performance, Migration
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 3555
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19684
-source-git-commit: cea4b75d089d99068b2657ca9656687ba66ad830
+exl-id: 2d4de79e-426b-4b3a-b90c-99e095b1226e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
-
 
 # 동료 웨비나: Adobe Commerce 및 App Builder Essentials - 기본에서 영향까지
 

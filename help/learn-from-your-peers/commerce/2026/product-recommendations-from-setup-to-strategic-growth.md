@@ -1,6 +1,8 @@
 ---
 title: Adobe Commerce 권장 사항 - 설정부터 전략적 성장에 이르기까지
 description: Adobe Commerce 제품 추천을 최적화하여 AOV, 재고 정리 및 고객 유지와 같은 KPI를 추진하는 방법에 대해 알아봅니다.
+feature: Integration, Edge Delivery Services
+topic: Personalization, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -8,7 +10,7 @@ duration: 3633
 last-substantial-update: 2026-03-12T00:00:00Z
 jira: KT-20526
 exl-id: bb3a9675-562a-4614-80bd-c2d164b47968
-source-git-commit: a74b16144c63581e387e590ff4aa98f9a218ec84
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%

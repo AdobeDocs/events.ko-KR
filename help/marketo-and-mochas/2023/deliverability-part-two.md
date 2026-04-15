@@ -1,6 +1,8 @@
 ---
 title: Marketo 및 Mochas - 전달성(2부)
-description: Gmail 전략, Apple 메일 개인 정보 보호, 공유 및 전용 IP, Marketo Engage의 게재 기능 도구에 대한 세부 데모, 시드 목록, 스마트 목록 및 보고서를 포함하여 Marketo 게재 기능 관리자인 Sean Wirt를 통해 이메일 게재 기능 모범 사례를 살펴보십시오.
+description: Gmail 전략, Apple 메일 개인 정보 보호, 공유 및 전용 IP, Marketo의 전달성 도구, 시드 목록, 스마트 목록 및 보고서에 대한 자세한 데모를 포함하여 Marketo Engage 전달성 관리자인 Sean Wirt를 통해 이메일 전달성 모범 사례를 살펴보십시오.
+feature: Smart Lists, Reporting
+topic: Security
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ thumbnail: 3418668.jpeg
 event-start-time: 2023-4-24 08:30-8
 exl-id: 02bf8dc4-a08a-4c82-812f-6b3e10ec97a2
 duration: 3638
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---

@@ -2,15 +2,17 @@
 title: 트랙 경험 작성기 Spotlight
 description: 업무 관리의 성숙도 여정은 하루아침에 이루어지는 것이 아니다. 전략적인 계획 수립, 고의적인 리더십, 그리고 변화를 받아들일 준비가 된 문화가 필요합니다.
 solution: Workfront
+feature: Strategic Planning
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10314
 thumbnail: 342524.jpeg
 exl-id: 704dbe58-dc9a-4920-b211-9afb77798079
 duration: 3258
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---

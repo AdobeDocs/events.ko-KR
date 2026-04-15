@@ -1,6 +1,7 @@
 ---
 title: 컨텐츠 Supply chain 성공을 위한 운영 모델 디자인
 description: 컨텐츠 supply chain 성공을 위한 효과적인 운영 모델을 설계합니다. 팀 구조, 거버넌스 및 프로세스 최적화에 대해 알아봅니다.
+feature: Strategic Planning
 topic: Content Supply Chain
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3736
 last-substantial-update: 2026-02-20T00:00:00Z
 jira: KT-20312
-source-git-commit: fbfcb7835f5a51aea9a295fa1adb63b61585adb2
+exl-id: 52dbf621-de61-428b-921b-84f249fd2823
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '118'
 ht-degree: 1%
 
 ---
-
 
 # 컨텐츠 Supply chain 성공을 위한 운영 모델 디자인
 

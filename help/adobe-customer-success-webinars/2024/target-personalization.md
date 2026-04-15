@@ -1,30 +1,32 @@
 ---
-title: Target Personalization - Recommendations 및 카테고리 친화성 시작하기
-description: Recommendations 시작을 위한 강력한 기반을 구축하는 방법에 대해 알아봅니다. Recs를 구동하는 알고리즘과 Recs를 성공적으로 활용하는 방법에 대해 더 잘 이해할 수 있습니다.
+title: Target Personalization - 권장 사항 및 범주 친화성 시작
+description: 권장 사항을 시작하기 위한 강력한 기반을 구축하는 방법에 대해 알아봅니다. Recs를 구동하는 알고리즘과 Recs를 성공적으로 활용하는 방법에 대해 더 잘 이해할 수 있습니다.
 solution: Target
+feature: Segments, Profiles
+topic: Personalization, Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 1932
 last-substantial-update: 2024-08-28T00:00:00Z
 jira: KT-16034
-source-git-commit: 87a01d0a4002a35bf538c6ac32ee6631c38f25c0
+exl-id: 037f8493-dc3e-4af6-8a2b-76877a7611ce
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
 
+# Target Personalization: 권장 사항 및 범주 친화성 시작하기
 
-# Target Personalization: Recommendations 및 카테고리 친화성 시작하기
-
-Recommendations 시작을 위한 강력한 기반을 구축하는 방법에 대해 알아봅니다. Recs를 구동하는 알고리즘과 Recs를 성공적으로 활용하는 방법에 대해 더 잘 이해할 수 있습니다.
+권장 사항을 시작하기 위한 강력한 기반을 구축하는 방법에 대해 알아봅니다. Recs를 구동하는 알고리즘과 Recs를 성공적으로 활용하는 방법에 대해 더 잘 이해할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432999/?learn=on)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
-* Recommendations in Rex는 규모에 맞게 개인화를 제공하여 동작 기반, 인기도 기반, 콘텐츠 유사성 등과 같이 선택한 알고리즘을 기반으로 수백 또는 수천 개의 항목을 지능적으로 추천할 수 있습니다.
+* Rex의 권장 사항은 규모에 맞게 개인화를 제공하여 동작 기반, 인기도 기반, 콘텐츠 유사성 등과 같이 선택한 알고리즘을 기반으로 수백 또는 수천 개의 항목을 지능적으로 추천할 수 있습니다.
 * Rex는 시퀀싱, 가중치, 제외 규칙 등과 같은 사용자 지정 옵션을 제공하여 개인화된 머천다이징 제어를 위한 강력한 도구입니다.
 * Rex는 수천 또는 수백만 개의 항목에 걸쳐 많은 수의 제품이나 콘텐츠 항목을 추천하여 사용자 프로필에 따라 개인화된 추천을 제공하는 데 이상적입니다.
 * Rex는 오퍼 수가 적거나, 빠르게 변화하는 카탈로그 항목, 낮은 상호 작용 빈도 또는 개인화가 주로 충성도 세그먼트나 지역과 같은 사용자 특성을 기반으로 하는 시나리오에 적합하지 않을 수 있습니다.

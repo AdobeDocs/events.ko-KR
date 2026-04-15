@@ -1,6 +1,8 @@
 ---
 title: AEM을 통한 디지털 민첩성
 description: AEM Sites 및 Assets의 혁신과 모범 사례를 통해 조직의 디지털 민첩성을 개선하십시오.
+feature: Edge Delivery Services, Release Information, Authoring
+topic: Headless, Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3593
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17170
 exl-id: 49cd7f5a-13fb-454f-9389-18484b1e1866
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443026/?learn=on&enablevpops)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 * **Adobe Experience Manager(AEM)를 통한 디지털 민첩성** 웨비나는 AEM Assets과 Sites를 모두 다루는 AEM을 통한 디지털 민첩성 향상에 초점을 맞췄습니다. 주요 측면으로는 컨텐츠를 신속하게 작성하고, 서로 다른 시스템의 컨텐츠를 통합하고, 적합한 대상에게 지능적이고 신속하게 적합한 컨텐츠를 제공하는 작업 등이 있습니다.
 

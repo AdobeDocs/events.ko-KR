@@ -1,6 +1,7 @@
 ---
 title: 데이터 드립 - 이전 시스템에서 웹 SDK으로 마이그레이션할 때의 이점
-description: Adobe Web SDKEdge Network 를 통해 보다 스마트한 추적 및 간소화된 통합을 통해 구현을 간소화하고, 성능을 향상시키고, 비용을 절감하는 방법에 대해 알아봅니다.
+description: Adobe Web SDK을 통해 보다 스마트한 추적 및 간소화된 통합을 통해 구현을 간소화하고, 성능을 향상시키고, 비용을 절감하는 방법에 대해 알아봅니다.
+feature: Data Governance, Data Configuration and Collection
 topic: Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3217
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19500
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+exl-id: e7a85278-aa6a-41d8-aed5-88249bd9193e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
-
 
 # 데이터 드립: 이전 시스템에서 웹 SDK으로 마이그레이션할 때의 이점
 
@@ -54,4 +55,3 @@ Adobe Web SDK은 여러 추적 라이브러리(Analytics, Target, Audience Manag
 * 플랫폼 간에 일관된 데이터를 위해 표준화된 경험 데이터 모델(XDM) 스키마를 지원합니다.
 
 이 접근 방식은 유지 관리를 단순화하고 성능을 향상시키며 팀 간의 원활한 협업을 가능하게 합니다.
-

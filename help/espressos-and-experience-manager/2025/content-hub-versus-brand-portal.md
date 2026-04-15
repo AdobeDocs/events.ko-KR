@@ -3,19 +3,20 @@ title: 에스프레소 및 Experience Manager - Content Hub vs. Brand Portal
 description: AEM Content Hub이 모든 Asset Cloud Service 고객을 위해 더 빠른 배포, 더 적은 비용, 원활한 통합으로 자산 배포를 변환하는 방법을 살펴봅니다.
 solution: Experience Manager, Experience Manager Assets
 feature: Brand Portal
+topic: Integrations, Performance, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3055
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19499
-source-git-commit: f0d7a52dd0634ddb011beb1155866c498dd8d4d9
+exl-id: c454f585-e553-4427-9126-ede95540779c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
-
 
 # 에스프레소 및 Experience Manager: Content Hub vs. Brand Portal
 
@@ -37,4 +38,3 @@ Adobe Experience Manager(AEM) 내의 다음 Brand Portal 진화 버전인 Conten
 * **간편하게 마이그레이션** Brand Portal에서 전환은 엔지니어링 지원과 속성 기반 액세스 제어 및 향상된 공유와 같은 새로운 기능을 통해 간단합니다.
 
 이러한 기능을 이해하면 팀은 에셋 배포 및 협업을 최적화할 수 있으며 이를 통해 더 빠른 콘텐츠 활성화 및 더 나은 ROI를 실현할 수 있습니다.
-

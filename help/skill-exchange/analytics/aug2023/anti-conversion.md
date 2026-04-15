@@ -3,6 +3,7 @@ title: 고객 경험을 개선하기 위한 전환 방지 요소 분석
 description: 모든 업종에서 현장 경험을 지속적으로 개선하는 것이 중요합니다. 전환 방지의 목적은 고객 현장 경험에 부정적인 영향을 미치는 요인을 해결하기 위해 살펴보는 것입니다. 경험을 개선하기 위해 살펴볼 수 있는 많은 지표가 있습니다. 이 세션에서는 다음을 중점적으로 다룹니다.- 오류율을 사용하여 인사이트를 도출하는 방법- 고객 혼동의 영역을 식별하여 고객 여정을 개선- 조직에서 반전환을 구현하는 팁
 feature-set: Analytics
 feature: Metrics
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -11,9 +12,9 @@ last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14657
 thumbnail: 3425991.jpeg
 exl-id: 13b7b639-c833-4f3e-b4f9-ec9e2cee2505
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---

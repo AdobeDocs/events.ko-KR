@@ -2,6 +2,8 @@
 title: 무엇이든 묻기
 description: Commerce 및 Coffee는 Adobe Commerce, 회사 계층 구조, 웹 사이트 성능 지표, B2B 개인화, 라이브 검색 모범 사례 및 향후 제품 개선 사항에 대한 참여자 질문에 대한 답변을 제공합니다.
 solution: Commerce
+feature: B2B, Payments
+topic: Personalization, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +11,7 @@ duration: 3153
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16471
 exl-id: 0e765a3e-9ff8-4a4a-8987-e56631adfc58
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%
@@ -38,4 +40,4 @@ Corey와 Agbi는 고객이 매년 언제든지 성공할 수 있도록 Adobe Com
 
 * **B2B Personalization 기술** 공유 카탈로그, 개인화된 가격 책정 및 맞춤형 결제 방법을 활용하여 고객 경험을 향상시킵니다.
 
-* **예정된 2.4.8 릴리스** 핵심 기능 및 제품 유형에 대한 향상된 기능을 티핑했습니다. 자세한 내용은 Adobe Summit 시 확인할 수 있습니다.
+* **예정된 2.4.8 릴리스** Adobe Summit에서 예상되는 세부 정보와 함께 핵심 기능 및 제품 유형에 대한 향상된 기능을 제공합니다.

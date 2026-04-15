@@ -1,6 +1,7 @@
 ---
 title: 컨텐츠 Supply chain 전반의 성공을 이끄는 경영진 후원 설립
 description: 경영진 후원이 리더십 지원을 확보하고 팀을 연계하기 위한 실용적인 전략으로 콘텐츠 supply chain의 성공을 이끄는 방법에 대해 알아보십시오.
+feature: Strategic Planning
 topic: Content Supply Chain
 role: Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 2502
 last-substantial-update: 2026-02-20T00:00:00Z
 jira: KT-20311
-source-git-commit: a9eddbd6554ae26c3ed54c29e6894c9e2d1a63a0
+exl-id: e84d484b-3b00-4073-8781-3671449c207c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '139'
 ht-degree: 1%
 
 ---
-
 
 # 컨텐츠 Supply chain 전반의 성공을 이끄는 경영진 후원 설립
 

@@ -1,6 +1,7 @@
 ---
 title: 육성 레시피 만들기
 description: Marketo Engage의 기본 육성 - 전략, 자동화, 개인화 및 성과 추적을 학습하여 참여와 결과를 향상시킵니다.
+feature: Programs, Reporting
 speaker-name-1: Amanda Thomas
 speaker-title-1: Senior Marketing Operations Manager
 speaker-company-1: Iron Horse
@@ -14,13 +15,13 @@ doc-type: Event
 duration: 3123
 last-substantial-update: 2025-09-24T00:00:00Z
 jira: KT-19288
-source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
+exl-id: 8f65f7e0-e90d-4be7-be0d-3ecedafdfcfe
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # 육성 레시피 만들기
 
@@ -42,5 +43,3 @@ Marketo에서 귀사의 육성 전략을 향상하기 위해 고안된 심층적
 * **성과 측정** 육성 캠페인의 성과를 추적, 분석 및 최적화하는 방법에 대한 통찰력을 얻으십시오.
 
 이 세션은 Marketo에서 강력한 기반을 구축하고 보다 스마트한 교육을 통해 측정 가능한 결과를 도출하고자 하는 마케터에게 적합합니다.
-
-

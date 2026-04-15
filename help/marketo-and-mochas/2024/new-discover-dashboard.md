@@ -1,6 +1,8 @@
 ---
 title: 새 대시보드 검색
-description: Adobe의 수석 비즈니스 고문인 Kate Colbert와 기술 고문인 James Leedom이 함께 Marketo Measure의 9가지 새로운 Discover Dashboards를 살펴보십시오. 이 대시보드는 라이브 데모 및 Q&A 세션으로 매출, ROI, 참여 및 리드 속도와 같은 지표에 대한 동적 통찰력을 제공합니다.
+description: Adobe의 수석 비즈니스 고문인 Kate Colbert와 기술 고문인 James Leedom이 함께 Marketo Measure의 9가지 새로운 Discover Dashboards를 살펴보십시오. 이 대시보드는 라이브 데모와 Q&A 세션을 통해 매출, ROI, 참여 및 리드 속도와 같은 지표에 대한 동적 통찰력을 제공합니다.
+feature: Reporting
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3619
 last-substantial-update: 2024-05-01T00:00:00Z
 jira: KT-15339
 exl-id: 7f69f653-e293-4fec-a38d-211bc6dac4e1
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -23,7 +25,7 @@ Adobe의 수석 비즈니스 고문인 Kate Colbert 및 기술 고문인 James L
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428405/?learn=on)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 * Marketo Measure의 Discover 대시보드는 유용성을 높이고 보고 기능에 가치를 더하도록 디자인된 새롭고 개선된 사전 설치된 대시보드 세트입니다.
 * 이전 대시보드는 3월에 더 이상 사용되지 않으며, 이제 모든 Marketo Measure 고객이 새 대시보드를 사용할 수 있습니다.

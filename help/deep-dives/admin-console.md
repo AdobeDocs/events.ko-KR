@@ -3,6 +3,7 @@ title: Adobe Identity에서 Marketo Engage 준비
 description: 이 교육 세션에 참여하여 사용자 마이그레이션, 주요 작업 및 관리자를 위한 필수 리소스에 중점을 두고 Adobe Identity로 Marketo Engage 구독을 마이그레이션하기 위해 준비하며, 마이그레이션 콘솔 탐색 및 각 이정표의 변경 사항에 대한 지침을 살펴보십시오.
 solution: Marketo Engage
 feature: Administration
+topic: Integrations, Migration
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,19 +11,19 @@ duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
 exl-id: 811852d0-9900-43cc-b6d8-29c8b2fef40c
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
 # Adobe Identity에서 Marketo Engage 준비
 
-[Adobe Identity Management 시스템과 통합하기 위한 Adobe Marketo Engage 구독](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)의 마이그레이션에 대한 교육입니다. 콘텐츠는 Marketo Engage 관리자에게 가장 적합합니다. 이 교육을 통해 다양한 분야의 사람들과 일하는 조직에 필요한 지식을 갖추고 내부 사용자에게 향후 변화에 대한 교육을 제공할 수 있습니다.
+[Adobe Identity Management 시스템과 통합하기 위한 Adobe Marketo Engage 구독](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)의 마이그레이션에 대한 교육입니다. 콘텐츠는 Marketo Engage 관리자에게 가장 적합합니다. 이 교육을 통해 다양한 분야의 사람들과 일하는 조직에 필요한 지식을 갖추고 내부 사용자에게 향후 변화에 대한 교육을 제공할 수 있습니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3432371/?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
 ## 개요
 

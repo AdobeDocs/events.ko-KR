@@ -1,6 +1,7 @@
 ---
 title: 소매 업계의 선두 주자 - AI 기반의 성장 및 최고의 성능 플레이북
 description: 이 2025 Adobe 웨비나에서 소매업체가 AI 기반 트래픽을 사용하여 충성도, 참여 및 전환을 높이는 방법을 알아봅니다.
+feature: Segmentation
 topic: Artificial Intelligence
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3350
 last-substantial-update: 2025-08-27T00:00:00Z
 jira: KT-18836
-source-git-commit: c3e2710187832f1f67a1e73c11b7262b32ed1f8a
+exl-id: 7267b110-fcba-4866-a7f8-4eefa0c14467
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
-
 
 # 소매 선두 기업: AI 기반 성장 및 최고의 성능 플레이북
 
@@ -37,7 +38,7 @@ ht-degree: 0%
 ## 단계별 AI 전략 적용
 
 1. **AI 트래픽 추적** AI 플랫폼에서 온 방문을 식별하도록 분석을 설정합니다(LLM 세그먼트, UTM 사용).
-1. **콘텐츠 최적화** AI 크롤링을 쉽게 수행할 수 있도록 명확한 제목과 FAQ를 사용하여 제품 페이지를 구조화합니다.
+1. **콘텐츠 최적화** AI 크롤링을 쉽게 사용할 수 있도록 명확한 제목과 FAQ가 있는 제품 페이지를 구성하십시오.
 1. **도달 범위 확장** 소셜 미디어, 블로그 및 리뷰 사이트에서 제품 정보를 공유하여 가시성을 향상시킵니다.
 1. 제휴 캠페인 및 사용자 생성 컨텐츠를 위해 소셜 미디어 크리에이터와의 **영향력 있는 사용자 활용** 파트너.
 1. **충성도 프로그램 개선** 고객 데이터를 사용하여 보상을 개인화하고 반복 구매를 장려합니다.

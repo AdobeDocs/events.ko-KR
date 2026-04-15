@@ -1,6 +1,8 @@
 ---
 title: Marketo 및 Mochas - Marketo Measure 속성
 description: 이 Marketo 및 Mochas 세션에서 Elizabeth Lundberg 및 Kate Colbert와 함께 스톡 모델, 올바른 모델을 선택하기 위한 모범 사례 및 마케팅 통찰력을 높이기 위한 라이브 Q&A를 비롯한 Marketo Measure의 속성을 살펴보십시오.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ thumbnail: 3413506.jpeg
 event-start-time: 2023-1-24 08:30-8
 exl-id: 6f3b1c89-0176-4495-8e28-c265da3581d5
 duration: 3493
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---

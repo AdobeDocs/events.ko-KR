@@ -2,6 +2,8 @@
 title: Commerce & 커피 - 성수기 준비
 description: Corey Gelato의 세션은 웹 사이트 성능을 최적화하고, 인벤토리를 관리하고, AI 도구로 고객 참여를 높이고, 시즌 후 분석을 활용하여 유지 및 충성도를 개선함으로써 성수기에 전자 상거래 비즈니스가 성공할 수 있는 전략을 제공합니다.
 solution: Commerce
+feature: Integration, Edge Delivery Services
+topic: Personalization, Performance, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3436
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16235
 exl-id: 8dc72811-74db-485a-ac25-e2647d0848f7
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---

@@ -1,19 +1,21 @@
 ---
 title: 신속한 클라우드 개발을 위한 RDE(Rapid Development Environment) 스냅샷
 description: AEM Cloud의 RDE 스냅샷을 통해 신속한 개발을 살펴보십시오. 개발 주기를 효율적으로 동결, 복원 및 혁신하는 방법에 대해 알아봅니다.
+feature: Edge Delivery Services, Release Information
+topic: Administration, Development
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2501
 last-substantial-update: 2025-12-11T00:00:00Z
 jira: KT-19985
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: e8998e51-b661-42ab-a6c4-1cb85e3d9386
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # 동결, 복원, 혁신: 클라우드 개발을 위한 신속한 개발 환경 스냅샷으로 실습
 

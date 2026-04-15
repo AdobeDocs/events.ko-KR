@@ -5,14 +5,17 @@ landing-page-description: 이 녹화된 웨비나를 시청하여 모든 Commerc
 short-description: 이 녹화된 웨비나를 시청하여 모든 Commerce Intelligence 계정과 함께 설정에 포함된 4개의 대시보드를 살펴보십시오.
 kt: 10496
 solution: Commerce, Commerce Intelligence
+feature: Data Integration, Reports
+feature-set: Commerce Intelligence
+topic: Commerce
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 343498.jpeg
 exl-id: f11829c9-3c7b-4da5-8ad8-762086a820b9
 duration: 2932
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -21,7 +24,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence은 이전에 [!DNL Magento Business Intelligence (MBI)] (으)로 알려져 있었습니다. 이전 이벤트의 녹화본은 이전 이름을 반영합니다.
+>Adobe Commerce Intelligence은 이전에 [!DNL Magento Business Intelligence (MBI)]&#x200B;(으)로 알려져 있었습니다. 이전 이벤트의 녹화본은 이전 이름을 반영합니다.
 
 모든 Commerce Intelligence 계정과 함께 설정에 포함된 4개의 대시보드를 둘러보십시오. 이 녹화된 웨비나는 eCommerce 스토어 데이터에서 가치를 창출하는 기본 대시보드의 역할을 강조하며 각 대시보드의 높은 수준 목표를 다룹니다. 또한 다음과 같이 미리 작성된 보고서의 몇 가지 일반적인 사용 사례로 이동합니다.
 
@@ -35,5 +38,5 @@ ht-degree: 0%
 
 ## 유용한 리소스
 
-[대시보드](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html?lang=ko)
-[차트 데이터 내보내기](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html?lang=ko)
+[대시보드](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html)
+[차트 데이터 내보내기](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)

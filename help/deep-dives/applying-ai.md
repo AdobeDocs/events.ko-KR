@@ -1,19 +1,21 @@
 ---
 title: Marketo에서 AI 적용
 description: Lucas, AJ 및 Darshil과 함께 리드 스코어링에서 전환에 이르기까지 Marketo에서 AI를 사용하여 캠페인을 활성화하는 실용적인 팁과 새로운 도구를 활용하는 방법을 알아보십시오.
+feature: Programs, Reporting
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 3377
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18117
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: b45f02c5-e9b7-405e-9637-83440b39f254
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
-
 
 # Marketo에서 AI 적용: 실용적인 전략 및 구현
 

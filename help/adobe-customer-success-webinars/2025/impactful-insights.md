@@ -2,6 +2,8 @@
 title: 효과적인 통찰력 - 효과적인 측정을 위한 전략 만들기
 description: 잘 구현된 측정 전략은 운영 효율성을 향상시키고, 데이터 중심의 의사 결정을 육성하며, 고객 경험을 향상시켜 조직에 경쟁 우위를 제공합니다.
 solution: General
+feature: Analytics Basics
+topic: Performance, Development
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2814
 last-substantial-update: 2025-02-18T00:00:00Z
 jira: KT-17378
 exl-id: f40c7d75-1b2e-43d5-80dd-99f87c003cac
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -28,7 +30,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444457/?learn=on&enablevpops)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 * **측정 전략의 정의** 측정 전략은 조직이 데이터를 수집, 분석 및 사용하여 비즈니스 목표에 대한 성과를 평가하는 방법을 안내하는 구조화된 공동 작업 프레임워크입니다. 팀을 조정하고 데이터 중심의 의사 결정 문화를 육성하며 지속적인 개선을 추진합니다.
 

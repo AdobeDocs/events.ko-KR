@@ -1,7 +1,8 @@
 ---
 title: Adobe Developers Live - 11월 22일 - Adobe Experience Manager as a Cloud Service의 효율적인 개발
-description: Adobe Experience Manager as a Cloud Service에 대한 효율적인 개발Cloud Manager는 개발자 경험을 개선하고 프론트엔드 코드 배포 파이프라인을 비롯한 워크플로를 간소화할 수 있는 다양한 유형의 파이프라인을 제공합니다. 이 세션에서는 빠른 프론트엔드 코드 배포를 위해 기존 웹 사이트를 설정하는 방법에 대해 알아봅니다.
+description: Adobe Experience Manager as a Cloud Service에 대한 효율적인 개발Cloud Manager는 개발자 경험을 개선하고 프론트엔드 코드 배포 파이프라인을 비롯한 워크플로를 간소화할 수 있는 다양한 유형의 파이프라인을 제공합니다.이 세션에서는 빠른 프론트엔드 코드 배포를 위해 기존 웹 사이트를 설정하는 방법에 대해 알아봅니다.
 solution: Experience Manager,Experience Manager Sites
+feature: Edge Delivery Services, Release Information, Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -14,9 +15,9 @@ kt: 11485
 thumbnail: 3411306.jpeg
 exl-id: be584e3d-b5d5-4f3c-8067-84274a65e7d7
 duration: 2033
-source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---

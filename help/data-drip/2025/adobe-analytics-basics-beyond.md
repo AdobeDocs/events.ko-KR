@@ -1,6 +1,8 @@
 ---
 title: Adobe Analytics 기본 사항 및 그 이상
 description: Taylor Walker 및 Vishnu Pillai의 웨비나에 참여하여 Adobe Analytics을 마스터하고, 작업 공간을 최적화하고, 데이터를 내보내고, 도구를 통합할 수 있습니다. 전문가의 통찰력을 보려면 지금 시청하십시오.
+feature: Analysis Workspace, Segmentation, Visualizations
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3437
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17172
 exl-id: 348404c6-3886-4af0-ae16-82ff379d0181
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443028/?learn=on&enablevpops)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 * **Adobe Analytics 소개** 세션은 플랫폼을 효과적으로 시작하고 활용하는 방법을 포함하여 Adobe Analytics 기본 사항과 고급 기능에 중점을 둡니다.
 
@@ -34,7 +36,7 @@ ht-degree: 0%
    * **Workspace** 주요 초점은 다양한 패널, 시각화 및 구성 요소를 탐색하고 사용하는 방법을 포함하여 Adobe Analytics 내의 작업 영역에 있었습니다.
    * **교육 및 학습 경로** 추가 학습을 위해 Experience League 및 Adobe Analytics YouTube 페이지와 같은 교육 튜토리얼, 학습 경로 및 리소스의 가용성을 강조합니다.
    * **데이터 내보내기 옵션** 데이터 피드, Data Warehouse, FTP 및 SFTP를 사용하여 데이터를 내보내는 방법에 대한 설명과 데이터 피드 설정에 대한 데모 설명.
-   * **CJA(Customer Journey Analytics)** 보다 전체적인 데이터 보기를 위해 CJA 및 Adobe Analytics과의 통합을 소개합니다.
+   * **Customer Journey Analytics(CJA)** 데이터를 보다 전체적으로 볼 수 있도록 CJA 및 Adobe Analytics과의 통합을 소개합니다.
 
 * **모범 사례** 태그, 폴더 및 공유 옵션을 사용하여 프로젝트를 구성하고 액세스할 수 있도록 유지하는 방법에 대한 권장 사항입니다.
 

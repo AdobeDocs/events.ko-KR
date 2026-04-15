@@ -1,15 +1,17 @@
 ---
 title: 전문가에게 문의 - 속도 측정
 description: ' [!DNL Workfront] 보고를 사용하여 속도를 측정하고 추적하는 방법에 대해 알아봅니다. 이 워크숍은 2019년 8월 14일에 녹화되었습니다.'
+feature: Reports and Dashboards
+topic: Administration, Integrations
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
 last-substantial-update: 2023-08-15T00:00:00Z
 exl-id: 83053de2-e386-4243-a9c8-a2ad9d51790f
 duration: 4630
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '3962'
+source-wordcount: '3986'
 ht-degree: 0%
 
 ---
@@ -27,7 +29,7 @@ ht-degree: 0%
 >[!NOTE]
 >
 >2019년에 프레젠테이션을 시작한 후 사용자 정의 필드 계산에 대한 구문이 변경되었지만 프레젠테이션에 제공된 개념과 기타 지침은 여전히 정확합니다.
->&#x200B;>**아래에 포함된 계산이 최신 구문 규칙을 반영하도록 업데이트되었습니다.**
+>**아래에 포함된 계산이 최신 구문 규칙을 반영하도록 업데이트되었습니다.**
 
 **첫 번째 커밋 일자**
 

@@ -3,6 +3,8 @@ title: Commerce Intelligence의 FAQ
 description: 셀프서비스 구성, 통합, 보안, 모범 사례 등과 같은 주제에 대해 Commerce Intelligence에서 자주 묻는 몇 가지 질문에 대한 답변을 알아봅니다.
 solution: Commerce, Commerce Intelligence
 feature-set: Commerce Intelligence
+feature: Data Integration, Reports
+topic: Integrations, Security
 role: Admin, User
 level: Intermediate
 doc-type: Event
@@ -10,9 +12,9 @@ duration: 2167
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15680
 exl-id: ead47498-4526-481c-8910-961377bdb55f
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -23,7 +25,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429617/?learn=on)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 **통화 관리**
 

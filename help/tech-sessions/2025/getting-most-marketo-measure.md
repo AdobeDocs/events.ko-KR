@@ -3,6 +3,7 @@ title: Marketo Measure 활용
 description: 채널 매핑, 세그멘테이션, 사용자 지정 스테이지 매핑 및 접점 억제에 대한 우수 사례를 통해 Marketo Measure을 최적화합니다. 특정 규칙을 사용하고, 데이터를 분류하고, 단계의 우선 순위를 논리적으로 지정합니다. 더 깨끗한 데이터에 대해 원하지 않는 터치포인트를 표시하지 않습니다. 부메랑 단계와 같은 도구를 활용하고 복잡한 구성에 대한 지원 사례를 제출합니다. Adobe의 경험 페이지에서 세션 녹화에 액세스합니다.
 solution: Marketo Measure
 feature: Touchpoints, Channels, Segmentation
+topic: Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3417
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17542
 exl-id: 5e3ab998-9bb0-4b6d-a1bd-ec9f24789464
-source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -35,7 +36,7 @@ Adobe에서 7년 이상의 경력을 쌓은 Marketo Measure 기술 지원 엔지
 * 우선 순위 목록의 맨 위에 있는 특정 규칙과 맨 아래에 있는 일반 규칙을 사용합니다.
 * 세미콜론과 별표 같은 특수 문자를 사용하여 규칙을 간결하게 만들 수 있습니다.
 
-### 세그먼테이션
+### 세분화
 
 * 세분화를 사용하여 CRM에서 보고할 데이터를 추가로 분류하고 검색할 수 있습니다.
 * 일반적인 사용 사례에는 지역 기반 세분화 및 계정 크기 분류가 포함됩니다.

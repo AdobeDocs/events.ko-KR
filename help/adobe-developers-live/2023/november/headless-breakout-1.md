@@ -2,6 +2,7 @@
 title: Adobe Developers Live - 11월 23일 - 헤드리스 브레이크아웃 1
 description: 최신 Headless API를 둘러보고, 태그 지정, 버전 관리 및 엔드포인트 검색을 포함하여 이러한 API의 확장된 기능에 대해 알아보십시오. 디지털 채널 전반에서 앱과 유사한 경험을 위한 효율적인 콘텐츠 검색을 용이하게 하는 방법에 대해 알아보고 이러한 API의 실제 애플리케이션을 확인해 보십시오. 이 세션은 혁신적인 솔루션에 Headless 기술을 활용하려는 개발자에게 매우 유용한 리소스입니다.
 solution: Experience Manager,Experience Manager Sites
+feature: Edge Delivery Services, Release Information, Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ jira: KT-14424
 thumbnail: 3425627.jpeg
 exl-id: 86bf94d6-deb5-49db-b919-f5de0fbe254c
 duration: 2004
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---

@@ -2,6 +2,7 @@
 title: Customer Journey Analytics을 사용하여 데이터 보고 및 시각화 개선
 description: Customer Journey Analytics이 크로스 채널 통찰력을 강화하고, Target 및 Adobe Journey Optimizer과 통합되며, 보다 스마트한 결정을 위한 고급 대시보드를 제공하는 방법에 대해 알아봅니다.
 solution: Customer Journey Analytics, Analytics, Target
+feature: Integrations, Identity, Segmentation, Visualizations
 topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -10,9 +11,9 @@ duration: 3744
 last-substantial-update: 2025-09-23T00:00:00Z
 jira: KT-19279
 exl-id: 74b6cd7e-b523-45ea-be1a-31214f6b57cb
-source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---

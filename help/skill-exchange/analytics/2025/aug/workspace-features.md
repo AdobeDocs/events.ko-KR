@@ -3,25 +3,26 @@ title: 사용해야 하는 Workspace 기능
 description: 조건부 서식, 드롭다운, 속성 모델 및 계산된 지표와 같은 주요 Adobe Analytics Workspace 기능을 살펴보고 보다 심층적인 통찰력을 얻으십시오.
 solution: Analytics
 feature: Workspace Basics
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18821
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+exl-id: 2c7bef44-9af5-4c7c-a9a7-9489a8dbefd2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
-
 
 # 사용해야 하는 Workspace 기능
 
 분석을 향상하고 실제 영향을 미칠 수 있는 Adobe Analytics Workspace의 강력하면서도 종종 간과되는 기능을 살펴보십시오. 이 세션에서는 일상적인 도구를 insight의 엔진으로 바꾸는 실용적인 사용 사례와 간단한 기술을 살펴봄으로써 비즈니스에 실제로 중요한 사항을 파악하는 데 도움이 됩니다. 숙련된 분석가이든, 이제 막 시작하는 분석가이든, 데이터의 가치를 극대화하기 위해 실행 가능한 아이디어를 가지고 떠나게 됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471258/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3471117/?learn=on&enablevpops)
 
 ## 고급 Analytics 기법 잠금 해제
 

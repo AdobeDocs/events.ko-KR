@@ -1,6 +1,8 @@
 ---
 title: AEM이 클라우드에서 더 강력한 이유
 description: 계획, 마이그레이션 및 준비 평가 도구에 대한 Adobe의 전문가 지침을 통해 클라우드로 전환
+feature: Release Information
+topic: Security, Performance, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 2653
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17167
 exl-id: db9ef66b-45ab-4586-8d02-91bdfcf2fdfc
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443023/?learn=on&enablevpops)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 * **성능 개선** 클라우드 서비스 고객은 더 나은 아키텍처, 자산 처리 및 글로벌 데이터 센터로 인해 페이지 로드 시간이 400% 개선되었습니다.
 

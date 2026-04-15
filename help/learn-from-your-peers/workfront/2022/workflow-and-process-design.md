@@ -2,6 +2,7 @@
 title: 워크플로우 및 프로세스 디자인 웨비나
 description: 동료로부터 Workfront의 프로세스 확장에 대해 알아보십시오. Workfront 외부의 워크플로우를 문서화하고 디자인하는 것이 중요한 이유에 대해 알아보고 온디맨드 웨비나에서 T-Mobile 전문가로부터 팁을 얻을 수 있습니다.
 feature: Work Management
+topic: Administration, Integrations
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3714
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15817
 exl-id: 0355b630-0d15-460b-b434-79b846f216fd
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---

@@ -1,6 +1,7 @@
 ---
 title: AEM 성능 최적화 - 캐싱 전략 및 기법
 description: 세션에서는 캐싱 전략 및 기법, 캐싱 메커니즘 및 계층, 동적 콘텐츠 처리, 디버깅 캐싱 문제 및 Dispatcher와 CDN 간의 캐시 무효화 동기화에 대해 다룹니다.
+feature: Edge Delivery Services, Release Information
 topic: Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3764
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17373
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: 5606a250-ab06-417b-8abf-a30543cb5f16
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
-
 
 # AEM 성능 최적화: 캐싱 전략 및 기법
 
@@ -28,7 +29,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444452/?learn=on&enablevpops)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 * **캐싱 전략 및 기법** 세션은 브라우저, CDN 및 Dispatcher와 같은 다양한 계층에서 캐싱을 포함하여 성능을 최적화하는 다양한 캐싱 전략 및 기술에 중점을 둡니다.
 

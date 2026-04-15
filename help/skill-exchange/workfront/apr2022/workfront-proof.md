@@ -2,13 +2,15 @@
 title: Adobe Workfront 증명의 미래
 description: 조직에서 검토 및 승인 워크플로에 Workfront Proof을 사용합니까? 도구를 최대한 활용할 수 있는 방법 및 미래를 위해 계획한 내용이 궁금하다.
 solution: Workfront
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10315
 thumbnail: 342525.jpeg
 exl-id: 351b1ed4-ec55-43b0-9498-02da440ba593
 duration: 1806
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%

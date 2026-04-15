@@ -1,19 +1,21 @@
 ---
 title: Workfront 보고 - 연말 전략
 description: Adobe Workfront을 사용하여 효과적인 연말 보고 전략을 살펴보십시오. 비즈니스 성공을 위해 보고를 계획, 실행 및 최적화하는 방법을 알아봅니다.
+feature: Reports and Dashboards, Strategic Planning
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3432
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19759
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 4414b9a4-1620-4092-9bdb-604ab6c5d308
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
-
 
 # 연말 Workfront 보고
 

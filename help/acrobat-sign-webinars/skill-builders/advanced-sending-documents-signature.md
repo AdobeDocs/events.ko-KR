@@ -2,6 +2,7 @@
 title: 서명을 위한 문서 전송을 위한 고급 팁
 description: 여러 수신자에게 보내기 사용 가능한 수신자 역할(서명자, 양식 작성자, 위임자 등) CC 필드 암호 보호 추가 등에 대해 알아봅니다.
 feature: Sign
+topic: Security, Administration
 role: User
 level: Intermediate
 doc-type: Event
@@ -9,9 +10,9 @@ duration: 1143
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15295
 exl-id: 15b61eb5-3a5f-4dbe-94ac-2d4a20976566
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 서명에 대한 계약을 보낼 때 사용할 수 있는 모든 옵션에 대해 자세히 알아봅니다. 이 세션에서는 여러 수신자에게 사용 가능한 수신자 역할(서명자, 양식 필러, 위임자 등)을 보내고 CC 필드 암호 보호 추가 등에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454887/?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3428186/?learn=on)
 
 웨비나는 다중 참가자 워크플로 설정, 수신자 역할 구성, 수신자 그룹 및 개인 메시지 활용을 위한 Acrobat Sign의 고급 기능에 대한 통찰력을 제공합니다. 이러한 학습을 통해 서명을 위한 문서 전송 과정을 간소화하고 서명 참여자 간의 협업을 향상시킬 수 있다.
 

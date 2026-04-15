@@ -1,19 +1,21 @@
 ---
 title: 캐서린 랜닝의 기본 텍스트 모드
 description: Katherine Lanning의 전문적인 인사이트를 통해 Workfront의 텍스트 모드의 강력한 기능을 살펴보십시오.
+feature: Reports and Dashboards, System Setup and Administration, Work Management
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 1892
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19738
-source-git-commit: df552b4f2b2fa1d8e4e8941aa9d58acecc60dd2b
+exl-id: 42008579-3f8d-4b10-bfdd-96fb77b1d48e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '562'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Expert Insights: Katherine Lanning의 텍스트 모드
 
@@ -35,13 +37,13 @@ ht-degree: 0%
 ## 리소스
 
 추가 리소스를 찾고 계십니까? 놈들을 잡았어요!
-* [고객 패널: 베테랑 Workfront 관리자로부터 얻은 교훈](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861?profile.language=ko#M3487) - Katherine이 더 많은 통찰력을 공유했습니다!
-* [보고서에서 컬렉션 참조](https://experienceleague.adobe.com/ko/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
-* [API 탐색기](https://experienceleague.adobe.com/ko/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
-* [보고 Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=ko#M1406)
-* 또한 보고를 처음 사용하는 경우 Adobe Workfront에서 간단하고 효과적인 보고서를 만드는 [8단계](https://experienceleague.adobe.com/ko/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront)인 Nichole의 Perspective 문서를 시작하십시오.
+* [고객 패널: 베테랑 Workfront 관리자로부터 얻은 교훈](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861#M3487) - Katherine이 더 많은 통찰력을 공유했습니다!
+* [보고서에서 컬렉션 참조](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
+* [API 탐색기](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
+* [보고 Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
+* 또한 보고를 처음 사용하는 경우 Adobe Workfront에서 간단하고 효과적인 보고서를 만드는 [8단계](https://experienceleague.adobe.com/en/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront)인 Nichole의 Perspective 문서를 시작하십시오.
 
-텍스트 모드 복사/붙여넣기를 포함한 추가 리소스를 보려면 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717?profile.language=ko#M4848)을 확인하십시오.
+텍스트 모드 복사/붙여넣기를 포함한 추가 리소스를 보려면 [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717#M4848)을 확인하십시오.
 
 
 ## 발표자 정보

@@ -1,16 +1,18 @@
 ---
 title: 마케팅 채널 및 속성 모델링
 description: Adobe Analytics의 강력한 기능을 활용하고 전문가 지침을 통해 마케팅 채널을 설정하고 속성 모델링을 활용합니다
+feature: Segmentation
+topic: Personalization, Security
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3494
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17164
 exl-id: bdfa9338-f9ef-4bbc-8afb-7fa63305b2f6
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 0%
+source-wordcount: '426'
+ht-degree: 1%
 
 ---
 
@@ -43,7 +45,7 @@ ht-degree: 0%
 
 * **레코딩 및 리소스** 웨비나는 레코딩 중이며 전자 메일을 통해 전송됩니다. 세션 중에 다운로드할 수 있는 유인물과 리소스도 있습니다.
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 * **마케팅 채널**
 

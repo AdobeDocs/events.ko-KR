@@ -2,6 +2,8 @@
 title: Workfront 숙달 - 성공을 위한 전략
 description: Adobe Workfront을 최대한 활용하기 위한 전략을 팀에 강화할 수 있습니다. 이 세션에서는 가치를 제공하고 거버넌스를 간소화하며 채택을 유도하는 모범 사례를 안내해 드립니다.
 solution: Workfront
+feature: Reports and Dashboards, Work Management
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2132
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16415
 exl-id: d14b344c-5b41-4e9c-bae1-02db12771b48
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---

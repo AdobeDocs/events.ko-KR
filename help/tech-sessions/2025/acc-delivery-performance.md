@@ -4,6 +4,7 @@ description: 이 세션에서는 Adobe Campaign을 사용하여 이메일 및 SM
 solution: Campaign Classic v7
 product: Adobe Campaign
 feature: SMS, Deliverability, Troubleshooting
+topic: Personalization, Performance
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -11,9 +12,9 @@ duration: 2257
 last-substantial-update: 2025-04-25T00:00:00Z
 jira: KT-17869
 exl-id: a7e1e198-b63b-4a2a-9ffc-7f72bf4c61c1
-source-git-commit: 3b54c46988da18248024d115997704d9881f5e68
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '442'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -24,7 +25,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457826/?learn=on&enablevpops)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 **배달 문제 및 솔루션**
 

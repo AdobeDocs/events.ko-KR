@@ -3,15 +3,16 @@ title: 1마일의 데이터 관리 간소화
 description: 데이터의 양이 증가함에 따라 디지털 상호 작용 데이터를 효율적으로 캡처하여 적절한 마케팅에 전송하는 것이 매우 어려워졌습니다. (설명은 60~160자 사이여야 함)
 solution: Real-Time Customer Data Platform
 feature: Data Governance
+topic: Security
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10632
 thumbnail: 344311.jpeg
 exl-id: e35c6cc7-7831-4a62-9feb-9315a2bff18b
 duration: 3818
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '149'
 ht-degree: 1%
 
 ---

@@ -2,6 +2,8 @@
 title: AEM Forms을 사용하여 금융 서비스의 디지털 통신 개인화
 description: AEM Forms을 통해 금융 서비스가 참여, 효율성 및 규정 준수를 향상시키는 개인화되고 확장 가능한 커뮤니케이션을 제공하는 방법을 살펴보십시오.
 solution: Experience Manager Forms
+feature: Edge Delivery Services, Core Components
+topic: Personalization, Integrations, Performance
 role: Developer, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2971
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18065
 exl-id: d8814206-7a6d-42a5-845f-232839f9a05c
-source-git-commit: db8e0b36dff5abf5665e3a75e9dcda4f9a84e044
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -22,7 +24,7 @@ AEM Forms을 통해 금융 서비스 조직이 고객 참여를 유도하고 디
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458104/?learn=on&enablevpops)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 * **금융 서비스 현대화의 어려움** 금융 조직은 여러 시스템에 걸쳐 수많은 양식이 있고 IT 기반 업데이트가 느리며 레거시 시스템의 확장과 관련된 비용이 높아 양식과 커뮤니케이션을 현대화하는 데 상당한 어려움을 겪고 있습니다. 이러한 어려움은 포착되지 않은 비용 절감 및 매출 증가와 같은 기회를 잃게 합니다.
 

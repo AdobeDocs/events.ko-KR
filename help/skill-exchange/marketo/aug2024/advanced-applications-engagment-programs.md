@@ -2,6 +2,8 @@
 title: 멀티스트림 여정의 강력한 기능 활용 - 참여 프로그램의 고급 응용 프로그램
 description: 다양한 비즈니스 모델의 예를 사용하여 고객 여정 단계를 정의합니다.  고객 여정 블루프린트를 멀티 스트림 참여 프로그램으로 변환합니다.  기본 보고 기능을 활용하여 고객 수명주기 전반에 걸쳐 Engagement Program 을 분석할 수 있습니다.
 solution: Marketo Engage
+feature: Reporting
+topic: Development
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2384
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-15999
 exl-id: 4ea88475-d316-47e2-8851-2712f07632e4
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---

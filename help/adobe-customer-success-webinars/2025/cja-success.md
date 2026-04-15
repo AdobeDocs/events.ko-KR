@@ -2,25 +2,26 @@
 title: Adobe Customer Journey Analytics 성공 지원을 위한 경영진 후원 구축
 description: Adobe Customer Journey Analytics 성공을 위해 경영진 후원을 얻는 전략에 대해 알아봅니다. 아키텍처 설계, 예산 확보, 데이터 중심의 의사 결정 촉진
 feature: Data Governance
+topic: Development
 role: Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1623
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18767
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: 7e5827d4-e243-4030-94f0-1ad25cab8951
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Customer Journey Analytics(CJA) 성공 지원을 위한 경영진 후원 구축
 
 네 번째 세션에서는 강력한 경영진 후원의 부족이 의사 결정, 예산 할당 및 변경 관리를 어떻게 지연시킬지에 대해 알아봅니다. 이 웨비나에서는 경영진 리더가 Adobe Customer Journey Analytics 프로그램을 지원하고, 다양한 분야의 팀들을 배치하며, 측정 가능한 비즈니스 성과를 도출하는 데 있어 중요한 역할을 살펴봅니다. 선임 이해 관계자를 참여시키고 가치를 효과적으로 전달하며 데이터 기반 의사 결정 문화를 구축하는 실용적인 전략을 배웁니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470861/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3470853/?learn=on&enablevpops)
 
 ## 비즈니스 사례 만들기
 

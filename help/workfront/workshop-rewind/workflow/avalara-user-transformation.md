@@ -1,19 +1,21 @@
 ---
 title: 사용자 혼동을 신뢰도로 변환
 description: Avalara가 Adobe Workfront을 사용하여 사용자 혼란을 어떻게 신뢰로 전환했는지 살펴보십시오. 사용자 참여도와 만족도를 위한 효과적인 전략을 배웁니다.
+feature: Workfront Fusion, System Setup and Administration
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3443
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19760
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: fc70c500-e3f4-4cb8-96e5-9ea46f935069
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
 
 ---
-
 
 # 사용자 혼동을 신뢰도로 변환
 

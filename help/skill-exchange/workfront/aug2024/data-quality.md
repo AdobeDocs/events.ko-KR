@@ -2,6 +2,8 @@
 title: 혼돈에서 명확성까지 - 데이터 품질 강화
 description: 이 세션에서는 데이터 정리를 위한 계획 개발 및 실행을 위한 실용적인 팁과 전략을 살펴볼 수 있습니다. 데이터 품질 문제를 발견하는 데 사용할 수 있는 예제 보고서 모든 담당자의 사용자가 데이터를 정리하고 유지할 수 있도록 지원 보너스! Canvas 대시보드의 기능 증가에 대비한 데이터 준비
 solution: Workfront
+feature: Reports and Dashboards, Work Management
+topic: Development
 role: User
 level: Beginner
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 1816
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16106
 exl-id: 81e527b6-f261-48db-8b87-7d1301f380d9
-source-git-commit: 0c85d049a1d9771dc6d69ee6682c628e8dec12cf
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---

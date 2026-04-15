@@ -2,6 +2,7 @@
 title: Adobe Target의 AI 기반 Personalization으로 사용자 경험 극대화
 description: Adobe Target의 AI 기반 개인화에 대한 John Magnusson의 세션에서는 Engage, Expand 및 Embed 프레임워크를 강조하는 주요 기능과 예를 집중 조명했습니다.
 solution: Target
+feature: Segments, Profiles
 topic: Personalization, Artificial Intelligence
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -10,9 +11,9 @@ duration: 3186
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16627
 exl-id: c1d89e23-1d6e-41a7-877c-1d016b4b39d0
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ John Magnusson이 이끄는 Adobe Target의 AI 기반 개인화에 대한 세션
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440934/?learn=on&enablevpops)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 * **세션의 포커스** 세션은 Adobe Target의 AI 기반 개인화로 사용자 경험을 극대화하는 데 중점을 두었습니다.
 * **발표자** Adobe 데이터 및 통합 팀의 솔루션 고객 성공 관리자인 John Magnusson이 세션을 이끌었습니다.
@@ -41,4 +42,4 @@ John Magnusson이 이끄는 Adobe Target의 AI 기반 개인화에 대한 세션
 * **Experience League** Adobe Target 기능 구현에 대한 자세한 설명서 및 지침을 위한 리소스로 권장됩니다.
 * **Q&amp;A 하이라이트**
    * Adobe Target은 이메일 채널에서 구현하고 Marketo과 통합할 수 있습니다.
-   * Target은 자체 통합 고객 프로필 세트를 만들고 CDP 또는 Adobe 대상과 통합하여 보다 강력한 개인화를 수행할 수 있습니다.콜 투 액션** 참석자는 Adobe Target의 개인화 도구에 대한 사용 사례를 식별하고 정의된 전략, 디자인, 실행, 분석 및 작업 주기를 사용하여 적용할 수 있습니다.
+   * Target은 자체 통합 고객 프로필 세트를 만들고 CDP 또는 Adobe 대상과 통합하여 보다 강력한 개인화를 수행할 수 있습니다.** 참석자는 Adobe Target의 개인화 도구에 대한 사용 사례를 식별하고 정의된 전략, 디자인, 실행, 분석 및 작업 주기를 사용하여 적용할 수 있습니다.

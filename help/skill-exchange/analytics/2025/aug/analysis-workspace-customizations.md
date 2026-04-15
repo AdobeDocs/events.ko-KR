@@ -3,19 +3,20 @@ title: Adobe Analytics Workspace의 세 가지 획기적인 사용자 정의
 description: 챔피언 Isha Gupta 및 Deb William의 통찰력을 통해 Adobe Analytics에서 대시보드를 브랜드화하고, 고유 방문자 ID를 설정하고, 보트 트래픽을 차단하는 방법을 살펴보십시오.
 solution: Analytics
 feature: Analysis Workspace, Workspace Basics
+topic: Personalization
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 2408
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18827
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 14ec70f1-4302-4afd-a5b9-d89f1b240aaa
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Analytics Workspace의 세 가지 획기적인 사용자 정의
 

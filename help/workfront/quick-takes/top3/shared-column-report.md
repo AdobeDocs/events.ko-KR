@@ -1,19 +1,21 @@
 ---
 title: 공유 열 보고서 만들기
 description: Adobe Workfront에서 공유 열 보고서를 사용해야 하는 상위 3가지 이유를 알아보십시오. 단계별 지침을 통해 보고서 미학과 커뮤니케이션을 향상시킵니다.
+feature: Reports and Dashboards
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 743
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-18653
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 952bbc23-692e-4af0-99ff-51b3f079d2ee
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # 공유 열 보고서를 만들어야 하는 상위 3가지 이유
 
@@ -23,8 +25,6 @@ ht-degree: 0%
 
 텍스트 모드를 사용하여 정보를 보고서에 결합하는 방법에 대한 질문이 많으므로 단계별 비디오와 몇 가지 아래 리소스를 통해 시작하겠습니다. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470127/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470076/?learn=on&enablevpops)
 
-더 많은 정보를 찾고 계십니까? **Experience League 커뮤니티 게시물**&#x200B;에 [3개의 추가 팁](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641?profile.language=ko)이 있습니다!
-
-
+더 많은 정보를 찾고 계십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641)에 **3개의 추가 팁**&#x200B;이 있습니다!

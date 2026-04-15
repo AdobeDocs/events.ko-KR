@@ -1,19 +1,21 @@
 ---
 title: Acrobat Sign 관리 환경 강화
 description: 온보딩을 간소화하고 Acrobat Sign의 잠재력을 극대화하는 새로운 관리 기능을 살펴보십시오.
+feature: Sign
+topic: Integrations, Migration, Administration
 role: Admin
 level: Beginner
 doc-type: Event
 duration: 3582
 last-substantial-update: 2025-11-21T00:00:00Z
 jira: KT-19797
-source-git-commit: 3340687ab85ecca286fab6774d326ca74e54b85b
+exl-id: d779cd5e-75c6-4329-a35a-cdf3a385712c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
-
 
 # Acrobat Sign 관리 환경 강화
 

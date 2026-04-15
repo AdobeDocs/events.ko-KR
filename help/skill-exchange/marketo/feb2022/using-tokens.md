@@ -2,13 +2,15 @@
 title: ' [!DNL Marketo Engage]에서 토큰을 사용한 확장성 및 효율성'
 description: ' [!DNL Marketo Engage]에서 프로그램 빌드 및 작업을 보다 효율적으로 수행하기 위해 개인화를 넘어 토큰을 사용하는 방법을 알아봅니다.'
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Personalization
 role: User
 level: Beginner
 kt: 9770
 thumbnail: 340593.jpeg
 exl-id: 529a09c2-8122-4d1c-a4a5-0fcfb3406b04
 duration: 3010
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%

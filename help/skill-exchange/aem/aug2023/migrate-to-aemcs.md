@@ -1,9 +1,10 @@
 ---
-title: AEM Cloud Service으로 마이그레이션하기 위한 전략 및 전술적 팁
-description: AEM Cloud Service으로 마이그레이션하여 최신 기능과 최고의 AEM을 제공하고, On-Premise 및 Managed Services 인스턴스를 마이그레이션하여 Cloud Service으로 마이그레이션함으로써 마이그레이션의 가치를 더 잘 이해하고 내부적으로 판매할 수 있습니다. 마이그레이션의 위험 및 비용을 관리하고 기존 노력을 효율적으로 활용하는 접근 방법 작업이 많은 것으로 보일 때 점진적으로 마이그레이션을 수행하는 기술 전술
+title: AEM 클라우드 서비스로 마이그레이션하는 전략 및 전술적 팁
+description: AEM Cloud Service로 마이그레이션하여 AEM이 제공하는 최신의 최상의 서비스를 얻고, On-Premise 및 Managed Services 인스턴스를 Cloud Service으로 마이그레이션하여 마이그레이션의 가치를 더 잘 이해하고 내부적으로 판매할 수 있습니다. 마이그레이션의 위험 및 비용을 관리하고 기존 노력을 효율적으로 활용하는 접근 방법 작업이 큰 것으로 보일 때 점진적으로 마이그레이션을 수행하는 기술 전술
 solution: Experience Manager as a Cloud Service
 feature-set: Experience Manager
 feature: Migration
+topic: Migration
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -12,16 +13,16 @@ jira: KT-14149
 thumbnail: 3424018.jpeg
 exl-id: f34a0cea-c94e-4874-b743-bf8f85ac538a
 duration: 2515
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
-# 2023년 8월 스킬 교환 이벤트 - AEM 개발자 트랙 - AEM Cloud Service으로 마이그레이션하는 전략 및 전술적 팁
+# 2023년 8월 스킬 교환 이벤트 - AEM 개발자 트랙 - AEM 클라우드 서비스로 마이그레이션하는 전략 및 전술적 팁
 
-우리 모두는 최신 최고의 AEM을 제공하기 위해 AEM Cloud Service으로 마이그레이션해야 한다는 것을 알고 있지만, 종종 이전보다 훨씬 쉽게 느낄 수 있습니다. On-Premise 및 Managed Services 인스턴스를 Cloud Service으로 마이그레이션하는 문제는 실제 해답이 필요하며, 그 해답을 얻으면 실제로 가치를 확인할 수 있다는 사실을 알아야 합니다. 참석자는 다음과 같이 모입니다.
+우리 모두는 AEM이 제공해야 하는 최신 및 최고의 서비스를 받기 위해 AEM Cloud Service로 마이그레이션해야 한다는 것을 알고 있지만, 종종 이전보다 훨씬 쉽게 말할 수 있습니다. On-Premise 및 Managed Services 인스턴스를 Cloud Service으로 마이그레이션하기 위한 과제는 진정한 해답이 필요하며, 그 해답을 얻으면 실제로 가치를 확인할 수 있다는 사실을 알아야 합니다. 참석자는 다음과 같이 모입니다.
 
 * 마이그레이션의 가치를 내부적으로 판매할 수 있는 능력 및 이해 향상
 * 마이그레이션 위험 및 비용을 관리하고 기존 노력을 효율적으로 활용하는 접근 방식

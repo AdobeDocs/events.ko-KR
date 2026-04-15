@@ -2,6 +2,7 @@
 title: Adobe Commerce Innovation Spotlight 웨비나
 description: 고객에게 최상의 경험을 제공하고 비즈니스를 성장시키기 위해 최신 기능과 아키텍처를 채택하는 방법에 대한 영감을 얻으십시오!이 웨비나에서.
 solution: Commerce
+feature: Integration, B2B
 topic: Commerce
 role: Admin, Developer, User
 level: Intermediate
@@ -10,9 +11,9 @@ duration: 3392
 last-substantial-update: 2024-03-18T00:00:00Z
 jira: KT-15182
 exl-id: dcdf76f7-3327-4564-b68f-925506715ac4
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---

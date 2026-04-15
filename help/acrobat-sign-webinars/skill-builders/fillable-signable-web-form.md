@@ -1,7 +1,8 @@
 ---
-title: Post 입력 가능한 서명 가능한 웹 양식
+title: 입력 가능한 서명 가능한 웹 양식 게시
 description: 거래를 시작하거나 서명자의 이메일 주소를 알지 않고도 누구나 작성하여 서명할 수 있는 웹 양식을 만드는 방법을 알아봅니다.
 feature: Sign, Form
+topic: Development
 role: User
 level: Beginner
 doc-type: Event
@@ -9,24 +10,24 @@ duration: 1570
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15296
 exl-id: de00b727-129b-4ae7-bfec-97795b616fb6
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
 
 ---
 
-# Post 입력 가능한 서명 가능한 웹 양식
+# 입력 가능한 서명 가능한 웹 양식 게시
 
 거래를 시작하거나 서명자의 이메일 주소를 알지 않고도 누구나 작성하여 서명할 수 있는 웹 양식을 만드는 방법을 알아봅니다. 또한 개별 서명 트랜잭션에 사용할 수 있는 문서 템플릿을 준비하는 방법과 광범위한 공유를 위해 고유 URL에 게시하는 방법에 대해서도 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455455/?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3428187/?learn=on)
 
 ## 주요 사항
 
 * Adobe Acrobat Sign에서 웹 양식을 만들기 전에 계정에 로그인되어 있고 필요한 설정이 활성화되어 있는지 확인하십시오.
 * 웹 양식에 대한 설정은 계정 수준 또는 특정 사용자 그룹에 대해 활성화할 수 있습니다.
-* 웹 양식 설정 옵션에는 웹 양식 허용, 복사된 수신자 활성화, PDF 미리 보기, 서명 블록의 이메일 드레스 필요 및 서명자에 대한 이메일 인증이 포함됩니다.
+* 웹 양식 설정 옵션에는 웹 양식 허용, 카본 복사 수신자 활성화, PDF 미리 보기, 서명 블록의 이메일 드레스 필요 및 서명자의 이메일 인증이 포함됩니다.
 * 웹 양식에 참가자를 추가하여 워크플로우를 만들 수 있습니다.
 * 웹 양식을 만들 때 사용자 그룹, 양식 이름, 참가자 역할 및 인증 옵션을 지정합니다.
 * 카운터 서명자, 복사된 수신자 및 사용자의 이메일 주소를 워크플로우에 추가합니다.

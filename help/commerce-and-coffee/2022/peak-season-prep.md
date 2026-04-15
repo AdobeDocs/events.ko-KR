@@ -2,6 +2,7 @@
 title: Commerce과 커피 - 성수기 준비
 description: 이 세션은 성수기 동안 Commerce 사이트에 대한 전략, 팁 및 모범 사례를 자세히 설명합니다. 2022년 휴가 기대치, 모바일 상거래, 프로모션 및 체크아웃 옵션뿐만 아니라 성공적인 성수기를 이끄는 데 도움이 되는 마케팅의 중요성에 대해 설명합니다. 발표 및 데모에는 Corey Gelato와의 라이브 Q&A가 함께 제공됩니다.
 solution: Commerce
+feature: Payments
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -11,9 +12,9 @@ kt: 11648
 thumbnail: 3412587.jpeg
 exl-id: 56282fe4-931d-40c7-9d34-08a79ba89fa8
 duration: 3848
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---

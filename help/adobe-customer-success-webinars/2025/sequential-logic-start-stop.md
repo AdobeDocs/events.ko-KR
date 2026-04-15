@@ -2,19 +2,21 @@
 title: Adobe Analytics 및 Customer Journey Analytics에서 순차적 논리 마스터링 - 시작 및 중지
 description: 고급 세분화, 범위 제어 및 파생 필드를 포함하는 Adobe Analytics의 기본 순차적 논리를 통해 고객 행동 패턴을 파악하고 데이터 정확도를 개선합니다.
 solution: Analytics, Customer Journey Analytics
+feature: Segmentation, Basics, Use Cases
+topic: Migration, Integrations
 role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3370
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18017
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 62ccb61c-2de9-4a8c-bf0e-c646c7ede698
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '768'
+source-wordcount: '774'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Analytics 및 Customer Journey Analytics에서 순차적 논리 마스터링: 시작 및 중지
 

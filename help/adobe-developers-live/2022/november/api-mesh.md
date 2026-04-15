@@ -2,6 +2,7 @@
 title: Adobe Developers Live - 11월 22일 - App Builder 및 API Mesh를 사용하여 콘텐츠 및 Commerce 경험을 구축하는 방법
 description: 이 세션에서는 AppBuilder API Mesh부터 시작하여 Adobe Experience Manager 및 Commerce의 다양한 콘텐츠 소스를 집계하는 헤드리스 경험 기반 상거래 상점 구축을 위한 엔드 투 엔드 개발자 플로우에 대해 알아봅니다. 헤드리스 경험을 구축하는 방법 알아보기 - Adobe Experience Manager 콘텐츠 조각으로 강화된 제품 표시 Micro Frontend를 사용하여 장바구니를 애플리케이션에 통합합니다.
 solution: Experience Manager,Experience Manager Sites
+feature: Developer Tools, Content Fragments
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ kt: 11501
 thumbnail: 3411440.jpeg
 exl-id: ce1cd4d4-ee6c-41c6-9235-7da2ef4cd2a9
 duration: 2172
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---

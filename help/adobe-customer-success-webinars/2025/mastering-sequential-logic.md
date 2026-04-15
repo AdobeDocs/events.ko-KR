@@ -2,19 +2,21 @@
 title: AA 및 CJA의 순차적 논리 마스터링 - 시각적 프레임워크
 description: 시나리오를 실행 가능한 계획으로 변환하고 효과적인 순차적 세그먼트를 구축하기 위한 시각적 프레임워크를 사용하여 Adobe Analytics 및 Customer Journey Analytics에서 순차적 로직을 마스터하는 방법에 대해 알아봅니다.
 solution: Analytics
+feature: Segmentation, Visualizations
+topic: Migration, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3331
 last-substantial-update: 2025-01-31T00:00:00Z
 jira: KT-17216
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+exl-id: c0cc6c9d-863b-4651-8d0e-d05c7813c285
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
-
 
 # AA 및 CJA에서 순차적 논리 마스터하기: 시각적 프레임워크
 
@@ -26,7 +28,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443129/?learn=on&enablevpops)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 * **Analytics의 순차적 논리** 세션은 고가치 분석을 활성화하기 위해 &quot;then&quot; 연산자를 사용하여 순차적 논리를 마스터하는 데 중점을 둡니다. 여기에는 데이터의 이벤트 시퀀스를 정의하고 분석하는 방법에 대한 이해가 포함됩니다.
 

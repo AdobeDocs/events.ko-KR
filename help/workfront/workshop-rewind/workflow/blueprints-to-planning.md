@@ -1,19 +1,21 @@
 ---
 title: 확장 가능한 역량 - Workfront 블루프린트를 실제 교육 프로그램으로 변환
 description: Workfront 블루프린트를 실용적인 교육 프로그램으로 전환하여 활용을 효과적으로 확장하는 방법을 알아봅니다.
+feature: Work Management
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3496
 last-substantial-update: 2026-03-26T00:00:00Z
 jira: KT-20608
-source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
+exl-id: bfe15c09-b668-4e26-a180-8e95d9477d02
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 2%
 
 ---
-
 
 # 확장 가능한 역량 - Workfront 블루프린트를 실제 교육 프로그램으로 변환
 
@@ -23,7 +25,6 @@ ht-degree: 2%
 
 만약 여러분이 세션을 놓쳤다면, 걱정하지 마세요! [슬라이드 데크](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/022626+-+Enablement+that+Scales+-+Training+and+Blueprints+slides.pdf)를 검토하고 온디맨드 녹화를 시청하여 계속 진행하십시오.
 
-이벤트에서 더 많은 리소스를 찾고 계십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-enablement-that-scales-turning-workfront-blueprints-into-real-world-training-programs-february-26-2026-248830?profile.language=ko)을 확인해 보세요!
+이벤트에서 더 많은 리소스를 찾고 계십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-enablement-that-scales-turning-workfront-blueprints-into-real-world-training-programs-february-26-2026-248830)을 확인해 보세요!
 
 매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events)를 확인하십시오.
-

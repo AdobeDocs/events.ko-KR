@@ -1,7 +1,8 @@
 ---
 title: Adobe Experience Manager 오프닝 키노트
-description: Adobe Experience Manager이 AI를 통해 어떻게 진화하고 있는지 알아보십시오. 아젠틱 워크플로우, AI 검색, 규모에 따른 개인화 및 더 스마트한 콘텐츠 최적화를 살펴보십시오.
+description: Adobe Experience Manager이 AI를 통해 어떻게 진화하고 있는지 알아보십시오. 에이전트 워크플로, AI 검색, 규모에 맞는 개인화 및 보다 스마트한 콘텐츠 최적화를 살펴보십시오.
 solution: Experience Manager as a Cloud Service
+feature: Edge Delivery Services, Migration
 topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-03T00:00:00Z
 jira: KT-18861
-source-git-commit: 247ffab879bedf7d4e0d5258325d63af2916684a
+exl-id: eafba020-b895-4100-9f63-760787eb97f6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
-
 
 # Keynote 열기
 
@@ -25,11 +26,11 @@ Adobe Experience Manager(AEM)의 전략 및 제품 책임자인 Haresh Kumar가 
 
 * AI 에이전트와 Experience Hub이 콘텐츠 생성 및 워크플로를 간소화하는 방법.
 * 모든 채널 및 디바이스에서 올바른 콘텐츠를 제공하기 위한 AI 기반 활성화의 역할.
-* AI 검색이 에셋 검색, 재사용 및 콘텐츠 속도를 향상시키는 방법.
+* AI 검색을 통해 에셋 검색, 재사용 및 콘텐츠 속도가 향상되는 방법
 * 더 나은 참여와 전환을 위한 Sites Optimizer 및 Content Advisor와 같은 새로운 최적화 도구입니다.
 * 일대일 개인화를 안전하고 효과적으로 확장하는 방법입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471403/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3471386/?learn=on&enablevpops)
 
 
 ## 컨텐츠 경험의 미래 잠금 해제

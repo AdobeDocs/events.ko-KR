@@ -1,6 +1,8 @@
 ---
 title: AEM Forms을 사용하여 Payers 등록 여정 현대화
 description: AEM Forms을 통해 지불자가 등록 여정을 현대화하고, 프로세스를 자동화하고, 매력적인 옴니채널 고객 경험을 제공하는 방법에 대해 알아봅니다.
+feature: Release Information, Authoring
+topic: Personalization, Administration
 soluton: Experience Manager Forms
 role: Developer, User
 level: Intermediate, Experienced
@@ -8,13 +10,13 @@ doc-type: Event
 duration: 3550
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18695
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+exl-id: e7990fde-6d15-48ac-b539-bcb2fe31e7c7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
-
 
 # AEM Forms을 사용하여 Payers 등록 여정 현대화
 

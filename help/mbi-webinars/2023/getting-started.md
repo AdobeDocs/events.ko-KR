@@ -5,14 +5,17 @@ landing-page-description: 이 녹화된 웨비나를 시청하여 Adobe Commerce
 short-description: 이 녹화된 웨비나를 시청하여 Adobe Commerce 또는 Magento Open Source 스토어에 대한 Commerce Intelligence의 핵심 기능에 대해 알아보십시오.
 kt: 10408
 solution: Commerce, Commerce Intelligence
+feature-set: Commerce Intelligence
+feature: Data Integration, Reports
+topic: Commerce, Performance
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 342501.jpeg
 exl-id: ac932e1b-ae0a-40a3-b7dd-948d88ded358
 duration: 3221
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '173'
 ht-degree: 1%
 
 ---
@@ -21,7 +24,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence은 이전에 [!DNL Magento Business Intelligence (MBI)] (으)로 알려져 있었습니다. 이전 이벤트의 녹화본은 이전 이름을 반영합니다.
+>Adobe Commerce Intelligence은 이전에 [!DNL Magento Business Intelligence (MBI)]&#x200B;(으)로 알려져 있었습니다. 이전 이벤트의 녹화본은 이전 이름을 반영합니다.
 
 사전 구성된 대시보드 및 사용 가능한 사용자 지정 옵션에 대한 자세한 내용과 함께 Commerce Intelligence 제품 팀에서 직접 Commerce의 핵심 기능에 대해 알아보십시오.
 
@@ -31,5 +34,5 @@ ht-degree: 1%
 
 ## 추가 리소스
 
-[Commerce Intelligence 소개](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html?lang=ko)
-[Commerce Intelligence 지원](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=ko)
+[Commerce Intelligence 소개](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+[Commerce Intelligence 지원](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

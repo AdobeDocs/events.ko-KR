@@ -2,6 +2,7 @@
 title: Creative Edge - 비전적 사고가 Commerce을 변화시키는 방법
 description: 이 웨비나에서는 창의성과 커머스의 통합을 살펴보고 Adobe의 도구와 기술이 어떻게 에셋을 관리하고, 콘텐츠 생성을 확장하며, 콘텐츠 supply chain을 간소화할 수 있는지에 대해 설명합니다. 이 비디오에서는 창의성과 상거래를 하나로 통합하는 것의 중요성에 대해 설명하고 개인화된 경험, 자산 관리 및 Adobe Workfront, Adobe Experience Manager 및 Adobe Stock과 같은 도구를 사용하여 콘텐츠 생성 프로세스를 간소화하는 것과 같은 주제를 다룹니다.
 solution: Commerce
+feature: Integration
 topic: Commerce
 role: Leader, User
 level: Beginner, Intermediate
@@ -10,9 +11,9 @@ duration: 3419
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-15448
 exl-id: a495d5f0-a567-4a17-913a-15d01441ab27
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---

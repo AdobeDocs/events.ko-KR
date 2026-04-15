@@ -2,13 +2,15 @@
 title: Adobe Target을 사용하여 개인화 및 자동화
 description: 자동 타겟 및 자동 개인화를 사용하여 Adobe Target 기능 최적화
 solution: Target
+feature: Integrations, AI Assistant
+topic: Personalization
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
 kt: 10578
 thumbnail: 343821.jpeg
 exl-id: 75f166d7-4d65-4ca6-a88b-d28dc8119069
 duration: 3084
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
@@ -21,4 +23,4 @@ ht-degree: 0%
 
 *Matthias Kolitsch* 고급 멀티 솔루션 트레이너 EMEA / Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3457385/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/343821/?quality=12&learn=on)

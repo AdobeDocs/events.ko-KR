@@ -1,6 +1,8 @@
 ---
 title: Marketo 및 Mochas - 잠재 고객 점수
-description: Marketo & Mochas의 Cynthia Chang과 Kelvin Ieng을 통해 전략, 설정, Marketo Engage 라이브 데모, 주요 테이크 아웃 및 라이브 Q&A를 통해 잠재 고객 점수의 이점을 알아보십시오.
+description: Marketo 및 Mochas의 Cynthia Chang 및 Kelvin Ieng을 통해 전략, 설정 및 Marketo Engage의 라이브 데모, 주요 테이크 아웃 및 라이브 Q&A를 통해 잠재 고객 점수의 이점을 알아보십시오.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ thumbnail: 3412722.jpeg
 exl-id: f7a309d6-e5e6-46f7-91b9-a19ce4c2c3fd
 event-start-time: 2023-6-7 08:30-8
 duration: 3631
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---

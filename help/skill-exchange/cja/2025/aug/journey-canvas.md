@@ -2,29 +2,31 @@
 title: Adobe Customer Journey Analytics 여정 캔버스로 CX 성공 몰기
 description: 여정 캔버스가 어떻게 이상적인 사용자와 실제 사용자 경로를 매핑하고, 마찰을 발견하고, Adobe Customer Journey Analytics으로 측정 가능한 CX 개선 사항을 도출하는지 알아보십시오.
 solution: Customer Journey Analytics
+feature: Integrations
+topic: Integrations, Performance
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18815
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 10075f8c-ad44-4ee7-970c-9cdae1b21b11
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Customer Journey Analytics 여정 캔버스로 CX 성공 몰기
 
-이 세션에서는 Adobe Customer Journey Analytics(CJA) 및 해당 여정 캔버스의 강력한 기능을 살펴보고 보다 심층적이고 결과물 지향적인 고객 경험(CX) 전략을 도출합니다. 여정 Dell은 이상적인 사용자 경로인 &quot;행복 경로&quot;를 실제 사용자 행동과 매핑하고 비교하기 위한 실용적인 프레임워크에 초점을 맞춰 마찰, 드롭오프 또는 의도와의 차이가 발생하는 위치를 파악합니다.
+이 세션에서는 Adobe Customer Journey Analytics(CJA) 및 해당 여정 캔버스의 강력한 기능을 살펴보고 보다 심층적이고 결과물 지향적인 고객 경험(CX) 전략을 도출합니다. Dell은 이상적인 사용자 경로인 &quot;행복 경로&quot;를 실제 사용자 행동과 매핑하고 비교하기 위한 실용적인 프레임워크에 초점을 맞춰 마찰, 드롭오프 또는 의도와의 차이가 발생하는 위치를 파악합니다.
 
 참석자는 여정 수준 분석을 사용하여 사용자 경험을 간소화하고, 원하는 행동을 육성하고, 비즈니스 목표를 지원하는 실행 가능한 기회를 찾는 방법에 대해 알아봅니다. 또한 이러한 통찰력을 특정 KPI(주요 성능 지표)에 연결하여 CX의 향상된 기능을 직관적일 뿐만 아니라 측정 가능한 수준까지 보장하는 방법도 보여 드리겠습니다.
 
 마지막으로, 여정 캔버스 검색 결과를 세분화된 대시보드에 연결하여 모든 접점에서 지속적인 최적화를 활성화함으로써 조직 전반에서 이러한 통찰력을 확장하기 위한 전략에 대해 살펴봅니다. CJA을 처음 사용하는 사용자와 숙련된 사용자 간에 이 세션에서는 여정 캔버스를 사용하여 CX 프로그램을 향상시키고 가시적인 결과를 얻을 수 있는 명확한 방법론을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471221/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3471112/?learn=on&enablevpops)
 
 ## 여정 캔버스: 분석에서 활성화까지
 

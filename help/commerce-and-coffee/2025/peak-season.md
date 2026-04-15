@@ -1,19 +1,21 @@
 ---
 title: Commerce & 커피 - 성수기 준비
 description: B2B, SaaS 도구, 검색 및 피크 이후 분석에 대해 다루는 Adobe Commerce을 통해 상거래 경험을 확장, 개인화 및 최적화하는 전략을 살펴보십시오.
+feature: B2B, Payments
+topic: Personalization, Performance, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3415
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19501
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+exl-id: f7fa9b2a-5a1f-4d19-86e3-23c01c4d6c36
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
-
 
 # Commerce &amp; 커피 : 성수기를 준비하기
 
@@ -44,4 +46,3 @@ ht-degree: 0%
 * **반복적인 개선** 분석을 모니터링하고 최적의 결과를 얻기 위해 시즌 내내 전략을 조정합니다.
 
 Personalization은 쇼핑을 더 쉽고 흥미롭게 만들어 충성도를 높이고 매출을 증가시킵니다.
-

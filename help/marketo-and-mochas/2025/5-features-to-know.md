@@ -1,6 +1,8 @@
 ---
 title: Marketo & Mochas - 2025년 알아야 할 Marketo 기능 5개
 description: Marketo Engage 전문가, Carly Gaver 및 Kate Colbert와 함께 올해 첫 Marketo & Mochas 세션을 시청하십시오. Carly와 Kate는 Marketo 패키지에서 2025년에 고객 경험을 향상시키고 수요를 유도하는 데 도움이 되는 5가지 다양한 기능을 검토했습니다. 채널을 조정하여 Marketo 플랫폼의 잠재력을 최대한 발휘하십시오!
+feature: Reporting
+topic: Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,13 +10,12 @@ duration: 3382
 last-substantial-update: 2025-02-13T00:00:00Z
 jira: KT-17272
 exl-id: d536d724-9a25-47ae-9a60-c29861359e0b
-source-git-commit: bca10c328d4118782de5fd6d63b8b32861cd5155
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '553'
 ht-degree: 2%
 
 ---
-
 
 # Marketo &amp; Mochas: 2025년 알아야 할 Marketo 기능 5개
 
@@ -30,25 +31,25 @@ Marketo Engage 전문가, Carly Gaver 및 Kate Colbert와 함께 올해 첫 Mark
    * [2025년 알아야 할 기능 5개](../assets/marketo-&-mochas-5-features-handout.pdf)
 
 * **대상 계정 관리**
-   * [개요](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
+   * [개요](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
    * [FAQ](https://nation.marketo.com/t5/knowledgebase/target-account-management-previously-abm-faq-product-facts-and/ta-p/301199)
-   * [팁과 트릭 비디오](https://nation.marketo.com/t5/product-blogs/marketo-engage-abm-tips-amp-tricks-with-corey-bayless/ba-p/304664)
+   * [팁 및 요령 비디오](https://nation.marketo.com/t5/product-blogs/marketo-engage-abm-tips-amp-tricks-with-corey-bayless/ba-p/304664)
 
 * **Predictive Audiences**
-   * [개요](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
+   * [개요](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
    * [사용 사례](https://nation.marketo.com/t5/product-blogs/using-predictive-audiences-in-marketo-engage/ba-p/301937)
 
 * **고급 여정 분석**
-   * [보고 개요](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
-   * [라이프사이클 Modeler 개요](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
+   * [보고 개요](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
+   * [라이프사이클 Modeler 개요](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
 
 * **샌드박스**
-   * [개요](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
+   * [개요](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
 
 * **작업 공간 및 파티션**
-   * [개요](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
+   * [개요](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 ### 세션 구조
 

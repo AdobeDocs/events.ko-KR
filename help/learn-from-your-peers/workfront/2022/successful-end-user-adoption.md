@@ -5,13 +5,15 @@ role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 solution: Workfront
+feature: System Setup and Administration, Work Management
+topic: Administration, Integrations
 duration: 3647
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15818
 exl-id: e9f90ac6-2b16-4495-b7d5-ba29237160b7
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -20,7 +22,7 @@ ht-degree: 0%
 
 Adobe Workfront 시스템 관리자가 되는 것은 단순히 소프트웨어를 이해하고 기능을 구현하는 것 이상입니다. 시스템 관리자는 조직이 Workfront을 사용하는 이유 및 사용자에게 제공되는 것에 대해 최종 사용자와의 명확한 연결을 전달할 책임이 있습니다.
 
-이 온디맨드 웨비나에서는 Workfront의 고객 성공 관리자(및 이전 고객!)인 Cynthia Boon과 Leslie Spier가 Truist의 데이터 플랫폼 엔지니어 VP인 Karlton Harrison과 함께 합니다. 이들 사이에서는 이 분야에서 수년간의 경험을 보유하고 있으며, 다음을 다룹니다.
+이 온디맨드 웨비나에서는 고객 성공 관리자(및 이전 고객!)인 Cynthia Boon과 Leslie Spier가 참여합니다. Workfront과 함께 Truist의 데이터 플랫폼 엔지니어인 Karlton Harrison VP가 참석합니다. 이들 사이에서는 이 분야에서 수년간의 경험을 보유하고 있으며, 다음을 다룹니다.
 
 * 최종 사용자 채택이 저조한 이유를 식별하는 방법
 * 채택 기대치를 문서화하고 전달하기 위한 팁

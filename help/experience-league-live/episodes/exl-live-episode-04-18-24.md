@@ -3,14 +3,16 @@ title: Marketo Measure의 새로운 Discover 대시보드
 description: Marketo Measure은 Discover Dashboards를 완전히 개선했습니다. 이는 단순한 개선 사항 및 추가 사항이 아니라 완전히 변화된 것입니다. 보드는 다시 상상되었으며 가장 중요한 것은 단순화되었습니다. 이러한 새로운 보드는 훨씬 더 직관적이고 사용자 친화적이며 필요한 데이터를 빠르고 쉽게 얻을 수 있습니다!
 kt: KT-15186
 solution: Marketo Measure
+feature: Touchpoints, Channels
+topic: Development
 event-cta-url-live: https://www.youtube.com/watch?v=UI-P0ezCHqA
 event-start-time: 2024-04-18 09:00-7
 event-guests: Ian Michels,Kate Colbert,James Leedom
 duration: 25
 exl-id: 4f3dcc03-307e-48fe-9bf2-e0a15e40bf6a
-source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---

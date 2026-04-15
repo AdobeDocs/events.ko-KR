@@ -2,13 +2,15 @@
 title: Marketo 로드맵
 description: Marketo은 사용자 정의가 가능하고 확장 가능하기 때문에 많은 기회가 있습니다. 그러나 동시에, 부실한 계획, 또는 계획 부족은 당신을 떠날 수 있습니다 ... (설명은 60~160 자 사이여야 합니다)
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Development
 role: User
 level: Intermediate, Experienced
 kt: 10329
 thumbnail: 342564.jpeg
 exl-id: b1b3d59a-6c45-4712-9eb8-d44406a6a4e9
 duration: 2379
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%

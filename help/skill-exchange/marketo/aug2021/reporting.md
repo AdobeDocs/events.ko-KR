@@ -2,16 +2,18 @@
 title: ' [!DNL Marketo Engage] 내 보고'
 description: 이 세션에서는 보고서 스마트 목록 분석기 MPI 이메일 인사이트를 포함하여  [!DNL Marketo Engage] 에서 사용할 수 있는 모든 보고 도구를 검토합니다
 solution: Marketo Engage
+feature: Smart Lists, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 kt: 10325
 thumbnail: 342557.jpeg
 exl-id: be7ce77f-d4e0-47fa-b811-f1792ef76be6
 duration: 2355
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 

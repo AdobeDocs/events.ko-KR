@@ -2,6 +2,8 @@
 title: Analytics Experience Makers Spotlight
 description: 두 명의 전문가 고객인 Andy Lunsford와 Tyler Scott과 Adobe Analytics 사용자를 집중 조명해 보십시오. 각 사용자는 최고의 Adobe Analytics 팁과 요령을 공유합니다. 이들의 세션에서는 실시간으로 질문할 수 있는 기회가 이어진다. 놓치고 싶지 않겠지
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ kt: 11533
 thumbnail: 3411896.jpeg
 exl-id: 66655de0-0a98-4b94-bc95-f86348d0d2de
 duration: 2731
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---

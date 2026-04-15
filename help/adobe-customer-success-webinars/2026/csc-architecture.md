@@ -2,6 +2,7 @@
 title: 컨텐츠 Supply chain을 지원하는 기본 아키텍처
 description: 비즈니스 및 기술 팀을 조정하기 위한 North Star 전략에 초점을 맞추어 컨텐츠 supply chain의 기본 아키텍처를 살펴보십시오.
 solution: General
+feature: Strategic Planning
 topic: Content Supply Chain
 role: Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 2921
 last-substantial-update: 2026-02-05T00:00:00Z
 jira: KT-20227
-source-git-commit: d158d7a10bd2651a11d54822908bb63315da0a94
+exl-id: 95cc8949-6046-4c36-9238-3b3e7f1d5390
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
-
 
 # 컨텐츠 Supply chain을 지원하는 기본 아키텍처
 

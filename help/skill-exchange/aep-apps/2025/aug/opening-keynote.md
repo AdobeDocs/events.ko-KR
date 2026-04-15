@@ -2,6 +2,7 @@
 title: Skill Exchange Keynote - AI를 통한 경험 작성의 미래, Adobe Experience Platform
 description: Klaasjan Tukker는 데이터, 개인화, 조직 준비 및 경험 생성 가속화를 위한 AI Assistant의 역할에 대한 통찰력을 공유합니다. 의료인이 프롬프트를 마스터하고 에이전트 오케스트레이션을 활용하며 앞서나가기 위해 기술을 향상시키는 방법을 알아봅니다.
 solution: Experience Platform, Customer Journey Analytics, Journey Optimizer, Real-Time Customer Data Platform
+feature: AI Assistant, Agentic AI, Audiences, Basics
 topic: Personalization, Artificial Intelligence
 role: User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-28T00:00:00Z
 jira: KT-18846
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+exl-id: fe32abfa-2dfa-4d56-8f1c-c9dca734da28
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
-
 
 # Skill Exchange Keynote - AI를 통한 경험 작성의 미래, Adobe Experience Platform
 
@@ -31,4 +32,4 @@ Adobe Experience Platform 및 agentic AI가 디지털 경험 생성을 어떻게
 이러한 통찰력을 활용하여 워크플로를 능률화하고, 개인화를 향상시키며, 디지털 경험 관리에 대한 미래 지향적인 전문 지식을 확보하십시오.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3471362/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3471327/?learn=on&enablevpops)

@@ -2,19 +2,20 @@
 title: Workfront Crowdsource Challenge - 프로젝트 템플릿
 description: Ologie가 설정 단순화, 보고 개선 및 프로세스 유연성 유지를 위한 실용적인 팁을 통해 Adobe Workfront 프로젝트 템플릿을 간소화하는 방법에 대해 알아봅니다.
 feature: System Setup and Administration, Reports and Dashboards
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3728
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18626
-source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
+exl-id: 5377412d-db56-4fca-92c9-0c4c59fa2d79
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Crowdsource Challenge: 프로젝트 템플릿
 
@@ -25,7 +26,7 @@ ht-degree: 0%
 주문형 녹화와 함께, 채팅에서 공유된 슬라이드 데크 및 팁이 포함되어 있습니다.  
 
 * [슬라이드 데크 PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
-* [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512?profile.language=ko)
+* [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512)
 
 ## 팁
 
@@ -39,4 +40,4 @@ ht-degree: 0%
 
 채팅에서 확인한 가장 큰 테마 중 하나는 프로젝트 템플릿을 단순하게 유지하되, 동시에 팀이 프로젝트를 완료하는 데 필요한 모든 단계를 처리하고 노력을 추적해야 하는 과제였습니다.  
 
- 향후 고객 성공 워크숍에서 여러분을 볼 수 있기를 바랍니다!  전체 목록을 보려면 Experience League에서 [Workfront 이벤트](https://experienceleague.adobe.com/events/?lang=ko&filters=Workfront)를 확인하고 등록하십시오.
+ 향후 고객 성공 워크숍에서 여러분을 볼 수 있기를 바랍니다!  전체 목록을 보려면 Experience League에서 [Workfront 이벤트](https://experienceleague.adobe.com/events/?filters=Workfront)를 확인하고 등록하십시오.

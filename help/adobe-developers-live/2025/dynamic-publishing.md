@@ -1,19 +1,21 @@
 ---
 title: BYOM을 사용한 Edge에서의 동적 게시
 description: BYOM 및 App Builder을 통해 에지에서 동적 컨텐츠 전달을 활성화하여 Adobe Experience Manager 및 Edge Delivery으로 디지털 경험을 향상시키는 방법을 알아봅니다.
+feature: Edge Delivery Services, Developer Tools, Authoring
+topic: Development
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1372
 last-substantial-update: 2025-12-11T00:00:00Z
 jira: KT-19986
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: ff1da36d-31ae-4feb-9d1d-87be65b7307e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
-
 
 # BYOM 및 App Builder을 사용한 Edge에서의 동적 게시
 

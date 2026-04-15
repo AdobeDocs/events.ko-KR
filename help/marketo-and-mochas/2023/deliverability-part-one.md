@@ -1,6 +1,8 @@
 ---
 title: Marketo 및 Mochas - 전달성(1부)
 description: Marketo 및 Mochas와 함께 Sean Wirt 및 Cynthia Chang과 이메일 전달성 모범 사례, 평판 관리, 데이터 품질, 공유 및 전용 IP, Marketo Engage의 전달성 프로그램 데모에 대해 살펴보십시오.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ thumbnail: 3416666.jpeg
 event-start-time: 2023-3-24 08:30-8
 exl-id: 4a21fc22-0bd0-46a2-9edb-bb3d1031ed79
 duration: 3537
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---

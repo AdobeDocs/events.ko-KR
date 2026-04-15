@@ -3,25 +3,26 @@ title: 동작 중인 데이터 - Insight 기반 팀을 위한 확장 가능한 A
 description: Adobe Analytics 워크플로우를 간소화하고 거버넌스를 강화하며 활성화, 공동 작업 및 성장을 이끄는 통찰력을 팀에 부여하는 방법을 알아봅니다.
 solution: Analytics
 feature: Data Governance, Analytics Basics
+topic: Administration, Content Supply Chain, Development
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18822
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+exl-id: aeffcf4e-0f0d-4903-ad14-bb7ab499ab64
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
 
-
 # 동작 중인 데이터 - Insight 기반 팀을 위한 확장 가능한 Analytics 워크플로
 
-IBM의 수석 분석 관리자인 Adobe 챔피언 Ioana Maftei가 콘텐츠 공급망을 측정 가능하게 하는 확장 가능하고 관리되는 분석 워크플로를 구축하는 방법을 공유합니다. 적절한 시간에 적절한 사람에게 적절한 통찰력을 전달하고, 팀 간 공동 작업을 활성화하고, 다양한 역할과 요구에 맞게 Analysis Workspace 프로젝트를 맞춤화하는 방법에 대해 알아봅니다.
+IBM의 수석 분석 관리자인 Adobe 챔피언 Ioana Maftei가 콘텐츠 supply chain을 측정 가능하게 하는 확장 가능하고 관리되는 분석 워크플로를 구축하는 방법을 공유합니다. 적절한 시간에 적절한 사람에게 적절한 통찰력을 전달하고, 팀 간 공동 작업을 활성화하고, 다양한 역할과 요구에 맞게 Analysis Workspace 프로젝트를 맞춤화하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471236/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3471118/?learn=on&enablevpops)
 
 ## Analytics 단계에 역할 매핑
 

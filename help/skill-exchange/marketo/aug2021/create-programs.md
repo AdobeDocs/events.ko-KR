@@ -2,15 +2,17 @@
 title: ' [!DNL Marketo Engage] 내에서 프로그램을 만드는 중'
 description: 이 세션은 프로그램 유형, 채널 및 상태, 태그를 포함하여 프로그램 구조에 대한 모든 것을 알려줍니다.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 kt: 10324
 thumbnail: 342555.jpeg
 exl-id: b4d71211-5eff-440c-8fd5-9de2a248695e
 duration: 2923
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---

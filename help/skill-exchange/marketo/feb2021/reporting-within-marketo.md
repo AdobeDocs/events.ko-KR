@@ -2,16 +2,18 @@
 title: ' [!DNL Marketo Engage] 내 보고'
 description: ' [!DNL Marketo Engage] 내의 높은 수준의 보고 기능을 이해하고 보고서 및 스마트 목록을 자세히 살펴보십시오.'
 solution: Marketo Engage
+feature: Smart Lists, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 kt: 9710
 thumbnail: 340309.jpeg
 exl-id: 87f18c5d-5bf3-4789-912c-a4072b26e940
 duration: 1996
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 

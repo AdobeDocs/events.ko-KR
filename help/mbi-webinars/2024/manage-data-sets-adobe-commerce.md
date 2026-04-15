@@ -1,9 +1,10 @@
 ---
 title: Adobe Commerce Intelligence에서 데이터 세트 관리
-description: 제품 팀에서 직접 Commerce Intelligence Data Warehouse 관리자의 강력한 기능을 살펴보십시오. 또한 라이선스에 사용 가능한 통합 및 추가로 구독할 수 있는 다른 통합 선택 항목도 살펴보십시오. 기본 보고서 구성 이상으로 이해를 높이고 이러한 통합에서 통찰력을 도출하는 방법을 살펴봅니다.
+description: 제품 팀에서 직접 Commerce Intelligence Data Warehouse Manager의 강력한 기능을 살펴보십시오. 또한 라이선스에 사용 가능한 통합 및 추가로 구독할 수 있는 다른 통합 선택 항목도 살펴보십시오. 기본 보고서 구성 이상으로 이해를 높이고 이러한 통합에서 통찰력을 도출하는 방법을 살펴봅니다.
 solution: Commerce, Commerce Intelligence
 feature-set: Commerce Intelligence
 feature: Data Integration, Reports, Data Warehouse Manager
+topic: Integrations
 role: Admin
 level: Intermediate
 doc-type: Event
@@ -12,7 +13,7 @@ last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15012
 thumbnail: 3427547.jpeg
 exl-id: 74b81aa2-34b8-4e71-9fcf-d3c2d2ab427a
-source-git-commit: e3eb0d9e8c3de2c56b12e10bcbf3cb1ecaf2a6f3
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 # Adobe Commerce Intelligence에서 데이터 세트 관리
 
-제품 팀에서 직접 Commerce Intelligence Data Warehouse 관리자의 강력한 기능을 살펴보십시오. 또한 라이선스에 사용 가능한 통합 및 추가로 구독할 수 있는 다른 통합 선택 항목도 살펴보십시오.
+제품 팀에서 직접 Commerce Intelligence Data Warehouse Manager의 강력한 기능을 살펴보십시오. 또한 라이선스에 사용 가능한 통합 및 추가로 구독할 수 있는 다른 통합 선택 항목도 살펴보십시오.
 
 기본 보고서 구성 이상으로 이해를 높이고 이러한 통합에서 통찰력을 도출하는 방법을 살펴봅니다.
 

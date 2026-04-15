@@ -1,14 +1,16 @@
 ---
 title: 전문가에게 문의 - 혼합 및 용량 이해
 description: 기업 내 혼합 및 용량을 측정하는 방법에 대해 알아봅니다. 이 웨비나는 2019년 10월 2일에 녹화되었습니다.
+feature: Resource Management, Reports and Dashboards, Work Management
+topic: Administration, Integrations
 doc-type: feature video
 team: Technical Marketing
 kt: 9913
 exl-id: 49cce53f-457b-4973-a0d9-1b5ce2272884
 duration: 4239
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '2229'
+source-wordcount: '2238'
 ht-degree: 0%
 
 ---

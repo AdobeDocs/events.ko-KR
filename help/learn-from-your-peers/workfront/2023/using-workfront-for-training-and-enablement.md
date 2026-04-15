@@ -3,15 +3,17 @@ title: 교육 및 활성화 웨비나에 Workfront 사용
 description: Workfront이 온디맨드 웨비나에서 직원 교육을 향상시키는 방법을 알아봅니다. JP모건 체이스, IBM 및 Adobe Workfront 전문가로부터 맞춤형 경로 생성, 자료 구성 및 효과적인 온보딩 및 장기 채택을 위한 Workfront 활용에 대한 통찰력을 얻으십시오.
 role: Admin
 solution: Workfront
+feature: System Setup and Administration, Work Management
+topic: Administration, Integrations
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3574
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15826
 exl-id: 8300b149-1e69-4a29-b0ab-8134d46df4a4
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---

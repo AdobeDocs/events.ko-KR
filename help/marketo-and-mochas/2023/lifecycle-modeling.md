@@ -1,6 +1,8 @@
 ---
 title: 고객 여정 관리 - 라이프사이클 모델링
 description: Cynthia Chang과 James Leedom이 라이프사이클 설정, 여정 세그멘테이션 전략을 공유하고 Marketo Engage의 라이프사이클 모델러, 보고 및 분석 도구를 시연하면서 투명성이 마케팅 신뢰성을 구축하는 방법을 살펴봅니다.
+feature: Reporting
+topic: Development
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,19 +12,19 @@ thumbnail: 3420763.jpeg
 event-start-time: 2023-6-30 08:30-8
 exl-id: e31120ae-3bdd-4974-953b-1f007c6962a8
 duration: 3772
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
 # 고객 여정 관리: 라이프사이클 모델링
 
-투명성은 최근 성공적인 마케팅 전략의 가장 중요한 속성 중 하나가 되었다. 이 세션에서는 신뢰성을 쌓고 언제 어떤 지렛대를 선택해야 할지 아는 데 필요한 모든 중요한 문제를 다룹니다. Adobe의 마케팅 자동화 비즈니스 자문 위원, Cynthia Chang 및 Marketo 고객 기술 자문 위원, James Leedom은 다음과 같은 질문을 미리 할 수 있도록 지원합니다.
+투명성은 최근 성공적인 마케팅 전략의 가장 중요한 속성 중 하나가 되었다. 이 세션에서는 신뢰성을 쌓고 언제 어떤 지렛대를 선택해야 할지 아는 데 필요한 모든 중요한 문제를 다룹니다. Adobe의 Marketing Automation 비즈니스 어드바이저, Cynthia Chang 및 Marketo 고객 기술 어드바이저, James Leedom은 다음과 같은 질문을 미리 할 수 있도록 지원합니다.
 
 * 현재 잠재 고객 구매 여정 단계는 무엇입니까?
-* 단계 단계별 전환율은 어떻게 됩니까?
+* funnel의 단계별 전환율은 얼마입니까?
 * 잠재 고객이 고객 여정을 얼마나 빠르게 진행하고 있습니까?
 * 파이프라인에서 X 달러를 얻으려면 MQL이 몇 개 필요합니까?
 

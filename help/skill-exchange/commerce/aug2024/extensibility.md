@@ -2,19 +2,21 @@
 title: 최신 접근 방식 - Adobe Commerce의 효과적인 확장성
 description: 핵심 수정 사항 없이 Adobe Commerce을 효과적으로 맞춤화하기 위한 모범 사례 기술 부채를 줄이고 직접 통합을 방지하는 것이 중요함 더 나은 성능과 사용자 경험을 위해 Adobe Commerce을 다른 Adobe 제품과 연결하는 방법
 solution: Commerce
+feature: Integration
+topic: Integrations, Performance, Development
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2507
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16083
-source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
+exl-id: 568993c6-3090-42e1-8f7f-5d9cc9623838
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # 최신 접근 방식: Adobe Commerce의 효과적인 확장성
 
@@ -24,6 +26,6 @@ ht-degree: 0%
 
 * 핵심 수정 사항 없이 Adobe Commerce을 효과적으로 맞춤화하기 위한 모범 사례
 * 기술적인 부담을 줄이고 직접적인 통합을 피하는 것이 중요함
-* 더 나은 성능과 사용자 경험을 위해 Adobe Commerce을 다른 Adobe 제품과 연결하는 방법
+* Adobe Commerce을 다른 Adobe 제품과 연결하여 보다 나은 성능과 사용자 경험을 제공하는 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433147/?learn=on)

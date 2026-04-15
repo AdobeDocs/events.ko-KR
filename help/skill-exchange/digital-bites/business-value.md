@@ -1,6 +1,9 @@
 ---
 title: 고객 여정 전반에 걸쳐 비즈니스 가치를 창출하는 방법
+solution: Experience Cloud
+feature: Personalization
 description: Adobe Consulting을 통해 크리에이티브, 마케팅 및 기술 팀이 고객 중심 디지털 마케팅의 모범 사례를 평가하고 식별하여 수량화할 수 있는 결과와 우수한 고객 경험을 도출하고 고객 여정에 맞춰 조직을 정비하는 방법에 대해 알아봅니다.
+topic: Development
 role: Leader, User
 level: Intermediate
 kt: 11122
@@ -8,9 +11,9 @@ thumbnail: 3409235.jpeg
 hidefromtoc: true
 exl-id: 53a4231c-a387-49b2-b79a-a8b8124ff0f2
 duration: 1800
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---

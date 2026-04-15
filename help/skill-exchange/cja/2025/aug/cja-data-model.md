@@ -2,19 +2,20 @@
 title: 분석 아키텍처 - Customer Journey Analytics 데이터 모델에 접근하는 방법
 description: 이벤트 계층, 속성 및 KPI를 사용하여 CJA 데이터 모델을 구조화하여 보다 심층적인 고객 여정 통찰력을 구현하는 방법에 대해 알아봅니다.
 feature: Attribution
+topic: Administration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18813
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 704ff998-840a-4815-a24f-f08b625b14f5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
-
 
 # 분석 아키텍처: Customer Journey Analytics 데이터 모델에 접근하는 방법
 

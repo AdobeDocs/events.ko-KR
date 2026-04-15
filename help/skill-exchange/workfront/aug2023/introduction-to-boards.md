@@ -3,6 +3,7 @@ title: 보드 소개
 description: 보드를 사용하면 팀에서 작업, 프로젝트 및 기타 작업 항목을 표시하는 가상 보드를 만들어 작업을 보다 시각적으로 관리할 수 있습니다. 시스템 관리자이든, 프로젝트 관리자이든, 개별 기여자이든, Boards는 작업을 관리하는 유연하고 직관적인 방법을 제공합니다.
 solution: Workfront
 feature: Work Management
+topic: Administration, Integrations
 role: User
 level: Beginner
 doc-type: Event
@@ -11,9 +12,9 @@ jira: KT-14560
 thumbnail: 3425791.jpeg
 exl-id: 2e7a541a-e98f-4d0b-bfa1-cb5d929dedfa
 duration: 2314
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---

@@ -2,6 +2,8 @@
 title: 무엇이든 묻기
 description: Kate Kolbert 및 James Letham과 함께 Adobe의 올해 마지막 대화형 웨비나에 참여하여 웨비나 최적화, 프로그램 업데이트, 활용도가 낮은 Marketo 기능, 이메일 마케팅 모범 사례, 데이터베이스 관리, 사용자 권한, Marketo-Salesforce 동기화, 동적 채팅 참여 및 라이프사이클 단계를 다룹니다.
 solution: Marketo Engage
+feature: Programs, Smart Lists
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3438
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16502
 exl-id: a842ed22-c6db-4de3-af02-c7363207d00c
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -32,5 +34,5 @@ ht-degree: 0%
 * **사용자 권한** 사용자 권한을 제한하여 승인되지 않은 대량 이메일 전송을 방지하고 스마트 캠페인 제한을 안전 수단으로 설정합니다.
 * **Marketo-Salesforce 동기화** 데이터 오버로드를 방지하고 효율적인 동기화를 보장하기 위해 Salesforce에서 Marketo 동기화 사용자 관리자 액세스 권한을 제공하지 마십시오.
 * **Dynamic Chat 참여** 페이지 배치를 평가하고, 사용자 상호 작용을 단순화하고, 적합한 대상자를 타겟팅하여 채팅 봇 배포를 최적화합니다.
-* **라이프사이클 단계 및 단계 관리** 명확한 라이프사이클 단계를 정의하고, 판매와 일치되도록 하며, 단계를 통해 잠재 고객이 뒤로 이동하는 것을 방지합니다.
+* **라이프사이클 단계 및 Funnel 관리** 명확한 라이프사이클 단계를 정의하고, 판매와 일치되도록 하며, funnel에서 잠재 고객이 뒤로 이동하는 것을 방지합니다.
 * **이메일 전송 제한** 일반적인 최대 이메일 전송 속도는 시간당 100만 개의 이메일이며 필요한 경우 더 높은 제한을 구매할 수 있습니다.

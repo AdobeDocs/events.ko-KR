@@ -1,6 +1,7 @@
 ---
 title: VRA 세션 5 - 컨텐츠 Supply chain 운영을 위한 관리 전략 변경
 description: Adobe의 검증된 방법을 통해 콘텐츠 supply chain을 향상시키고 효율성을 개선하기 위한 변경 관리 전략에 대해 알아봅니다.
+feature: Strategic Planning
 topic: Content Supply Chain
 role: Leader, User
 level: Beginner
@@ -8,19 +9,19 @@ doc-type: Event
 duration: 2363
 last-substantial-update: 2026-02-20T00:00:00Z
 jira: KT-20301
-source-git-commit: fbfcb7835f5a51aea9a295fa1adb63b61585adb2
+exl-id: b5887dae-a6cd-4ad6-b762-6ddfccd72bd2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
-
 
 # VRA 세션 5: 컨텐츠 Supply chain 운영을 위한 관리 전략 변경
 
 입증된 변경 관리 렌즈를 사용하여 조직을 데이터 기반 콘텐츠 Supply chain으로 이끄는 방법을 알아봅니다. 이 세션에서는 리더를 조정하고, 팀을 구성하고, 하드 와이어로 새로운 작업 방식을 구현함으로써 팀, 자동화 및 공유 데이터가 실제로 출시 시기를 앞당기고, 자산 재사용을 높이고, 거버넌스를 강화하는 방법을 보여줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479824/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479816/?learn=on&enablevpops)
 
 * **도구뿐만 아니라 변화의 주도** 진정한 매입 기능을 구축하는 비즈니스 측면에서 자동화된 콘텐츠 Supply chain으로 전환하는 방법을 알아봅니다. &quot;왜 지금인가&quot;를 명확히 하고 경영진을 정렬하며 초기 파일럿을 더 넓은 조직을 위한 추진력으로 전환합니다.
 

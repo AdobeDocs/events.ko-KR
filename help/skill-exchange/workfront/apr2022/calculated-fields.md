@@ -2,13 +2,15 @@
 title: 팁 및 요령 - 모든 사람이 알아야 할 계산된 필드
 description: 프로젝트가 Current로 이동한 날짜를 찾기 위해 프로젝트 업데이트 스트림의 여러 페이지를 스크롤하는 자신을 발견한 적이 있습니까? 훌륭합니다. (설명은 60~160자 사이여야 함)
 solution: Workfront
+feature: Reports and Dashboards
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10316
 thumbnail: 342526.jpeg
 exl-id: 8e7d31e2-78f5-4f02-a85d-f438880a5664
 duration: 1955
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%

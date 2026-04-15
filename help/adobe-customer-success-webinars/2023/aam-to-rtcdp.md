@@ -1,8 +1,9 @@
 ---
-title: Adobe Audience Manager을 통한 가치 극대화 | 업계 변경 사항 탐색 및 Real-time CDP로 전환
-description: 업계 변화에 대한 타임라인을 전환하면서 Adobe Audience Manager을 통해 지속적으로 가치를 창출하고 사용 사례와 조직 준비 관점에서 RTCDP로의 전환을 준비하는 방법에 대해 알아보십시오.
+title: Adobe Audience Manager을 통한 가치 극대화 | 업계 변화 탐색 및 실시간 CDP로 전환
+description: 업계 변화에 대한 타임라인을 전환하면서 Adobe Audience Manager을 통해 지속적으로 가치를 창출하고 사용 사례와 조직 준비 관점에서 RTCDP으로의 전환을 준비하는 방법을 알아보십시오.
 solution: Audience Manager
 feature-set: Audience Manager
+feature: Segments, Traits
 topic: Migration
 role: Admin, Leader
 level: Intermediate
@@ -12,14 +13,14 @@ jira: KT-13689
 thumbnail: 3421282.jpeg
 exl-id: 731c827e-fb10-48da-a85a-ee73a5d273e3
 duration: 2951
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
-# Adobe Audience Manager을 통한 가치 극대화 | 업계 변경 사항 탐색 및 Real-time CDP로 전환
+# Adobe Audience Manager을 통한 가치 극대화 | 업계 변화 탐색 및 실시간 CDP로 전환
 
 업계 변화에 대한 타임라인을 전환하면서 Adobe Audience Manager을 통해 계속해서 가치를 창출하고 사용 사례와 조직 준비 관점에서 실시간 CDP로의 전환을 준비하는 방법에 대해 알아봅니다.
 

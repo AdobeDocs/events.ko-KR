@@ -4,11 +4,12 @@ description: 여러 채널에서 iOS 라이브 활동, 웹 푸시 및 메시지 
 kt: KT-20538
 solution: Journey Optimizer
 feature: Channel Configuration
+topic: Personalization
 event-cta-url-live: https://youtube.com/live/hLVIIul_2_g
 event-start-time: 2026-04-08 08:30-8
 event-guests: Sandra Hausmann, Don Huynh, Robert Calangiu, Brent Kostak
 exl-id: a9541062-a3d7-4b14-b93a-d3231bc11362
-source-git-commit: 85c30a3089b44ab1067f602d01de6d8d2a1efce4
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483389/?quality=12&learn=on)
 
-[Experience League 커뮤니티 게시물에 대한 토론을 계속합니다.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-new-use-cases-for-customer-engagement-ios-live-activities-web-push-and-persistent-messaging-249581?profile.language=ko){target="_blank"}
+[Experience League 커뮤니티 게시물에 대한 토론을 계속합니다.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-new-use-cases-for-customer-engagement-ios-live-activities-web-push-and-persistent-messaging-249581){target="_blank"}
 
 <br>
 </br>

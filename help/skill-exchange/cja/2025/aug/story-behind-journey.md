@@ -1,19 +1,21 @@
 ---
 title: 조명, 데이터, Insight - 모든 여정에 숨겨진 스토리 발견
 description: AEP 및 CJA이 데이터를 통합하고, ID를 결합하고, 실시간 개인화와 보다 스마트한 고객 여정을 위한 통찰력을 활성화하는 방법에 대해 알아봅니다.
+feature: Basics, Use Cases
+topic: Personalization, Integrations, Security
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18811
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 31d09a38-1410-4301-b46f-174e7bd6ac7c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
-
 
 # 조명, 데이터, Insight: 모든 여정 뒤에 숨겨진 스토리 발견
 
@@ -27,7 +29,7 @@ ht-degree: 0%
 
 Adobe Experience Cloud의 기능을 활용하여 단편화된 데이터를 실용적인 고객 인사이트로 전환할 수 있습니다.
 
-* **스토리텔링으로 데이터** 전략 프레임워크를 사용하여 분산된 데이터에서 원활한 고객 여정으로 이동합니다.
+* **Storytelling으로 데이터** 전략 프레임워크를 사용하여 분산된 데이터에서 원활한 고객 여정으로 이동합니다.
 * **통합 도구** 측정 가능한 경험을 위해 CJA, Real-Time CDP, Target 및 Journey Optimizer을 연계합니다.
 * **구현 단계** XDM 스키마를 설정하고, 웹 SDK을 설정하고, 윤리 데이터 사용에 대한 개인 정보 및 동의의 우선 순위를 지정합니다.
 * **세분화 및 개인화** 동적 대상 타깃팅을 위해 행동, 인구 통계학적 및 트랜잭션 데이터를 활용합니다.

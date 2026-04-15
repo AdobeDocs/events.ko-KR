@@ -2,6 +2,8 @@
 title: 고객 사용 사례를 위한 AEP 앱 서비스 통합에 대해 알아봅니다
 description: 이 세션에서는 AEP 블루프린트, AJO, Marketo 및 Target과 관련된 4가지 통합 사용 사례 및 AEP 및 AJO API 트리거 캠페인의 아키텍처에 대한 소개를 다룹니다.
 solution: Experience Platform
+feature: AI Assistant, Personalization
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,7 +11,7 @@ duration: 2499
 last-substantial-update: 2024-08-16T00:00:00Z
 jira: KT-15883
 exl-id: eaef4c3b-4b45-45d2-86a6-85cd3277ea72
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%

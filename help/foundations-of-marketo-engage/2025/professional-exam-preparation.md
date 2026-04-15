@@ -1,19 +1,21 @@
 ---
 title: 기본 Marketo 사용자 그룹 - 전문가 시험 준비
 description: 이 집중 준비 세션에 확신을 가지고 Marketo Engage Professional 시험을 통과할 수 있는 전문가 지침, 학습 팁 및 AI 기반 학습 지원을 받으십시오.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Performance, Certification
 role: User
 level: Beginner
 doc-type: Event
 duration: 3115
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19483
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+exl-id: dc33d6a9-1675-4791-a9f2-a64251f346bd
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
-
 
 # 기본 Marketo 사용자 그룹: 전문가 시험 준비
 
@@ -40,4 +42,3 @@ Marketo 기술을 한 단계 더 발전시킬 준비가 되셨습니까? 최종 
 * **챔피언 및 사용자 그룹 내용** 블로그, 녹음 및 토론을 검토하여 실용적인 팁과 시험 수준의 설명을 확인하십시오.
 
 이러한 리소스는 인증 여정 전반에 걸쳐 강력한 기반과 지속적인 지원을 제공합니다.
-

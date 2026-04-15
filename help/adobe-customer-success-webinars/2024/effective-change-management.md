@@ -1,6 +1,9 @@
 ---
 title: 변경 탐색 - 효과적인 변경 관리에 대한 선임 리더십 웨비나
+solution: Experience Cloud
+feature: Personalization
 description: 변경 관리의 뉘앙스를 파헤치고 변혁적 여정을 통해 조직을 운영하는 데 힘을 실어주는 전략적 통찰력을 제공합니다.
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,7 +11,7 @@ duration: 3340
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15557
 exl-id: 6e71cc1e-f1bd-4c78-9fee-90ba0e0bce47
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%

@@ -2,19 +2,20 @@
 title: 자동화를 통한 자원 계획 단순화
 description: Deloitte가 Fusion을 사용하여 Workfront에서 리소스 계획 및 PTO 추적을 자동화하는 방법에 대해 알아봅니다. 정확성, 가시성 및 팀 채택률을 높이기 위한 실제 팁을 살펴보십시오.
 feature: Resource Management, Strategic Planning
+topic: Administration, Integrations
 role: Admin
 level: Intermediate
 doc-type: Event
 duration: 3587
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-19421
-source-git-commit: 92e2db2c13888d036dce70e07cd0ac0b6bdc111b
+exl-id: b059479a-bc5b-417d-a2c7-6ce6ea6b0c5e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
-
 
 # 자동화를 통한 자원 계획 단순화
 
@@ -39,4 +40,3 @@ ht-degree: 0%
 * **관련자 참여** Collaboration과 창의적 문제 해결은 팀 요구 사항에 맞게 솔루션을 조정하는 데 매우 중요했습니다.
 
 자동화를 수용하면 수작업이 줄어들 뿐만 아니라 팀이 리소스를 보다 효과적으로 관리하고 변화하는 프로젝트 수요에 적응할 수 있습니다.
-

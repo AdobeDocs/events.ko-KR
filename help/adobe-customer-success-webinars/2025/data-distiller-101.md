@@ -2,6 +2,8 @@
 title: 데이터 Distiller 101
 description: Data Distiller 101 웨비나는 데이터 세분화, 데이터 보강 및 AI/ML 통합 기능을 강조하며 데이터 설계자 및 마케팅 엔터티에 확장 가능한 솔루션을 제공하여 데이터 중심의 의사 결정을 향상시킵니다.
 solution: Experience Platform
+feature: AI Assistant, Personalization
+topic: Personalization, Integrations, Development
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,10 +11,10 @@ duration: 2659
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17375
 exl-id: 111724c4-a20b-4b18-b600-c285f54195a8
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '278'
-ht-degree: 0%
+source-wordcount: '289'
+ht-degree: 1%
 
 ---
 
@@ -28,7 +30,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444454/?learn=on&enablevpops)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 ### Data Distiller 개요 및 목적
 

@@ -2,19 +2,20 @@
 title: Marketo Engage 및 CRM 동기화를 위한 데이터 위생 전략 구축
 description: Marketo Champion Miray Vu에서 입증된 데이터 위생 전략을 배워 깨끗한 CRM 데이터를 보장하고 파이프라인 속도를 가속화하며 안정적인 매출 성장을 유도합니다.
 feature: CRM Sync
+topic: Integrations, Development
 role: Admin
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2635
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19524
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+exl-id: 947db7a2-7dd3-431b-a870-7872e86c10c8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 0%
+source-wordcount: '290'
+ht-degree: 1%
 
 ---
-
 
 # Marketo Engage 및 CRM 동기화를 위한 데이터 위생 전략 구축
 
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476321/?learn=on&enablevpops)
 
-## 주요 개선 사항
+## 주요 학습 사항
 
 * **명확한 데이터 표준 설정** 모든 관련자와 표준을 설정하고 적용하여 시스템 전반에서 일관되고 정확한 데이터를 보장합니다.
 * **데이터 위생 프로세스 정의** 중복 제거, 데이터 보강, 불완전/잘못된 값, 필드 유효성 검사 등 프로세스에서 해결해야 하는 사항을 확인합니다.
@@ -34,6 +35,6 @@ ht-degree: 0%
 ## 추가 리소스
 
 * Q&amp;A가 게시된 마케팅 국가 커뮤니티에서 [토론](https://nation.marketo.com/t5/product-blogs/learn-from-your-peers-webinar-building-a-data-hygiene-strategy/ba-p/358425)에 참여하세요.
-* [실행 가능한 캠페인을 사용한 Marketo Engage 데이터 위생](https://business.adobe.com/kr/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
-* [Marketo Engage과 Salesforce CRM 동기화를 위한 데이터 위생 관리](https://experienceleague.adobe.com/ko/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
+* [실행 가능한 캠페인을 사용한 Marketo Engage 데이터 위생](https://business.adobe.com/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
+* [Marketo Engage과 Salesforce CRM 동기화를 위한 데이터 위생 마스터링](https://experienceleague.adobe.com/en/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
 * [Marketo Engage REST API를 사용하여 중복 제거를 수행하는 방법](https://www.revenuepulse.com/blog/how-to-perform-deduplication-using-the-marketo-api/)

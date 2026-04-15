@@ -2,6 +2,8 @@
 title: 스킬 교환 이벤트 2022년 9월 Analytics가 Adobe Analytics을 사용자 자신의 것으로 만들기 성장함
 description: Adobe Analytics이 있습니다. 이제 사용자 및 비즈니스에 고유한 기능과 전략을 사용하여 고유한 기능을 만듭니다.
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,7 +12,7 @@ kt: 11440
 thumbnail: 3411012.jpeg
 exl-id: cb40d86a-dbb2-4ea2-a866-9eb47157cd5e
 duration: 2523
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%

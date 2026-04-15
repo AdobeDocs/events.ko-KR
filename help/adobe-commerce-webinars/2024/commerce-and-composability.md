@@ -1,6 +1,8 @@
 ---
 title: Commerce 및 컴포저빌리티를 통해 다양한 비즈니스 모델 활성화
 description: 이 모임은 주로 Adobe Commerce의 다양한 비즈니스 모델 활성화, B2B 상거래 성장 추세 강조, 원활한 업그레이드를 위한 통합 간소화의 중요성 강조, 데모를 통해 개인화된 B2B와 B2C의 상호 작용 소개, 옴니채널 지원 및 API 메쉬 통합과 같은 Adobe Commerce 기능에 대한 토론, 구성 가능한 상거래 서비스의 이점 강조, 플랫폼 내에서의 확장 가능한 사용자 정의 및 구독 관리를 위한 App Builder 소개 등에 초점을 맞췄습니다.
+feature: Integration, Headless, B2B
+topic: Headless, Personalization, Integrations
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3594
 last-substantial-update: 2024-06-15T00:00:00Z
 jira: KT-15741
 exl-id: 2be2bcd3-b595-4362-a7f8-91b1001da874
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---

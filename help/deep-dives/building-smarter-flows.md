@@ -2,19 +2,20 @@
 title: 웹후크 및 셀프서비스 플로우 단계(SSFS)를 통해 보다 스마트한 플로우 구축 자동화 및 혁신
 description: 이 Marketo은 보다 스마트하고 AI에 적합한 마케팅 자동화를 구축하는 데 도움이 되는 웹후크 및 셀프서비스 흐름 단계(SSFS)를 다룹니다. CRM 업데이트, 데이터 보강, 사용자 지정 흐름 논리 및 AI 기반 워크플로우를 포함한 설정 모범 사례, 실시간 통합 기술 및 실용적인 사용 사례에 대해 알아봅니다. Marketo 사용자, MOP 팀 및 관리자가 더 강력한 데이터 품질과 캠페인 결과에 중점을 두기에 적합합니다.
 feature: Webhooks
+topic: Integrations, Security, Development
 role: Admin, Developer, User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 3177
 last-substantial-update: 2026-02-25T00:00:00Z
 jira: KT-20403
-source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
+exl-id: ad847106-fb71-41c7-9584-a19d5da44024
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
-
 
 # 웹후크 및 셀프서비스 플로우 단계(SSFS)를 통해 보다 스마트한 플로우 구축 자동화 및 혁신
 
@@ -57,4 +58,3 @@ Marketo 전문 지식을 한 차원 끌어올리십시오! 이 심층 세션은 
 * **Marketo 관리자** 데이터베이스 아키텍처, 통합 및 기술 인프라를 관리하는 관리자
 * **AI/자동화 채택자** AI 기반 기능을 위해 Marketo 인스턴스를 준비하는 조직
 * 데이터 품질, 보고 정확성 및 캠페인 효과를 개선하고자 하는 **데이터를 인식하는 마케터** 팀
-

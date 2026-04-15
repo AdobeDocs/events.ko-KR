@@ -2,13 +2,15 @@
 title: Workfront의 오브젝트 이해
 description: '포트폴리오, 프로그램, 프로젝트, 작업, 문제/요청 및 사람 오브젝트(예: 회사, 그룹 및 팀)의 뉘앙스를 소개합니다.'
 solution: Workfront
+feature: System Setup and Administration
+topic: Administration, Integrations
 role: User
 level: Beginner
 kt: 10309
 thumbnail: 342519.jpeg
 exl-id: 3500ea38-b0f9-4311-a3d9-9baf58f26e20
 duration: 1742
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%

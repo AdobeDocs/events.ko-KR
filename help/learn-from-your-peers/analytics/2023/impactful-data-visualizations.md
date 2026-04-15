@@ -2,6 +2,7 @@
 title: Adobe Analytics의 영향력 있는 데이터 시각화의 예술과 과학
 description: Adobe Analytics 시각화 및 영향력 있는 데이터 storytelling을 살펴봅니다. Analysis Workspace을 사용하여 정밀하고 충격적인 통찰력을 전달할 수 있도록 데이터를 스토리를 전달하는 사려깊고 매력적인 비주얼로 변환하는 방법을 알아봅니다.
 feature: Visualizations, Analysis Workspace
+topic: Migration, Integrations
 role: User
 solution: Analytics
 level: Beginner, Intermediate, Experienced
@@ -11,7 +12,7 @@ last-substantial-update: 2023-12-08T00:00:00Z
 jira: KT-14618
 thumbnail: 3425943.jpeg
 exl-id: 55966d3c-1527-4691-8683-1a65b40cd327
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%

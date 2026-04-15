@@ -1,19 +1,21 @@
 ---
 title: Adobe Workfront으로 효율성 향상
 description: Cognizant가 Adobe Workfront을 사용하여 프로젝트 관리를 간소화하고 워크플로우 효율성의 우수성을 달성하는 방법에 대해 알아봅니다.
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3488
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19753
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 86835da4-c642-4d41-b92f-aca476c8b8f6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Workfront으로 효율성 향상
 

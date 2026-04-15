@@ -2,6 +2,8 @@
 title: A/B 테스트로 성능 향상 및 실험
 description: 'A/B 테스트를 통해 Marketo Engage의 마케팅에 대한 접근 방식을 전환해 보십시오. 프로그램을 측정 가능한 성공을 거두는 통제 실험으로 전환하는 방법을 알려드리겠습니다. 이메일 및 랜딩 페이지의 변형을 테스트하여 대상자에게 가장 큰 반향을 일으키는 항목과 그 이유를 파악할 수 있습니다. 이 세션에서는 기대 가능한 작업과 그 이유(예: 직접 call-to-action이 클릭스루 비율에 미치는 영향)를 예측하는 가설 개발에 대해 알아봅니다. 테스트할 변수는 헤드라인 및 call-to-action 버튼에서 이미지 및 컨텐츠 레이아웃에 이르기까지 Marketo Engage에서 테스트할 수 있는 요소의 배열을 탐색합니다. 세그먼테이션은 A/B 테스트를 위해 대상자를 효과적으로 세그먼트화하여 전략을 세분화하고 더 나은 결과를 얻는 방법을 이해합니다.  결과 해석 통계적 유의성을 계산하는 방법과 실행 가능한 데이터를 수집하기 위해 적절한 기간 동안 테스트를 실행하는 것의 중요성.'
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Performance, Development
 role: User
 level: Beginner
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2098
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16008
 exl-id: d2f93a70-d569-43eb-b836-7358bdf99a0e
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---

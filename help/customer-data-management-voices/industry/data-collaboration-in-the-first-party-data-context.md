@@ -3,6 +3,7 @@ title: 자사 데이터 컨텍스트의 데이터 Collaboration
 description: 이 웨비나는 서드파티 쿠키 없이 향후 데이터 공동 작업의 기회를 여는 데 도움이 됩니다.
 solution: Real-Time Customer Data Platform
 feature: Data Management
+topic: Security
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 type: Event
@@ -10,10 +11,10 @@ thumbnail: 337665.jpg
 kt: 9145
 exl-id: 633f2927-d6e0-4370-96c6-36d1f612d5ba
 duration: 2560
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 11%
+source-wordcount: '172'
+ht-degree: 16%
 
 ---
 
@@ -31,8 +32,8 @@ ht-degree: 11%
 
 ## 추가 정보
 
-[세그먼트 일치 개요](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=ko)
+[세그먼트 일치 개요](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en)
 
-데이터 구매자용 [Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=ko)
+[데이터 구매자용 Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
 
-[사용자 기반 대상](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=ko)
+[사용자 기반 대상](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=en)

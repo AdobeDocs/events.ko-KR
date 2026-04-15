@@ -2,15 +2,17 @@
 title: 트랙 Experience Makers Spotlight 학습
 description: 세계에서 가장 큰 브랜드들이 어떻게 그들의 일을 관리하는지 보기 위해 몰래 들여다보고 싶었던 적이 있는가?
 solution: Workfront
+feature: Reports and Dashboards
+topic: Performance
 role: User
 level: Beginner
 kt: 10312
 thumbnail: 342521.jpeg
 exl-id: 352cbded-40d0-462d-960a-0abd93747de3
 duration: 2739
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
