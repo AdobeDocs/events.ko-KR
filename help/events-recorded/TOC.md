@@ -23,7 +23,7 @@ ht-degree: 10%
    + [브루](https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html?lang=ko)
    + [Commerce 및 커피](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html?lang=ko)
    + [고객 데이터 관리 음성](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=ko)
-   + [CX Analytics 온디맨드 웨비나](https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html)
+   + [CX Analytics 온디맨드 웨비나](https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html?lang=ko)
    + [데이터 드립](https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html?lang=ko)
    + [Marketo 딥 다이브](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html?lang=ko)
    + [에스프레소 &amp; Experience Manager](https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html?lang=ko)
@@ -51,7 +51,7 @@ ht-degree: 10%
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html?lang=ko)
    + Adobe Analytics {#aa}
       + [Adobe 고객 성공 웨비나](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=ko)
-      + [CX Analytics 온디맨드 웨비나](https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html)
+      + [CX Analytics 온디맨드 웨비나](https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html?lang=ko)
       + [데이터 드립](https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html?lang=ko)
       + [Experience Cloud 기술 세션](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html?lang=ko)
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html?lang=ko)
@@ -73,7 +73,7 @@ ht-degree: 10%
       + [스킬 빌더](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html?lang=ko)
    + Adobe Customer Journey Analytics {#cja}
       + [Adobe 고객 성공 웨비나](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=ko)
-      + [CX Analytics 온디맨드 웨비나](https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html)
+      + [CX Analytics 온디맨드 웨비나](https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html?lang=ko)
       + [더 퍼펙트 블렌드](https://experienceleague.adobe.com/ko/docs/events/the-perfect-blend/overview)
       + [스킬 빌더](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html?lang=ko)
    + Adobe Experience Manager {#aem}
