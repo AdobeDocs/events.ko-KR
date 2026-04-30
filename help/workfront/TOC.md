@@ -3,9 +3,9 @@ user-guide-title: Workfront 이벤트
 breadcrumb-title: Workfront 이벤트
 user-guide-description: Workfront 이벤트
 solution: Workfront
-source-git-commit: 88adf7e72d49b8f8e8cf8199e320152556304d46
+source-git-commit: 50e173546cb6086bbe8170b0120e48abecd1bf3c
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '544'
 ht-degree: 1%
 
 ---
@@ -75,6 +75,7 @@ ht-degree: 1%
       + [경영진 후원 보호](workshop-rewind/workflow/secure-executive-sponsorship.md)
       + [독학으로 성공한 사람](workshop-rewind/workflow/self-taught-to-success.md)
       + [Workfront 보고서로 봄 정리](workshop-rewind/workflow/workfront-reports-cleanup.md)
+      + [팀 오브 원](workshop-rewind/workflow/team-of-one.md)
       + [10가지 커뮤니케이션 팁](workshop-rewind/workflow/10-communication-tips.md)
       + [10개의 텍스트 모드 팁](workshop-rewind/workflow/text-mode-tips.md)
       + [10개의 추가 텍스트 모드 팁](workshop-rewind/workflow/10-more-text-mode-tips.md)
@@ -109,6 +110,7 @@ ht-degree: 1%
          + [Workfront 작업자를 위한 상위 3가지 기능](quick-takes/top3/watch-me-work-3.md)
    + Versus! {#versus}
       + [그룹 대 팀](quick-takes/versus/groups-vs-teams.md)
+      + [문제와 프로젝트 비교](quick-takes/versus/issues-vs-projects.md)
 + 전문가 인사이트 {#expert-insights}
    + [어답터](expert-insights/adoption.md)
    + [입양 조사](expert-insights/adoption-surveys.md)
