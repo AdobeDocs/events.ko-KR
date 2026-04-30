@@ -23,9 +23,9 @@ ht-degree: 9%
 
 문제, 사용자 지정 Forms 및 프로젝트 템플릿을 사용한 작업 관리에 대해 자세히 알아보시겠습니까? 추가 리소스 확인:
 
-* 고객이 [고급 템플릿을 사용하여 작업을 관리하는 방법: IDEXX가 글로벌 성공을 위해 프로젝트 템플릿을 재구성하는 방법](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/workflow/power-templates)을 살펴보십시오.
+* 고객이 [고급 템플릿을 사용하여 작업을 관리하는 방법: IDEXX가 글로벌 성공을 위해 프로젝트 템플릿을 재구성하는 방법](https://experienceleague.adobe.com/ko/docs/events/workfront-recordings/workshop-rewind/workflow/power-templates)을 살펴보십시오.
 * 환경 설정에 관계없이 Pro처럼 [문제 관리를 위한 사용자 지정 보고서를 만들기](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/report-on-issues)하는 방법에 대해 알아보세요.
 
-새로운 아이디어와 접근 방식에 관심이 있으십니까? [Experience League 이벤트 페이지](https://experienceleague.adobe.com/en/events?filters=Workfront)에서 예정된 워크샵에 등록하십시오. 곧 뵙기를 바랍니다!
+새로운 아이디어와 접근 방식에 관심이 있으십니까? [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events?filters=Workfront)에서 예정된 워크샵에 등록하십시오. 곧 뵙기를 바랍니다!
 
 

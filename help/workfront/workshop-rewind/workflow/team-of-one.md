@@ -23,7 +23,7 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484927/?learn=on&enablevpops)
 
-이벤트 동안 공유된 추가 리소스를 찾고 계십니까?  [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-confessions-of-a-workfront-team-of-one-4-29-26-250238?tid=250238)을 확인해 보세요!
+이벤트 동안 공유된 추가 리소스를 찾고 계십니까?  [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-confessions-of-a-workfront-team-of-one-4-29-26-250238?profile.language=ko&tid=250238)을 확인해 보세요!
 
-매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/en/events)를 확인하십시오.
+매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events)를 확인하십시오.
 
