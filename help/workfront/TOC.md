@@ -3,9 +3,9 @@ user-guide-title: Workfront 이벤트
 breadcrumb-title: Workfront 이벤트
 user-guide-description: Workfront 이벤트
 solution: Workfront
-source-git-commit: 50e173546cb6086bbe8170b0120e48abecd1bf3c
+source-git-commit: c8c1cfef7a03b025037b5b061452f4cb2b25f2f0
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '547'
 ht-degree: 1%
 
 ---
@@ -62,6 +62,7 @@ ht-degree: 1%
       + [거버넌스, 실행 및 채택 팁](workshop-rewind/workflow/governance-execution-adoption.md)
       + [Admin Essentials 그룹](workshop-rewind/workflow/group-admins.md)
       + [Workfront 관리자의 학습](workshop-rewind/workflow/lessons-learned-admins.md)
+      + [비즈니스 규칙 마스터링](workshop-rewind/workflow/business-rules.md)
       + [이메일 알림 마스터](workshop-rewind/workflow/email-notifications.md)
       + [EXISTS 문 마스터링](workshop-rewind/workflow/master-exists-statements.md)
       + [Workfront 값 최대화](workshop-rewind/workflow/value-realization.md)
