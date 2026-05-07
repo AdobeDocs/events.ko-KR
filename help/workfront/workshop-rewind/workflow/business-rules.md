@@ -21,8 +21,8 @@ Adobe Professional Services의 수석 비즈니스 컨설턴트 티나 크레이
 
 >[!VIDEO](https://video.tv.adobe.com/v/3486409/?learn=on&enablevpops)
 
-이러한 기능에 대해 자세히 알아보시겠습니까? [비즈니스 규칙 문서 만들기 및 편집](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/configure-system-defaults/business-rules)을 검토하여 유효성 검사를 자동화하고 Workfront 개체 간의 원치 않는 변경을 방지하십시오. 또한 문서를 [사용자 정의 양식 및 필드에 논리 규칙을 추가](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/customize/custom-forms/design-a-form/display-skip-logic-form-designer#add-advanced-display-logic-to-a-custom-form)하여 더 많은 사용자 정의를 확인하십시오.
+이러한 기능에 대해 자세히 알아보시겠습니까? [비즈니스 규칙 문서 만들기 및 편집](https://experienceleague.adobe.com/ko/docs/workfront/using/administration-and-setup/set-up-wf/configure-system-defaults/business-rules)을 검토하여 유효성 검사를 자동화하고 Workfront 개체 간의 원치 않는 변경을 방지하십시오. 또한 문서를 [사용자 정의 양식 및 필드에 논리 규칙을 추가](https://experienceleague.adobe.com/ko/docs/workfront/using/administration-and-setup/customize/custom-forms/design-a-form/display-skip-logic-form-designer#add-advanced-display-logic-to-a-custom-form)하여 더 많은 사용자 정의를 확인하십시오.
 
-이벤트 동안 공유된 추가 리소스를 찾고 계십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-mastering-business-rules-validation-logic-in-adobe-workfront-may-7-2026-250357?tid=250357)을 확인해 보세요!
+이벤트 동안 공유된 추가 리소스를 찾고 계십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-mastering-business-rules-validation-logic-in-adobe-workfront-may-7-2026-250357?profile.language=ko&tid=250357)을 확인해 보세요!
 
-매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/en/events?lang=en)를 확인하십시오.
+매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events?lang=en)를 확인하십시오.
