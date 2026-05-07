@@ -13,8 +13,7 @@ last-substantial-update: 2026-05-07T00:00:00Z
 jira: KT-20547
 hidefromtoc: false
 hide: false
-exl-id: 7da8a2b0-3821-4401-a2da-5531c5f494c4
-source-git-commit: 09239ef872b0326a576dbd20e8fed47b1f618646
+source-git-commit: 50d4363ee97c976798ca909d6812491d3fb3c7f9
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -27,7 +26,7 @@ AEM Assets에서 이미지 및 비디오의 변환 및 최적화를 간소화하
 
 Adobe Experience Manager 챔피언 Vengadesh Shanmugavelu와 함께 Adobe Experience Manager Assets에서 Dynamic Media 사용에 대한 통찰력을 얻으십시오. 그는 다음을 포함한 디지털 콘텐츠 제작 규모의 주요 요소를 다룹니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481552/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481545/?learn=on&enablevpops)
 
 * Adobe Experience Manager Dynamic Media를 통해 프로필 설정, 스마트 렌디션 및 실시간 최적화를 사용하여 지능형 미디어 배포를 활성화하는 방법입니다.
 * AEM 핵심 구성 요소를 통해 Dynamic Media를 활성화하고 Dynamic Media Open API를 사용하여 전사적으로 기능을 확장하는 방법입니다.
