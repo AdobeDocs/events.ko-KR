@@ -1,6 +1,6 @@
 ---
 title: 지속 가능한 Workfront 채택 구성 - 아키텍처에서 일상적인 사용
-description: 거버넌스, 템플릿, 자동화, 장기적인 성공을 위한 사용자 참여를 포함하여 지속 가능한 Workfront 채택을 위한 전략을 살펴보십시오.
+description: 거버넌스, 템플릿, 자동화, 장기적인 성공을 위한 사용자 참여를 포함하여 지속 가능한 Adobe Workfront 채택을 위한 전략을 살펴보십시오.
 feature: Workfront Fusion, System Setup and Administration
 topic: Performance, Administration
 role: Admin, Developer, Leader, User
@@ -12,9 +12,9 @@ hidefromtoc: true
 hide: true
 jira: KT-20786
 exl-id: d751d2d8-0779-451f-a2bf-351d26a56eab
-source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
+source-git-commit: 2f1f453350eff1dd50752212e1f8e0a5d7c707ae
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Workfront 채택은 일회성 출시가 아니라 장기적인 전략입니다. 
 
 이 두 사람은 팀을 산발적인 사용 및 임시 구성에서 유지 관리, 확장 및 진화가 더 용이한 반복 가능한 insight 기반 프로세스로 전환하는 방법에 대해 논의했습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483207/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483200/?learn=on&enablevpops)
 
 ## 주요 사항
 
