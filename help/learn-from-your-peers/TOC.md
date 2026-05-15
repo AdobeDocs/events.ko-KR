@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: ' [!DNL Experience Makers Learn from your peers]의 녹음/녹화 컬렉션'
-source-git-commit: a74b16144c63581e387e590ff4aa98f9a218ec84
+source-git-commit: 52ae84732dd4afdd0ffb29afbb5d3a3bd5921a43
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '370'
 ht-degree: 7%
 
 ---
@@ -64,13 +64,13 @@ ht-degree: 7%
       + [Marketo Engage 및 Dynamic Chat](marketo/2023/dynamic-chat.md)
       + [Marketo Engage으로 이메일 전달성 향상](marketo/2023/email-deliverability.md)
       + [마케팅 캠페인 추적, 분석 및 최적화](marketo/2023/marketing-campaigns.md)
-      + [&#x200B; [!DNL Marketo Engage]을(를) 사용하여 확장 코드에서 Personalization 크래킹](marketo/2023/personalization-at-scale.md)
-      + [&#x200B; [!DNL Adobe Marketo Engage] 콘텐츠를 확장 가능하게 하는 방법](marketo/2023/templates-tokens-teamwork.md)
+      + [ [!DNL Marketo Engage]을(를) 사용하여 확장 코드에서 Personalization 크래킹](marketo/2023/personalization-at-scale.md)
+      + [ [!DNL Adobe Marketo Engage] 콘텐츠를 확장 가능하게 하는 방법](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2026 {#2026}
       + [지속 가능한 Workfront 채택](workfront/2026/workfront-adoption.md)
    + 2025 {#2025}
-      + [메타데이터 난동](https://experienceleague.adobe.com/ko/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [메타데이터 난동](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [아티큘레이션 영향 - Workfront 가치 측정 및 공유 방법](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [자동화를 통한 자원 계획 단순화](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
@@ -93,5 +93,6 @@ ht-degree: 7%
       + [운영 보고의 기초](workfront/2022/foundations-of-operational-reporting.md)
       + [그룹 관리자 활용](workfront/2022/leveraging-the-group-admin.md)
       + [Workfront 거버넌스란 무엇입니까?](workfront/2022/what-is-workfront-governance.md)
-+ [Experience Cloud에서 Adobe 사용자 그룹 탐색](./adobe-user-groups.md)
++ [Adobe Champion의 이점 잠금 해제](./unlock-the-adobe-champion-advantage.md)
 + [챔피언으로 적용하고 돋보이는 방법 알아보기](./adobe-champion-application.md)
++ [Experience Cloud에서 Adobe 사용자 그룹 탐색](./adobe-user-groups.md)
