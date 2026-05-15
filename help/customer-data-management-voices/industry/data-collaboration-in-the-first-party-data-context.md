@@ -32,8 +32,8 @@ ht-degree: 16%
 
 ## 추가 정보
 
-[세그먼트 일치 개요](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en)
+[세그먼트 일치 개요](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=ko)
 
-[데이터 구매자용 Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
+[데이터 구매자용 Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=ko)
 
-[사용자 기반 대상](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=en)
+[사용자 기반 대상](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=ko)

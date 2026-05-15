@@ -6,7 +6,7 @@ feature-set: Acrobat Services, Advertising, Analytics, Audience Manager, Campaig
 description: Adobe 라이브 스트리밍 이벤트의 녹화본 컬렉션.
 type: Event
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/events.en
+git-repo: https://github.com/AdobeDocs/events.ko-KR
 index: true
 auto-video-transcripts: true
 source-git-commit: f31943fd1575309c29d091c26c92be9fb1f310d4
