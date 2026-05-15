@@ -1,11 +1,11 @@
 ---
-title: Customer Journey Analytics 통합 Essentials
-description: CJA를 최적화하여 다른 Adobe 솔루션과 협력하여 조직에서 데이터 기반 Personalization을 실행하는 능력을 강화하는 방법에 대해 알아봅니다.
+title: Customer Journey Analytics Integration Essentials
+description: CJA을 최적화하여 다른 Adobe 솔루션과 협력하여 조직에서 데이터 기반 Personalization을 실행하는 능력을 강화하는 방법에 대해 알아봅니다.
 solution: Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Use Cases, Basics, Experience Platform Integration
 topic: Integrations
-role: Admin, Architect, Data Architect, Data Engineer, Developer, Leader, User
+role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 last-substantial-update: 2023-11-08T00:00:00Z
@@ -13,16 +13,16 @@ jira: KT-14353
 thumbnail: 3425521.jpeg
 exl-id: 5be2852e-ee52-4f1e-95f2-6cd3ca62a57c
 duration: 3236
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: f31943fd1575309c29d091c26c92be9fb1f310d4
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# Customer Journey Analytics 통합 Essentials
+# Customer Journey Analytics Integration Essentials
 
-CJA를 최적화하여 다른 Adobe 솔루션과 협력하여 조직에서 데이터 기반 Personalization을 실행하는 능력을 강화하는 방법에 대해 알아봅니다.
+CJA을 최적화하여 다른 Adobe 솔루션과 협력하여 조직에서 데이터 기반 Personalization을 실행하는 능력을 강화하는 방법에 대해 알아봅니다.
 
 * 주요 CJA 통합 기능 개요
 * Customer Journey Analytics 통합 사용 사례

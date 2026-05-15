@@ -6,19 +6,19 @@ feature-set: Acrobat Services, Advertising, Analytics, Audience Manager, Campaig
 description: Adobe 라이브 스트리밍 이벤트의 녹화본 컬렉션.
 type: Event
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/events.ko-KR
+git-repo: https://github.com/AdobeDocs/events.en
 index: true
 auto-video-transcripts: true
-source-git-commit: 433f059df7163639c8c365b6c569b21e151529ea
+source-git-commit: f31943fd1575309c29d091c26c92be9fb1f310d4
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 85%
+source-wordcount: '79'
+ht-degree: 83%
 
 ---
 
 
 # 내부용 메타데이터
 
-metadata.md 파일에는 저장소의 사용 안내서 TOC.md 파일에 전달되는 저장소 수준 메타데이터가 포함되어 있습니다. 모든 사용 안내서를 위한 metadata.md 콘텐츠를 변경하려면 TOC.md 파일에서 이 작업을 수행하십시오.
+metadata.md 파일에는 리포지토리의 사용 안내서 TOC.md 파일에 전달되는 리포지토리 수준 메타데이터가 포함되어 있습니다. 사용 안내서의 metadata.md 콘텐츠를 변경하려면 TOC.md 파일에서 이 작업을 수행해야 합니다.
 
-**솔루션**, **제품** 및 **유형**&#x200B;에 대한 유효한 값의 목록은 [메타데이터](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=en)를 참조하십시오.
+**솔루션**, **제품**, **유형**&#x200B;에 대한 올바른 값 목록은 [메타데이터](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=ko)를 참조하십시오.
