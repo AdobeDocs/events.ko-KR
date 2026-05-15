@@ -57,7 +57,7 @@ CARDS
 
 더 많은 정보를 찾고 계십니까? 엄선된 온디맨드 이벤트 를 통해 Adobe Workfront 커뮤니티의 최신 버전을 살펴보십시오. 왼쪽 탐색 메뉴를 사용하여 워크숍 되감기 아래의 항목을 탐색합니다. 여기서 세션은 Fusion, Planning 및 Workflow로 그룹화되어 요구 사항에 맞는 콘텐츠를 빠르게 찾을 수 있습니다.
 
-또한 예정된 라이브 이벤트에 참여하여 질문을 하고, 인사이트를 공유하고, 동료와 협업해야 합니다. [Experience League Workfront 이벤트 페이지](https://experienceleague.adobe.com/en/events?filters=Workfront)를 정기적으로 방문하여 다음 항목을 확인하십시오!
+또한 예정된 라이브 이벤트에 참여하여 질문을 하고, 인사이트를 공유하고, 동료와 협업해야 합니다. [Experience League Workfront 이벤트 페이지](https://experienceleague.adobe.com/ko/events?filters=Workfront)를 정기적으로 방문하여 다음 항목을 확인하십시오!
 
 <!-- 
 CARDS 
