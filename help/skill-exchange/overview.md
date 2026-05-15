@@ -55,7 +55,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/opening-keynote.md" title="Adobe Analytics 오프닝 키노트" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471124/?format=jpeg&nocache=1757465008519" alt="Adobe Analytics 오프닝 키노트"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471199/?captions=kor&format=jpeg&nocache=1757465008519" alt="Adobe Analytics 오프닝 키노트"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -193,7 +193,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/scalable-workflows.md" title="동작 중인 데이터 - Insight 기반 팀을 위한 확장 가능한 Analytics 워크플로" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471118/?format=jpeg&nocache=1757465008536" alt="동작 중인 데이터 - Insight 기반 팀을 위한 확장 가능한 Analytics 워크플로"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471236/?captions=kor&format=jpeg&nocache=1757465008536" alt="동작 중인 데이터 - Insight 기반 팀을 위한 확장 가능한 Analytics 워크플로"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -239,7 +239,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/workspace-features.md" title="사용해야 하는 Workspace 기능" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471117/?format=jpeg&nocache=1757465008539" alt="사용해야 하는 Workspace 기능"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471258/?captions=kor&format=jpeg&nocache=1757465008539" alt="사용해야 하는 Workspace 기능"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -281,7 +281,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/opening-keynote.md" title="Customer Journey Analytics 오프닝 키노트" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471108/?format=jpeg&nocache=1757465009661" alt="Customer Journey Analytics 오프닝 키노트"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471131/?captions=kor&format=jpeg&nocache=1757465009661" alt="Customer Journey Analytics 오프닝 키노트"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -304,7 +304,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/modern-takes-classic-aa.md" title="CJA으로 요리 - 고전적인 AA 조리법을 현대" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471110/?format=jpeg&nocache=1757465009634" alt="CJA으로 요리 - 고전적인 AA 조리법을 현대"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471247/?captions=kor&format=jpeg&nocache=1757465009634" alt="CJA으로 요리 - 고전적인 AA 조리법을 현대"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -350,7 +350,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/journey-canvas.md" title="Adobe Customer Journey Analytics 여정 캔버스로 CX 성공 몰기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471112/?format=jpeg&nocache=1757465009648" alt="Adobe Customer Journey Analytics 여정 캔버스로 CX 성공 몰기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471221/?captions=kor&format=jpeg&nocache=1757465009648" alt="Adobe Customer Journey Analytics 여정 캔버스로 CX 성공 몰기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -415,7 +415,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/opening-keynote.md" title="Adobe Experience Manager 오프닝 키노트" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1757465010566" alt="Adobe Experience Manager 오프닝 키노트"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471403/?captions=kor&format=jpeg&nocache=1757465010566" alt="Adobe Experience Manager 오프닝 키노트"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -438,7 +438,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/asset-workflows-permissions-integration.md" title="AEM Masterclass - 에셋 워크플로, 권한 및 통합" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471383/?format=jpeg&nocache=1757465010597" alt="AEM Masterclass - 에셋 워크플로, 권한 및 통합"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471459/?captions=kor&format=jpeg&nocache=1757465010597" alt="AEM Masterclass - 에셋 워크플로, 권한 및 통합"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -549,7 +549,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Skill Exchange Keynote - AI를 통한 경험 작성의 미래, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1757465011389" alt="Skill Exchange Keynote - AI를 통한 경험 작성의 미래, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471362/?captions=kor&format=jpeg&nocache=1757465011389" alt="Skill Exchange Keynote - AI를 통한 경험 작성의 미래, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -683,7 +683,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/opening-keynote.md" title="Keynote 열기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1757465012333" alt="Keynote 열기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471482/?captions=kor&format=jpeg&nocache=1757465012333" alt="Keynote 열기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -729,7 +729,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/design-studio.md" title="글로벌 마케팅 운영을 위한 Design Studio의 모든 기능 사용" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471389/?format=jpeg&nocache=1757465012342" alt="글로벌 마케팅 운영을 위한 Design Studio의 모든 기능 사용"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471437/?captions=kor&format=jpeg&nocache=1757465012342" alt="글로벌 마케팅 운영을 위한 Design Studio의 모든 기능 사용"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -867,7 +867,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/center-of-excellence.md" title="Workfront 조직의 우수성을 위한 준비" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1757465013254" alt="Workfront 조직의 우수성을 위한 준비"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471591/?captions=kor&format=jpeg&nocache=1757465013254" alt="Workfront 조직의 우수성을 위한 준비"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -913,7 +913,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/fusion-user-account-creation.md" title="Fusion을 사용하여 Workfront 사용자 계정 생성 자동화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1757465013265" alt="Fusion을 사용하여 Workfront 사용자 계정 생성 자동화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471578/?captions=kor&format=jpeg&nocache=1757465013265" alt="Fusion을 사용하여 Workfront 사용자 계정 생성 자동화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -936,7 +936,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/review-approval.md" title="검토 및 승인 시작하기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471493/?format=jpeg&nocache=1757465013304" alt="검토 및 승인 시작하기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471567/?captions=kor&format=jpeg&nocache=1757465013304" alt="검토 및 승인 시작하기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -982,7 +982,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/user-management-licensing.md" title="Workfront 라이선스 최대화 - 사용자 관리 및 라이선스에 대한 Pro 팁" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473945/?format=jpeg&nocache=1757465013296" alt="Workfront 라이선스 최대화 - 사용자 관리 및 라이선스에 대한 Pro 팁"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473965/?captions=kor&format=jpeg&nocache=1757465013296" alt="Workfront 라이선스 최대화 - 사용자 관리 및 라이선스에 대한 Pro 팁"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
