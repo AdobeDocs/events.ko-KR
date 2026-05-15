@@ -3,9 +3,9 @@ title: 에스프레소 & Experience Manager
 description: Adobe 전문가가 출연한 Espresos 및 Experience Manager 시리즈는 모든 기술 수준의 AEM(Sites 및 Assets) 고객에게 일반적인 사용 사례, 모범 사례, 라이브 데모에 대한 통찰력을 제공하고 Q&A 세션으로 끝납니다.
 duration: 15
 exl-id: ac3902e5-bf6a-456c-83c8-cfcff806875d
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,8 @@ ht-degree: 0%
 
 에스프레소 &amp; Experience Manager 시리즈는 Adobe 전문가가 참여하며 모든 스킬 레벨의 기존 AEM(Sites 및 Assets) 고객을 맞이합니다. 이 시리즈는 일반적인 고객 사용 사례에 중점을 두며 이벤트 주제를 반영하는 모범 사례를 공유합니다. 프레젠테이션의 뒤에는 모범 사례에 대한 작업 방법의 예를 보여주는 라이브 데모 또는 스크린그래프가 이어집니다. 각 이벤트는 라이브 Q&amp;A 세션에서 Adobe 전문가와 함께 마무리합니다.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

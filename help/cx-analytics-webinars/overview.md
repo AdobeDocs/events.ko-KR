@@ -1,7 +1,8 @@
 ---
 title: CX Analytics 온디맨드 웨비나
-description: 제품 릴리스, 기능 업데이트, Adobe 솔루션 통합, 온보딩 웨비나, 실제 고객 및 파트너 성공 사례를 제공하는 온디맨드 CX Analytics 비디오를 탐색하여 전문 지식을 구축하고 최신 CX Analytics 혁신 기능을 최신 상태로 유지하십시오.
-source-git-commit: cb5b307d248b0f972db897b699d6bcc82bfab0bc
+description: 제품 릴리스, 기능 업데이트, Adobe 솔루션 통합, 온보딩 웨비나, 실제 고객 및 파트너 성공 사례를 다루는 온디맨드 CX Analytics 비디오를 탐색하여 전문 지식을 구축하고 최신 CX Analytics 혁신 기술을 최신 상태로 유지하십시오.
+exl-id: daaa107c-522b-4d57-88b8-b2242ebad043
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -10,9 +11,10 @@ ht-degree: 0%
 
 # CX Analytics 온디맨드 웨비나 {#cx-analytics-ondemand-webinars}
 
-제품 및 기능 릴리스, CX Analytics 솔루션 전반의 더 나은 결합 스토리, 시작 웨비나, 파트너/고객 성공 사례를 포함하여 Adobe 비디오의 조정된 라이브러리를 탐색합니다. 새로운 콘텐츠를 정기적으로 추가하여 분석 전문성을 강화하고 CX Analytics 포트폴리오 전반의 최신 혁신 기능을 최신 상태로 유지하려면 On-demand를 사용하십시오.
+제품 및 기능 릴리스, Adobe 솔루션 전반의 더 나은 결합 사례, 시작 웨비나, 파트너/고객 성공 사례 등 엄선된 CX Analytics 비디오 라이브러리를 살펴보십시오. CX Analytics 포트폴리오 전반에 걸쳐 새로운 콘텐츠를 정기적으로 추가하여 분석 전문 지식을 강화하고 최신 혁신 기술을 최신 상태로 유지하십시오.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -46,4 +48,3 @@ ht-degree: 0%
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-

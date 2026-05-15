@@ -3,9 +3,9 @@ title: 브루
 description: Commerce 및 커피의 컴패니언 시리즈인 브루(Brew) 뒤는 전자 상거래 경험을 향상시키기 위해 백엔드 모범 사례, 통합 및 고급 기능을 마스터하고자 하는 기술적으로 숙련된 고객을 위해 설계되었습니다.
 duration: 15
 exl-id: 30dd8695-7fd9-430b-87b6-05f82b6e9732
-source-git-commit: f5d96e8aefd0e0b3b9a27e7e2ace6a09c6b1478b
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '289'
 ht-degree: 5%
 
 ---
@@ -14,7 +14,8 @@ ht-degree: 5%
 
 브루 뒤에는 Commerce &amp; 커피의 컴패니언 시리즈가 있다. 백엔드 모범 사례, 통합 및 고급 기능에 대해 알아보고 회사의 전자 상거래 경험을 개선하기 위해 사용자 정의할 수 있는 기술 배경을 가진 고객을 위해 설계되었습니다.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

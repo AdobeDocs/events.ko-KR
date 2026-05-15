@@ -3,7 +3,7 @@ title: 데이터 드립
 description: 고객이 제품 잠재력을 극대화하고 경쟁력을 유지할 수 있도록 실시간 데모를 통해 Data Drip 시리즈에 Adobe 전문가를 참여시켜 Adobe Analytics 및 Target의 최신 기능과 모범 사례를 살펴보십시오.
 duration: 15
 exl-id: dd36b140-d53a-41fd-9c26-4d97ab7740a1
-source-git-commit: d195ceaea0b4ccd0c16949e6cff65ec6d04a5e6d
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
@@ -14,7 +14,8 @@ ht-degree: 0%
 
 데이터 드립 시리즈는 Adobe 전문가가 참여하며 모든 기술 수준의 기존 Adobe Analytics 및 Target 고객을 맞이합니다. 이 시리즈는 이벤트 주제를 반영하는 최신 기능 및 모범 사례에 중점을 둡니다. 프레젠테이션의 뒤에는 제품 내의 기능을 활용하는 모범 사례에 대한 작업 방법의 예를 보여주는 라이브 데모 또는 스크린그래프가 이어집니다. 고객은 제품을 최대한 활용하면서 경쟁력을 유지하고 성공을 달성하는 방법에 대해 더 잘 이해하고 떠날 수 있습니다.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -86,7 +87,7 @@ ht-degree: 0%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2025/migrating-to-web-sdk.md" target="_blank" rel="referrer" title="데이터 드립 - 이전 시스템에서 웹 SDK으로 마이그레이션할 때의 이점">데이터 드립 - 이전 시스템에서 웹 SDK으로 마이그레이션할 때의 이점</a>
                     </p>
-                    <p class="is-size-6">Adobe Web SDKEdge Network 를 통해 보다 스마트한 추적 및 간소화된 통합을 통해 구현을 간소화하고, 성능을 향상시키고, 비용을 절감하는 방법에 대해 알아봅니다.</p>
+                    <p class="is-size-6">Adobe Web SDK을 통해 보다 스마트한 추적 및 간소화된 통합을 통해 구현을 간소화하고, 성능을 향상시키고, 비용을 절감하는 방법에 대해 알아봅니다.</p>
                 </div>
                 <a href="2025/migrating-to-web-sdk.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 보기</span>

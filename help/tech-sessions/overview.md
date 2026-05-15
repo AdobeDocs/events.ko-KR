@@ -3,9 +3,9 @@ title: Experience Cloud 기술 세션
 description: Adobe 전문가가 진행하는 라이브 및 온디맨드 기술 세션으로 Adobe Experience Cloud 기술을 향상시킵니다. 원활한 학습 경험을 위해 언제든지 실행 가능한 팁과 전략을 얻을 수 있습니다.
 exl-id: e368f1f8-5c3f-45a4-a9d5-2ed39b1c78ad
 duration: 53
-source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '1630'
+source-wordcount: '1666'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,8 @@ ht-degree: 2%
 
 ## 2025 세션
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2025/acc-delivery-performance.md
@@ -223,7 +224,8 @@ ht-degree: 2%
 
 ## 2024 세션
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2024/aep-web-sdk-troubleshooting.md
@@ -356,7 +358,8 @@ ht-degree: 2%
 
 ## 2023 세션
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta = Watch}
 
