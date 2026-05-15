@@ -31,6 +31,6 @@ ht-degree: 1%
 **추가 리소스** 
 
 * [2026-2027 Adobe 챔피언 프로그램 신청](https://event.adobe.com/2026-2027championprogramhub?cgen=7JJ162CW&mv=other) 
-* [Adobe Experience League의 Adobe Champion Program 페이지 방문](https://experienceleague.adobe.com/en/champions?cgen=X2PHHJ1W&mv=other) 
-* [Adobe Experience League 관점에 대한 챔피언의 기여도 확인](https://experienceleague.adobe.com/en/perspectives)
+* [Adobe Experience League의 Adobe Champion Program 페이지 방문](https://experienceleague.adobe.com/ko/champions?cgen=X2PHHJ1W&mv=other) 
+* [Adobe Experience League 관점에 대한 챔피언의 기여도 확인](https://experienceleague.adobe.com/ko/perspectives)
 
