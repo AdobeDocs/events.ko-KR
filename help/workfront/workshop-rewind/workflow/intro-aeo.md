@@ -21,6 +21,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491318/?learn=on&enablevpops)
 
-더 많은 정보를 찾고 계십니까? 새 세션, 등록 링크, 녹음/녹화 및 리소스가 추가되면 자동으로 알림을 받으려면 [Advanced Enterprise Operations Event Series Experience League post](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-series-advanced-enterprise-operations-capabilities-250546)를 구독하세요!
+더 많은 정보를 찾고 계십니까? 새 세션, 등록 링크, 녹음/녹화 및 리소스가 추가되면 자동으로 알림을 받으려면 [Advanced Enterprise Operations Event Series Experience League post](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-series-advanced-enterprise-operations-capabilities-250546?profile.language=ko)를 구독하세요!
 
-매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/en/events?lang=en)를 확인하십시오.
+매달 새로운 이벤트가 추가되므로 최신 세션에 대한 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events?lang=en)를 확인하십시오.
