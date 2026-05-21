@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: f31943fd1575309c29d091c26c92be9fb1f310d4
+source-git-commit: 04f40ae4fcbad2ac47697dca520af1a18f4d41ef
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '169'
 ht-degree: 31%
 
 ---
@@ -25,7 +25,16 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 <table>
 <tr>
-    <td style="vertical-align: top;">곧 더 많은 쇼가 제공될 예정입니다. 이 페이지로 자주 돌아오십시오. 이 페이지에서 예정된 프로그램을 확인하고 이전 프로그램을 검토할 수 있습니다.
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-17-26.md">
+      <img alt="Experience League LIVE 4월 21일" src="episodes/assets/exl-live-june-17-2026-webbanner.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-06-17-26.md">
+        <strong>시작하기 전에 여정을 효율적으로 테스트, 시뮬레이션 및 확인하는 방법</strong>
+      </a>
+      <br/><em>산드라 하우스만, 아리엘 술탄, 니콜라스 두파우와 함께</em>
+      <br/><em>2026년 6월 17일</em>
+    </div>
   </td>
 </tr>
 </table>
@@ -79,5 +88,5 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/ko#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
+>기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
 

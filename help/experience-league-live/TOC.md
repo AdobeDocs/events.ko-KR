@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 906af81ca9bfea0d33221278bd41136ecad48069
+source-git-commit: c59b43a7869d32b106f30bf25818c825cfa33166
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 12%
+source-wordcount: '380'
+ht-degree: 16%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 12%
 
 + [개요](overview.md)
 + 에피소드 {#episodes}
+   + [시작하기 전에 여정을 효율적으로 테스트, 시뮬레이션 및 확인](episodes/exl-live-episode-06-17-26.md)
    + [고객 참여에 대한 새로운 사용 사례: iOS 라이브 활동, 웹 푸시 및 영구 메시징](episodes/exl-live-episode-04-08-26.md)
    + [Adobe Journey Optimizer에서 Campaign Orchestration 알아보기](episodes/exl-live-episode-03-12-26.md)
    + [마케팅 효율성 향상 및 비즈니스 성과 향상을 위한 Adobe Experience Platform 에이전트](episodes/exl-live-episode-03-03-26.md)
@@ -39,7 +40,7 @@ ht-degree: 12%
    + [Real-Time CDP의 마케터를 위한 Audiences용 AI Assistant 소개](episodes/exl-live-episode-11-13-24.md)
    + [Adobe Journey Optimizer용 Content Card 공개하기](episodes/exl-live-episode-10-30-24.md)
    + [Experience Platform에서 Federated Audience Composition을 사용하여 대상 조화](episodes/exl-live-episode-40-2024-10-24.md)
-   + [AI Bash - Adobe Experience Platform 애플리케이션 및 캠페인에서 AI Assistant의 강력한 기능](episodes/exl-live-episode-09-26-24.md)
+   + [AI Bash - Adobe Experience Platform 애플리케이션 및 Campaign에서 AI 어시스턴트 기능 활용하기](episodes/exl-live-episode-09-26-24.md)
    + [모바일 분석 앱 레벨을 조정할 준비가 되셨습니까?](episodes/exl-live-episode-09-18-24.md)
    + [하계 스포트라이트 - 꼭 사용해 봐야 하는 Adobe Journey Optimizer 기능 세 가지](episodes/exl-live-episode-08-28-24.md)
    + [최신 Adobe Real-Time CDP 릴리스가 비즈니스에 중요한 역할을 하는 방법](episodes/exl-live-episode-06-26-24.md)
