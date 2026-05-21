@@ -3,9 +3,9 @@ user-guide-title: Workfront 이벤트
 breadcrumb-title: Workfront 이벤트
 user-guide-description: Workfront 이벤트
 solution: Workfront
-source-git-commit: 008061527b5d34bc29fe9a79554f4cbeadcfaea6
+source-git-commit: 36763fd27b11d53a7f6cf82e9967109773471776
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '555'
 ht-degree: 1%
 
 ---
@@ -88,6 +88,7 @@ ht-degree: 1%
       + [Workfront 보드 잠금 해제](workshop-rewind/workflow/unlock-boards.md)
       + [Workfront Data Connect의 강력한 기능](workshop-rewind/workflow/data-connect.md)
       + [효과적인 보고를 위해 Workfront 사용](workshop-rewind/workflow/effective-reorgs.md)
+      + [Workfront 관리자 - 10개 단원](workshop-rewind/workflow/workfront-admin-10-lessons.md)
       + [Workfront + AEM 기본 통합](workshop-rewind/workflow/aem-native-integration.md)
       + [Workfront 보고 - 연말 전략](workshop-rewind/workflow/reporting-year-end-strategies.md)
 + 빠른 수행 {#quicktakes}
