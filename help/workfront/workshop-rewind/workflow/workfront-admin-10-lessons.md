@@ -24,7 +24,7 @@ Aramark의 Adobe Workfront 애플리케이션 소유자인 Jen Mancini가 자신
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491410/?learn=on&enablevpops)
 
-이벤트 동안 공유된 추가 리소스를 찾고 계십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-inside-the-workfront-admin-role-10-lessons-from-my-first-two-years-may-21-2026-250661?fid=23&tid=250661)을 확인하고 [Workfront을 통한 성장: 실제 관리자 강의](https://experienceleague.adobe.com/en/perspectives/growing-through-workfront-real-admin-lessons)를 책갈피로 지정하십시오.
+이벤트 동안 공유된 추가 리소스를 찾고 계십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-inside-the-workfront-admin-role-10-lessons-from-my-first-two-years-may-21-2026-250661?profile.language=ko&fid=23&tid=250661)을 확인하고 [Workfront을 통한 성장: 실제 관리자 강의](https://experienceleague.adobe.com/en/perspectives/growing-through-workfront-real-admin-lessons)를 책갈피로 지정하십시오.
 
-매달 새로운 이벤트가 추가되므로 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/en/events?lang=en)에서 최신 세션을 확인하십시오.
+매달 새로운 이벤트가 추가되므로 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events?lang=en)에서 최신 세션을 확인하십시오.
 
