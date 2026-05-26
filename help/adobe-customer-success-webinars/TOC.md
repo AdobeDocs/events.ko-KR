@@ -2,9 +2,9 @@
 user-guide-title: Adobe 고객 성공 웨비나
 breadcrumb-title: Adobe 고객 성공 웨비나
 user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: 4d76f9900ce9cdc2783223443b5e47cddea09c3b
+source-git-commit: 6e906d6414d8e745c23fc144325430f2bbc996ac
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '666'
 ht-degree: 5%
 
 ---
@@ -29,6 +29,7 @@ ht-degree: 5%
       + [컨텐츠 Supply chain 변경 관리 전략](2026/csc-change-management.md)
       + [컨텐츠 Supply chain Executive Sponsorship](2026/csc-executive-sponsorship.md)
       + [컨텐츠 Supply chain을 위한 기본 아키텍처](2026/csc-architecture.md)
+      + [GenAI 트래픽 업데이트 2026년 2분기](2026/gen-ai-traffic-update-q2.md)
       + [GenAI 트래픽 업데이트](2026/gen-ai-traffic-update.md)
       + [컨텐츠 Supply chain의 운영 모델](2026/csc-operating-model.md)
    + Workfront {#workfront2026}
