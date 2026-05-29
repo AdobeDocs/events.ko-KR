@@ -10,9 +10,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
+source-git-commit: a7585dae52e0499645518c31bba406d8dee45323
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '106'
 ht-degree: 2%
 
 ---
@@ -25,12 +25,12 @@ ht-degree: 2%
    + [Admin Console 마이그레이션](admin-console.md)
    + [API](api.md)
    + [Marketo에서 AI 적용](applying-ai.md)
-   + [Webhooks 및 셀프서비스 플로우 단계를 통한 스마트한 플로우](building-smarter-flows.md)
    + [Marketo API를 사용한 캠페인 작업 자동화 및 능률화](campaign-operations.md)
    + [인증](certification.md)
    + [Marketo Engage에서 새 이메일 Designer 살펴보기](email-designer.md)
    + [전자 메일 지원](email-nurture.md)
    + [실행 가능한 캠페인](executable-campaigns.md)
+   + [AI 기본 사항](fundamentals-for-ai.md)
    + [IMS 마이그레이션 압축 해제됨](ims-migration.md)
    + [인스턴스 상속](inheriting-an-instance.md)
    + [리드 수명 주기](lead-lifecycles.md)
@@ -40,5 +40,6 @@ ht-degree: 2%
    + [소규모 팀으로 인스턴스 최대화](small-team-instance.md)
    + [작업 로그에 복잡한 프로세스 알림](activity-log.md)
    + [Salesforce 백그라운드 동기화 업그레이드 및 사용 모니터링](salesforce-background-sync.md)
+   + [Webhooks 및 셀프서비스 플로우 단계를 통한 스마트한 플로우](building-smarter-flows.md)
    + [글로벌 마케팅 잠금 해제](global-marketing.md)
    + [웹후크를 사용하여 데이터 전송](webhooks.md)
