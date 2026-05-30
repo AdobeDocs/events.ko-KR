@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: c59b43a7869d32b106f30bf25818c825cfa33166
+source-git-commit: 50b5538ac3ad157286a0ba23b548e6d05eaa22b3
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 16%
+source-wordcount: '393'
+ht-degree: 15%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 16%
 
 + [개요](overview.md)
 + 에피소드 {#episodes}
+   + [Target MCP와 Adobe Target의 다른 주요 새 릴리스를 활용하는 방법](episodes/exl-live-episode-06-24-26.md)
    + [시작하기 전에 여정을 효율적으로 테스트, 시뮬레이션 및 확인](episodes/exl-live-episode-06-17-26.md)
    + [고객 참여에 대한 새로운 사용 사례: iOS 라이브 활동, 웹 푸시 및 영구 메시징](episodes/exl-live-episode-04-08-26.md)
    + [Adobe Journey Optimizer에서 Campaign Orchestration 알아보기](episodes/exl-live-episode-03-12-26.md)

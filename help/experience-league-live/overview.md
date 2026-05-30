@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 0019e73fe9b953bab04261b1a1361ef2bc1eeb58
+source-git-commit: 7f3035c2cb1e7c7fbd3ff17854dc9121e041849b
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 49%
@@ -26,7 +26,7 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 <table>
 <tr>
     <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-17-26.md">
-      <img alt="Experience League LIVE 4월 21일" src="episodes/assets/exl-live-june-17-2026-webbanner.jpg">
+      <img alt="Experience League 라이브 6월 17일" src="episodes/assets/exl-live-june-17-2026-webbanner.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-06-17-26.md">
@@ -38,15 +38,15 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
   </td>
 </tr>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-17-26.md">
-      <img alt="Experience League LIVE 4월 21일" src="episodes/assets/exl-live-june-17-2026-webbanner.jpg">
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-24-26.md">
+      <img alt="Experience League 라이브 6월 24일" src="episodes/assets/webbanner-june-24-2026.png">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-06-17-26.md">
-        <strong>시작하기 전에 여정을 효율적으로 테스트, 시뮬레이션 및 확인하는 방법</strong>
+      <a href="episodes/exl-live-episode-06-24-26.md">
+        <strong>Adobe Target에서 Target MCP와 다른 주요 새 릴리스를 활용하는 방법</strong>
       </a>
-      <br/><em>산드라 하우스만, 아리엘 술탄, 니콜라스 두파우와 함께</em>
-      <br/><em>2026년 6월 17일</em>
+      <br/><em>Daniel Wright, James Torio 및 Drew Burns와 함께</em>
+      <br/><em>2026년 6월 24일</em>
     </div>
   </td>
 </tr>
@@ -101,5 +101,5 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/ko#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
+>기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
 
