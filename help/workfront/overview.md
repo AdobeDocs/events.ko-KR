@@ -3,10 +3,10 @@ title: Adobe Workfront 온디맨드 워크숍
 description: Workfront 이벤트는 전문가와 동료가 Workfront을 사용하여 조직을 위해 수행되는 작업을 향상시키는 방법에 대한 생각과 아이디어를 공유한 비디오 라이브러리입니다.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
+source-git-commit: ba77e7ad6a08fd33a6ef336bc0f40bbb6300d350
 workflow-type: tm+mt
-source-wordcount: '949'
-ht-degree: 1%
+source-wordcount: '911'
+ht-degree: 0%
 
 ---
 
@@ -53,11 +53,11 @@ CARDS
 
 ## 워크숍 되감기
 
-5월은 졸업시즌의 시작을 알리는 달로서, 그 전에 다녀오신 분들의 참신한 시선과 배움의 시간입니다. 축하하기 위해, 우리는 실용적인 조언, 실제 경험과 즉시 적용할 수 있는 통찰력을 공유하는 노련한 Adobe Workfront 고객을 특징으로 하는 다양한 세션을 강조하고 있습니다. 이번 달 특별 상영된 비디오에는 완전히 새로운 컨텐츠와 과거의 강렬한 세션이 혼합되어 오늘날과 마찬가지로 유의미하게 남아 있습니다.
+6월이 되었으며 최신 버전의 [Workfront 와이어](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/the-workfront-wire-june-2026-your-go-to-source-for-news-updates-events-250880?tid=250880)가 있습니다! 이 뉴스레터는 Workfront 세계에서 발생하는 최신 뉴스, 업데이트, 이벤트 및 모든 것을 원스톱 샵으로 제공합니다.
 
 더 많은 정보를 찾고 계십니까? 엄선된 온디맨드 이벤트 를 통해 Adobe Workfront 커뮤니티의 최신 버전을 살펴보십시오. 왼쪽 탐색 메뉴를 사용하여 워크숍 되감기 아래의 항목을 탐색합니다. 여기서 세션은 Fusion, Planning 및 Workflow로 그룹화되어 요구 사항에 맞는 콘텐츠를 빠르게 찾을 수 있습니다.
 
-또한 예정된 라이브 이벤트에 참여하여 질문을 하고, 인사이트를 공유하고, 동료와 협업해야 합니다. [Experience League Workfront 이벤트 페이지](https://experienceleague.adobe.com/ko/events?filters=Workfront)를 정기적으로 방문하여 다음 항목을 확인하십시오!
+또한 예정된 라이브 이벤트에 참여하여 질문을 하고, 인사이트를 공유하고, 동료와 협업해야 합니다. [Experience League Workfront 이벤트 페이지](https://experienceleague.adobe.com/en/events?filters=Workfront)를 정기적으로 방문하여 다음 항목을 확인하십시오!
 
 <!-- 
 CARDS 
@@ -165,7 +165,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/office-hours.md" title="오피스 아워(Office Hours)에 대한 상위 3가지 접근 방식" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470149/?captions=kor&format=jpeg&nocache=1778106659577" alt="오피스 아워(Office Hours)에 대한 상위 3가지 접근 방식"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1778106659577" alt="오피스 아워(Office Hours)에 대한 상위 3가지 접근 방식"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -196,7 +196,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="quick-takes/versus/issues-vs-projects.md" target="_blank" rel="referrer" title="및 - 문제와 프로젝트 비교">과(와) - 문제와 프로젝트 비교</a>
+                        <a href="quick-takes/versus/issues-vs-projects.md" target="_blank" rel="referrer" title="및 - 문제와 프로젝트 비교">대 - 문제 대 프로젝트</a>
                     </p>
                     <p class="is-size-6">Workfront의 문제와 프로젝트 간의 차이점을 알아보고 팀의 워크플로우 및 보고 요구 사항에 적합한 접근 방식을 알아봅니다.</p>
                 </div>

@@ -3,9 +3,9 @@ user-guide-title: Workfront 이벤트
 breadcrumb-title: Workfront 이벤트
 user-guide-description: Workfront 이벤트
 solution: Workfront
-source-git-commit: 36763fd27b11d53a7f6cf82e9967109773471776
+source-git-commit: ba77e7ad6a08fd33a6ef336bc0f40bbb6300d350
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '560'
 ht-degree: 1%
 
 ---
@@ -47,6 +47,7 @@ ht-degree: 1%
       + [Adobe Workfront 계획 데모](workshop-rewind/planning/planning-demo.md)
       + [기본 구현 구축](workshop-rewind/planning/base-implementation.md)
       + [계획, 워크플로우 및 캔버스 대시보드 연결](workshop-rewind/planning/planning-workflow-canvas.md)
+      + [Workfront Planning 글로벌 레코드 유형](workshop-rewind/planning/global-record-types.md)
       + [Syracuse에서 Planning을 활용하는 방법](workshop-rewind/planning/syracuse-planning.md)
       + [SNHU의 Creative 활용 사례](workshop-rewind/planning/planning-reimagined.md)
       + [Workfront Planning을 통한 팀 수준 성공](workshop-rewind/planning/team-success-workfront-planning.md)
