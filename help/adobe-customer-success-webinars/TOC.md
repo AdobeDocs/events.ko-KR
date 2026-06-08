@@ -1,10 +1,10 @@
 ---
 user-guide-title: Adobe 고객 성공 웨비나
 breadcrumb-title: Adobe 고객 성공 웨비나
-user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
-source-git-commit: 6e906d6414d8e745c23fc144325430f2bbc996ac
+user-guide-description: Adobe 고객 성공 주도 웨비나는 Adobe의 Experience Cloud에 대한 투자를 최적화할 수 있도록 설계되었습니다. 가치를 극대화하고 Adobe 솔루션 채택을 늘릴 수 있는 유용한 통찰력을 얻으십시오.
+source-git-commit: e23d3b95b7551d025f912f9a299dd11decc29407
 workflow-type: tm+mt
-source-wordcount: '666'
+source-wordcount: '679'
 ht-degree: 5%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 5%
       + [Customer Journey Analytics용 BRD-SDR 파일 생성](2026/brd-sdr-file-best-practices.md)
       + [ID 잠금 해제](2026/unlock-identities.md)
    + Experience Manager {#aem2026}
+      + [AI 에이전트 및 도우미를 사용하여 AEM 변환](2026/transform-aem-with-ai-agents-and-assistants.md)
       + [Edge Delivery Services에서 작성](2026/authoring-eds.md)
       + [콘텐츠 공급망 극대화](2026/value-with-content-supply-chain.md)
       + [AEM Sites을 위한 최신 게재 모델](2026/modern-delivery-model-aem.md)
@@ -25,6 +26,7 @@ ht-degree: 5%
    + Experience Platform {#aep2026}
       + [임베디드 인텔리전스 시프트](2026/embedded-intelligence.md)
    + 일반 {#general2026}
+      + [아젠틱 AI의 강력한 기능](2026/unlock-the-power-of-agentic-ai.md)
       + [휴일 성공을 위한 AI 전략](2026/2025-holiday-results.md)
       + [컨텐츠 Supply chain 변경 관리 전략](2026/csc-change-management.md)
       + [컨텐츠 Supply chain Executive Sponsorship](2026/csc-executive-sponsorship.md)
