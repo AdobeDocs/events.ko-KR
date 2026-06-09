@@ -6,16 +6,17 @@ solution: Target
 event-cta-url-live: https://www.youtube.com/watch?v=P71hcKEazY0
 event-start-time: 2026-06-24 08:30-8
 event-guests: Daniel Wright, Drew Burns, James Torio
-source-git-commit: 83ba57e9aa2026437bae583a0db42b61fd05a23e
+exl-id: 1e99a025-d052-4cd6-96c8-0fd4b9a7ae7b
+source-git-commit: 4a81b87743847ed72b725a43cfb7979daec1dd5d
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
 
 # Target MCP와 Adobe Target의 다른 주요 새 릴리스를 활용하는 방법
 
-전문가가 Adobe Target에서 프로그램 인사이트 분석 및 확장 최적화를 위한 에이전트 및 추가 새로운 기능을 사용하여 활동을 구축하고 편집하기 위한 Target MCP를 제공하는 방법을 소개하는 Experience League LIVE 에피소드에 참여하십시오.
+새로운 아젠틱 시대로 접어들면서 Adobe Target의 혁신적인 최신 기술을 전문가들이 직접 체험해 보는 차세대 Experience League LIVE에 참여해 보십시오. 새로운 Target MCP를 소개합니다. 대상, 액세스 방법, 프로그램 인사이트를 분석하고 에이전트와 함께 활동을 구축하고 편집하는 작업 방법. 또한 최적화를 확장하는 데 도움이 되도록 설계된 추가 새로운 기능 및 개선 사항에 대한 데모도 공유합니다.
 
 이 세션에서는 다음 방법을 배웁니다.
 
@@ -27,7 +28,6 @@ ht-degree: 0%
 
 무의미한 최적화의 최신 버전을 보고 전문가의 답변을 받을 수 있는 기회를 놓치지 마십시오.
 
+[YouTube 알림 메시지 설정!](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
 
 [![ExL LIVE 2026년 6월 24일](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
-
-[YouTube 알림 메시지 설정!](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
