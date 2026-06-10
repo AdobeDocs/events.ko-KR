@@ -3,9 +3,9 @@ user-guide-title: Workfront 이벤트
 breadcrumb-title: Workfront 이벤트
 user-guide-description: Workfront 이벤트
 solution: Workfront
-source-git-commit: ba77e7ad6a08fd33a6ef336bc0f40bbb6300d350
+source-git-commit: 3ba1c8a76e6929f47b3a72683e7bde0ba45a01b2
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '565'
 ht-degree: 1%
 
 ---
@@ -60,6 +60,7 @@ ht-degree: 1%
       + [데이터 수집](workshop-rewind/workflow/data-collection.md)
       + [Workfront 값 정의 및 통신](workshop-rewind/workflow/workfront-value.md)
       + [Workfront의 효과적인 커뮤니케이션 팁](workshop-rewind/workflow/communication-tips.md)
+      + [향상된 사용자 지정 Forms 및 현지화](workshop-rewind/workflow/enhanced-logic-localization.md)
       + [거버넌스, 실행 및 채택 팁](workshop-rewind/workflow/governance-execution-adoption.md)
       + [Admin Essentials 그룹](workshop-rewind/workflow/group-admins.md)
       + [고급 엔터프라이즈 운영 소개](workshop-rewind/workflow/intro-aeo.md)
