@@ -3,9 +3,9 @@ user-guide-title: Workfront 이벤트
 breadcrumb-title: Workfront 이벤트
 user-guide-description: Workfront 이벤트
 solution: Workfront
-source-git-commit: 3ba1c8a76e6929f47b3a72683e7bde0ba45a01b2
+source-git-commit: 259802ff23ae19444b03976becefe4fabeff38aa
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '569'
 ht-degree: 1%
 
 ---
@@ -34,6 +34,7 @@ ht-degree: 1%
       + [Fusion Decode](workshop-rewind/fusion/fusion-decoded.md)
       + [Fusion Decoded Part 2 - 빌딩 시작](workshop-rewind/fusion/fusion-decoded-part-2.md)
       + [Workfront Fusion이 인간을 돕는 방법](workshop-rewind/fusion/inside-mayo-clinic.md)
+      + [McKesson Fusion 리소스 자동화](workshop-rewind/fusion/mckesson-fusion-automation.md)
       + [다중 선택 필드의 변경 사항을 쉽게 탐색](workshop-rewind/fusion/mulit-select-fields.md)
       + [사전 예외 처리](workshop-rewind/fusion/proactive-exception-handling.md)
       + [슈나이더 일렉트릭 드라이브 Workfront 효율성](workshop-rewind/fusion/schneider-electric-efficiency.md)
