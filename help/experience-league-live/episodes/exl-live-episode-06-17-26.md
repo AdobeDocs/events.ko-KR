@@ -24,4 +24,4 @@ Launch를 시작하기 전에 여정을 테스트하고, 새로운 여정 시뮬
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492438/?learn=on&enablevpops)
 
-[Experience League 커뮤니티](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-june-17-2026-8-30-am-pt-journey-testing-validation-in-adobe-journey-optimizer-251138)에서 대화에 참여하십시오. 전문가들이 여러분의 질문에 답해 드릴 것입니다.
+[Experience League 커뮤니티](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-june-17-2026-8-30-am-pt-journey-testing-validation-in-adobe-journey-optimizer-251138?profile.language=ko)에서 대화에 참여하십시오. 전문가들이 여러분의 질문에 답해 드릴 것입니다.
