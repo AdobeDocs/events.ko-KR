@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 7f3035c2cb1e7c7fbd3ff17854dc9121e041849b
+source-git-commit: bb45c593ea931bf57ced7f358f9300b83cd707a2
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 49%
+source-wordcount: '112'
+ht-degree: 47%
 
 ---
 
@@ -50,6 +50,20 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
     </div>
   </td>
 </tr>
+<tr>
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-07-16-26.md">
+      <img alt="Experience League 라이브 7월 16일" src="assets/WebBannerExlLive-July16-2026.png">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-07-16-26.md">
+        <strong>"Adobe Journey Optimizer의 AEM 콘텐츠 조각: 새로운 기능 및 사용 방법"</strong>
+      </a>
+      <br/><em>산드라 하우스만, 요티타 찬드란, 타이슨 와이, 크리스 아이보리와 함께</em>
+      <br/><em>2026년 7월 16일</em>
+    </div>
+  </td>
+</tr>
+
 </table>
 
 <div id="recs-overview-body-1"></div>
@@ -101,5 +115,5 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/ko#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
+>기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
 
