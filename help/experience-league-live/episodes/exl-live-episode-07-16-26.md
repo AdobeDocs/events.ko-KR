@@ -7,7 +7,7 @@ feature: Deliverability
 event-cta-url-live: https://youtube.com/live/lrdorB0LgFo
 event-start-time: 2026-07-16 08:30-7
 event-guests: Sandra Hausmann, Jyothitha Chandran, Tyson Wai, Chris Ivory
-source-git-commit: bb45c593ea931bf57ced7f358f9300b83cd707a2
+source-git-commit: ae074af2754b15146b372023fa2ec297a51e4cac
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 0%
@@ -40,3 +40,4 @@ AEM과 AJO이 프로덕션 콘텐츠 워크플로에서 어떻게 서로 결합�
 콘텐츠에 대해 공동 작업하고 팀 간의 전달 마찰을 줄이고자 하는 AEM 작성자 및 AJO 실무자에게 이상적입니다.
 
 **프로그램에 대한 미리 알림을 설정하려면 위의 이미지를 클릭하십시오!**
+
