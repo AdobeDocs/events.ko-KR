@@ -2,10 +2,10 @@
 title: Marketo Engage의 기초
 description: 기초 Marketo 사용자 그룹에 참여하여 초보자 친화적인 지원 세션을 통해 Adobe Marketo Engage에 대한 자신감과 핵심 기술을 습득하십시오.
 exl-id: 0f4ac207-0828-4f35-915b-8ba5715af780
-source-git-commit: 57f4721e199ca2f2108901ef11167784c2d4ffe8
+source-git-commit: 55e33b4dfce0403c0675b9a3ba3dde7e1c3e6b6b
 workflow-type: tm+mt
-source-wordcount: '369'
-ht-degree: 1%
+source-wordcount: '421'
+ht-degree: 0%
 
 ---
 
@@ -25,12 +25,12 @@ ht-degree: 1%
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="undefined">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Foundational Marketo User Group - Session 2 - Deploy a Monthly Newsletter">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2026/monthly-newsletter.md" title="정의되지 않음" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491509/?format=jpeg&nocache=1779897876356" alt="정의되지 않음"
+                    <a href="2026/monthly-newsletter.md" title="기본 Marketo 사용자 그룹 - 세션 2 - 월별 뉴스레터 배포" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491509/?format=jpeg&nocache=1782239870154" alt="기본 Marketo 사용자 그룹 - 세션 2 - 월별 뉴스레터 배포"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -38,9 +38,9 @@ ht-degree: 1%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2026/monthly-newsletter.md" target="_blank" rel="referrer" title="정의되지 않음">정의되지 않음</a>
+                        <a href="2026/monthly-newsletter.md" target="_blank" rel="referrer" title="기본 Marketo 사용자 그룹 - 세션 2 - 월별 뉴스레터 배포">기본 Marketo 사용자 그룹 - 세션 2 - 월별 뉴스레터 배포</a>
                     </p>
-                    <p class="is-size-6">정의되지 않음</p>
+                    <p class="is-size-6">Adobe Marketo Engage에서 월간 뉴스레터를 작성, 예약 및 측정하는 방법에 대해 알아봅니다. 이메일 프로그램 설정, 대상자 선택 및 지표에 대한 신뢰를 얻으십시오.</p>
                 </div>
                 <a href="2026/monthly-newsletter.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
@@ -53,7 +53,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/fundamentals.md" title="2026년 세션 1 - Marketo Engage의 기초" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3482934/?format=jpeg&nocache=1779897876368" alt="2026년 세션 1 - Marketo Engage의 기초"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3482934/?format=jpeg&nocache=1782239870133" alt="2026년 세션 1 - Marketo Engage의 기초"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,7 +94,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/campaigns-with-marketo-personalization.md" title="Marketo Personalization으로 캠페인 강화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464791/?format=jpeg&nocache=1779897876954" alt="Marketo Personalization으로 캠페인 강화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464791/?format=jpeg&nocache=1782239870748" alt="Marketo Personalization으로 캠페인 강화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,7 +117,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/nurture-recipe.md" title="육성 레시피 만들기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475224/?format=jpeg&nocache=1779897876943" alt="육성 레시피 만들기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475224/?format=jpeg&nocache=1782239870761" alt="육성 레시피 만들기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,7 +140,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/professional-exam-preparation.md" title="기본 Marketo 사용자 그룹 - 전문가 시험 준비" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476232/?format=jpeg&nocache=1779897876937" alt="기본 Marketo 사용자 그룹 - 전문가 시험 준비"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476232/?format=jpeg&nocache=1782239870733" alt="기본 Marketo 사용자 그룹 - 전문가 시험 준비"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,7 +163,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/programs-campaigns.md" title="프로그램, 캠페인 및 그 이상" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464499/?format=jpeg&nocache=1779897876974" alt="프로그램, 캠페인 및 그 이상"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464499/?format=jpeg&nocache=1782239870722" alt="프로그램, 캠페인 및 그 이상"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +186,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/scoring.md" title="더 어렵지 않게 더 스마트하게 점수 매기기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474961/?format=jpeg&nocache=1779897876965" alt="더 어렵지 않게 더 스마트하게 점수 매기기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474961/?format=jpeg&nocache=1782239870773" alt="더 어렵지 않게 더 스마트하게 점수 매기기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
