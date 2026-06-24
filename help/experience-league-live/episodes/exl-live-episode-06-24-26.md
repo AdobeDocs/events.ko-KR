@@ -27,5 +27,5 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492605/?learn=on&enablevpops)
 
-[Adobe Target MCP 서버](https://experienceleague.adobe.com/en/docs/target/using/mcp/target-mcp)에 대한 자세한 내용은 제품 설명서를 참조하세요.
-질문이 있습니까? [커뮤니티 포럼](https://experienceleaguecommunities.adobe.com/adobe-target-14/experience-league-live-june-24-2026-how-to-leverage-target-mcp-and-other-major-new-releases-in-adobe-target-watch-the-recording-251358)에서 질문해 보십시오. 전문가들이 이 에피소드의 토론 스레드를 적극적으로 모니터링하고 있습니다.
+[Adobe Target MCP 서버](https://experienceleague.adobe.com/ko/docs/target/using/mcp/target-mcp)에 대한 자세한 내용은 제품 설명서를 참조하세요.
+질문이 있습니까? [커뮤니티 포럼](https://experienceleaguecommunities.adobe.com/adobe-target-14/experience-league-live-june-24-2026-how-to-leverage-target-mcp-and-other-major-new-releases-in-adobe-target-watch-the-recording-251358?profile.language=ko)에서 질문해 보십시오. 전문가들이 이 에피소드의 토론 스레드를 적극적으로 모니터링하고 있습니다.
