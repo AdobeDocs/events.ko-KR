@@ -1,15 +1,14 @@
 ---
 title: Target MCP와 Adobe Target의 다른 주요 새 릴리스를 활용하는 방법
-description: 론치 전에 여정을 테스트하고 유효성을 검사하고, 새로운 여정 시뮬레이션으로 더 나아가는 방법에 대해 알아보십시오.
-kt: 21226
+description: 새로운 Adobe Target MCP 서버를 활용하여 에이전트로 활동을 구축하고 분석하는 방법과 함께 베이지안 테스트, 기능 플래그 및 CDN 실험을 살펴보는 방법에 대해 알아봅니다.
 solution: Target
 event-cta-url-live: https://www.youtube.com/watch?v=P71hcKEazY0
 event-start-time: 2026-06-24 08:30-8
 event-guests: Daniel Wright, Drew Burns
 exl-id: 1e99a025-d052-4cd6-96c8-0fd4b9a7ae7b
-source-git-commit: 266d1337ab989ab9a9ba91f9c167d687e08050e9
+source-git-commit: b0680eb53b3b68243cda9d1f2681f72d67b88511
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -28,4 +27,5 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492605/?learn=on&enablevpops)
 
-[Adobe Target MCP 서버](https://experienceleague.adobe.com/ko/docs/target/using/mcp/target-mcp)에 대한 자세한 내용은 제품 설명서를 참조하세요.
+[Adobe Target MCP 서버](https://experienceleague.adobe.com/en/docs/target/using/mcp/target-mcp)에 대한 자세한 내용은 제품 설명서를 참조하세요.
+질문이 있습니까? [커뮤니티 포럼](https://experienceleaguecommunities.adobe.com/adobe-target-14/experience-league-live-june-24-2026-how-to-leverage-target-mcp-and-other-major-new-releases-in-adobe-target-watch-the-recording-251358)에서 질문해 보십시오. 전문가들이 이 에피소드의 토론 스레드를 적극적으로 모니터링하고 있습니다.
