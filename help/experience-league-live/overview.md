@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: ae074af2754b15146b372023fa2ec297a51e4cac
+source-git-commit: 266d1337ab989ab9a9ba91f9c167d687e08050e9
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 49%
+source-wordcount: '102'
+ht-degree: 51%
 
 ---
 
@@ -23,19 +23,6 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 ## 예정된 Experience League LIVE 이벤트
 
 <table>
-<tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-24-26.md">
-      <img alt="Experience League 라이브 6월 24일" src="episodes/assets/webbanner-june-24-2026.png">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-06-24-26.md">
-        <strong>Adobe Target에서 Target MCP와 다른 주요 새 릴리스를 활용하는 방법</strong>
-      </a>
-      <br/><em>Daniel Wright, James Torio 및 Drew Burns와 함께</em>
-      <br/><em>2026년 6월 24일</em>
-    </div>
-  </td>
-</tr>
 <tr>
     <td style="vertical-align: top;"><a href="episodes/exl-live-episode-07-16-26.md">
       <img alt="Experience League 라이브 7월 16일" src="assets/WebBannerExlLive-July16-2026.png">
@@ -95,5 +82,5 @@ Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/ko#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
+>기타 학습 방법에 대해서는 무료 [과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)을 확인하세요.
 
