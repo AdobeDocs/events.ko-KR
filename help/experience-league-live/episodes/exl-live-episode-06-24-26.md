@@ -5,20 +5,20 @@ kt: 21226
 solution: Target
 event-cta-url-live: https://www.youtube.com/watch?v=P71hcKEazY0
 event-start-time: 2026-06-24 08:30-8
-event-guests: Daniel Wright, Drew Burns, James Torio
+event-guests: Daniel Wright, Drew Burns
 exl-id: 1e99a025-d052-4cd6-96c8-0fd4b9a7ae7b
-source-git-commit: 51bef94176a124ba60759c0ffa4ed839da4037ef
+source-git-commit: 266d1337ab989ab9a9ba91f9c167d687e08050e9
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
 
 # Target MCP와 Adobe Target의 다른 주요 새 릴리스를 활용하는 방법
 
-새로운 아젠틱 시대로 접어들면서 Adobe Target의 혁신적인 최신 기술을 전문가들이 직접 체험해 보는 차세대 Experience League LIVE에 참여해 보십시오. 새로운 Target MCP를 소개합니다. 대상, 액세스 방법, 프로그램 인사이트를 분석하고 에이전트와 함께 활동을 구축하고 편집하는 작업 방법. 또한 최적화를 확장하는 데 도움이 되도록 설계된 추가 새로운 기능 및 개선 사항에 대한 데모도 공유합니다.
+이 Experience League LIVE 에피소드에서는 전문가가 새로운 에이전트 시대로 접어들면서 최신 Adobe Target 혁신 기술을 소개합니다. 새로운 Target MCP를 소개합니다. 대상, 액세스 방법, 프로그램 인사이트를 분석하고 에이전트와 함께 활동을 구축하고 편집하는 작업 방법. 또한 최적화를 확장하는 데 도움이 되도록 설계된 추가 새로운 기능 및 개선 사항에 대한 데모도 공유합니다.
 
-이 세션에서는 다음 방법을 배웁니다.
+다음 방법을 배우게 됩니다.
 
 - 원하는 에이전트로 Target MCP 설정
 - Target MCP와 CX Enterprise Coworker를 함께 사용하여 활동, 오퍼, 대상 및 성능을 신속하게 분석할 수 있습니다
@@ -26,8 +26,6 @@ ht-degree: 0%
 - 베이지안 테스트, 기능 플래그 테스트 및 CDN 실험을 포함하여 Adobe Target에서의 사용 사례를 넓히는 데 새로운 추가 릴리스를 사용하는 방법을 알아봅니다
 - 주요 비즈니스 목표를 기반으로 프로그램 내에서 추진하고 있는 ROI를 제공하는 새로운 디자인과 기능을 살펴보십시오
 
-무의미한 최적화의 최신 버전을 보고 전문가의 답변을 받을 수 있는 기회를 놓치지 마십시오.
+>[!VIDEO](https://video.tv.adobe.com/v/3492605/?learn=on&enablevpops)
 
-**[지금 등록!](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}**
-
-[![ExL LIVE 2026년 6월 24일](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}
+[Adobe Target MCP 서버](https://experienceleague.adobe.com/en/docs/target/using/mcp/target-mcp)에 대한 자세한 내용은 제품 설명서를 참조하세요.
