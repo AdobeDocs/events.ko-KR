@@ -3,9 +3,9 @@ user-guide-title: Workfront 이벤트
 breadcrumb-title: Workfront 이벤트
 user-guide-description: Workfront 이벤트
 solution: Workfront
-source-git-commit: b4b48b83a52b48c67d0d514600045b138ed24f36
+source-git-commit: 218fd488296922bf242f13ede602ae50896fedab
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
@@ -85,6 +85,7 @@ ht-degree: 1%
       + [10가지 커뮤니케이션 팁](workshop-rewind/workflow/10-communication-tips.md)
       + [10개의 텍스트 모드 팁](workshop-rewind/workflow/text-mode-tips.md)
       + [10개의 추가 텍스트 모드 팁](workshop-rewind/workflow/10-more-text-mode-tips.md)
+      + [시스템 관리자 값 추적](workshop-rewind/workflow/system-admin-value.md)
       + [사용자 혼동을 신뢰도로 변환](workshop-rewind/workflow/avalara-user-transformation.md)
       + [Workfront 계산된 필드 문제 해결](workshop-rewind/workflow/troubleshoot-calculated-expressions.md)
       + [블루프린트를 교육 프로그램으로 변환](workshop-rewind/workflow/blueprints-to-planning.md)
