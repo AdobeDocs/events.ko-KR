@@ -28,4 +28,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492605/?learn=on&enablevpops)
 
-[Adobe Target MCP 서버](https://experienceleague.adobe.com/en/docs/target/using/mcp/target-mcp)에 대한 자세한 내용은 제품 설명서를 참조하세요.
+[Adobe Target MCP 서버](https://experienceleague.adobe.com/ko/docs/target/using/mcp/target-mcp)에 대한 자세한 내용은 제품 설명서를 참조하세요.

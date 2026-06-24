@@ -25,6 +25,6 @@ Workfront API가 실제로 어떤 도움을 줄 수 있는지 궁금하십니까
 
 기본 지식부터 실제 애플리케이션에 이르기까지, 이 세션은 매일 Workfront API와 함께 작업하는 전문가의 안내에 따라 명확하고 접근 가능한 경로를 제공합니다. API를 처음 사용하는 사용자와 기술 툴킷을 확장하려는 사용자 간에 이 세션은 개념과 기능 간의 접점을 연결하는 데 도움이 됩니다.
 
-이벤트 동안 공유된 추가 리소스를 찾고 계십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-nathan-s-five-faves-basic-apis-for-the-workfront-world-june-23-2026-251328)을 확인해 보세요!
+이벤트 동안 공유된 추가 리소스를 찾고 계십니까? [Experience League 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-nathan-s-five-faves-basic-apis-for-the-workfront-world-june-23-2026-251328?profile.language=ko)을 확인해 보세요!
 
-매달 새로운 이벤트가 추가되므로 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/en/events)에서 최신 세션을 확인하십시오.
+매달 새로운 이벤트가 추가되므로 [Experience League 이벤트 페이지](https://experienceleague.adobe.com/ko/events)에서 최신 세션을 확인하십시오.
