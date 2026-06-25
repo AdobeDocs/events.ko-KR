@@ -1,6 +1,6 @@
 ---
 title: Adobe Commerce GEO 전략 - D2C 경험 전반에 걸친 LLM 최적화
-description: 향상된 AI 기반 검색 기능과 글로벌 전자 상거래 성공을 위해 LLM 최적화를 통해 Adobe Commerce GEO 전략을 향상시키는 방법을 알아보십시오.
+description: LLM 최적화를 통해 Adobe Commerce GEO 전략을 향상시켜 AI 기반 검색 기능 및 글로벌 전자 상거래 성공을 이끄는 방법을 살펴보십시오.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,7 +8,7 @@ duration: 5
 last-substantial-update: 2026-05-26T00:00:00Z
 jira: KT-21383
 exl-id: 28a56924-b608-48b9-bbcd-ebf48616c2cc
-source-git-commit: 259cd7b663537c646c7c928dc4a5ee0aa0fed4ab
+source-git-commit: 8a3d93cf5816c3e3d45cfd14bffa28b5bd51d8f5
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
