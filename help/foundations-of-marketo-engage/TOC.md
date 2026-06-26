@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage의 기초
 breadcrumb-title: Marketo Engage의 기초
 user-guide-description: 기초 Marketo 사용자 그룹에 참여하여 초보자 친화적인 지원 세션을 통해 Adobe Marketo Engage에 대한 자신감과 핵심 기술을 습득하십시오.
 solution: Marketo Engage
-source-git-commit: 57f4721e199ca2f2108901ef11167784c2d4ffe8
+source-git-commit: a62b7c342f31cfc7a4fc858d84d6cf149f725545
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '74'
 ht-degree: 2%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 2%
 
 + [Marketo Engage 웨비나 기초](overview.md)
 + 2026 {#2026}
+   + [새 제품 또는 기능 발표](2026/new-product.md)
    + [월간 뉴스레터 배포](2026/monthly-newsletter.md)
    + [Marketo Engage의 기본 사항](2026/fundamentals.md)
 + 2025 {#2025}
